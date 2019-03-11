@@ -33,7 +33,9 @@ pip install collections
 ## Usage
 
 ```bash
-python SimpleCrawler.py
-python FocusedCrawler.py
+python extract_list_of_terms.py
+python simple_inverted_indexer.py
+python positional_indexer.py 
+python term_document_frequencies.py
 ```
 
