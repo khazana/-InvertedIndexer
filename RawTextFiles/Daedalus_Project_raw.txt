@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Project Daedalus - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Project_Daedalus","wgTitle":"Project Daedalus","wgCurRevisionId":883165989,"wgRevisionId":883165989,"wgArticleId":603351,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Commons category link is on Wikidata","Hypothetical spacecraft","Interstellar travel","Nuclear spacecraft propulsion"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Project_Daedalus","wgRelevantArticleId":603351,"wgRequestId":"XGcCfApAICoAAHKaY0AAAACB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Daedalus_Project","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Project_Daedalus","wgWikibaseItemId":"Q607552","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.17" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b7/Daedalus_ship.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Project_Daedalus" rel="alternate"/>
+<link href="/w/index.php?title=Project_Daedalus&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Project_Daedalus&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Project_Daedalus" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Project_Daedalus rootpage-Project_Daedalus skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Project Daedalus</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Daedalus_Project&amp;redirect=no" title="Daedalus Project">Daedalus Project</a>)</span></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the British space exploration project. For the "Daedalus Project" MMORPG research project, see <a href="/wiki/Nick_Yee" title="Nick Yee">Nick Yee</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a class="image" href="/wiki/File:Daedalus_ship.png"><img alt="" class="thumbimage" data-file-height="474" data-file-width="555" decoding="async" height="205" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Daedalus_ship.png/240px-Daedalus_ship.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Daedalus_ship.png/360px-Daedalus_ship.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Daedalus_ship.png/480px-Daedalus_ship.png 2x" width="240"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Daedalus_ship.png" title="Enlarge"></a></div>Drawing of the Project Daedalus spaceship</div></div></div>
+<p><b>Project Daedalus</b> was a study conducted between 1973 and 1978 by the <a href="/wiki/British_Interplanetary_Society" title="British Interplanetary Society">British Interplanetary Society</a> to design a plausible <a href="/wiki/Unmanned_spacecraft" title="Unmanned spacecraft">unmanned</a> <a class="mw-redirect" href="/wiki/Interstellar_spacecraft" title="Interstellar spacecraft">interstellar spacecraft</a>.<sup class="reference" id="cite_ref-study_1-0"><a href="#cite_note-study-1">[1]</a></sup> Intended mainly as a scientific probe, the design criteria specified that the spacecraft had to use existing or near-future technology and had to be able to reach its destination within a human lifetime. <a href="/wiki/Alan_Bond_(engineer)" title="Alan Bond (engineer)">Alan Bond</a> led a team of scientists and engineers who proposed using a <a href="/wiki/Fusion_rocket" title="Fusion rocket">fusion rocket</a> to reach <a href="/wiki/Barnard%27s_Star" title="Barnard's Star">Barnard's Star</a> 5.9 <a class="mw-redirect" href="/wiki/Light_year" title="Light year">light years</a> away.  The trip was estimated to take 50 years, but the design was required to be flexible enough that it could be sent to any other target star.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Concept"><span class="tocnumber">1</span> <span class="toctext">Concept</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Specifications"><span class="tocnumber">2</span> <span class="toctext">Specifications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Concept">Concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=1" title="Edit section: Concept">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Daedalus would be constructed in Earth orbit and have an initial mass of 54,000 <a class="mw-redirect" href="/wiki/Tonnes" title="Tonnes">tonnes</a> including 50,000 tonnes of fuel and 500 tonnes of scientific payload. Daedalus was to be a two-stage spacecraft. The first stage would operate for two years, taking the spacecraft to 7.1% of <a class="mw-redirect" href="/wiki/Light_speed" title="Light speed">light speed</a> (0.071 <i>c</i>), and then after it was jettisoned, the second stage would fire for 1.8 years, taking the spacecraft up to about 12% of light speed (0.12 <i>c</i>), before being shut down for a 46-year cruise period. Due to the extreme temperature range of operation required, from near <a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a> to 1600 K, the <a href="/wiki/Bell_nozzle" title="Bell nozzle">engine bells</a> and support structure would be made of <a href="/wiki/Molybdenum" title="Molybdenum">molybdenum</a> alloyed with <a href="/wiki/Titanium" title="Titanium">titanium</a>, <a href="/wiki/Zirconium" title="Zirconium">zirconium</a>, and <a href="/wiki/Carbon" title="Carbon">carbon</a>, which retains strength even at <a class="mw-redirect" href="/wiki/Cryogenic_temperature" title="Cryogenic temperature">cryogenic temperatures</a>. A major stimulus for the project was <a href="/wiki/Friedwardt_Winterberg" title="Friedwardt Winterberg">Friedwardt Winterberg</a>'s <a href="/wiki/Inertial_confinement_fusion" title="Inertial confinement fusion">inertial confinement fusion</a> drive concept,<sup class="reference" id="cite_ref-study_1-1"><a href="#cite_note-study-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> for which he received the Hermann Oberth gold medal award.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>This velocity is well beyond the capabilities of <a class="mw-redirect" href="/wiki/Chemical_rocket" title="Chemical rocket">chemical rockets</a> or even the type of <a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">nuclear pulse propulsion</a> studied during <a href="/wiki/Project_Orion_(nuclear_propulsion)" title="Project Orion (nuclear propulsion)">Project Orion</a>. According to Dr. <a href="/wiki/Donald_A._Martin" title="Donald A. Martin">Tony Martin</a>, controlled-fusion engine and the <a href="/wiki/Nuclear_electric_rocket" title="Nuclear electric rocket">nuclear–electric systems</a> have very low <a href="/wiki/Thrust" title="Thrust">thrust</a>, equipment to convert nuclear energy into electrical has a large mass, which results in small <a href="/wiki/Acceleration" title="Acceleration">acceleration</a>, which would take a century to achieve the desired speed; thermodynamic nuclear engines of the <a href="/wiki/NERVA" title="NERVA">NERVA</a> type require a great quantity of fuel, <a href="/wiki/Photon_rocket" title="Photon rocket">photon rockets</a> have to generate power at a rate of 3<span style="margin:0 .15em 0 .25em">×</span>10<sup><span style="white-space:nowrap">9</span></sup> W per kg of vehicle mass and require mirrors with <a class="mw-redirect" href="/wiki/Molar_absorptivity" title="Molar absorptivity">absorptivity</a> of less than 1 part in 10<sup>6</sup>, <a class="mw-redirect" href="/wiki/Interstellar_ramjet" title="Interstellar ramjet">interstellar ramjet</a>'s problems are tenuous interstellar medium with a density of about 1 atom/cm<sup>3</sup>, a large diameter funnel, and high power required for its electric field. Thus the only suitable propulsion method for the project was the <a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">nuclear pulse rocket</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Daedalus would be propelled by a <a href="/wiki/Fusion_rocket" title="Fusion rocket">fusion rocket</a> using pellets of a <a href="/wiki/Deuterium" title="Deuterium">deuterium</a>/<a href="/wiki/Helium-3" title="Helium-3">helium-3</a> mix that would be ignited in the reaction chamber by <a href="/wiki/Inertial_confinement_fusion" title="Inertial confinement fusion">inertial confinement</a> using <a class="mw-redirect" href="/wiki/Electron_beam" title="Electron beam">electron beams</a>. The electron beam system would be powered by a set of <a class="mw-redirect" href="/wiki/Induction_coils" title="Induction coils">induction coils</a> trapping energy from the <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a> exhaust stream. 250 pellets would be detonated per second, and the resulting plasma would be directed by a <a href="/wiki/Magnetic_nozzle" title="Magnetic nozzle">magnetic nozzle</a>. The computed burn-up fraction for the fusion fuels was 0.175 and 0.133 producing exhaust velocities of 10,600 km/s and 9,210 km/s respectively. Due to scarcity of helium-3 on Earth, it was to be mined from the atmosphere of <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> by large <a class="mw-redirect" href="/wiki/Hot-air_balloon" title="Hot-air balloon">hot-air balloon</a> supported robotic factories over a 20-year period, or from a less distant source, such as the <a href="/wiki/Moon" title="Moon">Moon</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>The second stage would have two 5-metre <a href="/wiki/Optical_telescope" title="Optical telescope">optical telescopes</a> and two 20-metre <a href="/wiki/Radio_telescope" title="Radio telescope">radio telescopes</a>. About 25 years after launch these telescopes would begin examining the area around Barnard's Star to learn more about any accompanying planets. This information would be sent back to Earth, using the 40-metre diameter second stage <a href="/wiki/Bell_nozzle" title="Bell nozzle">engine bell</a> as a communications dish, and targets of interest would be selected. Since the spacecraft would not decelerate, upon reaching Barnard's Star, Daedalus would carry 18 autonomous sub-probes that would be launched between 7.2 and 1.8 years before the main craft entered the target system. These sub-probes would be propelled by <a href="/wiki/Nuclear_electric_rocket" title="Nuclear electric rocket">nuclear-powered</a> <a class="mw-redirect" href="/wiki/Ion_drive" title="Ion drive">ion drives</a> and would carry cameras, <a href="/wiki/Spectrometer" title="Spectrometer">spectrometers</a>, and other sensory equipment. The sub-probes would fly past their targets, still traveling at 12% of the speed of light, and transmit their findings back to the Daedalus' second stage, mothership, for relay back to Earth.
+</p><p>The ship's payload bay containing its sub-probes, telescopes, and other equipment would be protected from the <a href="/wiki/Interstellar_medium" title="Interstellar medium">interstellar medium</a> during transit by a <a href="/wiki/Beryllium" title="Beryllium">beryllium</a> disk, up to 7 mm thick, weighing up to 50 tonnes.  This erosion shield would be made from beryllium due to its lightness and high latent heat of vaporisation. Larger obstacles that might be encountered while passing through the target system would be dispersed by an artificially generated cloud of particles, ejected by support vehicles called dust bugs about 200 km ahead of the vehicle. The spacecraft would carry a number of <a href="/wiki/Robot" title="Robot">robot</a> wardens capable of autonomously repairing damage or malfunctions.
+</p>
+<h2><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=2" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Overall length: 190 metres
+</p><p>Payload mass: 450 tonnes
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>First stage:</td>
+<td>Second stage:
+</td></tr>
+<tr>
+<td>Empty mass:
+</td>
+<td>1,690 tonnes (at staging)</td>
+<td>980 tonnes (at cruise speed)
+</td></tr>
+<tr>
+<td>Propellant mass:
+</td>
+<td>46,000 tonnes</td>
+<td>4,000 tonnes
+</td></tr>
+<tr>
+<td>Engine burn time:
+</td>
+<td>2.05 years</td>
+<td>1.76 years
+</td></tr>
+<tr>
+<td>Thrust:
+</td>
+<td>7,540,000 <a href="/wiki/Newton_(unit)" title="Newton (unit)">newtons</a></td>
+<td>663,000 newtons
+</td></tr>
+<tr>
+<td>Engine exhaust velocity:
+</td>
+<td>10,600,000 m/s</td>
+<td>9,210,000 m/s
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=3" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A quantitative engineering analysis of a <a href="/wiki/Self-replicating_spacecraft" title="Self-replicating spacecraft">self-replicating</a> variation on Project Daedalus was published in 1980 by <a href="/wiki/Robert_Freitas" title="Robert Freitas">Robert Freitas</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The non-replicating design was modified to include all subsystems necessary for self-replication. Use the probe to deliver a seed factory, with a mass of about 443 metric tons, to a distant site. Have the seed factory replicate many copies of itself on-site, to increase its total manufacturing capacity, then use the resulting automated industrial complex to construct probes, with a seed factory on board, over a 1,000-year period. Each REPRO would weigh over 10 million tons due to the extra fuel needed to decelerate from 12% of <a class="mw-redirect" href="/wiki/Lightspeed" title="Lightspeed">lightspeed</a>.
+</p><p>Another possibility is to equip the Daedalus with a <a href="/wiki/Magnetic_sail" title="Magnetic sail">Magnetic sail</a> similar to the magnetic scoop on a <a href="/wiki/Bussard_ramjet" title="Bussard ramjet">Bussard ramjet</a> to use the destination star <a href="/wiki/Heliosphere" title="Heliosphere">heliosphere</a> as a brake, making carrying deceleration fuel unnecessary, allowing a much more in-depth study of the star system chosen.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="128" data-file-width="128" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/28px-RocketSunIcon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/42px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/56px-RocketSunIcon.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">Spaceflight portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2400" data-file-width="3000" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/32px-Earth-moon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/48px-Earth-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/64px-Earth-moon.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a class="mw-redirect" href="/wiki/Portal:Space" title="Portal:Space">Space portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Breakthrough_Starshot" title="Breakthrough Starshot">Breakthrough Starshot</a></li>
+<li><a href="/wiki/Magnetic_sail" title="Magnetic sail">Magnetic sail</a></li>
+<li><a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">Nuclear pulse propulsion</a></li>
+<li><a class="mw-redirect" href="/wiki/Project_Icarus_(Interstellar_Probe_Design_Study)" title="Project Icarus (Interstellar Probe Design Study)">Project Icarus</a></li>
+<li><a href="/wiki/Project_Longshot" title="Project Longshot">Project Longshot</a></li>
+<li><a href="/wiki/Project_Orion_(nuclear_propulsion)" title="Project Orion (nuclear propulsion)">Project Orion</a></li>
+<li><a href="/wiki/Enzmann_starship" title="Enzmann starship">Enzmann starship</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-study-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-study_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-study_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Project Daedalus Study Group: A. Bond et al., <i>Project Daedalus – The Final Report on the BIS Starship Study</i>, JBIS Interstellar Studies, Supplement 1978</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">F. Winterberg, "Rocket propulsion by thermonuclear microbombs ignited with intense relativistic electron beams", Raumfahrtforschung 15, 208-217 (1971).</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Winterberg is <a href="/wiki/Hermann_Oberth" title="Hermann Oberth">Hermann Oberth</a> Gold Medalist, <a class="external text" href="https://dx.doi.org/10.1063/1.2995324" rel="nofollow">Physics Today, December 1979</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://daedalus-zvezdolet.narod.ru/doceng/07eng.doc" rel="nofollow">PROJECT DAEDALUS: THE PROPULSION SYSTEM Part 1; Theoretical considerations and calculations. 2. REVIEW OF ADVANCED PROPULSION SYSTEMS</a> <a class="external text" href="https://web.archive.org/web/20130628001133/http://daedalus-zvezdolet.narod.ru/doceng/07eng.doc" rel="nofollow">Archived</a> 2013-06-28 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://adsabs.harvard.edu/abs/1978JBIS...31S...5B" rel="nofollow">Title: Project Daedalus. Authors: Bond, A.; Martin, A. R. Publication: Journal of the British Interplanetary Society Supplement, p. S5–S7 Publication Date: 00/1978 Origin: ARI ARI Keywords: Miscellanea, Philosophical Aspects, Extraterrestrial Life Comment: A&amp;AA ID. AAA021.015.025 Bibliographic Code: 1978JBIS...31S...5B</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20091026192110/http://geocities.com/televisioncity/2049/DAEDALUS.HTM" rel="nofollow">Project Daedalus — Origins</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="/wiki/Helium-3#Extraterrestrial_abundance" title="Helium-3">Helium-3#Extraterrestrial abundance</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Freitas, Robert A., Jr. (July 1980). <a class="external text" href="http://www.rfreitas.com/Astro/ReproJBISJuly1980.htm" rel="nofollow">"A Self-Reproducing Interstellar Probe"</a>. <i>J. Brit. Interplanet. Soc</i>. <b>33</b>: 251–264. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1980JBIS...33..251F" rel="nofollow">1980JBIS...33..251F</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Brit.+Interplanet.+Soc.&amp;rft.atitle=A+Self-Reproducing+Interstellar+Probe&amp;rft.volume=33&amp;rft.pages=251-264&amp;rft.date=1980-07&amp;rft_id=info%3Abibcode%2F1980JBIS...33..251F&amp;rft.aulast=Freitas&amp;rft.aufirst=Robert+A.%2C+Jr.&amp;rft_id=http%3A%2F%2Fwww.rfreitas.com%2FAstro%2FReproJBISJuly1980.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProject+Daedalus"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Daedalus&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Project_Daedalus" title="commons:Category:Project Daedalus">Project Daedalus</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.daviddarling.info/encyclopedia/D/Daedalus.html" rel="nofollow">Project Daedalus</a>, The Encyclopedia of Astrobiology Astronomy and Spaceflight</li>
+<li><a class="external text" href="http://www.bisbos.com/space_n_daedalus.html" rel="nofollow">Starship Daedalus</a></li>
+<li><a class="external text" href="https://www.webcitation.org/query?url=http://www.geocities.com/TelevisionCity/2049/DAEDALUS.HTM&amp;date=2009-10-25+11:06:11" rel="nofollow">Project Daedalus – Origins</a></li>
+<li><a class="external text" href="http://www.damninteresting.com/?p=655" rel="nofollow">The Daedalus Starship</a></li>
+<li><a class="external text" href="http://news.discovery.com/space/project-daedalus-size-comparison-110119.html" rel="nofollow">Renderings of the Daedalus Starship to scale</a></li>
+<li><a class="external text" href="http://daedalus-zvezdolet.narod.ru/indexeng.html" rel="nofollow">PROJECT DAEDALUS</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20130628001133/http://daedalus-zvezdolet.narod.ru/doceng/07eng.doc" rel="nofollow">PROJECT DAEDALUS: THE PROPULSION SYSTEM Part 1; Theoretical considerations and calculations. 2. REVIEW OF ADVANCED PROPULSION SYSTEMS</a></li>
+<li><a class="external text" href="http://adsabs.harvard.edu/abs/1978JBIS...31S...5B" rel="nofollow">Title: Project Daedalus. Authors: Bond, A.; Martin, A. R. Publication: Journal of the British Interplanetary Society Supplement, p. S5-S7 Publication Date: 00/1978 Origin: ARI ARI Keywords: Miscellanea, Philosophical Aspects, Extraterrestrial Life Comment: A&amp;AA ID. AAA021.015.025 Bibliographic Code: 1978JBIS...31S...5B</a></li></ul>
+<div aria-labelledby="Nuclear_propulsion" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Nuclear_propulsion" title="Template:Nuclear propulsion"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nuclear_propulsion" title="Template talk:Nuclear propulsion"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nuclear_propulsion&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Nuclear_propulsion" style="font-size:114%;margin:0 4em"><a href="/wiki/Nuclear_propulsion" title="Nuclear propulsion">Nuclear propulsion</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Spacecraft</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimatter-catalyzed_nuclear_pulse_propulsion" title="Antimatter-catalyzed nuclear pulse propulsion">Antimatter-catalyzed nuclear pulse propulsion</a></li>
+<li><a href="/wiki/Bussard_ramjet" title="Bussard ramjet">Bussard ramjet</a></li>
+<li><a href="/wiki/Fission-fragment_rocket" title="Fission-fragment rocket">Fission-fragment rocket</a></li>
+<li><a href="/wiki/Fission_sail" title="Fission sail">Fission sail</a></li>
+<li><a href="/wiki/Fusion_rocket" title="Fusion rocket">Fusion rocket</a></li>
+<li><a href="/wiki/Gas_core_reactor_rocket" title="Gas core reactor rocket">Gas core reactor rocket</a></li>
+<li><a href="/wiki/Nuclear_electric_rocket" title="Nuclear electric rocket">Nuclear electric rocket</a></li>
+<li><a href="/wiki/Nuclear_photonic_rocket" title="Nuclear photonic rocket">Nuclear photonic rocket</a></li>
+<li><a href="/wiki/Nuclear_pulse_propulsion" title="Nuclear pulse propulsion">Nuclear pulse propulsion</a></li>
+<li><a href="/wiki/Nuclear_salt-water_rocket" title="Nuclear salt-water rocket">Nuclear salt-water rocket</a></li>
+<li><a href="/wiki/Nuclear_thermal_rocket" title="Nuclear thermal rocket">Nuclear thermal rocket</a></li>
+<li><a href="/wiki/Radioisotope_rocket" title="Radioisotope rocket">Radioisotope rocket</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">USA</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Project_Orion_(nuclear_propulsion)" title="Project Orion (nuclear propulsion)">Project Orion</a></li>
+<li><a href="/wiki/NERVA" title="NERVA">NERVA</a></li>
+<li><a href="/wiki/Project_Longshot" title="Project Longshot">Project Longshot</a></li>
+<li><a href="/wiki/Project_Rover" title="Project Rover">Project Rover</a></li>
+<li><a href="/wiki/Project_Prometheus" title="Project Prometheus">Project Prometheus</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">UK</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Project Daedalus</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">USSR/Russia</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/TOPAZ_nuclear_reactor" title="TOPAZ nuclear reactor">TOPAZ nuclear reactor</a></li>
+<li><a href="/wiki/TMK" title="TMK">TMK</a></li>
+<li><a class="new" href="/w/index.php?title=YaERD-2200&amp;action=edit&amp;redlink=1" title="YaERD-2200 (page does not exist)">YaERD-2200</a></li>
+<li><a href="/wiki/TEM_(nuclear_propulsion)" title="TEM (nuclear propulsion)">TEM</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sea vessels</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nuclear_marine_propulsion" title="Nuclear marine propulsion">Nuclear marine propulsion</a></li>
+<li><a href="/wiki/Nuclear_navy" title="Nuclear navy">Nuclear navy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Aircraft</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nuclear-powered_aircraft" title="Nuclear-powered aircraft">Nuclear-powered aircraft</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">USA</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aircraft_Nuclear_Propulsion" title="Aircraft Nuclear Propulsion">Aircraft Nuclear Propulsion program</a></li>
+<li><a href="/wiki/Convair_NB-36H" title="Convair NB-36H">Convair NB-36H</a></li>
+<li><a href="/wiki/Convair_X-6" title="Convair X-6">Convair X-6</a></li>
+<li><a href="/wiki/Project_Pluto" title="Project Pluto">Project Pluto</a></li>
+<li><a href="/wiki/WS-125" title="WS-125">WS-125</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">USSR</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tupolev_Tu-95LAL" title="Tupolev Tu-95LAL">Tupolev Tu-95LAL / Tu-119</a></li>
+<li><a href="/wiki/Myasishchev_M-60" title="Myasishchev M-60">Myasishchev M-60</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ground</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ford_Nucleon" title="Ford Nucleon">Ford Nucleon</a></li>
+<li><a href="/wiki/Ford_Seattle-ite_XXI" title="Ford Seattle-ite XXI">Ford Seattle-ite XXI</a></li>
+<li><a href="/wiki/Chrysler_TV-8" title="Chrysler TV-8">Chrysler TV-8</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Nuclear_propulsion" title="Category:Nuclear propulsion">Category</a></b></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/><b><a href="/wiki/Portal:Nuclear_technology" title="Portal:Nuclear technology">Portal</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Nuclear_propulsion" title="commons:Category:Nuclear propulsion">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20190214235342
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.444 seconds
+Preprocessor visited node count: 644/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29165/2097152 bytes
+Template argument size: 362/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6403/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 4.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  359.122      1 -total
+ 35.65%  128.022      1 Template:Reflist
+ 26.35%   94.627      1 Template:Cite_journal
+ 21.04%   75.555      1 Template:Commons_category
+ 17.31%   62.171      1 Template:About
+ 11.02%   39.588      3 Template:Navbox
+ 10.60%   38.068      1 Template:Nuclear_propulsion
+  7.63%   27.401      1 Template:E
+  5.48%   19.685      1 Template:Portal
+  5.15%   18.486      1 Template:Commons
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:603351-0!canonical and timestamp 20190214235341 and revision id 883165989
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Project_Daedalus&amp;oldid=883165989">https://en.wikipedia.org/w/index.php?title=Project_Daedalus&amp;oldid=883165989</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hypothetical_spacecraft" title="Category:Hypothetical spacecraft">Hypothetical spacecraft</a></li><li><a href="/wiki/Category:Interstellar_travel" title="Category:Interstellar travel">Interstellar travel</a></li><li><a href="/wiki/Category:Nuclear_spacecraft_propulsion" title="Category:Nuclear spacecraft propulsion">Nuclear spacecraft propulsion</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Project+Daedalus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Project+Daedalus" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Project_Daedalus" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Project_Daedalus" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Project_Daedalus">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Project_Daedalus&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Project_Daedalus&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Project_Daedalus" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Project_Daedalus" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Project_Daedalus&amp;oldid=883165989" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Project_Daedalus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q607552" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Project_Daedalus&amp;id=883165989" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Project+Daedalus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Project+Daedalus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Project_Daedalus&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Project_Daedalus" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%AF%D8%A7%D8%AF%D9%8A%D8%A7%D9%84%D9%88%D8%B3" hreflang="ar" lang="ar" title="مشروع داديالوس – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Projecte_Daedalus" hreflang="ca" lang="ca" title="Projecte Daedalus – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Projekt_Daedalus" hreflang="cs" lang="cs" title="Projekt Daedalus – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Projekt_Daedalus" hreflang="de" lang="de" title="Projekt Daedalus – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF_%CE%94%CE%B1%CE%AF%CE%B4%CE%B1%CE%BB%CE%BF%CF%82" hreflang="el" lang="el" title="Σχέδιο Δαίδαλος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Proyecto_Daedalus" hreflang="es" lang="es" title="Proyecto Daedalus – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Projet_Daedalus" hreflang="fr" lang="fr" title="Projet Daedalus – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Proyek_Daedalus" hreflang="id" lang="id" title="Proyek Daedalus – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Progetto_Daedalus" hreflang="it" lang="it" title="Progetto Daedalus – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%93%D7%93%D7%9C%D7%95%D7%A1" hreflang="he" lang="he" title="פרויקט דדלוס – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Daedalus_terv" hreflang="hu" lang="hu" title="Daedalus terv – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Project_Daedalus" hreflang="nl" lang="nl" title="Project Daedalus – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%80%E3%83%AD%E3%82%B9%E8%A8%88%E7%94%BB" hreflang="ja" lang="ja" title="ダイダロス計画 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Projekt_Dedal" hreflang="pl" lang="pl" title="Projekt Dedal – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Projeto_Daedalus" hreflang="pt" lang="pt" title="Projeto Daedalus – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B4%D0%B0%D0%BB_(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)" hreflang="ru" lang="ru" title="Дедал (проект) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Projekt_Daedalus" hreflang="sk" lang="sk" title="Projekt Daedalus – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Daedalus-projekti" hreflang="fi" lang="fi" title="Daedalus-projekti – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Daedalus_Projesi" hreflang="tr" lang="tr" title="Daedalus Projesi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%B4%D0%B0%D0%BB_(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)" hreflang="uk" lang="uk" title="Дедал (проект) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%81%94%E7%BE%85%E6%96%AF%E8%A8%88%E5%8A%83" hreflang="zh" lang="zh" title="代達羅斯計劃 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q607552#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 February 2019, at 18:00<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Project_Daedalus&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.444","ppvisitednodes":{"value":644,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29165,"limit":2097152},"templateargumentsize":{"value":362,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6403,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  359.122      1 -total"," 35.65%  128.022      1 Template:Reflist"," 26.35%   94.627      1 Template:Cite_journal"," 21.04%   75.555      1 Template:Commons_category"," 17.31%   62.171      1 Template:About"," 11.02%   39.588      3 Template:Navbox"," 10.60%   38.068      1 Template:Nuclear_propulsion","  7.63%   27.401      1 Template:E","  5.48%   19.685      1 Template:Portal","  5.15%   18.486      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":4454032,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20190214235342","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Project Daedalus","url":"https:\/\/en.wikipedia.org\/wiki\/Project_Daedalus","sameAs":"http:\/\/www.wikidata.org\/entity\/Q607552","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q607552","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-18T04:01:42Z","dateModified":"2019-02-13T18:00:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b7\/Daedalus_ship.png","headline":"study conducted by the British Interplanetary Society"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1321"});});</script>
+</body>
+</html>
+

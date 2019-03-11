@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Role of chance in scientific discoveries - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Role_of_chance_in_scientific_discoveries","wgTitle":"Role of chance in scientific discoveries","wgCurRevisionId":875942948,"wgRevisionId":875942948,"wgArticleId":35114916,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["History of science","Philosophy of science","Epistemological theories","Scientific method"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Role_of_chance_in_scientific_discoveries","wgRelevantArticleId":35114916,"wgRequestId":"XGDMEgpAADwAACk2tQoAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7360638","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Role_of_chance_in_scientific_discoveries" rel="alternate"/>
+<link href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Role_of_chance_in_scientific_discoveries" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Role_of_chance_in_scientific_discoveries rootpage-Role_of_chance_in_scientific_discoveries skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Role of chance in scientific discoveries</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b>role of chance, or</b> "<b><a href="/wiki/Luck" title="Luck">luck</a></b>", <b>in science</b> comprises all ways in which unexpected discoveries are made.
+</p><p>Many domains, especially psychology, are concerned with the way science interacts with chance — particularly "<a href="/wiki/Serendipity" title="Serendipity">serendipity</a>" (accidents that, through sagacity, are transformed into opportunity). Psychologist Kevin Dunbar and colleagues estimate that between 30% and 50% of all scientific discoveries are accidental in some sense (see <a href="#Serendipitous_discoveries">examples below</a>).<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-0"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup>
+</p><p>Psychologist Alan A. Baumeister says a scientist must be "sagacious" (attentive and clever) to benefit from an accident.<sup class="reference" id="cite_ref-AABaumeister_2-0"><a href="#cite_note-AABaumeister-2">[2]</a></sup> Dunbar quotes <a href="/wiki/Louis_Pasteur" title="Louis Pasteur">Louis Pasteur</a>'s saying that "Chance favors only the prepared mind".<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The prepared mind, Dunbar suggests, is one trained for observational rigor. Dunbar adds that there is a great deal of writing about the role that serendipity ("happy accidents") plays in the scientific method.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-1"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Research suggests that scientists are taught various <a class="mw-redirect" href="/wiki/Heuristics" title="Heuristics">heuristics</a> and practices that allow their investigations to benefit, and not suffer, from accidents.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-2"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup><sup class="reference" id="cite_ref-Oliver,_J.E._1991_7-0"><a href="#cite_note-Oliver,_J.E._1991-7">[7]</a></sup> First, careful <a href="/wiki/Scientific_control" title="Scientific control">control conditions</a> allow scientists to properly identify something as "unexpected". Once a finding is recognized as legitimately unexpected and in need of explaining, researchers can attempt to explain it: They work across various disciplines, with various colleagues, trying various analogies in order to understand the first curious finding.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-3"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Preparing_to_make_discoveries"><span class="tocnumber">1</span> <span class="toctext">Preparing to make discoveries</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_brain"><span class="tocnumber">1.1</span> <span class="toctext">The brain</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Serendipitous_discoveries"><span class="tocnumber">2</span> <span class="toctext">Serendipitous discoveries</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Preparing_to_make_discoveries">Preparing to make discoveries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit&amp;section=1" title="Edit section: Preparing to make discoveries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:DunbarFugelsangLuckInScience.png"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/DunbarFugelsangLuckInScience.png/220px-DunbarFugelsangLuckInScience.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/DunbarFugelsangLuckInScience.png/330px-DunbarFugelsangLuckInScience.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/DunbarFugelsangLuckInScience.png/440px-DunbarFugelsangLuckInScience.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:DunbarFugelsangLuckInScience.png" title="Enlarge"></a></div>A model based on the work of Kevin Dunbar and Jonathan Fugelsang. The two say that the first step is to realize a result is unexpected and unexplained.</div></div></div>
+<p>Accidental discoveries have been a topic of discussion especially from the 20th century onwards. Kevin Dunbar and Jonathan Fugelsang say that somewhere between 33% and 50% of all scientific discoveries are unexpected. This helps explain why scientists often call their discoveries "lucky", and yet scientists themselves may not be able to detail exactly what role luck played (see also <a href="/wiki/Introspection_illusion" title="Introspection illusion">introspection illusion</a>). Dunbar and Fugelsang believe scientific discoveries are the result of carefully prepared experiments, but also "prepared minds".<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-4"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup>
+</p><p>The author <a href="/wiki/Nassim_Nicholas_Taleb" title="Nassim Nicholas Taleb">Nassim Nicholas Taleb</a> calls science "anti-fragile". That is, science can actually use — and benefit from — the chaos of the real world. While some methods of investigation are fragile in the face of human error and randomness, the scientific method relies on randomness in many ways. Taleb believes that the more anti-fragile the system, the more it will flourish in the real world.<sup class="reference" id="cite_ref-Taleb_8-0"><a href="#cite_note-Taleb-8">[8]</a></sup><sup class="reference" id="cite_ref-Taleb_8-1"><a href="#cite_note-Taleb-8">[8]</a></sup><sup class="reference" id="cite_ref-TalebBook_9-0"><a href="#cite_note-TalebBook-9">[9]</a></sup> According to  M. K. Stoskopf, it is in this way that serendipity is often the "foundation for important intellectual leaps of understanding" in science.<sup class="reference" id="cite_ref-Stoskopf_10-0"><a href="#cite_note-Stoskopf-10">[10]</a></sup>
+</p><p>The word "<a href="/wiki/Serendipity" title="Serendipity">Serendipity</a>" is frequently understood as simply "a happy accident", but <a href="/wiki/Horace_Walpole" title="Horace Walpole">Horace Walpole</a> used the word 'serendipity' to refer to a certain kind of happy accident: the kind that can only be exploited by a "sagacious" or clever person.<sup class="reference" id="cite_ref-Stoskopf_10-1"><a href="#cite_note-Stoskopf-10">[10]</a></sup><sup class="reference" id="cite_ref-MertonBarber_11-0"><a href="#cite_note-MertonBarber-11">[11]</a></sup> Thus Dunbar and Fugelsang talk about, not just luck or chance in science, but specifically "serendipity" in science.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-5"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup>
+</p><p>Dunbar and Fugelsang suggest that the process of discovery often starts when a researcher finds bugs in their experiment. These unexpected results lead a researcher to self-doubt, and to try and fix what they <i>think</i> is an error in their own  methodology. The first recourse is to explain the error using local hypotheses (e.g. analogies typical of the discipline). This process is also local in the sense that the scientist is relatively independent or else working with one partner. Eventually, the researcher decides that the error is too persistent and systematic to be a coincidence. Self-doubt is complete, and so the methods shift to become more broad: The researcher begin to think of theoretical explanations for the error, sometimes seeking the help of colleagues across different domains of expertise. The highly controlled, cautious, curious and even social aspects of the scientific method are what make it well suited for identifying persistent systematic errors (anomalies).<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-6"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup><sup class="reference" id="cite_ref-Oliver,_J.E._1991_7-1"><a href="#cite_note-Oliver,_J.E._1991-7">[7]</a></sup>
+</p><p><a href="/wiki/Albert_Hofmann" title="Albert Hofmann">Albert Hofmann</a>, the Swiss chemist who discovered <a class="mw-redirect" href="/wiki/LSD" title="LSD">LSD</a>'s <a href="/wiki/Psychedelic_drug" title="Psychedelic drug">psychedelic</a> properties when he tried ingesting it at his lab, wrote
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>It is true that my discovery of LSD was a chance discovery, but it was the outcome of planned experiments and these experiments took place in the framework of systematic pharmaceutical, chemical research. It could better be described as serendipity.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p></blockquote><p> Dunbar and colleagues cite the discoveries of Hofmann and others as having involved serendipity. In contrast, the mind can be "prepared" in ways that obstruct serendipity — making new knowledge difficult or impossible to take in. Psychologist Alan A. Baumeister describes at least one such instance: Researcher Robert Heath failed to recognize evidence of "pleasure brain circuits" (in the <a href="/wiki/Septal_nuclei" title="Septal nuclei">septal nuclei</a>). When Heath stimulated the brains of his schizophrenic patients, some of them reported feeling pleasure — a finding that Heath could have explored. Heath, however, was "prepared" (based on prior beliefs) for patients to report alertness, and when other patients did, it was on the reports of alertness that Heath focused his investigations. Heath failed to realize he had seen something unexpected and unexplained.<sup class="reference" id="cite_ref-AABaumeister_2-1"><a href="#cite_note-AABaumeister-2">[2]</a></sup>
+</p><h3><span class="mw-headline" id="The_brain">The brain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit&amp;section=2" title="Edit section: The brain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fugelsang and Dunbar observe scientists while they work together in labs or analyze data, but they also use experimental settings and even <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a>.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-7"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup> <a class="mw-redirect" href="/wiki/Functional_MRI" title="Functional MRI">fMRI</a> investigation found that unexpected findings were associated with particular brain activity. Unexpected findings were found to activate the <a href="/wiki/Prefrontal_cortex" title="Prefrontal cortex">prefrontal cortex</a> as well as the <a class="mw-redirect" href="/wiki/Left_hemisphere" title="Left hemisphere">left hemisphere</a> in general. This suggests that unexpected findings provoke more attention, and the brain applies more linguistic, conscious systems to help explain those findings. This supports the idea that scientists are using particular abilities that exist to some extent in all humans.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-8"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<div class="quotebox pullquote floatright" style="width:40%; ;"><style data-mw-deduplicate="TemplateStyles:r856303512">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">Absent sagacity, a chance observation of an important phenomenon will have no impact, and the observer may be denied historical attribution for the discovery.</div>
+<p><cite class="left-aligned" style="">Alfred A Baumeister <sup class="reference" id="cite_ref-AABaumeister_2-2"><a href="#cite_note-AABaumeister-2">[2]</a></sup></cite>
+</p>
+</div>
+<p>On the other hand, Dunbar and Fugelsang say that an ingenious experimental design (and control conditions) may not be enough for the researcher to properly appreciate when a finding is "unexpected". Serendipitous discoveries often requires certain mental conditions in the investigator beyond rigor. For example, a scientist must know all about what is expected before they can be surprised, and this requires experience in the field.<sup class="reference" id="cite_ref-DunbarFugelsangLuck_1-9"><a href="#cite_note-DunbarFugelsangLuck-1">[1]</a></sup> Researchers also require the sagacity to know to invest in the most curious findings.<sup class="reference" id="cite_ref-AABaumeister_2-3"><a href="#cite_note-AABaumeister-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Serendipitous_discoveries">Serendipitous discoveries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit&amp;section=3" title="Edit section: Serendipitous discoveries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_discoveries_influenced_by_chance_circumstances" title="List of discoveries influenced by chance circumstances">List of discoveries influenced by chance circumstances</a></div>
+<p>Royston Roberts says that various discoveries required a degree of genius, but also some lucky element for that genius to act on.<sup class="reference" id="cite_ref-Roberts_14-0"><a href="#cite_note-Roberts-14">[14]</a></sup> Richard Gaughan writes that accidental discoveries result from the convergence of preparation, opportunity, and desire.<sup class="reference" id="cite_ref-Gaughan_15-0"><a href="#cite_note-Gaughan-15">[15]</a></sup>
+</p><p>An example of luck in science is when drugs under investigation become known for different, unexpected uses. This was the case for <a href="/wiki/Minoxidil" title="Minoxidil">minoxidil</a> (an <a class="mw-redirect" href="/wiki/Antihypertensive" title="Antihypertensive">antihypertensive</a> <a class="mw-redirect" href="/wiki/Vasodilator" title="Vasodilator">vasodilator</a> that was subsequently found to also slow <a class="mw-redirect" href="/wiki/Alopecia" title="Alopecia">hair loss</a> and promote hair regrowth in some people) and for <a href="/wiki/Sildenafil" title="Sildenafil">sildenafil</a> (a medicine for <a class="mw-redirect" href="/wiki/Pulmonary_arterial_hypertension" title="Pulmonary arterial hypertension">pulmonary arterial hypertension</a>, now familiar as "<a class="mw-redirect" href="/wiki/Viagra" title="Viagra">Viagra</a>", used to treat <a href="/wiki/Erectile_dysfunction" title="Erectile dysfunction">erectile dysfunction</a>). 
+</p><p>The hallucinogenic effects of <a href="/wiki/Lysergic_acid_diethylamide" title="Lysergic acid diethylamide">lysergic acid diethylamide</a> (LSD) were discovered by <a href="/wiki/Albert_Hofmann" title="Albert Hofmann">Albert Hofmann</a>, who was originally working with the substance to try and treat <a class="mw-redirect" href="/wiki/Migraines" title="Migraines">migraines</a> and bleeding after childbirth. Hofmann experienced mental distortions and suspected it may have been the effects of LSD. He decided to test this hypothesis on himself by taking what he thought was "an extremely small quantity": 250 micrograms. Hofmann's description of what he experienced as a result of taking so much LSD is regarded by Royston Roberts as "one of the most frightening accounts in recorded medical history".<sup class="reference" id="cite_ref-Roberts_14-1"><a href="#cite_note-Roberts-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/chance" title="wiktionary:chance">chance</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/luck" title="wiktionary:luck">luck</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/unexpected" title="wiktionary:unexpected">unexpected</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/accidental" title="wiktionary:accidental">accidental</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="355" data-file-width="300" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="https://en.wikiquote.org/wiki/Louis_Pasteur" title="q:Louis Pasteur">Louis Pasteur</a></b></i></td></tr></tbody></table>
+<ul><li><a class="mw-redirect" href="/wiki/Belief_in_luck" title="Belief in luck">Belief in luck</a></li>
+<li><a href="/wiki/Discovery_(observation)" title="Discovery (observation)">Discovery (observation)</a></li>
+<li><a href="/wiki/List_of_multiple_discoveries" title="List of multiple discoveries">List of multiple discoveries</a></li>
+<li><a href="/wiki/Multiple_discovery" title="Multiple discovery">Multiple discovery</a></li></ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-DunbarFugelsangLuck-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-DunbarFugelsangLuck_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-DunbarFugelsangLuck_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">Dunbar, K., &amp; Fugelsang, J. (2005). Causal thinking in science: How scientists and students interpret the unexpected. In M. E. Gorman, R. D. Tweney, D. Gooding &amp; A. Kincannon (Eds.), Scientific and Technological Thinking (pp. 57–79). Mahwah, NJ: Lawrence Erlbaum Associates.</span>
+</li>
+<li id="cite_note-AABaumeister-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-AABaumeister_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AABaumeister_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AABaumeister_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AABaumeister_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Baumeister, A.A. <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=16608738&amp;query_hl=4&amp;itool=pubmed_docsum" rel="nofollow">"Serendipity and the cerebral localization of pleasure"</a>. Department of Psychology, Louisiana State University<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Serendipity+and+the+cerebral+localization+of+pleasure&amp;rft.pub=Department+of+Psychology%2C+Louisiana+State+University&amp;rft.aulast=Baumeister&amp;rft.aufirst=A.A&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Fquery.fcgi%3Fdb%3Dpubmed%26cmd%3DRetrieve%26dopt%3DAbstractPlus%26list_uids%3D16608738%26query_hl%3D4%26itool%3Dpubmed_docsum&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARole+of+chance+in+scientific+discoveries"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Oersted vit tout à coup (par hasard, direz-vous peut-être, mais souvenez-vous que, dans les champs de l'observation, le hasard ne favorise que les esprits préparés), il vit tout à coup l'aiguille se mouvoir et prendre une position très différente de celle que lui assigne le magnétisme terrestre.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Darden, L. (1997). Strategies for discovering mechanisms: Schema instantiation, modular subassembly, forward chaining/backtracking. Proceedings of the 1997 Biennial Meeting of the Philosophy of Science Association.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Thagard, P. (1999). How Scientists Explain Disease. Princeton, NJ; Princeton University Press.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Kulkarni, D., &amp; Simon, H. (1988). The processes of scientific discovery: The strategy of experimentation. Cognitive Science, 12, 139–175.</span>
+</li>
+<li id="cite_note-Oliver,_J.E._1991-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oliver,_J.E._1991_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oliver,_J.E._1991_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Oliver, J.E. (1991) Ch2. of The incomplete guide to the art of discovery. New York:NY, Columbia University Press.</span>
+</li>
+<li id="cite_note-Taleb-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Taleb_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Taleb_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Taleb contributes a brief description of anti-fragility,<a class="external free" href="http://www.edge.org/q2011/q11_3.html" rel="nofollow">http://www.edge.org/q2011/q11_3.html</a></span>
+</li>
+<li id="cite_note-TalebBook-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-TalebBook_9-0">^</a></b></span> <span class="reference-text">Taleb, N. N. (2010). The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility". NY: Random House.</span>
+</li>
+<li id="cite_note-Stoskopf-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stoskopf_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stoskopf_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Stosskopf, M. K. <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=16179740&amp;query_hl=2&amp;itool=pubmed_DocSum" rel="nofollow">"Observation and cogitation: how serendipity provides the building blocks of scientific discovery"</a>. American College of Zoological Medicine, Wildlife and Aquatic Medicine and Environmental and Molecular Toxicology<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Observation+and+cogitation%3A+how+serendipity+provides+the+building+blocks+of+scientific+discovery&amp;rft.pub=American+College+of+Zoological+Medicine%2C+Wildlife+and+Aquatic+Medicine+and+Environmental+and+Molecular+Toxicology&amp;rft.aulast=Stosskopf&amp;rft.aufirst=M.+K&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Fquery.fcgi%3Fdb%3Dpubmed%26cmd%3DRetrieve%26dopt%3DAbstractPlus%26list_uids%3D16179740%26query_hl%3D2%26itool%3Dpubmed_DocSum&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARole+of+chance+in+scientific+discoveries"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-MertonBarber-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-MertonBarber_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Merton, Robert K.; Barber, Elinor (2004). <i>The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science</i>. <a href="/wiki/Princeton_University_Press" title="Princeton University Press">Princeton University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0691117543" title="Special:BookSources/0691117543">0691117543</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Travels+and+Adventures+of+Serendipity%3A+A+Study+in+Sociological+Semantics+and+the+Sociology+of+Science&amp;rft.pub=Princeton+University+Press&amp;rft.date=2004&amp;rft.isbn=0691117543&amp;rft.aulast=Merton&amp;rft.aufirst=Robert+K.&amp;rft.au=Barber%2C+Elinor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARole+of+chance+in+scientific+discoveries"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/> (Manuscript written 1958).</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.maps.org/news-letters/v11n2/11222gro.pdf" rel="nofollow">Maps Organization. (2001). "Stanislav Grof interviews Dr. Albert Hofmann, 1984". Esalen Institute. Big Sur. Volume 11. Number 2.</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Gazzaniga, M. (2000). Cerebral specialization and interhemispheric communication: does the corpus callosum enable the human condition? <i>Brain</i>, 123, 1293–326.</span>
+</li>
+<li id="cite_note-Roberts-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Roberts_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Roberts_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Roberts, Royston M. (1989). Serendipity: Accidental Discoveries in Science. John Wiley &amp; Sons, Inc. New York.</span>
+</li>
+<li id="cite_note-Gaughan-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gaughan_15-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gaughan, Richard (2010). <i>Accidental Genius: The World's Greatest By-Chance Discoveries</i>. Metro Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4351-2557-5" title="Special:BookSources/978-1-4351-2557-5">978-1-4351-2557-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Accidental+Genius%3A+The+World%27s+Greatest+By-Chance+Discoveries&amp;rft.pub=Metro+Books&amp;rft.date=2010&amp;rft.isbn=978-1-4351-2557-5&amp;rft.aulast=Gaughan&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARole+of+chance+in+scientific+discoveries"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20190203065655
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.318 seconds
+Preprocessor visited node count: 1004/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17081/2097152 bytes
+Template argument size: 1210/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22157/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 2.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  249.797      1 -total
+ 54.10%  135.146      1 Template:Reflist
+ 36.95%   92.289      2 Template:Cite_web
+ 10.77%   26.903      1 Template:Main
+ 10.59%   26.450      1 Template:Quote_box
+ 10.57%   26.392      4 Template:Wiktionary
+  9.82%   24.522      5 Template:Sister_project
+  8.56%   21.390      5 Template:Side_box
+  7.06%   17.639      1 Template:Quotation
+  6.13%   15.304      2 Template:Cite_book
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35114916-0!canonical and timestamp 20190203065654 and revision id 875942948
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;oldid=875942948">https://en.wikipedia.org/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;oldid=875942948</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:History_of_science" title="Category:History of science">History of science</a></li><li><a href="/wiki/Category:Philosophy_of_science" title="Category:Philosophy of science">Philosophy of science</a></li><li><a href="/wiki/Category:Epistemological_theories" title="Category:Epistemological theories">Epistemological theories</a></li><li><a href="/wiki/Category:Scientific_method" title="Category:Scientific method">Scientific method</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Role+of+chance+in+scientific+discoveries" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Role+of+chance+in+scientific+discoveries" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Role_of_chance_in_scientific_discoveries" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Role_of_chance_in_scientific_discoveries" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Role_of_chance_in_scientific_discoveries">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Role_of_chance_in_scientific_discoveries" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Role_of_chance_in_scientific_discoveries" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;oldid=875942948" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7360638" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Role_of_chance_in_scientific_discoveries&amp;id=875942948" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Role+of+chance+in+scientific+discoveries">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Role+of+chance+in+scientific+discoveries&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R%C3%B4le_du_hasard_dans_les_d%C3%A9couvertes_scientifiques" hreflang="fr" lang="fr" title="Rôle du hasard dans les découvertes scientifiques – French">Français</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7360638#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 December 2018, at 02:25<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Role_of_chance_in_scientific_discoveries&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.318","ppvisitednodes":{"value":1004,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17081,"limit":2097152},"templateargumentsize":{"value":1210,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22157,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  249.797      1 -total"," 54.10%  135.146      1 Template:Reflist"," 36.95%   92.289      2 Template:Cite_web"," 10.77%   26.903      1 Template:Main"," 10.59%   26.450      1 Template:Quote_box"," 10.57%   26.392      4 Template:Wiktionary","  9.82%   24.522      5 Template:Sister_project","  8.56%   21.390      5 Template:Side_box","  7.06%   17.639      1 Template:Quotation","  6.13%   15.304      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":2209570,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20190203065655","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1265"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Scientific priority - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scientific_priority","wgTitle":"Scientific priority","wgCurRevisionId":847334432,"wgRevisionId":847334432,"wgArticleId":6663803,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scientific method"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Scientific_priority","wgRelevantArticleId":6663803,"wgRequestId":"XGICvQpAICgAABO2utgAAACM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3922143","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Scientific_priority" rel="alternate"/>
+<link href="/w/index.php?title=Scientific_priority&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Scientific_priority&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Scientific_priority" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Scientific_priority rootpage-Scientific_priority skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Scientific priority</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Science" title="Science">science</a>, <b>priority</b> is the credit given to the individual or group of individuals who first made the discovery or propose the theory. Fame and honours usually go to the first person or group to publish a new finding, even if several researchers arrived at the same conclusion independently and at the same time. Thus between two or more independent discoverers, the first to make formal publication is the legitimate winner. Hence, the tradition is often referred to as the <b>priority rule</b>, the procedure of which is nicely summed up in a phrase "<a href="/wiki/Publish_or_perish" title="Publish or perish">publish or perish</a>", because there are no second prizes.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In a way, the race to be first inspires risk-taking that can lead to scientific breakthroughs which is beneficial to the society (such as discovery of <a href="/wiki/Malaria" title="Malaria">malaria transmission</a>, <a href="/wiki/DNA" title="DNA">DNA</a>, <a href="/wiki/HIV" title="HIV">HIV</a>, etc.); on the other hand, it can create an unhealthy competition, thus, becoming detrimental to scientific progress.<sup class="reference" id="cite_ref-fang_2-0"><a href="#cite_note-fang-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Priority_disputes"><span class="tocnumber">1</span> <span class="toctext">Priority disputes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Origin"><span class="tocnumber">2</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Priority_disputes">Priority disputes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Scientific_priority&amp;action=edit&amp;section=1" title="Edit section: Priority disputes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Priority becomes a difficult issue usually in the context of priority disputes, where the priority for a given theory, understanding, or discovery comes into question. In most cases historians of science disdain retrospective priority disputes as enterprises which generally lack understanding about the nature of scientific change and usually involve gross misreadings of the past to support the idea of a long-lost priority claim. Historian and biologist <a href="/wiki/Stephen_Jay_Gould" title="Stephen Jay Gould">Stephen Jay Gould</a> once remarked that "debates about the priority of ideas are usually among the most misdirected in the history of science."<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p><a href="/wiki/Richard_Feynman" title="Richard Feynman">Richard Feynman</a> told <a href="/wiki/Freeman_Dyson" title="Freeman Dyson">Freeman Dyson</a> that he avoided priority disputes by "Always giv[ing] the bastards more credit than they deserve." Dyson remarked that he also follows this rule, and that this practice is "remarkably effective for avoiding quarrels and making friends." <sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Scientific_priority&amp;action=edit&amp;section=2" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The priority rule came into existence before or as soon as modern scientific methods were established. For example, the earliest documented controversy was a bitter claim between <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> and <a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a> in the 17th century about priority in the invention of <a href="/wiki/Calculus" title="Calculus">calculus</a>. This particular incidence clearly shows human biases and prejudice. It has become unanimously accepted that both the mathematicians independently developed calculus. Since then priority has caused a number of historical maladies in the history of science.<sup class="reference" id="cite_ref-fang_2-1"><a href="#cite_note-fang-2">[2]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+In the cases of scientists who have since achieved incredible levels of popularity, such as <a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a> and <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>, priority questions are often rooted in taking too seriously the myth of the "<a href="/wiki/Heroic_theory_of_invention_and_scientific_development" title="Heroic theory of invention and scientific development">lone genius</a>" which is often cultivated around such quasi-mythic figures (see <a class="mw-redirect" href="/wiki/Great_Man_theory" title="Great Man theory">Great Man theory</a> and <a href="/wiki/Whig_history" title="Whig history">Whig history</a>). In an attempt to laud such scientists as visionaries, the context in which they worked is often neglected by popularizers, making it appear as if they worked without assistance or without reference to other work, something which is rarely the case.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Scientific_priority&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_scientific_priority_disputes" title="List of scientific priority disputes">List of scientific priority disputes</a></li>
+<li><a href="/wiki/Multiple_discovery" title="Multiple discovery">Multiple discovery</a></li>
+<li><a class="mw-redirect" href="/wiki/Stigler%27s_law" title="Stigler's law">Stigler's law</a></li>
+<li><a href="/wiki/Priority_certificate" title="Priority certificate">Priority certificate</a></li>
+<li><a href="/wiki/Priority_right" title="Priority right">Priority right</a> in patent law</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Scientific_priority&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Strevens M (2003). "The Role of the Priority Rule in Science". <i>The Journal of Philosophy</i>. <b>100</b> (3): 55–79. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/3655792" rel="nofollow">3655792</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Philosophy&amp;rft.atitle=The+Role+of+the+Priority+Rule+in+Science&amp;rft.volume=100&amp;rft.issue=3&amp;rft.pages=55-79&amp;rft.date=2003&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3655792&amp;rft.au=Strevens+M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScientific+priority"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-fang-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-fang_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fang_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Fang FC, Casadevall A (2012). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3294664" rel="nofollow">"Reforming science: structural reforms"</a>. <i>Infect Immun</i>. <b>80</b> (3): 897–901. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1128%2FIAI.06184-11" rel="nofollow">10.1128/IAI.06184-11</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3294664" rel="nofollow">3294664</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22184420" rel="nofollow">22184420</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Infect+Immun&amp;rft.atitle=Reforming+science%3A+structural+reforms&amp;rft.volume=80&amp;rft.issue=3&amp;rft.pages=897-901&amp;rft.date=2012&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3294664&amp;rft_id=info%3Apmid%2F22184420&amp;rft_id=info%3Adoi%2F10.1128%2FIAI.06184-11&amp;rft.aulast=Fang&amp;rft.aufirst=FC&amp;rft.au=Casadevall%2C+A&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3294664&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScientific+priority"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Gould SJ (1977). <i>Ontogeny and Phylogeny</i>. Cambridge, Mass: Harvard University Press, p. 35.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Freeman Dyson, 2011, "The Dramatic Picture of Richard Feynman, " New York Review of Books, July 14, 2011. Reprinted in <link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781590178546" title="Special:BookSources/9781590178546">9781590178546</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Fang FC, Casadevall A (25 July 2012). <a class="external text" href="http://www.scientificamerican.com/article.cfm?id=intense-competition-among-scientists-gotten-out-of-hand" rel="nofollow">"Intense Competition among Scientists Has Gotten out of Hand"</a>. <i>Scientific American</i>. Scientific American, a Division of Nature America, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Scientific+American&amp;rft.atitle=Intense+Competition+among+Scientists+Has+Gotten+out+of+Hand&amp;rft.date=2012-07-25&amp;rft.aulast=Fang&amp;rft.aufirst=FC&amp;rft.au=Casadevall%2C+A&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Dintense-competition-among-scientists-gotten-out-of-hand&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AScientific+priority"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Scientific_priority&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Barbalet, J., "Science and Emotions", pp. 132–150 in Barbalet, J.(ed), <i>Emotions and Sociology (Sociological Review Monograph)</i>, Blackwell Publishing, (Oxford), 2002.</li>
+<li><a href="/wiki/Edwin_Boring" title="Edwin Boring">Boring, E.G.</a>, "Cognitive Dissonance: Its Use in Science", <i>Science</i>, Vol.145, No.3633, (14 August 1964), pp. 680–685.</li>
+<li>Boring, E.G., "The Problem of Originality in Science", <i>The American Journal of Psychology</i>, Vol.39, Nos.1-4, (December 1927), pp. 70–90.</li>
+<li><a href="/wiki/Norwood_Russell_Hanson" title="Norwood Russell Hanson">Hanson, N.R.</a>, <i>Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science</i>, Cambridge University Press, (Cambridge), 1962.</li>
+<li><a href="/wiki/Robert_K._Merton" title="Robert K. Merton">Merton, R.K.</a>, "Priorities in Scientific Discovery: A Chapter in the Sociology of Science", <i>American Sociological Review</i>, Vol.22, No.6, (December 1957), pp. 635–659.</li>
+<li>Merton, R.K., "Science and Democratic Social Structures", pp. 604–615 in Merton, R.K., <i>Social Theory and Social Structure (1968 Enlarged Edition)</i>, The Free Press, (New York), 1968 [originally published as "A Note on Science and Democracy", <i>Journal of Legal and Political Sociology</i>, Vol.1, Nos.1-2, (1942), pp. 115–126].</li>
+<li>Samelson, F., "History, Origin Myth and Ideology: "Discovery" of Social Psychology", <i>Journal for the Theory of Social Behaviour</i>, Vol.4, No.2, (October 1974), pp. 217–232.</li>
+<li>Samelson, F., "Whig and Anti-Whig Histories — And other Curiosities of Social Psychology", <i>Journal of the History of the Behavioral Sciences</i>, Vol.36, No.4, (Fall 2000), pp. 499–506.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1230
+Cached time: 20190203081547
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.210 seconds
+Preprocessor visited node count: 428/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6981/2097152 bytes
+Template argument size: 521/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12395/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 2.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  180.334      1 Template:Reflist
+100.00%  180.334      1 -total
+ 63.50%  114.504      2 Template:Cite_journal
+ 22.93%   41.357      1 Template:ISBN
+  9.77%   17.627      1 Template:Catalog_lookup_link
+  5.89%   10.621      1 Template:Error-small
+  4.79%    8.638      1 Template:Cite_web
+  4.73%    8.536      1 Template:Small
+  3.42%    6.175      3 Template:Yesno-no
+  1.87%    3.377      3 Template:Yesno
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6663803-0!canonical and timestamp 20190203081547 and revision id 847334432
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Scientific_priority&amp;oldid=847334432">https://en.wikipedia.org/w/index.php?title=Scientific_priority&amp;oldid=847334432</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Scientific_method" title="Category:Scientific method">Scientific method</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Scientific+priority" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Scientific+priority" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Scientific_priority" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Scientific_priority" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Scientific_priority">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Scientific_priority&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Scientific_priority&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Scientific_priority" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Scientific_priority" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Scientific_priority&amp;oldid=847334432" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Scientific_priority&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3922143" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Scientific_priority&amp;id=847334432" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Scientific+priority">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Scientific+priority&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Scientific_priority&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Priorit%C3%A0_scientifica" hreflang="it" lang="it" title="Priorità scientifica – Italian">Italiano</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3922143#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 June 2018, at 15:52<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Scientific_priority&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.210","ppvisitednodes":{"value":428,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6981,"limit":2097152},"templateargumentsize":{"value":521,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12395,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  180.334      1 Template:Reflist","100.00%  180.334      1 -total"," 63.50%  114.504      2 Template:Cite_journal"," 22.93%   41.357      1 Template:ISBN","  9.77%   17.627      1 Template:Catalog_lookup_link","  5.89%   10.621      1 Template:Error-small","  4.79%    8.638      1 Template:Cite_web","  4.73%    8.536      1 Template:Small","  3.42%    6.175      3 Template:Yesno-no","  1.87%    3.377      3 Template:Yesno"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2680984,"limit":52428800}},"cachereport":{"origin":"mw1230","timestamp":"20190203081547","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1319"});});</script>
+</body>
+</html>
+

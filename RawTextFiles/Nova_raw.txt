@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Nova - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nova","wgTitle":"Nova","wgCurRevisionId":882356959,"wgRevisionId":882356959,"wgArticleId":21784,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from March 2010","All articles to be expanded","Articles using small message boxes","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Novae","Stellar phenomena","Astronomical events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nova","wgRelevantArticleId":21784,"wgRequestId":"XGSd1ApAIDEAAL5ogcAAAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6458","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/5d/Making_a_Nova.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nova" rel="alternate"/>
+<link href="/w/index.php?title=Nova&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Nova&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Nova" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nova rootpage-Nova skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Nova</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Nova_(disambiguation)" title="Nova (disambiguation)">Nova (disambiguation)</a>, <a class="mw-disambig" href="/wiki/Novas_(disambiguation)" title="Novas (disambiguation)">Novas (disambiguation)</a>, and <a class="mw-disambig" href="/wiki/Supernova_(disambiguation)" title="Supernova (disambiguation)">Supernova (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Making_a_Nova.jpg"><img alt="" class="thumbimage" data-file-height="169" data-file-width="250" decoding="async" height="169" src="//upload.wikimedia.org/wikipedia/commons/5/5d/Making_a_Nova.jpg" width="250"/></a> <div class="thumbcaption">Artist's conception of a white dwarf, right, <a href="/wiki/Accretion_(astrophysics)" title="Accretion (astrophysics)">accreting</a> hydrogen from the <a href="/wiki/Roche_lobe" title="Roche lobe">Roche lobe</a> of its larger companion star</div></div></div>
+<p>A <b>nova</b> (plural <b><a class="extiw" href="https://en.wiktionary.org/wiki/nova" title="wiktionary:nova">novae</a></b> or <b>novas</b>) or <b>classical nova</b> (<b>CN</b>, plural <b>CNe</b>) is a <a href="/wiki/Transient_astronomical_event" title="Transient astronomical event">transient astronomical event</a> that causes the sudden appearance of a bright, apparently "new" star, that slowly fades over several weeks or many months. Novae involve an interaction between two stars that cause the flareup that is perceived as a new entity that is much brighter than the stars involved.
+</p><p>Causes of the dramatic appearance of a nova vary, depending on the circumstances of the two progenitor stars.  All observed novae involve closely located <a class="mw-redirect" href="/wiki/Binary_stars" title="Binary stars">binary stars</a> (the progenitors), either a pair of <a href="/wiki/Red_dwarf" title="Red dwarf">red dwarfs</a> in the process of merging, or a <a href="/wiki/White_dwarf" title="White dwarf">white dwarf</a> and another star.
+</p><p>The main sub-classes of novae are classical novae, <a class="mw-redirect" href="/wiki/Recurrent_nova" title="Recurrent nova">recurrent novae</a> (RNe), and <a href="/wiki/Dwarf_nova" title="Dwarf nova">dwarf novae</a>.  They are all considered to be <a href="/wiki/Cataclysmic_variable_star" title="Cataclysmic variable star">cataclysmic variable stars</a>.  <a href="/wiki/Luminous_red_nova" title="Luminous red nova">Luminous red novae</a> share the name and are also cataclysmic variables, but are a different type of event caused by a stellar merger.  Also with similar names are the much more energetic <a href="/wiki/Supernova" title="Supernova">supernovae</a> (SNe) and <a href="/wiki/Kilonova" title="Kilonova">kilonovae</a>.
+</p><p>Classical nova eruptions are the most common type of nova. They are likely created in a close binary star system consisting of a white dwarf and either a main sequence, sub-giant, or red giant star. When the orbital period falls in the range of several days to one day, the white dwarf is close enough to its companion star to start drawing <a href="/wiki/Accretion_(astrophysics)" title="Accretion (astrophysics)">accreted</a> matter onto the surface of the white dwarf, which creates a dense but shallow atmosphere. This atmosphere is mostly <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and is thermally heated by the hot white dwarf, which eventually reaches a critical temperature causing rapid runaway ignition by <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">fusion</a>.
+</p><p>From the dramatic and sudden energies created, the now hydrogen-burnt atmosphere is then dramatically expelled into interstellar space, and its brightened envelope is seen as the visible light created from the nova event, and previously was mistaken as a "new" star. A few novae produce short-lived <a href="/wiki/Nova_remnant" title="Nova remnant">nova remnants</a>,<sup class="reference" id="cite_ref-Liimets2014_1-0"><a href="#cite_note-Liimets2014-1">[1]</a></sup> lasting for perhaps several centuries. Recurrent nova processes are the same as the classical nova, except that the fusion ignition may be repetitive because the companion star can again feed the dense atmosphere of the white dwarf.
+</p><p>Novae most often occur in the sky along the path of the Milky Way, especially near the observed <a class="mw-redirect" href="/wiki/Galactic_centre" title="Galactic centre">galactic centre</a> in Sagittarius; however, they can appear anywhere in the sky. They occur far more <a href="/wiki/List_of_novae_in_the_Milky_Way_galaxy" title="List of novae in the Milky Way galaxy">frequently</a> than galactic supernovae, averaging about ten per year. Most are found telescopically, perhaps only one every year to eighteen months reaching naked-eye visibility. Novae reaching first or second <a href="/wiki/Magnitude_(astronomy)" title="Magnitude (astronomy)">magnitude</a> occur only several times per century. The last bright nova was <a class="mw-redirect" href="/wiki/V1369_Centauri" title="V1369 Centauri">V1369 Centauri</a> reaching 3.3 magnitude on 14 December 2013.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Stellar_evolution_of_novae"><span class="tocnumber">2</span> <span class="toctext">Stellar evolution of novae</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Helium_novae"><span class="tocnumber">2.1</span> <span class="toctext">Helium novae</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Occurrence_rate_and_astrophysical_significance"><span class="tocnumber">3</span> <span class="toctext">Occurrence rate and astrophysical significance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Subtypes"><span class="tocnumber">3.1</span> <span class="toctext">Subtypes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Novae_as_distance_indicators"><span class="tocnumber">4</span> <span class="toctext">Novae as distance indicators</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Bright_novae_since_1890"><span class="tocnumber">4.1</span> <span class="toctext">Bright novae since 1890</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Recurrent_novae"><span class="tocnumber">4.2</span> <span class="toctext">Recurrent novae</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Extragalactic_novae"><span class="tocnumber">5</span> <span class="toctext">Extragalactic novae</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Further_reading"><span class="tocnumber">7.1</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the sixteenth century, astronomer <a href="/wiki/Tycho_Brahe" title="Tycho Brahe">Tycho Brahe</a> observed the <a href="/wiki/Supernova" title="Supernova">supernova</a> <a href="/wiki/SN_1572" title="SN 1572">SN 1572</a> in the constellation <a href="/wiki/Cassiopeia_(constellation)" title="Cassiopeia (constellation)">Cassiopeia</a>. He described it in his book <i>De nova stella</i> (<a href="/wiki/Latin" title="Latin">Latin</a> for "concerning the new star"), giving rise to the adoption of the name <i>nova</i>. In this work he argued that a nearby object should be seen to move relative to the fixed stars, and that the nova had to be very far away. Although this event was a supernova and not a nova, the terms were considered interchangeable until the 1930s.<sup class="reference" id="cite_ref-encyc_2-0"><a href="#cite_note-encyc-2">[2]</a></sup> After this, novae were classified as <i>classical novae</i> to distinguish them from supernovae, as their causes and energies were thought to be different, based solely in the observational evidence.
+</p><p>Ironically, despite the term "stella nova" meaning "new star", novae most often take place as a result of <a href="/wiki/White_dwarf" title="White dwarf">white dwarfs</a>: remnants of extremely <i>old</i> stars.
+</p>
+<h2><span class="mw-headline" id="Stellar_evolution_of_novae">Stellar evolution of novae</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=2" title="Edit section: Stellar evolution of novae">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Evolution of potential novae begins with two main sequence stars in a binary system. One of the two evolves into a <a href="/wiki/Red_giant" title="Red giant">red giant</a>, leaving its remnant white dwarf core in orbit with the remaining star. The second star—which may be either a main sequence star or an aging giant—begins to shed its envelope onto its white dwarf companion when it overflows its <a href="/wiki/Roche_lobe" title="Roche lobe">Roche lobe</a>. As a result, the white dwarf steadily captures matter from the companion's outer atmosphere in an accretion disk, and in turn, the accreted matter falls into the atmosphere. As the white dwarf consists of <a href="/wiki/Degenerate_matter" title="Degenerate matter">degenerate matter</a>, the accreted hydrogen does not inflate, but its temperature increases. Runaway fusion occurs when the temperature of this atmospheric layer reaches ~20 million <a href="/wiki/Kelvin" title="Kelvin">K</a>, initiating nuclear burning, via the <a href="/wiki/CNO_cycle" title="CNO cycle">CNO cycle</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:GKPersei-MiniSuperNova-20150316.jpg"><img alt="" class="thumbimage" data-file-height="2802" data-file-width="3600" decoding="async" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/GKPersei-MiniSuperNova-20150316.jpg/250px-GKPersei-MiniSuperNova-20150316.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/GKPersei-MiniSuperNova-20150316.jpg/375px-GKPersei-MiniSuperNova-20150316.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/GKPersei-MiniSuperNova-20150316.jpg/500px-GKPersei-MiniSuperNova-20150316.jpg 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:GKPersei-MiniSuperNova-20150316.jpg" title="Enlarge"></a></div><a href="/wiki/GK_Persei" title="GK Persei">GK Persei</a>: Nova of 1901</div></div></div>
+<p>Hydrogen fusion may occur in a stable manner on the surface of the white dwarf for a narrow range of accretion rates, giving rise to a <a href="/wiki/Super_soft_X-ray_source" title="Super soft X-ray source">super soft X-ray source</a>, but for most binary system parameters, the hydrogen burning is unstable thermally and rapidly converts a large amount of the hydrogen into other, heavier <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a> in a <a href="/wiki/Thermal_runaway" title="Thermal runaway">runaway</a> reaction,<sup class="reference" id="cite_ref-encyc_2-1"><a href="#cite_note-encyc-2">[2]</a></sup> liberating an enormous amount of energy. This blows the remaining gases away from the surface of the white dwarf surface and produces an extremely bright outburst of light.
+</p><p>The rise to peak brightness may be very rapid, or gradual. This is related to the speed class of the nova; yet after the peak, the brightness declines steadily.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The time taken for a nova to decay by around 2 or 3 magnitudes from maximum optical brightness is used for classification, via its speed class. Fast novae typically will take fewer than 25 days to decay by 2 magnitudes, while slow novae will take more than 80 days.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>In spite of their violence, usually the amount of material ejected in novae is only about ​<span class="frac nowrap"><sup>1</sup>⁄<sub>10,000</sub></span> of a <a href="/wiki/Solar_mass" title="Solar mass">solar mass</a>, quite small relative to the mass of the white dwarf. Furthermore, only five percent of the accreted mass is fused during the power outburst.<sup class="reference" id="cite_ref-encyc_2-2"><a href="#cite_note-encyc-2">[2]</a></sup> Nonetheless, this is enough energy to accelerate nova ejecta to velocities as high as several thousand kilometers per second—higher for fast novae than slow ones—with a concurrent rise in <a href="/wiki/Luminosity" title="Luminosity">luminosity</a> from a few times solar to 50,000–100,000 times solar.<sup class="reference" id="cite_ref-encyc_2-3"><a href="#cite_note-encyc-2">[2]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> In 2010 scientists using NASA’s <a href="/wiki/Fermi_Gamma-ray_Space_Telescope" title="Fermi Gamma-ray Space Telescope">Fermi Gamma-ray Space Telescope</a> discovered that a nova also can emit gamma-rays (&gt;100 MeV).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>Potentially, a white dwarf can generate multiple novae over time as additional hydrogen continues to accrete onto its surface from its companion star. An example is <a href="/wiki/RS_Ophiuchi" title="RS Ophiuchi">RS Ophiuchi</a>, which is known to have flared six times (in 1898, 1933, 1958, 1967, 1985, and 2006). Eventually, the white dwarf could explode as a Type <a class="mw-redirect" href="/wiki/Ia_supernova" title="Ia supernova">Ia supernova</a> if it approaches the <a href="/wiki/Chandrasekhar_limit" title="Chandrasekhar limit">Chandrasekhar limit</a>.
+</p><p>Occasionally, novae are bright enough and close enough to Earth to be conspicuous to the unaided eye. The brightest recent example was <a href="/wiki/V1500_Cygni" title="V1500 Cygni">Nova Cygni 1975</a>. This nova appeared on 29 August 1975, in the constellation <a href="/wiki/Cygnus_(constellation)" title="Cygnus (constellation)">Cygnus</a> about five degrees north of <a href="/wiki/Deneb" title="Deneb">Deneb</a>, and reached <a href="/wiki/Apparent_magnitude" title="Apparent magnitude">magnitude</a> 2.0 (nearly as bright as <a href="/wiki/Deneb" title="Deneb">Deneb</a>). The most recent were <a href="/wiki/V1280_Scorpii" title="V1280 Scorpii">V1280 Scorpii</a>, which reached magnitude 3.7 on 17 February 2007, and <a class="mw-redirect" href="/wiki/Nova_Delphini_2013" title="Nova Delphini 2013">Nova Delphini 2013</a>. <a href="/wiki/Nova_Centauri_2013" title="Nova Centauri 2013">Nova Centauri 2013</a> was discovered 2 December 2013 and so far, is the brightest nova of this millennium, reaching magnitude 3.3.
+</p>
+<h3><span class="mw-headline" id="Helium_novae">Helium novae</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=3" title="Edit section: Helium novae">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A helium nova (undergoing a helium flash) is a proposed category of nova events that lacks hydrogen lines in its spectrum. This may be caused by the explosion of a helium shell on a white dwarf. The theory was first proposed in 1989, and the first candidate helium nova to be observed was <a href="/wiki/V445_Puppis" title="V445 Puppis">V445 Puppis</a> in 2000.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Since then, four other novae have been proposed as helium novae.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Occurrence_rate_and_astrophysical_significance">Occurrence rate and astrophysical significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=4" title="Edit section: Occurrence rate and astrophysical significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Astronomers estimate that the <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> experiences roughly 30 to 60 novae per year, but a recent examination has found the likely improved rate of about 50±27.<sup class="reference" id="cite_ref-Shafter2017_10-0"><a href="#cite_note-Shafter2017-10">[10]</a></sup> The number of novae discovered in the <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> each year is much lower, about 10,<sup class="reference" id="cite_ref-nova_list_11-0"><a href="#cite_note-nova_list-11">[11]</a></sup> probably due to distant novae being obscured by gas and dust absorption.<sup class="reference" id="cite_ref-nova_list_11-1"><a href="#cite_note-nova_list-11">[11]</a></sup> Roughly 25 novae brighter than about the twentieth magnitude are discovered in the <a href="/wiki/Andromeda_Galaxy" title="Andromeda Galaxy">Andromeda Galaxy</a> each year and smaller numbers are seen in other nearby galaxies.<sup class="reference" id="cite_ref-M31-Nova_12-0"><a href="#cite_note-M31-Nova-12">[12]</a></sup>
+</p><p><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopic</a> observation of nova ejecta <a class="mw-redirect" href="/wiki/Nebulae" title="Nebulae">nebulae</a> has shown that they are enriched in elements such as helium, carbon, nitrogen, oxygen, neon, and magnesium.<sup class="reference" id="cite_ref-encyc_2-4"><a href="#cite_note-encyc-2">[2]</a></sup> The contribution of novae to the <a href="/wiki/Interstellar_medium" title="Interstellar medium">interstellar medium</a> is not great; novae supply only ​<span class="frac nowrap"><sup>1</sup>⁄<sub>50</sub></span> as much material to the Galaxy as do supernovae, and only ​<span class="frac nowrap"><sup>1</sup>⁄<sub>200</sub></span> as much as <a href="/wiki/Red_giant" title="Red giant">red giant</a> and <a class="mw-redirect" href="/wiki/Supergiant" title="Supergiant">supergiant</a> stars.<sup class="reference" id="cite_ref-encyc_2-5"><a href="#cite_note-encyc-2">[2]</a></sup>
+</p><p>Recurrent novae such as <a href="/wiki/RS_Ophiuchi" title="RS Ophiuchi">RS Ophiuchi</a> (those with periods on the order of decades), are rare. Astronomers theorize, however, that most, if not all, novae are recurrent, albeit on time scales ranging from 1,000 to 100,000 years.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> The recurrence interval for a nova is less dependent on the accretion rate of the white dwarf, than on its mass; with their powerful gravity, massive white dwarfs require less accretion to fuel an outburst than lower-mass ones.<sup class="reference" id="cite_ref-encyc_2-6"><a href="#cite_note-encyc-2">[2]</a></sup> Consequently, the interval is shorter for high-mass white dwarfs.<sup class="reference" id="cite_ref-encyc_2-7"><a href="#cite_note-encyc-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Subtypes">Subtypes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=5" title="Edit section: Subtypes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Novae are classified according to the light curve development speed, so in 
+</p>
+<ul><li><b>NA</b>: fast novae, with a rapid brightness increase, followed by a brightness decline of 3 magnitudes — to about ​<span class="frac nowrap"><sup>1</sup>⁄<sub>16</sub></span> brightness — within 100 days.<sup class="reference" id="cite_ref-heasarc_14-0"><a href="#cite_note-heasarc-14">[14]</a></sup></li>
+<li><b>NB</b>: slow novae, with magnitudes of 3, decline in 150 days or more.</li>
+<li><b>NC</b>: very slow novae, also known as <a href="/wiki/Symbiotic_nova" title="Symbiotic nova">symbiotic novae</a>, staying at maximum light for a decade or more and then fading very slowly.</li>
+<li><b>NR</b>/<b>RN</b>: recurrent novae, novae with two or more outbursts separated by 10–80 years have been observed.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Novae_as_distance_indicators">Novae as distance indicators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=6" title="Edit section: Novae as distance indicators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Nova-Eridani-2009-LB4.jpg"><img alt="" class="thumbimage" data-file-height="994" data-file-width="1336" decoding="async" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nova-Eridani-2009-LB4.jpg/300px-Nova-Eridani-2009-LB4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nova-Eridani-2009-LB4.jpg/450px-Nova-Eridani-2009-LB4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nova-Eridani-2009-LB4.jpg/600px-Nova-Eridani-2009-LB4.jpg 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Nova-Eridani-2009-LB4.jpg" title="Enlarge"></a></div><a href="/wiki/KT_Eridani" title="KT Eridani">Nova Eridani 2009</a> (<a href="/wiki/Apparent_magnitude" title="Apparent magnitude">apparent magnitude</a> ~8.4) during a full moon</div></div></div>
+<p>Novae have some promise for use as <a class="mw-redirect" href="/wiki/Standard_candle" title="Standard candle">standard candle</a> measurements of distances. For instance, the distribution of their <a href="/wiki/Absolute_magnitude" title="Absolute magnitude">absolute magnitude</a> is <a class="mw-redirect" href="/wiki/Bimodal_distribution" title="Bimodal distribution">bimodal</a>, with a main peak at magnitude −8.8, and a lesser one at −7.5. Novae also have roughly the same absolute magnitude 15 days after their peak (−5.5). Comparisons of nova-based distance estimates to various nearby <a href="/wiki/Galaxy" title="Galaxy">galaxies</a> and <a href="/wiki/Galaxy_cluster" title="Galaxy cluster">galaxy clusters</a> with those measured with <a class="mw-redirect" href="/wiki/Cepheid" title="Cepheid">Cepheid</a> <a href="/wiki/Variable_star" title="Variable star">variable stars</a>, have shown them to be of comparable accuracy.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Bright_novae_since_1890">Bright novae since 1890</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=7" title="Edit section: Bright novae since 1890">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_novae_in_the_Milky_Way_galaxy" title="List of novae in the Milky Way galaxy">List of novae in the Milky Way galaxy</a></div>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nova&amp;action=edit&amp;section=">adding to it</a>.</small> <small class="date-container"><i>(<span class="date">March 2010</span>)</i></small></div></td></tr></tbody></table>
+<p>More than 53 novae have been registered since 1890.
+</p>
+<h3><span class="mw-headline" id="Recurrent_novae">Recurrent novae</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=8" title="Edit section: Recurrent novae">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Recurrent novae</b> (<b>RNe</b>) are objects that have been seen to experience multiple nova eruptions. As of 2009, there are ten known galactic recurrent novae.<sup class="reference" id="cite_ref-Schaefer2009_17-0"><a href="#cite_note-Schaefer2009-17">[17]</a></sup> The recurrent nova typically brightens by about 8.6 magnitude, whereas a classic nova brightens by more than 12 magnitude.<sup class="reference" id="cite_ref-Schaefer2009_17-1"><a href="#cite_note-Schaefer2009-17">[17]</a></sup> The ten known recurrent novae are listed below.
+</p>
+<table border="1" class="wikitable sortable" style="width:95%; text-align:center;">
+<tbody><tr>
+<th>Full name<br/>
+</th>
+<th>Discoverer<br/>
+</th>
+<th><a href="/wiki/Apparent_magnitude" title="Apparent magnitude">Magnitude</a><br/>range<br/>
+</th>
+<th>Days to drop<br/>3 magnitude<br/>from peak
+</th>
+<th>Known outburst years
+</th>
+<th>Time span (years)
+</th>
+<th>Years since last nova
+</th></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=CI_Aquilae&amp;action=edit&amp;redlink=1" title="CI Aquilae (page does not exist)">CI Aquilae</a>
+</td>
+<td><a href="/wiki/Karl_Wilhelm_Reinmuth" title="Karl Wilhelm Reinmuth">K. Reinmuth</a>
+</td>
+<td>8.6–16.3
+</td>
+<td>40
+</td>
+<td>2000, 1941, 1917
+</td>
+<td>24–59
+</td>
+<td bgcolor="#84CF65">18
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=V394_Coronae_Australis&amp;action=edit&amp;redlink=1" title="V394 Coronae Australis (page does not exist)">V394 Coronae Australis</a>
+</td>
+<td><a href="/wiki/Luis_Enrique_Erro" title="Luis Enrique Erro">L.E.Erro</a>
+</td>
+<td>7.2–19.7
+</td>
+<td>6
+</td>
+<td>1987, 1949
+</td>
+<td>38
+</td>
+<td bgcolor="#84CF65">31
+</td></tr>
+<tr>
+<td><a href="/wiki/T_Coronae_Borealis" title="T Coronae Borealis">T Coronae Borealis</a>
+</td>
+<td><a href="/wiki/John_Birmingham_(astronomer)" title="John Birmingham (astronomer)">J.Birmingham</a>
+</td>
+<td>2.5–10.8
+</td>
+<td>6
+</td>
+<td>1946, 1866
+</td>
+<td>80
+</td>
+<td bgcolor="#E2EB20">73
+</td></tr>
+<tr>
+<td><a href="/wiki/IM_Normae" title="IM Normae">IM Normae</a>
+</td>
+<td>I.E.Woods
+</td>
+<td>8.5–18.5
+</td>
+<td>70
+</td>
+<td>2002, 1920
+</td>
+<td>≤82
+</td>
+<td bgcolor="#84CF65">17
+</td></tr>
+<tr>
+<td><a href="/wiki/RS_Ophiuchi" title="RS Ophiuchi">RS Ophiuchi</a>
+</td>
+<td><a href="/wiki/Williamina_Fleming" title="Williamina Fleming">W.Fleming</a>
+</td>
+<td>4.8–11
+</td>
+<td>14
+</td>
+<td>2006, 1985, 1967, 1958, 1933, 1898
+</td>
+<td>9–35
+</td>
+<td bgcolor="#E2EB20">13
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=V2487_Ophiuchi&amp;action=edit&amp;redlink=1" title="V2487 Ophiuchi (page does not exist)">V2487 Ophiuchi</a>
+</td>
+<td><a href="/wiki/Kesao_Takamizawa" title="Kesao Takamizawa">K.Takamizawa</a> (1998)
+</td>
+<td>9.5–17.5
+</td>
+<td>9
+</td>
+<td>1998, 1900
+</td>
+<td>98
+</td>
+<td bgcolor="#84CF65">20
+</td></tr>
+<tr>
+<td><a href="/wiki/T_Pyxidis" title="T Pyxidis">T Pyxidis</a>
+</td>
+<td><a href="/wiki/Henrietta_Swan_Leavitt" title="Henrietta Swan Leavitt">H.Leavitt</a>
+</td>
+<td>6.4–15.5
+</td>
+<td>62
+</td>
+<td>2011, 1967, 1944, 1920, 1902, 1890
+</td>
+<td>12–44
+</td>
+<td bgcolor="#84CF65">7
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=V3890_Sagittarii&amp;action=edit&amp;redlink=1" title="V3890 Sagittarii (page does not exist)">V3890 Sagittarii</a>
+</td>
+<td><a href="/wiki/Harriet_Dinerstein" title="Harriet Dinerstein">H.Dinerstein</a>
+</td>
+<td>8.1–18.4
+</td>
+<td>14
+</td>
+<td>1990, 1962
+</td>
+<td>28
+</td>
+<td bgcolor="#E2EB20">28
+</td></tr>
+<tr>
+<td><a href="/wiki/U_Scorpii" title="U Scorpii">U Scorpii</a>
+</td>
+<td><a href="/wiki/N._R._Pogson" title="N. R. Pogson">N.R.Pogson</a>
+</td>
+<td>7.5–17.6
+</td>
+<td>2.6
+</td>
+<td>2010, 1999, 1987, 1979, 1936, 1917, 1906, 1863
+</td>
+<td>8–43
+</td>
+<td bgcolor="#E2EB20">9
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=V745_Scorpii&amp;action=edit&amp;redlink=1" title="V745 Scorpii (page does not exist)">V745 Scorpii</a>
+</td>
+<td><a class="new" href="/w/index.php?title=Lukas_Plaut&amp;action=edit&amp;redlink=1" title="Lukas Plaut (page does not exist)">L.Plaut</a>
+</td>
+<td>9.4–19.3
+</td>
+<td>7
+</td>
+<td>2014, 1989, 1937
+</td>
+<td>25–52
+</td>
+<td bgcolor="#84CF65">5
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Extragalactic_novae">Extragalactic novae</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=9" title="Edit section: Extragalactic novae">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:The_Infrared_Andromeda_Galaxy_(M31).jpg"><img alt="" class="thumbimage" data-file-height="4800" data-file-width="6000" decoding="async" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Infrared_Andromeda_Galaxy_%28M31%29.jpg/220px-The_Infrared_Andromeda_Galaxy_%28M31%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Infrared_Andromeda_Galaxy_%28M31%29.jpg/330px-The_Infrared_Andromeda_Galaxy_%28M31%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Infrared_Andromeda_Galaxy_%28M31%29.jpg/440px-The_Infrared_Andromeda_Galaxy_%28M31%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:The_Infrared_Andromeda_Galaxy_(M31).jpg" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Messier_31" title="Messier 31">Messier 31</a> Image by NASA</div></div></div>
+<p>Novae  are relatively common in the Andromeda galaxy (<a class="mw-redirect" href="/wiki/Messier_31" title="Messier 31">M31</a>).<sup class="reference" id="cite_ref-M31-Nova_12-1"><a href="#cite_note-M31-Nova-12">[12]</a></sup> Approximately several dozen novae (brighter than about <a href="/wiki/Apparent_magnitude" title="Apparent magnitude">apparent magnitude</a> 20) are discovered in M31 each year.<sup class="reference" id="cite_ref-M31-Nova_12-2"><a href="#cite_note-M31-Nova-12">[12]</a></sup> The <a href="/wiki/Central_Bureau_for_Astronomical_Telegrams" title="Central Bureau for Astronomical Telegrams">Central Bureau for Astronomical Telegrams</a> (CBAT) tracks novae in M31, <a href="/wiki/Triangulum_Galaxy" title="Triangulum Galaxy">M33</a>, and <a href="/wiki/Messier_81" title="Messier 81">M81</a>.<sup class="reference" id="cite_ref-supernovae.net_18-0"><a href="#cite_note-supernovae.net-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Crab_Nebula" title="Crab Nebula">Crab Nebula</a></li>
+<li><a class="mw-redirect" href="/wiki/Extragalactic_Distance_Scale" title="Extragalactic Distance Scale">Extragalactic Distance Scale</a></li>
+<li><a href="/wiki/Guest_star_(astronomy)" title="Guest star (astronomy)">Guest star (astronomy)</a></li>
+<li><a class="mw-redirect" href="/wiki/Hypernova" title="Hypernova">Hypernova</a></li>
+<li><a href="/wiki/Supernova" title="Supernova">Supernova</a></li>
+<li><a href="/wiki/Supernova_impostor" title="Supernova impostor">Supernova impostor</a></li>
+<li><a href="/wiki/X-ray_burster" title="X-ray burster">X-ray burster</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Liimets2014-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Liimets2014_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liimets, T.; Corradi, R.L.M.; Santander-García, M.; Villaver, E.; Rodríguez-Gil, P.; Verro, K.; Kolka, I. (2014). "A Dynamical Study of the Nova Remnant of GK Persei / Stella Novae: Past and Future Decades". <i>ASP Conference Series, Proceedings of a conference held 4–8 February 2013 at the Pavilion Clock Tower, Cape Town, South Africa. Edited by P.A. Woudt and V.A.R.M. Ribeiro, 2014</i>. <b>490</b>: 109–115. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1310.4488" rel="nofollow">1310.4488</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014ASPC..490..109L" rel="nofollow">2014ASPC..490..109L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F109995" rel="nofollow">10.1086/109995</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ASP+Conference+Series%2C+Proceedings+of+a+conference+held+4%E2%80%938+February+2013+at+the+Pavilion+Clock+Tower%2C+Cape+Town%2C+South+Africa.+Edited+by+P.A.+Woudt+and+V.A.R.M.+Ribeiro%2C+2014&amp;rft.atitle=A+Dynamical+Study+of+the+Nova+Remnant+of+GK+Persei+%2F+Stella+Novae%3A+Past+and+Future+Decades.&amp;rft.volume=490&amp;rft.pages=109-115&amp;rft.date=2014&amp;rft_id=info%3Aarxiv%2F1310.4488&amp;rft_id=info%3Adoi%2F10.1086%2F109995&amp;rft_id=info%3Abibcode%2F2014ASPC..490..109L&amp;rft.aulast=Liimets&amp;rft.aufirst=T.&amp;rft.au=Corradi%2C+R.L.M.&amp;rft.au=Santander-Garc%C3%ADa%2C+M.&amp;rft.au=Villaver%2C+E.&amp;rft.au=Rodr%C3%ADguez-Gil%2C+P.&amp;rft.au=Verro%2C+K.&amp;rft.au=Kolka%2C+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-encyc-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-encyc_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-encyc_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-encyc_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-encyc_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-encyc_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-encyc_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-encyc_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-encyc_2-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation book">Prialnik, Dina (2001). "Novae".  In Paul Murdin. <i>Encyclopedia of Astronomy and Astrophysics</i>. <a class="mw-redirect" href="/wiki/Institute_of_Physics_Publishing" title="Institute of Physics Publishing">Institute of Physics Publishing</a>/<a class="mw-redirect" href="/wiki/Nature_Publishing_Group" title="Nature Publishing Group">Nature Publishing Group</a>. pp. 1846–1856. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56159-268-4" title="Special:BookSources/1-56159-268-4">1-56159-268-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Novae&amp;rft.btitle=Encyclopedia+of+Astronomy+and+Astrophysics&amp;rft.pages=1846-1856&amp;rft.pub=Institute+of+Physics+Publishing%2FNature+Publishing+Group&amp;rft.date=2001&amp;rft.isbn=1-56159-268-4&amp;rft.aulast=Prialnik&amp;rft.aufirst=Dina&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">M.J. Darnley;  et al. (10 February 2012). <a class="external text" href="http://iopscience.iop.org/0004-637X/746/1/61/article" rel="nofollow">"On the Progenitors of Galactic Novae"</a>. <i>The Astrophysical Journal</i>. <b>746</b> (61). <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1112.2589" rel="nofollow">1112.2589</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012ApJ...746...61D" rel="nofollow">2012ApJ...746...61D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0004-637x%2F746%2F1%2F61" rel="nofollow">10.1088/0004-637x/746/1/61</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=On+the+Progenitors+of+Galactic+Novae&amp;rft.volume=746&amp;rft.issue=61&amp;rft.date=2012-02-10&amp;rft_id=info%3Aarxiv%2F1112.2589&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637x%2F746%2F1%2F61&amp;rft_id=info%3Abibcode%2F2012ApJ...746...61D&amp;rft.au=M.J.+Darnley&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2F0004-637X%2F746%2F1%2F61%2Farticle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/AAVSO" title="AAVSO">AAVSO</a> Variable Star Of The Month: <a class="external text" href="http://www.aavso.org/vstar/vsots/0501.shtml" rel="nofollow">May 2001: Novae</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Warner, Brian (1995). <i>Cataclysmic Variable Stars</i>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-41231-5" title="Special:BookSources/0-521-41231-5">0-521-41231-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cataclysmic+Variable+Stars&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1995&amp;rft.isbn=0-521-41231-5&amp;rft.aulast=Warner&amp;rft.aufirst=Brian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Zeilik, Michael (1993). <i>Conceptual Astronomy</i>. <a class="mw-redirect" href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-50996-5" title="Special:BookSources/0-471-50996-5">0-471-50996-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Conceptual+Astronomy&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1993&amp;rft.isbn=0-471-50996-5&amp;rft.aulast=Zeilik&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a class="mw-redirect" href="/wiki/JPL" title="JPL">JPL</a>/<a href="/wiki/NASA" title="NASA">NASA</a> (12 August 2010). <a class="external text" href="http://www.physorg.com/news200849593.html" rel="nofollow">"Fermi detects 'shocking' surprise from supernova's little cousin"</a>. <i><a class="mw-redirect" href="/wiki/PhysOrg" title="PhysOrg">PhysOrg</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PhysOrg&amp;rft.atitle=Fermi+detects+%E2%80%98shocking%E2%80%99+surprise+from+supernova%E2%80%99s+little+cousin&amp;rft.date=2010-08-12&amp;rft.au=JPL%2FNASA&amp;rft_id=http%3A%2F%2Fwww.physorg.com%2Fnews200849593.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kato, Mariko; Hachisu, Izumi (December 2003). "V445 Puppis: Helium Nova on a Massive White Dwarf". <i>The Astrophysical Journal</i>. <b>598</b> (2): L107–L110. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/astro-ph/0310351" rel="nofollow">astro-ph/0310351</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003ApJ...598L.107K" rel="nofollow">2003ApJ...598L.107K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F380597" rel="nofollow">10.1086/380597</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=V445+Puppis%3A+Helium+Nova+on+a+Massive+White+Dwarf&amp;rft.volume=598&amp;rft.issue=2&amp;rft.pages=L107-L110&amp;rft.date=2003-12&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0310351&amp;rft_id=info%3Adoi%2F10.1086%2F380597&amp;rft_id=info%3Abibcode%2F2003ApJ...598L.107K&amp;rft.au=Kato%2C+Mariko&amp;rft.au=Hachisu%2C+Izumi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rosenbush, A. E. (17–21 September 2007).  Klaus Werner; Thomas Rauch, eds. "List of Helium Novae". <i>proceedings, Hydrogen-deficient Stars ASP Conference Series</i>. Eberhard Karls University, Tübingen, Germany (published July 2008). <b>391</b>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008ASPC..391..271R" rel="nofollow">2008ASPC..391..271R</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=proceedings%2C+Hydrogen-deficient+Stars+ASP+Conference+Series&amp;rft.atitle=List+of+Helium+Novae&amp;rft.volume=391&amp;rft.date=2007-09-17%2F2007-09-21&amp;rft_id=info%3Abibcode%2F2008ASPC..391..271R&amp;rft.aulast=Rosenbush&amp;rft.aufirst=A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Shafter2017-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shafter2017_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shafter, A.W. (January 2017). "The Galactic Nova Rate Revisited". <i>The Astrophysical Journal</i>. <b>834</b> (2): 192–203. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1606.02358" rel="nofollow">1606.02358</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2017ApJ...834..196S" rel="nofollow">2017ApJ...834..196S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3847%2F1538-4357%2F834%2F2%2F196" rel="nofollow">10.3847/1538-4357/834/2/196</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=The+Galactic+Nova+Rate+Revisited&amp;rft.volume=834&amp;rft.issue=2&amp;rft.pages=192-203&amp;rft.date=2017-01&amp;rft_id=info%3Aarxiv%2F1606.02358&amp;rft_id=info%3Adoi%2F10.3847%2F1538-4357%2F834%2F2%2F196&amp;rft_id=info%3Abibcode%2F2017ApJ...834..196S&amp;rft.aulast=Shafter&amp;rft.aufirst=A.W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-nova_list-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-nova_list_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nova_list_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation web"><a class="external text" href="http://cbat.eps.harvard.edu/nova_list.html" rel="nofollow">"CBAT List of Novae in the Milky Way"</a>. IAU <a href="/wiki/Central_Bureau_for_Astronomical_Telegrams" title="Central Bureau for Astronomical Telegrams">Central Bureau for Astronomical Telegrams</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CBAT+List+of+Novae+in+the+Milky+Way&amp;rft.pub=IAU+Central+Bureau+for+Astronomical+Telegrams&amp;rft_id=http%3A%2F%2Fcbat.eps.harvard.edu%2Fnova_list.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-M31-Nova-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-M31-Nova_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M31-Nova_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M31-Nova_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation web"><a class="external text" href="http://cbat.eps.harvard.edu/CBAT_M31.html" rel="nofollow">"M31 (Apparent) Novae Page"</a>. IAU <a href="/wiki/Central_Bureau_for_Astronomical_Telegrams" title="Central Bureau for Astronomical Telegrams">Central Bureau for Astronomical Telegrams</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=M31+%28Apparent%29+Novae+Page&amp;rft.pub=IAU+Central+Bureau+for+Astronomical+Telegrams&amp;rft_id=http%3A%2F%2Fcbat.eps.harvard.edu%2FCBAT_M31.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Seeds, Michael A. (1998). <i>Horizons:  Exploring the Universe</i> (5th ed.). <a class="mw-redirect" href="/wiki/Wadsworth_Publishing_Company" title="Wadsworth Publishing Company">Wadsworth Publishing Company</a>. p. 194. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-534-52434-6" title="Special:BookSources/0-534-52434-6">0-534-52434-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Horizons%3A++Exploring+the+Universe&amp;rft.pages=194&amp;rft.edition=5th&amp;rft.pub=Wadsworth+Publishing+Company&amp;rft.date=1998&amp;rft.isbn=0-534-52434-6&amp;rft.aulast=Seeds&amp;rft.aufirst=Michael+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-heasarc-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-heasarc_14-0">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a class="external text" href="http://heasarc.gsfc.nasa.gov/W3Browse/all/rittercv.html" rel="nofollow">"Ritter Cataclysmic Binaries Catalog (7th Edition, Rev. 7.13)"</a>. <a class="mw-redirect" href="/wiki/High_Energy_Astrophysics_Science_Archive_Research_Center" title="High Energy Astrophysics Science Archive Research Center">High Energy Astrophysics Science Archive Research Center</a>. 31 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ritter+Cataclysmic+Binaries+Catalog+%287th+Edition%2C+Rev.+7.13%29&amp;rft.pub=High+Energy+Astrophysics+Science+Archive+Research+Center&amp;rft.date=2010-03-31&amp;rft_id=http%3A%2F%2Fheasarc.gsfc.nasa.gov%2FW3Browse%2Fall%2Frittercv.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="ftp://cdsarc.u-strasbg.fr/pub/cats/B/gcvs/vartype.txt" rel="nofollow">GCVS' vartype.txt</a> at <a href="/wiki/VizieR" title="VizieR">VizieR</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Robert, Gilmozzi; Della Valle, Massimo (2003). "Novae as Distance Indicators".  In Alloin, D.; Gieren, W. <i>Stellar Candles for the Extragalactic Distance Scale</i>. <a class="mw-redirect" href="/wiki/Springer_(publisher)" title="Springer (publisher)">Springer</a>. pp. 229–241. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-540-20128-9" title="Special:BookSources/3-540-20128-9">3-540-20128-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Novae+as+Distance+Indicators&amp;rft.btitle=Stellar+Candles+for+the+Extragalactic+Distance+Scale&amp;rft.pages=229-241&amp;rft.pub=Springer&amp;rft.date=2003&amp;rft.isbn=3-540-20128-9&amp;rft.aulast=Robert&amp;rft.aufirst=Gilmozzi&amp;rft.au=Della+Valle%2C+Massimo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Schaefer2009-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schaefer2009_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schaefer2009_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation journal">Schaefer, Bradley E. (2009). "Comprehensive Photometric Histories of All Known Galactic Recurrent Novae". <i>The Astrophysical Journal Supplement Series</i>. <b>187</b>: 275–373. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/0912.4426" rel="nofollow">0912.4426</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010ApJS..187..275S" rel="nofollow">2010ApJS..187..275S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0067-0049%2F187%2F2%2F275" rel="nofollow">10.1088/0067-0049/187/2/275</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Supplement+Series&amp;rft.atitle=Comprehensive+Photometric+Histories+of+All+Known+Galactic+Recurrent+Novae&amp;rft.volume=187&amp;rft.pages=275-373&amp;rft.date=2009&amp;rft_id=info%3Aarxiv%2F0912.4426&amp;rft_id=info%3Adoi%2F10.1088%2F0067-0049%2F187%2F2%2F275&amp;rft_id=info%3Abibcode%2F2010ApJS..187..275S&amp;rft.aulast=Schaefer&amp;rft.aufirst=Bradley+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-supernovae.net-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-supernovae.net_18-0">^</a></b></span> <span class="reference-text">
+<cite class="citation web">Bishop, David. <a class="external text" href="http://www.rochesterastronomy.org/novae.html" rel="nofollow">"Extragalactic Novae"</a>. International Supernovae Network<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Extragalactic+Novae&amp;rft.pub=International+Supernovae+Network&amp;rft.aulast=Bishop&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.rochesterastronomy.org%2Fnovae.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><cite class="citation book">Payne-Gaposchkin, C. (1957). <i>The Galactic Novae</i>. North Holland Publishing Co.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Galactic+Novae&amp;rft.pub=North+Holland+Publishing+Co&amp;rft.date=1957&amp;rft.aulast=Payne-Gaposchkin&amp;rft.aufirst=C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Hernanz, M.; Josè, J. (2002). <i>Classical Nova Explosions</i>. American Institute of Physics.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Nova+Explosions&amp;rft.pub=American+Institute+of+Physics&amp;rft.date=2002&amp;rft.aulast=Hernanz&amp;rft.aufirst=M.&amp;rft.au=Jos%C3%A8%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Bode, M.F.; Evans, E. (2008). <i>Classical Novae</i>. Cambridge University Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Novae&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2008&amp;rft.aulast=Bode&amp;rft.aufirst=M.F.&amp;rft.au=Evans%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nova&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Nova" title="commons:Nova">Nova</a></b></i>.</td></tr></tbody></table>
+<ul><li><cite class="citation journal">Schaefer (2009). "Comprehensive Photometric Histories of All Known Galactic Recurrent Novae". <i>The Astrophysical Journal Supplement Series</i>. <b>187</b>: 275–373. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/0912.4426" rel="nofollow">0912.4426</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010ApJS..187..275S" rel="nofollow">2010ApJS..187..275S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0067-0049%2F187%2F2%2F275" rel="nofollow">10.1088/0067-0049/187/2/275</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Supplement+Series&amp;rft.atitle=Comprehensive+Photometric+Histories+of+All+Known+Galactic+Recurrent+Novae&amp;rft.volume=187&amp;rft.pages=275-373&amp;rft.date=2009&amp;rft_id=info%3Aarxiv%2F0912.4426&amp;rft_id=info%3Adoi%2F10.1088%2F0067-0049%2F187%2F2%2F275&amp;rft_id=info%3Abibcode%2F2010ApJS..187..275S&amp;rft.au=Schaefer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Shafter;  et al. (2011). "A Spectroscopic and Photometric Survey of Novae in M31". <i>The Astrophysical Journal</i>. <b>734</b>: 12. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1104.0222" rel="nofollow">1104.0222</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2011ApJ...734...12S" rel="nofollow">2011ApJ...734...12S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0004-637X%2F734%2F1%2F12" rel="nofollow">10.1088/0004-637X/734/1/12</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=A+Spectroscopic+and+Photometric+Survey+of+Novae+in+M31&amp;rft.volume=734&amp;rft.pages=12&amp;rft.date=2011&amp;rft_id=info%3Aarxiv%2F1104.0222&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F734%2F1%2F12&amp;rft_id=info%3Abibcode%2F2011ApJ...734...12S&amp;rft.au=Shafter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANova"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li><a class="external text" href="http://www.sai.msu.su/groups/cluster/gcvs/gcvs/" rel="nofollow">General Catalog of Variable Stars</a>, <a href="/wiki/Sternberg_Astronomical_Institute" title="Sternberg Astronomical Institute">Sternberg Astronomical Institute</a>, Moscow</li>
+<li><a class="external text" href="http://www.aavso.org/vstar/vsots/0501.shtml" rel="nofollow">AAVSO Variable Star of the Month. Novae: May 2001</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20100408150756/http://www.supernovae.net/novae.html" rel="nofollow">Extragalactic Novae</a></li></ul>
+<div aria-labelledby="Novae" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Novae" title="Template:Novae"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Novae" title="Template talk:Novae"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Novae&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Novae" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Novae</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nova#Recurrent_novae" title="Nova">Recurrent novae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/T_Coronae_Borealis" title="T Coronae Borealis">T Coronae Borealis</a> (1946)</li>
+<li><a href="/wiki/RS_Ophiuchi" title="RS Ophiuchi">RS Ophiuchi</a> (2006)</li>
+<li><a href="/wiki/U_Scorpii" title="U Scorpii">U Scorpii</a> (2010)</li>
+<li><a href="/wiki/T_Pyxidis" title="T Pyxidis">T Pyxidis</a> (2011)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Classical novae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CK_Vulpeculae" title="CK Vulpeculae">CK Vulpeculae</a> (1670)</li>
+<li><a href="/wiki/T_Scorpii" title="T Scorpii">T Scorpii</a> (1860)</li>
+<li><a href="/wiki/T_Aurigae" title="T Aurigae">T Aurigae</a> (1891)</li>
+<li><a href="/wiki/Nova_Sagittarii_1898" title="Nova Sagittarii 1898">Nova Sagittarii 1898</a> (1898)</li>
+<li><a href="/wiki/V606_Aquilae" title="V606 Aquilae">V606 Aquilae</a> (1899)</li>
+<li><a href="/wiki/GK_Persei" title="GK Persei">GK Persei</a> (1901)</li>
+<li><a href="/wiki/DM_Geminorum" title="DM Geminorum">DM Geminorum</a> (1903)</li>
+<li><a href="/wiki/V604_Aquilae" title="V604 Aquilae">V604 Aquilae</a> (1905)</li>
+<li><a href="/wiki/DI_Lacertae" title="DI Lacertae">DI Lacertae</a> (1910)</li>
+<li><a href="/wiki/DN_Geminorum" title="DN Geminorum">DN Geminorum</a> (1912)</li>
+<li><a href="/wiki/V603_Aquilae" title="V603 Aquilae">V603 Aquilae</a> (1918)</li>
+<li><a href="/wiki/HR_Lyrae" title="HR Lyrae">HR Lyrae</a> (1919)</li>
+<li><a href="/wiki/V849_Ophiuchi" title="V849 Ophiuchi">V849 Ophiuchi</a> (1919)</li>
+<li><a href="/wiki/V476_Cygni" title="V476 Cygni">V476 Cygni</a> (1920)</li>
+<li><a href="/wiki/RR_Pictoris" title="RR Pictoris">RR Pictoris</a> (1925)</li>
+<li><a href="/wiki/XX_Tauri" title="XX Tauri">XX Tauri</a> (1927)</li>
+<li><a href="/wiki/DQ_Herculis" title="DQ Herculis">DQ Herculis</a> (1934)</li>
+<li><a href="/wiki/CP_Lacertae" title="CP Lacertae">CP Lacertae</a> (1936)</li>
+<li><a href="/wiki/BT_Monocerotis" title="BT Monocerotis">BT Monocerotis</a> (1939)</li>
+<li><a href="/wiki/CP_Puppis" title="CP Puppis">CP Puppis</a> (1942)</li>
+<li><a href="/wiki/V500_Aquilae" title="V500 Aquilae">V500 Aquilae</a> (1943)</li>
+<li><a href="/wiki/CT_Serpentis" title="CT Serpentis">CT Serpentis</a> (1948)</li>
+<li><a href="/wiki/DK_Lacertae" title="DK Lacertae">DK Lacertae</a> (1950)</li>
+<li><a href="/wiki/RW_Ursae_Minoris" title="RW Ursae Minoris">RW Ursae Minoris</a> (1956)</li>
+<li><a href="/wiki/V446_Herculis" title="V446 Herculis">V446 Herculis</a> (1960)</li>
+<li><a href="/wiki/V533_Herculis" title="V533 Herculis">V533 Herculis</a> (1963)</li>
+<li><a href="/wiki/HR_Delphini" title="HR Delphini">HR Delphini</a> (1967)</li>
+<li><a href="/wiki/FH_Serpentis" title="FH Serpentis">FH Serpentis</a> (1970)</li>
+<li><a href="/wiki/V1500_Cygni" title="V1500 Cygni">V1500 Cygni</a> (1975)</li>
+<li><a href="/wiki/V373_Scuti" title="V373 Scuti">V373 Scuti</a> (1975)</li>
+<li><a href="/wiki/NQ_Vulpeculae" title="NQ Vulpeculae">NQ Vulpeculae</a> (1976)</li>
+<li><a href="/wiki/V1668_Cygni" title="V1668 Cygni">V1668 Cygni</a> (1978)</li>
+<li><a href="/wiki/QU_Vulpeculae" title="QU Vulpeculae">QU Vulpeculae</a> (1984)</li>
+<li><a href="/wiki/V842_Centauri" title="V842 Centauri">V842 Centauri</a> (1986)</li>
+<li><a href="/wiki/V838_Herculis" title="V838 Herculis">V838 Herculis</a> (1991)</li>
+<li><a href="/wiki/V1974_Cygni" title="V1974 Cygni">V1974 Cygni</a> (1992)</li>
+<li><a href="/wiki/V382_Velorum" title="V382 Velorum">V382 Velorum</a> (1999)</li>
+<li><a href="/wiki/V1494_Aquilae" title="V1494 Aquilae">V1494 Aquilae</a> (1999)</li>
+<li><a href="/wiki/V445_Puppis" title="V445 Puppis">V445 Puppis</a> (2000)</li>
+<li><a href="/wiki/V598_Puppis" title="V598 Puppis">V598 Puppis</a> (2007)</li>
+<li><a href="/wiki/V1280_Scorpii" title="V1280 Scorpii">V1280 Scorpii</a> (2007)</li>
+<li><a href="/wiki/KT_Eridani" title="KT Eridani">KT Eridani</a> (2009)</li>
+<li><a href="/wiki/V339_Delphini" title="V339 Delphini">V339 Delphini</a> (2013)</li>
+<li><a href="/wiki/Nova_Centauri_2013" title="Nova Centauri 2013">V1369 Centauri</a> (2013)</li>
+<li><a class="mw-redirect" href="/wiki/ASASSN-16ma" title="ASASSN-16ma">ASASSN-16ma</a> (2016)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>See also: <a href="/wiki/List_of_novae_in_the_Milky_Way_galaxy" title="List of novae in the Milky Way galaxy">List of novae in the Milky Way galaxy</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Supernovae" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Supernovae" title="Template:Supernovae"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Supernovae" title="Template talk:Supernovae"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Supernovae&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Supernovae" style="font-size:114%;margin:0 4em"><a href="/wiki/Supernova" title="Supernova">Supernovae</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Classes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Type_Ia_supernova" title="Type Ia supernova">Type Ia</a></li>
+<li><a href="/wiki/Type_Ib_and_Ic_supernovae" title="Type Ib and Ic supernovae">Type Ib and Ic</a></li>
+<li><a href="/wiki/Type_II_supernova" title="Type II supernova">Type II (IIP, IIL, IIn, and IIb)</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Supernova%26galaxia.png"><img alt="Supernova&amp;galaxia.png" data-file-height="384" data-file-width="469" decoding="async" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Supernova%26galaxia.png/80px-Supernova%26galaxia.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Supernova%26galaxia.png/120px-Supernova%26galaxia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Supernova%26galaxia.png/160px-Supernova%26galaxia.png 2x" width="80"/></a><br/><a class="image" href="/wiki/File:G299-Remnants-SuperNova-Type1a-20150218.jpg"><img alt="G299-Remnants-SuperNova-Type1a-20150218.jpg" data-file-height="946" data-file-width="946" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/G299-Remnants-SuperNova-Type1a-20150218.jpg/80px-G299-Remnants-SuperNova-Type1a-20150218.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/G299-Remnants-SuperNova-Type1a-20150218.jpg/120px-G299-Remnants-SuperNova-Type1a-20150218.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/G299-Remnants-SuperNova-Type1a-20150218.jpg/160px-G299-Remnants-SuperNova-Type1a-20150218.jpg 2x" width="80"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physics of</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Calcium-rich_supernovae" title="Calcium-rich supernovae">Calcium-rich supernovae</a></li>
+<li><a href="/wiki/Carbon_detonation" title="Carbon detonation">Carbon detonation</a></li>
+<li><a href="/wiki/Pair-instability_supernova" title="Pair-instability supernova">Pair-instability supernova</a></li>
+<li><a href="/wiki/Phillips_relationship" title="Phillips relationship">Phillips relationship</a></li>
+<li><a href="/wiki/P-nuclei" title="P-nuclei">P-nuclei</a></li>
+<li><a href="/wiki/P-process" title="P-process">P-process</a></li>
+<li><a href="/wiki/R-process" title="R-process">R-process</a></li>
+<li><a href="/wiki/Supernova_nucleosynthesis" title="Supernova nucleosynthesis">Supernova nucleosynthesis</a></li>
+<li><a class="mw-redirect" href="/wiki/Supernova_neutrino" title="Supernova neutrino">Supernova neutrinos</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Supernova_impostor" title="Supernova impostor">Supernova impostor</a>
+<ul><li><a href="/wiki/Pulsational_pair-instability_supernova" title="Pulsational pair-instability supernova">Pulsational pair-instability supernova</a></li></ul></li>
+<li><a href="/wiki/Foe_(unit)" title="Foe (unit)">Foe</a></li>
+<li><a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">Gamma-ray burst</a></li>
+<li><a href="/wiki/Failed_supernova" title="Failed supernova">Failed supernova</a></li>
+<li><a class="mw-redirect" href="/wiki/Hypernova" title="Hypernova">Hypernova</a></li>
+<li><a href="/wiki/Kilonova" title="Kilonova">Kilonova</a></li>
+<li><a class="mw-selflink selflink">Nova</a></li>
+<li><a href="/wiki/Symbiotic_nova" title="Symbiotic nova">Symbiotic nova</a></li>
+<li><a href="/wiki/Luminous_red_nova" title="Luminous red nova">Luminous red nova</a></li>
+<li><a href="/wiki/Near-Earth_supernova" title="Near-Earth supernova">Near-Earth supernova</a></li>
+<li><a href="/wiki/Pulsar_kick" title="Pulsar kick">Pulsar kick</a></li>
+<li><a href="/wiki/Quark-nova" title="Quark-nova">Quark-nova</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Progenitors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hypergiant" title="Hypergiant">Hypergiant</a>
+<ul><li><a href="/wiki/Yellow_hypergiant" title="Yellow hypergiant">Yellow</a></li></ul></li>
+<li><a href="/wiki/Luminous_blue_variable" title="Luminous blue variable">Luminous blue variable</a></li>
+<li><a href="/wiki/Supergiant_star" title="Supergiant star">Supergiant</a>
+<ul><li><a class="mw-redirect" href="/wiki/Blue_supergiant" title="Blue supergiant">Blue</a></li>
+<li><a class="mw-redirect" href="/wiki/Red_supergiant" title="Red supergiant">Red</a></li>
+<li><a class="mw-redirect" href="/wiki/Yellow_supergiant" title="Yellow supergiant">Yellow</a></li></ul></li>
+<li><a href="/wiki/White_dwarf" title="White dwarf">White dwarf</a>
+<ul><li><a href="/wiki/Template:White_dwarf" title="Template:White dwarf">Related links</a></li></ul></li>
+<li><a href="/wiki/Wolf%E2%80%93Rayet_star" title="Wolf–Rayet star">Wolf–Rayet star</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Remnants</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Supernova_remnant" title="Supernova remnant">Supernova remnant</a>
+<ul><li><a href="/wiki/Pulsar_wind_nebula" title="Pulsar wind nebula">Pulsar wind nebula</a></li></ul></li>
+<li><a href="/wiki/Neutron_star" title="Neutron star">Neutron star</a>
+<ul><li><a href="/wiki/Pulsar" title="Pulsar">Pulsar</a></li>
+<li><a href="/wiki/Magnetar" title="Magnetar">Magnetar</a></li>
+<li><a href="/wiki/Template:Neutron_star" title="Template:Neutron star">Related links</a></li></ul></li>
+<li><a href="/wiki/Stellar_black_hole" title="Stellar black hole">Stellar black hole</a>
+<ul><li><a href="/wiki/Template:Black_holes" title="Template:Black holes">Related links</a></li></ul></li>
+<li><a href="/wiki/Compact_star" title="Compact star">Compact star</a>
+<ul><li><a href="/wiki/Quark_star" title="Quark star">Quark star</a></li>
+<li><a href="/wiki/Exotic_star" title="Exotic star">Exotic star</a></li></ul></li>
+<li><a href="/wiki/Zombie_star" title="Zombie star">Zombie star</a></li>
+<li><a href="/wiki/Local_Bubble" title="Local Bubble">Local Bubble</a></li>
+<li><a href="/wiki/Superbubble" title="Superbubble">Superbubble</a>
+<ul><li><a href="/wiki/Orion%E2%80%93Eridanus_Superbubble" title="Orion–Eridanus Superbubble">Orion–Eridanus</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discovery</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guest_star_(astronomy)" title="Guest star (astronomy)">Guest star</a></li>
+<li><a href="/wiki/History_of_supernova_observation" title="History of supernova observation">History of supernova observation</a></li>
+<li><a href="/wiki/Timeline_of_white_dwarfs,_neutron_stars,_and_supernovae" title="Timeline of white dwarfs, neutron stars, and supernovae">Timeline of white dwarfs, neutron stars, and supernovae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_supernova_candidates" title="List of supernova candidates">Candidates</a></li>
+<li><a href="/wiki/List_of_supernovae" title="List of supernovae">Notable</a></li>
+<li><a href="/wiki/List_of_most_massive_stars" title="List of most massive stars">Massive stars</a></li>
+<li><a href="/wiki/List_of_most_distant_supernovae" title="List of most distant supernovae">Most distant</a></li>
+<li><a href="/wiki/List_of_supernova_remnants" title="List of supernova remnants">Remnants</a></li>
+<li><a href="/wiki/Supernovae_in_fiction" title="Supernovae in fiction">In fiction</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Notable</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnard%27s_Loop" title="Barnard's Loop">Barnard's Loop</a></li>
+<li><a href="/wiki/Cassiopeia_A" title="Cassiopeia A">Cassiopeia A</a></li>
+<li><a href="/wiki/SN_1054" title="SN 1054">Crab</a>
+<ul><li><a href="/wiki/Crab_Nebula" title="Crab Nebula">Crab Nebula</a></li></ul></li>
+<li><a href="/wiki/IPTF14hls" title="IPTF14hls">iPTF14hls</a></li>
+<li><a href="/wiki/SN_1572" title="SN 1572">Tycho's</a></li>
+<li><a href="/wiki/Kepler%27s_Supernova" title="Kepler's Supernova">Kepler's</a></li>
+<li><a href="/wiki/SN_1987A" title="SN 1987A">SN 1987A</a></li>
+<li><a href="/wiki/SN_185" title="SN 185">SN 185</a></li>
+<li><a href="/wiki/SN_1006" title="SN 1006">SN 1006</a></li>
+<li><a href="/wiki/SN_2003fg" title="SN 2003fg">SN 2003fg</a></li>
+<li><a href="/wiki/G1.9%2B0.3" title="G1.9+0.3">Remnant G1.9+0.3</a></li>
+<li><a href="/wiki/SN_2007bi" title="SN 2007bi">SN 2007bi</a></li>
+<li><a href="/wiki/SN_2011fe" title="SN 2011fe">SN 2011fe</a></li>
+<li><a href="/wiki/SN_2014J" title="SN 2014J">SN 2014J</a></li>
+<li><a href="/wiki/SN_Refsdal" title="SN Refsdal">SN Refsdal</a></li>
+<li><a href="/wiki/Vela_Supernova_Remnant" title="Vela Supernova Remnant">Vela Remnant</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Research</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All_Sky_Automated_Survey_for_SuperNovae" title="All Sky Automated Survey for SuperNovae">ASAS-SN</a></li>
+<li><a href="/wiki/Cal%C3%A1n/Tololo_Survey" title="Calán/Tololo Survey">Calán/Tololo Survey</a></li>
+<li><a href="/wiki/High-Z_Supernova_Search_Team" title="High-Z Supernova Search Team">High-Z Supernova Search Team</a></li>
+<li><a href="/wiki/Katzman_Automatic_Imaging_Telescope" title="Katzman Automatic Imaging Telescope">Katzman Automatic Imaging Telescope</a></li>
+<li><a href="/wiki/Monte_Agliale_Supernovae_and_Asteroid_Survey" title="Monte Agliale Supernovae and Asteroid Survey">Monte Agliale Supernovae and Asteroid Survey</a></li>
+<li><a href="/wiki/Nearby_Supernova_Factory" title="Nearby Supernova Factory">Nearby Supernova Factory</a></li>
+<li><a href="/wiki/Sloan_Digital_Sky_Survey#Sloan_Supernova_Survey" title="Sloan Digital Sky Survey">Sloan Supernova Survey</a></li>
+<li><a class="mw-redirect" href="/wiki/Supernova/Acceleration_Probe" title="Supernova/Acceleration Probe">Supernova/Acceleration Probe</a></li>
+<li><a href="/wiki/Supernova_Cosmology_Project" title="Supernova Cosmology Project">Supernova Cosmology Project</a></li>
+<li><a href="/wiki/Supernova_Early_Warning_System" title="Supernova Early Warning System">Supernova Early Warning System</a></li>
+<li><a href="/wiki/Supernova_Legacy_Survey" title="Supernova Legacy Survey">Supernova Legacy Survey</a></li>
+<li><a href="/wiki/Texas_Supernova_Search" title="Texas Supernova Search">Texas Supernova Search</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Supernovae" title="Book:Supernovae">Book:Supernovae</a></b></li>
+<li><b><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Supernovae" title="Category:Supernovae">Category:Supernovae</a></b></li>
+<li><b><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Supernovae" title="commons:Category:Supernovae">Commons:Supernovae</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="White_dwarf" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:White_dwarf" title="Template:White dwarf"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:White_dwarf" title="Template talk:White dwarf"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:White_dwarf&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="White_dwarf" style="font-size:114%;margin:0 4em"><a href="/wiki/White_dwarf" title="White dwarf">White dwarf</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Formation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chandrasekhar_limit" title="Chandrasekhar limit">Chandrasekhar limit</a></li>
+<li><a href="/wiki/PG_1159_star" title="PG 1159 star">PG 1159 star</a></li>
+<li><a href="/wiki/Stellar_evolution" title="Stellar evolution">Stellar evolution</a></li>
+<li><a href="/wiki/Hertzsprung%E2%80%93Russell_diagram" title="Hertzsprung–Russell diagram">Hertzsprung–Russell diagram</a></li>
+<li><a href="/wiki/Mira_variable" title="Mira variable">Mira variable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fate</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Black_dwarf" title="Black dwarf">Black dwarf</a></li>
+<li><a href="/wiki/Type_Ia_supernova" title="Type Ia supernova">Type Ia supernova</a>
+<ul><li><a href="/wiki/List_of_supernova_candidates" title="List of supernova candidates">Candidates</a></li></ul></li>
+<li><a href="/wiki/Neutron_star" title="Neutron star">Neutron star</a>
+<ul><li><a href="/wiki/Pulsar" title="Pulsar">Pulsar</a></li>
+<li><a href="/wiki/Magnetar" title="Magnetar">Magnetar</a></li>
+<li><a href="/wiki/Template:Neutron_star" title="Template:Neutron star">Related links</a></li></ul></li>
+<li><a href="/wiki/Stellar_black_hole" title="Stellar black hole">Stellar black hole</a>
+<ul><li><a href="/wiki/Template:Black_holes" title="Template:Black holes">Related links</a></li></ul></li>
+<li><a href="/wiki/Compact_star" title="Compact star">Compact star</a>
+<ul><li><a href="/wiki/Quark_star" title="Quark star">Quark star</a></li>
+<li><a href="/wiki/Exotic_star" title="Exotic star">Exotic star</a></li></ul></li>
+<li><a href="/wiki/Extreme_helium_star" title="Extreme helium star">Extreme helium star</a></li>
+<li><a href="/wiki/Subdwarf_B_star" title="Subdwarf B star">Subdwarf B star</a></li>
+<li><a href="/wiki/Helium_planet" title="Helium planet">Helium planet</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">In binary<br/>systems</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Nova</a>
+<ul><li><a href="/wiki/Nova_remnant" title="Nova remnant">Remnant</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_novae" title="List of novae">List</a></li></ul></li>
+<li><a href="/wiki/Dwarf_nova" title="Dwarf nova">Dwarf nova</a></li>
+<li><a href="/wiki/Symbiotic_nova" title="Symbiotic nova">Symbiotic nova</a></li>
+<li><a href="/wiki/Cataclysmic_variable_star" title="Cataclysmic variable star">Cataclysmic variable star</a>
+<ul><li><a class="mw-redirect" href="/wiki/AM_CVn_star" title="AM CVn star">AM CVn star</a></li>
+<li><a class="mw-redirect" href="/wiki/Polar_(cataclysmic_variable)" title="Polar (cataclysmic variable)">Polar</a></li>
+<li><a href="/wiki/Intermediate_polar" title="Intermediate polar">Intermediate polar</a></li></ul></li>
+<li><a href="/wiki/X-ray_binary" title="X-ray binary">X-ray binary</a>
+<ul><li><a href="/wiki/Super_soft_X-ray_source" title="Super soft X-ray source">Super soft X-ray source</a></li></ul></li>
+<li><a href="/wiki/Binary_pulsar" title="Binary pulsar">Binary pulsar</a>
+<ul><li><a href="/wiki/X-ray_pulsar" title="X-ray pulsar">X-ray pulsar</a></li>
+<li><a href="/wiki/List_of_X-ray_pulsars" title="List of X-ray pulsars">List</a></li></ul></li>
+<li><a href="/wiki/Helium_flash" title="Helium flash">Helium flash</a></li>
+<li><a href="/wiki/Carbon_detonation" title="Carbon detonation">Carbon detonation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Properties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulsating_white_dwarf" title="Pulsating white dwarf">Pulsating</a></li>
+<li><a href="/wiki/Urca_process" title="Urca process">Urca process</a></li>
+<li><a href="/wiki/Degenerate_matter#Electron_degeneracy" title="Degenerate matter">Electron-degenerate matter</a></li>
+<li><a class="mw-redirect" href="/wiki/Quasi-periodic_oscillations" title="Quasi-periodic oscillations">Quasi-periodic oscillations</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Planetary_nebula" title="Planetary nebula">Planetary nebula</a>
+<ul><li><a href="/wiki/List_of_planetary_nebulae" title="List of planetary nebulae">List</a></li></ul></li>
+<li><a href="/wiki/Robust_associations_of_massive_baryonic_objects" title="Robust associations of massive baryonic objects">RAMBOs</a></li>
+<li><a class="mw-redirect" href="/wiki/White_dwarf_luminosity_function" title="White dwarf luminosity function">White dwarf luminosity function</a></li>
+<li><a href="/wiki/Timeline_of_white_dwarfs,_neutron_stars,_and_supernovae" title="Timeline of white dwarfs, neutron stars, and supernovae">Timeline of white dwarfs, neutron stars, and supernovae</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist">
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/List_of_white_dwarfs" title="List of white dwarfs">List</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:White_dwarfs" title="Category:White dwarfs">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:White_dwarfs" title="commons:Category:White dwarfs">WikiCommons</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Variable_stars" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Variable_star_topics" title="Template:Variable star topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Variable_star_topics" title="Template talk:Variable star topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Variable_star_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Variable_stars" style="font-size:114%;margin:0 4em"><a href="/wiki/Variable_star" title="Variable star">Variable stars</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Stellar_pulsation" title="Stellar pulsation">Pulsating</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cepheid_variable" title="Cepheid variable">Cepheids</a> and<br/>cepheid-like</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Classical_Cepheid_variable" title="Classical Cepheid variable">Classical</a></li>
+<li><a href="/wiki/Type_II_Cepheid" title="Type II Cepheid">Type II</a> <small>(<a href="/wiki/BL_Herculis_variable" title="BL Herculis variable">BL Herculis</a>, <a href="/wiki/W_Virginis_variable" title="W Virginis variable">W Virginis</a>, <a href="/wiki/RV_Tauri_variable" title="RV Tauri variable">RV Tauri</a>)</small></li>
+<li><a href="/wiki/RR_Lyrae_variable" title="RR Lyrae variable">RR Lyrae</a></li>
+<li><a href="/wiki/Delta_Scuti_variable" title="Delta Scuti variable">Delta Scuti</a></li>
+<li><a href="/wiki/Rapidly_oscillating_Ap_star" title="Rapidly oscillating Ap star">Rapidly oscillating Ap</a></li>
+<li><a href="/wiki/SX_Phoenicis_variable" title="SX Phoenicis variable">SX Phoenicis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Blue-white with<br/>early spectra</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alpha_Cygni_variable" title="Alpha Cygni variable">Alpha Cygni</a></li>
+<li><a href="/wiki/Beta_Cephei_variable" title="Beta Cephei variable">Beta Cephei</a></li>
+<li><a class="mw-redirect" href="/wiki/Slowly_pulsating_B_star" title="Slowly pulsating B star">Slowly pulsating B</a></li>
+<li><a href="/wiki/PV_Telescopii_variable" title="PV Telescopii variable">PV Telescopii</a></li>
+<li><a href="/wiki/Blue_large-amplitude_pulsator" title="Blue large-amplitude pulsator">Blue large-amplitude pulsator</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Long-period_variable_star" title="Long-period variable star">Long-period</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mira_variable" title="Mira variable">Mira</a></li>
+<li><a href="/wiki/Semiregular_variable_star" title="Semiregular variable star">Semiregular</a></li>
+<li><a href="/wiki/Slow_irregular_variable" title="Slow irregular variable">Slow irregular</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gamma_Doradus_variable" title="Gamma Doradus variable">Gamma Doradus</a></li>
+<li><a href="/wiki/Solar-like_oscillations" title="Solar-like oscillations">Solar-like oscillations</a></li>
+<li><a href="/wiki/Pulsating_white_dwarf" title="Pulsating white dwarf">White dwarf</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Eruptive</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pre-main-sequence_star" title="Pre-main-sequence star">Protostar</a> and <a href="/wiki/Pre-main-sequence_star" title="Pre-main-sequence star">PMS</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FU_Orionis_star" title="FU Orionis star">FU Orionis</a></li>
+<li><a href="/wiki/Herbig_Ae/Be_star" title="Herbig Ae/Be star">Herbig Ae/Be</a></li>
+<li><a href="/wiki/Orion_variable" title="Orion variable">Orion</a> <small>(<a href="/wiki/T_Tauri_star" title="T Tauri star">T Tauri</a>)</small></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Giants and<br/>supergiants</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Luminous_blue_variable" title="Luminous blue variable">Luminous blue variable</a></li>
+<li><a href="/wiki/R_Coronae_Borealis_variable" title="R Coronae Borealis variable">R Coronae Borealis</a> <small>(<a href="/wiki/DY_Persei_variable" title="DY Persei variable">DY Persei</a>)</small></li>
+<li><a href="/wiki/Yellow_hypergiant" title="Yellow hypergiant">Yellow hypergiant</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Eruptive binary</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Double_periodic_variable" title="Double periodic variable">Double periodic</a></li>
+<li><a href="/wiki/FS_Canis_Majoris_variable" title="FS Canis Majoris variable">FS Canis Majoris</a></li>
+<li><a href="/wiki/RS_Canum_Venaticorum_variable" title="RS Canum Venaticorum variable">RS Canum Venaticorum</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flare_star" title="Flare star">Flare</a></li>
+<li><a href="/wiki/Gamma_Cassiopeiae_variable" title="Gamma Cassiopeiae variable">Gamma Cassiopeiae</a></li>
+<li><a href="/wiki/Lambda_Eridani_variable" title="Lambda Eridani variable">Lambda Eridani</a></li>
+<li><a href="/wiki/Wolf%E2%80%93Rayet_star" title="Wolf–Rayet star">Wolf–Rayet</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cataclysmic_variable_star" title="Cataclysmic variable star">Cataclysmic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AM_Canum_Venaticorum_star" title="AM Canum Venaticorum star">AM Canum Venaticorum</a></li>
+<li><a href="/wiki/Dwarf_nova" title="Dwarf nova">Dwarf nova</a></li>
+<li><a href="/wiki/Luminous_red_nova" title="Luminous red nova">Luminous red nova</a></li>
+<li><a class="mw-selflink selflink">Nova</a></li>
+<li><a href="/wiki/Polar_(star)" title="Polar (star)">Polar</a></li>
+<li><a href="/wiki/Intermediate_polar" title="Intermediate polar">Intermediate polar</a></li>
+<li><a href="/wiki/Supernova" title="Supernova">Supernova</a>
+<ul><li><small><a class="mw-redirect" href="/wiki/Hypernova" title="Hypernova">Hypernova</a></small></li></ul></li>
+<li><a href="/wiki/SW_Sextantis_variable" title="SW Sextantis variable">SW Sextantis</a></li>
+<li><a class="mw-redirect" href="/wiki/Symbiotic_star" title="Symbiotic star">Symbiotic</a>
+<ul><li><small><a href="/wiki/Symbiotic_nova" title="Symbiotic nova">Symbiotic nova</a></small></li>
+<li><small><a class="mw-redirect" href="/wiki/Z_Andromedae_variable" title="Z Andromedae variable">Z Andromedae</a></small></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Rotating</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Non-spherical</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rotating_ellipsoidal_variable" title="Rotating ellipsoidal variable">Rotating ellipsoidal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Stellar spots</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BY_Draconis_variable" title="BY Draconis variable">BY Draconis</a></li>
+<li><a class="mw-redirect" href="/wiki/FK_Comae_Berenices_variable" title="FK Comae Berenices variable">FK Comae Berenices</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Magnetic fields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Alpha%C2%B2_Canum_Venaticorum_variable" title="Alpha² Canum Venaticorum variable">Alpha² Canum Venaticorum</a></li>
+<li><a href="/wiki/Pulsar" title="Pulsar">Pulsar</a></li>
+<li><a href="/wiki/SX_Arietis_variable" title="SX Arietis variable">SX Arietis</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Eclipsing_binary" title="Eclipsing binary">Eclipsing</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algol_variable" title="Algol variable">Algol</a></li>
+<li><a href="/wiki/Beta_Lyrae_variable" title="Beta Lyrae variable">Beta Lyrae</a></li>
+<li><a class="mw-redirect" href="/wiki/Planetary_transit_variable" title="Planetary transit variable">Planetary transit</a></li>
+<li><a href="/wiki/W_Ursae_Majoris_variable" title="W Ursae Majoris variable">W Ursae Majoris</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a class="image" href="/wiki/File:He1523a.jpg"><img alt="He1523a.jpg" class="noviewer" data-file-height="207" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/14px-He1523a.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/21px-He1523a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/28px-He1523a.jpg 2x" width="14"/></a> <a href="/wiki/Portal:Star" title="Portal:Star">Star portal</a></b></div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6458&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6458&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q6458" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4172093-3" rel="nofollow">4172093-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00571136" rel="nofollow">00571136</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20190213224334
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.560 seconds
+Real time usage: 0.720 seconds
+Preprocessor visited node count: 1964/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120600/2097152 bytes
+Template argument size: 1613/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61037/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.270/10.000 seconds
+Lua memory usage: 5.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  528.692      1 -total
+ 41.68%  220.377      1 Template:Reflist
+ 31.02%  163.989      8 Template:Cite_journal
+ 14.40%   76.112      7 Template:Navbox
+  8.79%   46.460      1 Template:Expand_section
+  7.30%   38.589      1 Template:Ambox
+  7.10%   37.536      1 Template:Authority_control
+  6.23%   32.918      8 Template:Cite_book
+  5.70%   30.118      1 Template:Variable_star_topics
+  5.27%   27.862      1 Template:Other_uses
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21784-0!canonical and timestamp 20190213224333 and revision id 882356959
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nova&amp;oldid=882356959">https://en.wikipedia.org/w/index.php?title=Nova&amp;oldid=882356959</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Novae" title="Category:Novae">Novae</a></li><li><a href="/wiki/Category:Stellar_phenomena" title="Category:Stellar phenomena">Stellar phenomena</a></li><li><a href="/wiki/Category:Astronomical_events" title="Category:Astronomical events">Astronomical events</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_March_2010" title="Category:Articles to be expanded from March 2010">Articles to be expanded from March 2010</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nova" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nova" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Nova" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Nova" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Nova">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Nova&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Nova&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Nova" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nova" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nova&amp;oldid=882356959" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nova&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6458" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nova&amp;id=882356959" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nova">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nova&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Nova&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Novae" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Stars/Novas" hreflang="en">Wikiversity</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Nova" hreflang="af" lang="af" title="Nova – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%B9%D8%B1" hreflang="ar" lang="ar" title="مستعر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Nova" hreflang="ast" lang="ast" title="Nova – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%AC%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE" hreflang="bn" lang="bn" title="নবতারা – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B7%D0%BE%D1%80%D0%BA%D0%B0" hreflang="be" lang="be" title="Новая зорка – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Nova_(zvijezda)" hreflang="bs" lang="bs" title="Nova (zvijezda) – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Nova" hreflang="ca" lang="ca" title="Nova – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Nova" hreflang="cs" lang="cs" title="Nova – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nova_(Stern)" hreflang="de" lang="de" title="Nova (Stern) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Noova" hreflang="et" lang="et" title="Noova – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%B9%CE%BD%CE%BF%CF%86%CE%B1%CE%BD%CE%AE%CF%82_%CE%B1%CF%83%CF%84%CE%AD%CF%81%CE%B1%CF%82" hreflang="el" lang="el" title="Καινοφανής αστέρας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nova" hreflang="es" lang="es" title="Nova – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Novao" hreflang="eo" lang="eo" title="Novao – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Noba" hreflang="eu" lang="eu" title="Noba – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%A7%D8%AE%D8%AA%D8%B1" hreflang="fa" lang="fa" title="نواختر – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Nova" hreflang="fr" lang="fr" title="Nova – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/N%C3%B3va" hreflang="ga" lang="ga" title="Nóva – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Nova_(astronom%C3%ADa)" hreflang="gl" lang="gl" title="Nova (astronomía) – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%84%B1_(%EC%B2%9C%EC%B2%B4)" hreflang="ko" lang="ko" title="신성 (천체) – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8B%E0%A4%B5%E0%A4%BE" hreflang="hi" lang="hi" title="नोवा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Nova" hreflang="hr" lang="hr" title="Nova – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Nova" hreflang="id" lang="id" title="Nova – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Nova" hreflang="it" lang="it" title="Nova – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%91%D7%94" hreflang="he" lang="he" title="נובה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Nyota_nova" hreflang="sw" lang="sw" title="Nyota nova – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Nova" hreflang="lv" lang="lv" title="Nova – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Nova_(St%C3%A4r)" hreflang="lb" lang="lb" title="Nova (Stär) – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Nova_(astronomija)" hreflang="lt" lang="lt" title="Nova (astronomija) – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/N%C3%B3va" hreflang="hu" lang="hu" title="Nóva – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0" hreflang="mk" lang="mk" title="Нова – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%8B%E0%B4%B5" hreflang="ml" lang="ml" title="നോവ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Nova" hreflang="ms" lang="ms" title="Nova – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%94%E1%80%AD%E1%80%AF%E1%80%97%E1%80%AC" hreflang="my" lang="my" title="နိုဗာ – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Nova_(sterrenkunde)" hreflang="nl" lang="nl" title="Nova (sterrenkunde) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%96%B0%E6%98%9F" hreflang="ja" lang="ja" title="新星 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Nova_(stjerne)" hreflang="no" lang="no" title="Nova (stjerne) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Nova" hreflang="nn" lang="nn" title="Nova – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/N%C3%B2va" hreflang="oc" lang="oc" title="Nòva – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Yangi_yulduzlar" hreflang="uz" lang="uz" title="Yangi yulduzlar – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%86%D9%88%D9%88%D8%A7" hreflang="pnb" lang="pnb" title="نووا – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Nowa_klasyczna" hreflang="pl" lang="pl" title="Nowa klasyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Nova" hreflang="pt" lang="pt" title="Nova – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Nov%C4%83" hreflang="ro" lang="ro" title="Novă – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" hreflang="ru" lang="ru" title="Новая звезда – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Nova" hreflang="sco" lang="sco" title="Nova – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Nova" hreflang="en-simple" lang="en-simple" title="Nova – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Nova_(astron%C3%B3mia)" hreflang="sk" lang="sk" title="Nova (astronómia) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0" hreflang="sr" lang="sr" title="Нова – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Nova" hreflang="sh" lang="sh" title="Nova – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Nova" hreflang="fi" lang="fi" title="Nova – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Nova" hreflang="sv" lang="sv" title="Nova – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Nova" hreflang="tl" lang="tl" title="Nova – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="குறுமீன் வெடிப்பு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B8%B2" hreflang="th" lang="th" title="โนวา – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Nova" hreflang="tr" lang="tr" title="Nova – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%B7%D0%BE%D1%80%D1%8F" hreflang="uk" lang="uk" title="Нова зоря – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/T%C3%A2n_tinh" hreflang="vi" lang="vi" title="Tân tinh – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Noba" hreflang="war" lang="war" title="Noba – Waray">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E6%96%B0%E6%98%9F" hreflang="wuu" lang="wuu" title="新星 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%96%B0%E6%98%9F" hreflang="yue" lang="yue" title="新星 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%96%B0%E6%98%9F" hreflang="zh" lang="zh" title="新星 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6458#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 February 2019, at 14:51<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nova&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.560","walltime":"0.720","ppvisitednodes":{"value":1964,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120600,"limit":2097152},"templateargumentsize":{"value":1613,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61037,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  528.692      1 -total"," 41.68%  220.377      1 Template:Reflist"," 31.02%  163.989      8 Template:Cite_journal"," 14.40%   76.112      7 Template:Navbox","  8.79%   46.460      1 Template:Expand_section","  7.30%   38.589      1 Template:Ambox","  7.10%   37.536      1 Template:Authority_control","  6.23%   32.918      8 Template:Cite_book","  5.70%   30.118      1 Template:Variable_star_topics","  5.27%   27.862      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":6165595,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1272","timestamp":"20190213224334","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1328"});});</script>
+</body>
+</html>
+

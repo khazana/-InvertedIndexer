@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Religion in space - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Religion_in_space","wgTitle":"Religion in space","wgCurRevisionId":879873924,"wgRevisionId":879873924,"wgArticleId":24210813,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2010","Wikipedia articles needing clarification from August 2017","Religion by location","Spaceflight"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Religion_in_space","wgRelevantArticleId":24210813,"wgRequestId":"XGHphApAAD8AAHVwkkEAAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7311260","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Expedition_31_Orthodox_blessing.jpg/1200px-Expedition_31_Orthodox_blessing.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Religion_in_space" rel="alternate"/>
+<link href="/w/index.php?title=Religion_in_space&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Religion_in_space&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Religion_in_space" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Religion_in_space rootpage-Religion_in_space skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Religion in space</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><a href="/wiki/Astronaut" title="Astronaut">Astronauts</a>, <a href="/wiki/Astronaut" title="Astronaut">cosmonauts</a>, and <a class="mw-redirect" href="/wiki/Spaceflight_participant" title="Spaceflight participant">spaceflight participants</a> have observed their religions while in space; sometimes publicly, sometimes privately. Religious adherence in outer space poses unique challenges and opportunities for practitioners. Space travelers have reported profound changes in the way they view their faith related to the <a href="/wiki/Overview_effect" title="Overview effect">overview effect</a>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> while some secular groups have criticized the use of government spacecraft for religious activities by astronauts.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Expedition_31_Orthodox_blessing.jpg"><img alt="" class="thumbimage" data-file-height="2637" data-file-width="3964" decoding="async" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Expedition_31_Orthodox_blessing.jpg/220px-Expedition_31_Orthodox_blessing.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Expedition_31_Orthodox_blessing.jpg/330px-Expedition_31_Orthodox_blessing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Expedition_31_Orthodox_blessing.jpg/440px-Expedition_31_Orthodox_blessing.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Expedition_31_Orthodox_blessing.jpg" title="Enlarge"></a></div>A Russian Orthodox priest blesses the Soyuz rocket for ISS Expedition 31</div></div></div>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Apollo_8_Genesis_Reading"><span class="tocnumber">1</span> <span class="toctext">Apollo 8 Genesis Reading</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Christianity"><span class="tocnumber">2</span> <span class="toctext">Christianity</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Protestantism"><span class="tocnumber">2.1</span> <span class="toctext">Protestantism</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Roman_Catholicism"><span class="tocnumber">2.2</span> <span class="toctext">Roman Catholicism</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Russian_Orthodoxy"><span class="tocnumber">2.3</span> <span class="toctext">Russian Orthodoxy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Islam"><span class="tocnumber">3</span> <span class="toctext">Islam</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Judaism"><span class="tocnumber">4</span> <span class="toctext">Judaism</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Apollo_8_Genesis_Reading">Apollo 8 Genesis Reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=1" title="Edit section: Apollo 8 Genesis Reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="115.64444444444" data-mwprovider="wikimediacommons" data-mwtitle="Apollo_8_genesis_reading.ogg" data-startoffset="0" id="mwe_player_0" preload="none" style="width:220px"><source data-bandwidth="36617" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (37 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/2/2e/Apollo_8_genesis_reading.ogg" type='audio/ogg; codecs="vorbis"'/><source data-bandwidth="81800" data-height="0" data-shorttitle="MP3" data-title="MP3" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/Apollo_8_genesis_reading.ogg/Apollo_8_genesis_reading.ogg.mp3" type="audio/mpeg"/><track data-dir="ltr" data-mwprovider="wikimediacommons" data-mwtitle="TimedText:Apollo_8_genesis_reading.ogg.en.srt" kind="subtitles" label="English (en) subtitles" src="https://commons.wikimedia.org/w/index.php?title=TimedText:Apollo_8_genesis_reading.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" type="text/x-srt"/></audio></div> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Apollo_8_genesis_reading.ogg" title="Enlarge"></a></div>The Apollo 8 Genesis reading.</div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Apollo_8_Genesis_Reading" title="Apollo 8 Genesis Reading">Apollo 8 Genesis Reading</a></div>
+<p>On Christmas Eve, 1968 astronauts <a class="mw-redirect" href="/wiki/Bill_Anders" title="Bill Anders">Bill Anders</a>, <a href="/wiki/Jim_Lovell" title="Jim Lovell">Jim Lovell</a>, and <a href="/wiki/Frank_Borman" title="Frank Borman">Frank Borman</a> read from the <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Book of Genesis</a> as <a href="/wiki/Apollo_8" title="Apollo 8">Apollo 8</a> orbited the Moon.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> A lawsuit by <a href="/wiki/American_Atheists" title="American Atheists">American Atheists</a> founder <a href="/wiki/Madalyn_Murray_O%27Hair" title="Madalyn Murray O'Hair">Madalyn Murray O'Hair</a> alleged that the observance amounted to a government endorsement of religion in violation of the <a href="/wiki/First_Amendment_to_the_United_States_Constitution" title="First Amendment to the United States Constitution">First Amendment</a>,<sup class="reference" id="cite_ref-aldrin_4-0"><a href="#cite_note-aldrin-4">[4]</a></sup> but the case was dismissed.
+</p>
+<h2><span class="mw-headline" id="Christianity">Christianity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=2" title="Edit section: Christianity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Christmas_on_the_International_Space_Station" title="Christmas on the International Space Station">Christmas on the International Space Station</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:ISS_christmas_2009.jpg"><img alt="" class="thumbimage" data-file-height="2848" data-file-width="4288" decoding="async" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ISS_christmas_2009.jpg/220px-ISS_christmas_2009.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ISS_christmas_2009.jpg/330px-ISS_christmas_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ISS_christmas_2009.jpg/440px-ISS_christmas_2009.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:ISS_christmas_2009.jpg" title="Enlarge"></a></div>ISS crew with festive Christmas hats aboard <a href="/wiki/Zvezda_(ISS_module)" title="Zvezda (ISS module)">Zvezda</a> service module of ISS in 2009.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:ISS-26_Christmas_morning.jpg"><img alt="" class="thumbimage" data-file-height="2848" data-file-width="4288" decoding="async" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ISS-26_Christmas_morning.jpg/220px-ISS-26_Christmas_morning.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ISS-26_Christmas_morning.jpg/330px-ISS-26_Christmas_morning.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ISS-26_Christmas_morning.jpg/440px-ISS-26_Christmas_morning.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:ISS-26_Christmas_morning.jpg" title="Enlarge"></a></div>Christmas morning in Node 3 in 2010.</div></div></div>
+<p>On <a href="/wiki/STS-128" title="STS-128">STS-128</a> astronaut <a class="mw-redirect" href="/wiki/Patrick_Forrester" title="Patrick Forrester">Patrick Forrester</a> brought a fragment of a <a class="mw-redirect" href="/wiki/Missionary_Aviation_Fellowship" title="Missionary Aviation Fellowship">Missionary Aviation Fellowship</a> aircraft which crashed in Ecuador in 1956.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Protestantism">Protestantism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=3" title="Edit section: Protestantism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Apollo_11" title="Apollo 11">Apollo 11</a> astronaut <a href="/wiki/Buzz_Aldrin" title="Buzz Aldrin">Buzz Aldrin</a>, a <a class="mw-redirect" href="/wiki/Presbyterian" title="Presbyterian">Presbyterian</a>, performed a <a href="/wiki/Eucharist" title="Eucharist">communion</a> service for himself using a kit provided by his church. Aldrin had told flight director <a class="mw-redirect" href="/wiki/Chris_Kraft" title="Chris Kraft">Chris Kraft</a> of his plans and intended to broadcast the service back to Earth but opted not to at the request of <a href="/wiki/Deke_Slayton" title="Deke Slayton">Deke Slayton</a>, due to the continuing controversy over Apollo 8's reading.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>A microfilm <a href="/wiki/Bible" title="Bible">Bible</a> that had been to the surface of the Moon was auctioned off in 2011
+.<sup class="reference" id="cite_ref-nicola_7-0"><a href="#cite_note-nicola-7">[7]</a></sup> It was a <a href="/wiki/King_James_Version" title="King James Version">King James Version</a> created after three astronauts lost their lives in the <a href="/wiki/Apollo_1" title="Apollo 1">Apollo 1</a> fire.<sup class="reference" id="cite_ref-nicola_7-1"><a href="#cite_note-nicola-7">[7]</a></sup> <a href="/wiki/Ed_White_(astronaut)" title="Ed White (astronaut)">Ed White</a>, one of the astronauts who perished, had wanted to take a Bible to the Moon.<sup class="reference" id="cite_ref-nicola_7-2"><a href="#cite_note-nicola-7">[7]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Roman_Catholicism">Roman Catholicism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=4" title="Edit section: Roman Catholicism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A signed message from <a href="/wiki/Pope_Paul_VI" title="Pope Paul VI">Pope Paul VI</a> was included among statements from dozens of other world leaders left on the moon on a silicon disk during the <a href="/wiki/Apollo_11" title="Apollo 11">Apollo 11</a> mission.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Following the mission <a href="/wiki/William_Donald_Borders" title="William Donald Borders">William Donald Borders</a>, Bishop of the <a href="/wiki/Roman_Catholic_Diocese_of_Orlando" title="Roman Catholic Diocese of Orlando">Roman Catholic Diocese of Orlando</a>, told the Pope that the <a href="/wiki/1917_Code_of_Canon_Law" title="1917 Code of Canon Law">1917 Code of Canon Law</a> placed the moon within his diocese, as the first explorers had departed from Cape Kennedy which was under his jurisdiction.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>In May 2011, <a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">Pope Benedict XVI</a> of the Catholic Church talked to the crew of the <a href="/wiki/Space_Shuttle_Endeavour" title="Space Shuttle Endeavour">Space Shuttle <i>Endeavour</i></a> while it was in Earth orbit.<sup class="reference" id="cite_ref-thom_10-0"><a href="#cite_note-thom-10">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Russian_Orthodoxy">Russian Orthodoxy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=5" title="Edit section: Russian Orthodoxy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Russian Orthodox Christmas was celebrated on the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>, on January 7, 2011.<sup class="reference" id="cite_ref-russianchristmas_11-0"><a href="#cite_note-russianchristmas-11">[11]</a></sup>  Cosmonauts had the day off, but one of the other crew <a href="/wiki/Twitter" title="Twitter">tweeted</a>, "Merry Christmas to all Russia."<sup class="reference" id="cite_ref-russianchristmas_11-1"><a href="#cite_note-russianchristmas-11">[11]</a></sup> The whole crew also celebrated on December 25, two weeks prior.<sup class="reference" id="cite_ref-russianchristmas_11-2"><a href="#cite_note-russianchristmas-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Islam">Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=6" title="Edit section: Islam">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Muslims in space struggle with fulfilling their religious obligations including kneeling and facing Mecca to pray in microgravity traveling at several kilometres per second. The issue first came up when <a class="mw-redirect" href="/wiki/Sultan_bin_Salman_bin_Abdulaziz_Al_Saud" title="Sultan bin Salman bin Abdulaziz Al Saud">Sultan bin Salman bin Abdulaziz Al Saud</a>, a <a href="/wiki/House_of_Saud" title="House of Saud">Saudi</a> prince, flew aboard <a href="/wiki/STS-51-G" title="STS-51-G">STS-51-G</a> and again when <a href="/wiki/Anousheh_Ansari" title="Anousheh Ansari">Anousheh Ansari</a> flew as a tourist to the <a class="mw-redirect" href="/wiki/International_space_station" title="International space station">International space station</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> In preparation for Malaysian  <a href="/wiki/Sheikh_Muszaphar_Shukor" title="Sheikh Muszaphar Shukor">Sheikh Muszaphar Shukor</a>'s trip to the ISS in 2007, the <a class="mw-redirect" href="/wiki/National_Fatwa_Council" title="National Fatwa Council">National Fatwa Council</a> created  "Muslim Obligations in the International Space Station" outlining permissible modifications to rituals such as kneeling when praying (not required in space), facing Mecca when praying (left to the astronaut's best abilities at the start of prayer), and washing (a wet towel will suffice).<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>In February 2014, the General Authority of Islamic Affairs and Endowment (GAIAE)<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="no country specified (August 2017)">clarification needed</span></a></i>]</sup> issued a <a href="/wiki/Fatwa" title="Fatwa">fatwa</a> forbidding devout Muslims from participating as crew members in <a href="/wiki/Mars_One" title="Mars One">Mars One</a>'s proposed one way mission to <a href="/wiki/Mars" title="Mars">Mars</a>. Speaking for the clerical group, Farooq Hamada explained that, "Protecting life against all possible dangers and keeping it safe is an issue agreed upon by all religions and is clearly stipulated in verse 4/29 of the Holy Quran: Do not kill yourselves or one another. Indeed, Allah is to you ever Merciful."<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Judaism">Judaism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=7" title="Edit section: Judaism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An example of Judaism in space occurred in 2003, when a <a href="/wiki/Microform" title="Microform">microfilm</a> <a href="/wiki/Torah" title="Torah">Torah</a> and a written copy of the <a href="/wiki/Kiddush" title="Kiddush">Shabbat kiddush</a> were brought into orbit by <a href="/wiki/Ilan_Ramon" title="Ilan Ramon">Ilan Ramon</a>.<sup class="reference" id="cite_ref-thom_10-1"><a href="#cite_note-thom-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_religious_ideas_in_science_fiction" title="List of religious ideas in science fiction">List of religious ideas in science fiction</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="http://qz.com/496201/astronauts-report-an-overview-effect-from-the-awe-of-space-travel-and-you-can-replicate-it-here-on-earth/" rel="nofollow">http://qz.com/496201/astronauts-report-an-overview-effect-from-the-awe-of-space-travel-and-you-can-replicate-it-here-on-earth/</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=US&amp;vol=397&amp;invol=531&amp;friend=nytimes" rel="nofollow">"O'Hair v. Paine, 397 U.S. 531"</a>. Findlaw. 1970<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=O%27Hair+v.+Paine%2C+397+U.S.+531&amp;rft.pub=Findlaw&amp;rft.date=1970&amp;rft_id=http%3A%2F%2Fcaselaw.lp.findlaw.com%2Fcgi-bin%2Fgetcase.pl%3Fcourt%3DUS%26vol%3D397%26invol%3D531%26friend%3Dnytimes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Haney, Paul (August 10, 2009). <a class="external text" href="http://www.collectspace.com/news/news-081009a.html" rel="nofollow">"Further reflections on a golden space era"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Further+reflections+on+a+golden+space+era&amp;rft.date=2009-08-10&amp;rft.aulast=Haney&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.collectspace.com%2Fnews%2Fnews-081009a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-aldrin-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-aldrin_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Chaikin, Andrew (1994). <i>A Man On The Moon: The Voyages of the Apollo Astronauts</i>. Viking. pp. 204, 623. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-670-81446-6" title="Special:BookSources/0-670-81446-6">0-670-81446-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Man+On+The+Moon%3A+The+Voyages+of+the+Apollo+Astronauts&amp;rft.pages=204%2C+623&amp;rft.pub=Viking&amp;rft.date=1994&amp;rft.isbn=0-670-81446-6&amp;rft.au=Chaikin%2C+Andrew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">King, Robert (August 24, 2009). <a class="external text" href="http://blogs.indystar.com/thoushalt/2009/08/martyred_missio.html" rel="nofollow">"Martyred mission aviator's plane to fly again -- into space"</a>. Indianapolis Star<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Martyred+mission+aviator%27s+plane+to+fly+again+--+into+space&amp;rft.date=2009-08-24&amp;rft.aulast=King&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fblogs.indystar.com%2Fthoushalt%2F2009%2F08%2Fmartyred_missio.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since October 2010">dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">"Communion in Space". Guideposts. October 1970.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Communion+in+Space&amp;rft.date=1970-10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-nicola-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-nicola_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nicola_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nicola_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.christianpost.com/news/nasas-first-bible-on-the-moon-to-be-auctioned-off-54968/" rel="nofollow">Nicola Menzie - <b>NASA's First Bible on the Moon to Be Auctioned Off</b> (2011) - Christian Post Reporter</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external free" href="https://history.nasa.gov/ap11-35ann/goodwill/Apollo_11_material.pdf" rel="nofollow">https://history.nasa.gov/ap11-35ann/goodwill/Apollo_11_material.pdf</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.orlandodiocese.org/fno-diocesan-news/13768-remembering-the-bishop-of-the-moon" rel="nofollow">http://www.orlandodiocese.org/fno-diocesan-news/13768-remembering-the-bishop-of-the-moon</a></span>
+</li>
+<li id="cite_note-thom-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-thom_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thom_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://religion.blogs.cnn.com/2011/07/07/the-surprising-history-of-prayer-in-space/" rel="nofollow">Thom Patterson - The surprising history of prayer in space (2011)- CNN</a></span>
+</li>
+<li id="cite_note-russianchristmas-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-russianchristmas_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-russianchristmas_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-russianchristmas_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.space.com/9719-christmas-russians-space.html" rel="nofollow">Tariq Malik - <b>Christmas Comes Twice for Russians in Space</b> (07 January 2011) - SPACE.com</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Gartner, Bettina (October 10, 2007). <a class="external text" href="http://www.csmonitor.com/2007/1010/p16s02-stss.html" rel="nofollow">"How does an Islamic astronaut face Mecca in orbit?"</a>. Christian Science Monitor<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How+does+an+Islamic+astronaut+face+Mecca+in+orbit%3F&amp;rft.date=2007-10-10&amp;rft.aulast=Gartner&amp;rft.aufirst=Bettina&amp;rft_id=http%3A%2F%2Fwww.csmonitor.com%2F2007%2F1010%2Fp16s02-stss.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.msnbc.msn.com/id/20894077/" rel="nofollow">"Astronaut to grapple with daily prayer ritual"</a>. <a href="/wiki/MSNBC" title="MSNBC">MSNBC</a>. September 20, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Astronaut+to+grapple+with+daily+prayer+ritual&amp;rft.date=2007-09-20&amp;rft_id=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F20894077%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.theregister.co.uk/2014/02/22/muslim_clerics_issue_fatwa_banning_the_devout_from_mars_one_suicide_mission/" rel="nofollow">"Muslim clerics issue fatwa banning the devout from Mars One 'suicide' mission"</a>. The A Register. February 22, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Muslim+clerics+issue+fatwa+banning+the+devout+from+Mars+One+%27suicide%27+mission&amp;rft.date=2014-02-22&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2014%2F02%2F22%2Fmuslim_clerics_issue_fatwa_banning_the_devout_from_mars_one_suicide_mission%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReligion+in+space"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Religion_in_space&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://makkah.files.wordpress.com/2007/10/a_guideline_ibadah_at_iss.pdf" rel="nofollow">Performing Ibadah at the International Space Station</a>'</li>
+<li><a class="external text" href="http://www.nasa.gov/vision/space/livinginspace/Christmas_in_space.html" rel="nofollow">Christmas in the Heavens (NASA, 2003)</a></li>
+<li><a class="external text" href="http://www.dlr.de/rb/en/desktopdefault.aspx/tabid-4769/5005_read-33122/" rel="nofollow">Christmas in Space (DLR, 2011)</a></li></ul>
+<div aria-labelledby="..._in_space" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="text-align: center;;background:"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Inspace" title="Template:Inspace"><abbr style="text-align: center;;background:;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Inspace" title="Template talk:Inspace"><abbr style="text-align: center;;background:;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Inspace&amp;action=edit"><abbr style="text-align: center;;background:;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="..._in_space" style="font-size:114%;margin:0 4em"><i><a href="/wiki/List_of_topics_in_space" title="List of topics in space">... in space</a></i></div></th></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%;background:">Biology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animals_in_space" title="Animals in space">Animals</a> (<a href="/wiki/Soviet_space_dogs" title="Soviet space dogs">Dogs</a> · <a href="/wiki/Monkeys_and_apes_in_space" title="Monkeys and apes in space">Monkeys and non-human apes</a>)</li>
+<li><a href="/wiki/Effect_of_spaceflight_on_the_human_body" title="Effect of spaceflight on the human body">The human body</a></li>
+<li><a class="mw-redirect" href="/wiki/Space_exposure" title="Space exposure">The human body (exposed)</a></li>
+<li><a href="/wiki/Astronautical_hygiene" title="Astronautical hygiene">Hygiene</a></li>
+<li><a href="/wiki/Locomotion_in_space" title="Locomotion in space">Locomotion</a></li>
+<li><a href="/wiki/Space_medicine" title="Space medicine">Medicine</a></li>
+<li><a href="/wiki/List_of_microorganisms_tested_in_outer_space" title="List of microorganisms tested in outer space">Microorganisms</a></li>
+<li><a href="/wiki/Neuroscience_in_space" title="Neuroscience in space">Neuroscience</a></li>
+<li><a href="/wiki/Plants_in_space" title="Plants in space">Plants</a></li>
+<li><a href="/wiki/Sex_in_space" title="Sex in space">Sex</a></li>
+<li><a href="/wiki/Sleep_in_space" title="Sleep in space">Sleep</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Aurora-SpaceShuttle-EO.jpg" title="STS-39 in Earth orbit"><img alt="STS-39 in Earth orbit" data-file-height="1173" data-file-width="1782" decoding="async" height="92" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aurora-SpaceShuttle-EO.jpg/140px-Aurora-SpaceShuttle-EO.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aurora-SpaceShuttle-EO.jpg/210px-Aurora-SpaceShuttle-EO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aurora-SpaceShuttle-EO.jpg/280px-Aurora-SpaceShuttle-EO.jpg 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%;background:">Environment</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Corrosion_in_space" title="Corrosion in space">Corrosion</a></li>
+<li><a href="/wiki/Space_debris" title="Space debris">Debris</a></li>
+<li><a href="/wiki/Cosmic_dust" title="Cosmic dust">Dust</a></li>
+<li><a href="/wiki/Space_weather" title="Space weather">Weather</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%;background:">Society</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Space_archaeology" title="Space archaeology">Archaeology</a></li>
+<li><a href="/wiki/Space_burial" title="Space burial">Burial</a></li>
+<li><a href="/wiki/Christmas_on_the_International_Space_Station" title="Christmas on the International Space Station">Christmas</a></li>
+<li><a href="/wiki/Space_colonization" title="Space colonization">Colonization</a></li>
+<li><a href="/wiki/Space-based_economy" title="Space-based economy">Economy</a></li>
+<li><a href="/wiki/Space_exploration" title="Space exploration">Exploration</a></li>
+<li><a href="/wiki/Space_law" title="Space law">Law</a></li>
+<li><a href="/wiki/Space_force" title="Space force">Military</a>
+<ul><li><a href="/wiki/United_States_Space_Force" title="United States Space Force">United States</a></li></ul></li>
+<li><a href="/wiki/Music_in_space" title="Music in space">Music</a></li>
+<li><a class="mw-selflink selflink">Religion</a></li>
+<li><a href="/wiki/Space_tourism" title="Space tourism">Tourism</a></li>
+<li><a href="/wiki/Space_warfare" title="Space warfare">War</a></li>
+<li><a href="/wiki/Women_in_space" title="Women in space">Women</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%;background:">Technology</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_spaceflight-related_accidents_and_incidents" title="List of spaceflight-related accidents and incidents">Accidents</a></li>
+<li><a href="/wiki/Space_architecture" title="Space architecture">Architecture</a></li>
+<li><a href="/wiki/Space_food" title="Space food">Food</a></li>
+<li><a href="/wiki/Human_spaceflight" title="Human spaceflight">Human spaceflight</a></li>
+<li>Power (<a href="/wiki/Batteries_in_space" title="Batteries in space">Batteries</a> · <a href="/wiki/Nuclear_power_in_space" title="Nuclear power in space">Nuclear power</a> · <a href="/wiki/Space-based_solar_power" title="Space-based solar power">Solar power (for Earth)</a> · <a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a>)</li>
+<li><a href="/wiki/Space-based_radar" title="Space-based radar">Radar</a></li>
+<li><a href="/wiki/Space_telescope" title="Space telescope">Telescopes</a></li>
+<li><a href="/wiki/Space_toilet" title="Space toilet">Toilets</a></li>
+<li><a href="/wiki/Space_weapon" title="Space weapon">Weapons</a></li>
+<li><a href="/wiki/Writing_in_space" title="Writing in space">Writing</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%;background:">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Near_space" title="Near space">Near space</a></li>
+<li><a href="/wiki/Outer_space" title="Outer space">Outer space</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20190211213045
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.330 seconds
+Preprocessor visited node count: 854/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27977/2097152 bytes
+Template argument size: 1030/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26548/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 3.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  239.262      1 -total
+ 52.22%  124.940      1 Template:Reflist
+ 27.62%   66.090      2 Template:Cite_web
+ 25.43%   60.848      1 Template:Clarify
+ 22.65%   54.186      1 Template:Fix-span
+ 14.33%   34.281      4 Template:Category_handler
+ 10.92%   26.127      2 Template:See_also
+  8.38%   20.060      5 Template:Cite_news
+  7.67%   18.353      1 Template:Replace
+  6.90%   16.508      1 Template:Inspace
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24210813-0!canonical and timestamp 20190211213044 and revision id 879873924
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Religion_in_space&amp;oldid=879873924">https://en.wikipedia.org/w/index.php?title=Religion_in_space&amp;oldid=879873924</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Religion_by_location" title="Category:Religion by location">Religion by location</a></li><li><a href="/wiki/Category:Spaceflight" title="Category:Spaceflight">Spaceflight</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2017" title="Category:Wikipedia articles needing clarification from August 2017">Wikipedia articles needing clarification from August 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Religion+in+space" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Religion+in+space" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Religion_in_space" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Religion_in_space" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Religion_in_space">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Religion_in_space&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Religion_in_space&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Religion_in_space" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Religion_in_space" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Religion_in_space&amp;oldid=879873924" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Religion_in_space&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7311260" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Religion_in_space&amp;id=879873924" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Religion+in+space">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Religion+in+space&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Religion_in_space&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Uzayda_din" hreflang="tr" lang="tr" title="Uzayda din – Turkish">Türkçe</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7311260#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 January 2019, at 23:06<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Religion_in_space&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.330","ppvisitednodes":{"value":854,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27977,"limit":2097152},"templateargumentsize":{"value":1030,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26548,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  239.262      1 -total"," 52.22%  124.940      1 Template:Reflist"," 27.62%   66.090      2 Template:Cite_web"," 25.43%   60.848      1 Template:Clarify"," 22.65%   54.186      1 Template:Fix-span"," 14.33%   34.281      4 Template:Category_handler"," 10.92%   26.127      2 Template:See_also","  8.38%   20.060      5 Template:Cite_news","  7.67%   18.353      1 Template:Replace","  6.90%   16.508      1 Template:Inspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":3636583,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190211213045","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":451,"wgHostname":"mw1268"});});</script>
+</body>
+</html>
+

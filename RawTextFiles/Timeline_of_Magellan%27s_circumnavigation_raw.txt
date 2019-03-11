@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Timeline of the Magellan–Elcano circumnavigation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Timeline_of_the_Magellan–Elcano_circumnavigation","wgTitle":"Timeline of the Magellan–Elcano circumnavigation","wgCurRevisionId":882579671,"wgRevisionId":882579671,"wgArticleId":37462359,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Age of Discovery","Circumnavigators of the globe","Modern history timelines","Exploration of the Pacific Ocean","Spanish Empire","1519 in Spain","1519 in science","1520 in science","1521 in science","1522 in science","Magellan–Elcano circumnavigation","Spain in the Age of Discovery"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Timeline_of_the_Magellan–Elcano_circumnavigation","wgRelevantArticleId":37462359,"wgRequestId":"XGMbJgpAICMAAFSH97cAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Timeline_of_Magellan's_circumnavigation","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation","wgWikibaseItemId":"Q60524519","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/1200px-Magellan_Elcano_Circumnavigation-en.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" rel="alternate"/>
+<link href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Timeline_of_the_Magellan–Elcano_circumnavigation rootpage-Timeline_of_the_Magellan–Elcano_circumnavigation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Timeline of the Magellan–Elcano circumnavigation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Timeline_of_Magellan%27s_circumnavigation&amp;redirect=no" title="Timeline of Magellan's circumnavigation">Timeline of Magellan's circumnavigation</a>)</span></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <a class="mw-redirect" href="/wiki/Magellan%E2%80%93Elcano_circumnavigation" title="Magellan–Elcano circumnavigation">Magellan–Elcano circumnavigation</a> was the first <a href="/wiki/Circumnavigation" title="Circumnavigation">voyage around the world</a> in human history. It was a Spanish expedition that sailed from <a href="/wiki/Seville" title="Seville">Seville</a> in 1519 under the command of <a href="/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Ferdinand Magellan</a>, a Portuguese, in search of a maritime path from Spain to <a href="/wiki/East_Asia" title="East Asia">East Asia</a> through the <a href="/wiki/Americas" title="Americas">Americas</a> and across the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a>, and concluded by Spanish navigator <a class="mw-redirect" href="/wiki/Juan_Sebastian_Elcano" title="Juan Sebastian Elcano">Juan Sebastian Elcano</a> in 1522. Elcano and the 18 survivors of the expedition were the first men to circumnavigate the globe in a single expedition.<sup class="reference" id="cite_ref-cnn._CNN._1-0"><a href="#cite_note-cnn._CNN.-1">[1]</a></sup><sup class="reference" id="cite_ref-hist_WasM_2-0"><a href="#cite_note-hist_WasM-2">[2]</a></sup> </p><div class="thumb tright"><div class="thumbinner" style="width:602px;"><a class="image" href="/wiki/File:Magellan_Elcano_Circumnavigation-en.svg"><img alt="" class="thumbimage" data-file-height="1139" data-file-width="2246" decoding="async" height="304" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/600px-Magellan_Elcano_Circumnavigation-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/900px-Magellan_Elcano_Circumnavigation-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/1200px-Magellan_Elcano_Circumnavigation-en.svg.png 2x" width="600"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Magellan_Elcano_Circumnavigation-en.svg" title="Enlarge"></a></div><center>The Magellan–Elcano voyage. <i><a href="/wiki/Victoria_(ship)" title="Victoria (ship)">Victoria</a></i>, one of the original five ships, circumnavigated the globe, finishing three years after setting out.</center></div></div></div>
+<p>The  Spanish fleet, the <i><a href="/wiki/Armada_de_Molucca" title="Armada de Molucca">Armada de Molucca</a></i>, that left Spain on 20 September 1519 consisted of five ships with 270 men: <i><a href="/wiki/Trinidad_(ship)" title="Trinidad (ship)">Trinidad</a></i> under Magellan, Captain General; <i><a class="new" href="/w/index.php?title=San_Antonio_(spanish_ship)&amp;action=edit&amp;redlink=1" title="San Antonio (spanish ship) (page does not exist)">San Antonio</a></i> under <a href="/wiki/Juan_de_Cartagena" title="Juan de Cartagena">Juan de Cartagena</a>; <i><a href="/wiki/Concepci%C3%B3n_(carrack)" title="Concepción (carrack)">Concepcion</a></i> under <a class="new" href="/w/index.php?title=Gaspar_de_Quesada&amp;action=edit&amp;redlink=1" title="Gaspar de Quesada (page does not exist)">Gaspar de Quesada</a>; <i><a class="new" href="/w/index.php?title=Santiago_(spanish_ship)&amp;action=edit&amp;redlink=1" title="Santiago (spanish ship) (page does not exist)">Santiago</a></i> under <a href="/wiki/Jo%C3%A3o_Serr%C3%A3o" title="João Serrão">João Serrão</a>; and <i><a href="/wiki/Victoria_(ship)" title="Victoria (ship)">Victoria</a></i> under <a class="new" href="/w/index.php?title=Luiz_Mendoza&amp;action=edit&amp;redlink=1" title="Luiz Mendoza (page does not exist)">Luiz Mendoza</a>. 
+</p><p>After crossing the <a class="mw-redirect" href="/wiki/Atlantic" title="Atlantic">Atlantic</a> and wintering in <a href="/wiki/South_America" title="South America">South America</a>  the expedition navigated the <a class="mw-redirect" href="/wiki/Straits_of_Magellan" title="Straits of Magellan">Straits of Magellan</a>, then crossed the <a class="mw-redirect" href="/wiki/Pacific" title="Pacific">Pacific</a> to the <a href="/wiki/Philippines" title="Philippines">Philippines</a>.
+</p><p>Following Magellan's death in <a href="/wiki/Mactan" title="Mactan">Mactan</a> (<a href="/wiki/Philippines" title="Philippines">Philippines</a>) in 1521, <a href="/wiki/Juan_Sebasti%C3%A1n_Elcano" title="Juan Sebastián Elcano">Juan Sebastián Elcano</a> took command of the ship <i>Victoria</i>, sailing back to Spain across the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>, round the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a> and north along the west coast of <a href="/wiki/Africa" title="Africa">Africa</a>.
+The circumnavigation was completed by Elcano and a crew of 18 men in <i>Victoria</i>, returning to Spain nearly three years after they left on 6 September 1522.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Timeline"><span class="tocnumber">1</span> <span class="toctext">Timeline</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1519"><span class="tocnumber">1.1</span> <span class="toctext">1519</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1520"><span class="tocnumber">1.2</span> <span class="toctext">1520</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1521"><span class="tocnumber">1.3</span> <span class="toctext">1521</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1522"><span class="tocnumber">1.4</span> <span class="toctext">1522</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Notes"><span class="tocnumber">2.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=1" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1519">1519</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=2" title="Edit section: 1519">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>August 10:  Departure from <a href="/wiki/Seville" title="Seville">Seville</a>. 
+</p><p>September 20: Departure from <a href="/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda">Sanlúcar de Barrameda</a>.
+</p><p>December 13: Entering the bay of <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>.
+</p><p>December 31: Departure from Rio de Janeiro.
+</p>
+<h3><span class="mw-headline" id="1520">1520</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=3" title="Edit section: 1520">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>January 10: Entering the <a href="/wiki/R%C3%ADo_de_la_Plata" title="Río de la Plata">Río de la Plata</a>.
+</p><p>February 27: Entering Bahia de los Patos.
+</p><p>March 31: Begin of the overwintering stay at <a href="/wiki/Puerto_San_Juli%C3%A1n" title="Puerto San Julián">Puerto San Julián</a>.
+</p><p>April 1 and 2: <a href="/wiki/Mutiny" title="Mutiny">Mutiny</a> on <i>Victoria</i>, <i>Concepcion</i> and <i>San Antonio</i>; death of Louis de Mendoza. Later execution of de Quesada, marooning of de Cartagena.   Alvaro de Mesquita becomes captain of <i>San Antonio</i>, <a href="/wiki/Duarte_Barbosa" title="Duarte Barbosa">Duarte Barbosa</a> of  <i>Victoria</i>. 
+</p><p>End of April: <i>Santiago</i> is sent on a mission to find the passage. The ship is caught in a storm and wrecked. Survivors return to Puerto San Julián. Serrano (<a href="/wiki/Jo%C3%A3o_Serr%C3%A3o" title="João Serrão">João Serrão</a>) becomes captain of the <i>Concepcion</i>.
+</p><p>July: Encounters with the “<a class="mw-redirect" href="/wiki/Patagonian_giants" title="Patagonian giants">Patagonian giants</a>” (likely the <a href="/wiki/Tehuelche_people" title="Tehuelche people">Tehuelche people</a>).
+</p><p>August 24: Departure from Puerto San Julián.
+</p><p>October 21: Arriving at the <a href="/wiki/Cape_Virgenes" title="Cape Virgenes">Cape of the Eleven Thousand Virgins</a>, entry to what would be known as <a href="/wiki/Strait_of_Magellan" title="Strait of Magellan">Strait of Magellan</a>.
+</p><p>End of October: <i>San Antonio</i>, charged to explore Magdalen Sound, fails to return to the fleet, instead sails back to Spain under <a href="/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes">Estêvão Gomes</a> who imprisoned captain de Mesquita. The ship arrives in Spain on May 21, 1521.
+</p><p>November 28: The fleet leaves the strait and enters the Pacific Ocean.
+</p>
+<h3><span class="mw-headline" id="1521">1521</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=4" title="Edit section: 1521">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>March 6: Arrival at <a href="/wiki/Guam" title="Guam">Guam</a> and encounters with the <a href="/wiki/Chamorro_people" title="Chamorro people">Chamorro people</a>.
+</p><p>March 16: Arrival of Magellan's expedition to one of the Philippine Islands. They headed to Suluan and dropped anchor for a few hours of respite.  <a href="/wiki/Suluan" title="Suluan">Suluan</a> is a small island in the province of <a href="/wiki/Eastern_Samar" title="Eastern Samar">Eastern Samar</a>. They then next dropped anchor at <a class="mw-redirect" href="/wiki/Homonhon_Island" title="Homonhon Island">Homonhon</a>, another small island in the province of Eastern Samar. They were detected by the boats of <a href="/wiki/Rajah_Humabon" title="Rajah Humabon">Rajah Kolambu</a> who was visiting <a href="/wiki/Dimasaua" title="Dimasaua">Mazaua</a>, who later guided them to Cebu, on April 7.
+</p><p>April 7: Arrival at the <a href="/wiki/Rajahnate_of_Cebu" title="Rajahnate of Cebu">Rajahnate of Cebu</a>.
+</p><p>April 27: Death of Magellan in the <a href="/wiki/Battle_of_Mactan" title="Battle of Mactan">Battle of Mactan</a>. Serrano and Barbosa are voted co-commanders.
+</p><p>May 1:  At a local banquet Barbosa and 27 sailors (including Afonso de Góis, the new captain of <i>Victoria</i> after the election of Barbosa and Serrão) are murdered and Serrao captured, later killed. The three remaining ships escape.
+</p><p>May 2: There are not enough men to handle three ships, thus the worm-infested <i>Concepcion</i> is burned down. Two ships remain: <i>Victoria</i> and <i>Trinidad</i>. Gonzalo Gomez de Espinosa becomes captain of <i>Victoria</i>. Joao  Lopez Carvalho is Captain General. The ships sail to <a href="/wiki/Mindanao" title="Mindanao">Mindanao</a> and <a href="/wiki/Brunei" title="Brunei">Brunei</a>.
+</p><p>September 21: Carvalho is replaced by Espinosa as Captain General. <a class="mw-redirect" href="/wiki/Juan_Sebastian_Elcano" title="Juan Sebastian Elcano">Juan Sebastian Elcano</a> becomes captain of <i>Victoria</i>.
+</p><p>November 8: Arriving at <a href="/wiki/Tidore" title="Tidore">Tidore</a> in the <a class="mw-redirect" href="/wiki/Moluccas" title="Moluccas">Moluccas</a>.
+</p><p>December 21: <i>Victoria</i> under the command of Elcano leaves the Moluccas to return home, sailing west towards the Cape of Good Hope. <i>Trinidad</i> remains at Tidore for repairs.
+</p>
+<h3><span class="mw-headline" id="1522">1522</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=5" title="Edit section: 1522">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>January 25:  <i>Victoria</i> reaches <a href="/wiki/Timor" title="Timor">Timor</a> and starts to cross the Indian Ocean.
+</p><p>April 6: <i>Trinidad</i> under the command of Espinosa leaves the Moluccas heading home sailing east. After five weeks, Espinosa decides to return to the <a class="mw-redirect" href="/wiki/Moluccas" title="Moluccas">Moluccas</a> where he and his ship are captured by a Portuguese fleet under Antonio de Brito. However, the ship was wrecked during a storm.
+</p><p>May 22: <i>Victoria</i> passes the <a href="/wiki/Cape_of_Good_Hope" title="Cape of Good Hope">Cape of Good Hope</a> and enters the Atlantic Ocean.
+</p><p>July 9: <i>Victoria</i> reaches <a href="/wiki/Santiago,_Cape_Verde" title="Santiago, Cape Verde">Santiago, Cape Verde</a>.
+</p><p>September 6: <i>Victoria</i> returns to <a href="/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda">Sanlúcar de Barrameda</a> under the command of Elcano, two weeks shy of three years after setting sail.
+</p><p>September 8: <i>Victoria</i> arrives at Seville, technically completing the circumnavigation.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="193" data-file-width="193" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a class="extiw" href="https://en.wikivoyage.org/wiki/Magellan-Elcano_circumnavigation#Q60524519" title="wikivoyage:Magellan-Elcano circumnavigation">Magellan-Elcano circumnavigation</a></b></i>.</td></tr></tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-cnn._CNN.-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-cnn._CNN._1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Coren, Michael (2005-03-07). <a class="external text" href="http://www.cnn.com/2005/TECH/03/03/globalflyer.fossett/index.html?iref=newssearch" rel="nofollow">"Fossett makes history"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Fossett+makes+history&amp;rft.date=2005-03-07&amp;rft.au=Coren%2C+Michael&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2005%2FTECH%2F03%2F03%2Fglobalflyer.fossett%2Findex.html%3Firef%3Dnewssearch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATimeline+of+the+Magellan%E2%80%93Elcano+circumnavigation"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-hist_WasM-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-hist_WasM_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Evans Andrews (2014-08-27). <a class="external text" href="http://www.history.com/news/ask-history/was-magellan-the-first-person-to-circumnavigate-the-globe" rel="nofollow">"Was Magellan the first person to circumnavigate the globe?"</a>. <i>HISTORY.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HISTORY.com&amp;rft.atitle=Was+Magellan+the+first+person+to+circumnavigate+the+globe%3F&amp;rft.date=2014-08-27&amp;rft.au=Evans+Andrews&amp;rft_id=http%3A%2F%2Fwww.history.com%2Fnews%2Fask-history%2Fwas-magellan-the-first-person-to-circumnavigate-the-globe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATimeline+of+the+Magellan%E2%80%93Elcano+circumnavigation"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Laurence Bergreen, <i>Over the Edge of the World</i>. Harper Perennial, 2003. <link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-06-621%2B173-5" title="Special:BookSources/0-06-621+173-5">0-06-621 173-5</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1278
+Cached time: 20190210022029
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 490/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6617/2097152 bytes
+Template argument size: 762/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7963/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 2.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  213.717      1 -total
+ 49.60%  106.012      1 Template:Reflist
+ 43.00%   91.898      2 Template:Cite_web
+ 28.58%   61.081      1 Template:Wikivoyage
+ 27.33%   58.401      1 Template:Sister_project
+ 25.41%   54.298      1 Template:Side_box
+ 21.73%   46.436      1 Template:ISBN
+  8.16%   17.430      1 Template:Catalog_lookup_link
+  7.26%   15.516      1 Template:Error-small
+  6.07%   12.974      1 Template:Small
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37462359-0!canonical and timestamp 20190210022117 and revision id 882579671
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Timeline_of_the_Magellan–Elcano_circumnavigation&amp;oldid=882579671">https://en.wikipedia.org/w/index.php?title=Timeline_of_the_Magellan–Elcano_circumnavigation&amp;oldid=882579671</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Age_of_Discovery" title="Category:Age of Discovery">Age of Discovery</a></li><li><a href="/wiki/Category:Circumnavigators_of_the_globe" title="Category:Circumnavigators of the globe">Circumnavigators of the globe</a></li><li><a href="/wiki/Category:Modern_history_timelines" title="Category:Modern history timelines">Modern history timelines</a></li><li><a href="/wiki/Category:Exploration_of_the_Pacific_Ocean" title="Category:Exploration of the Pacific Ocean">Exploration of the Pacific Ocean</a></li><li><a href="/wiki/Category:Spanish_Empire" title="Category:Spanish Empire">Spanish Empire</a></li><li><a href="/wiki/Category:1519_in_Spain" title="Category:1519 in Spain">1519 in Spain</a></li><li><a href="/wiki/Category:1519_in_science" title="Category:1519 in science">1519 in science</a></li><li><a href="/wiki/Category:1520_in_science" title="Category:1520 in science">1520 in science</a></li><li><a href="/wiki/Category:1521_in_science" title="Category:1521 in science">1521 in science</a></li><li><a href="/wiki/Category:1522_in_science" title="Category:1522 in science">1522 in science</a></li><li><a href="/wiki/Category:Magellan%E2%80%93Elcano_circumnavigation" title="Category:Magellan–Elcano circumnavigation">Magellan–Elcano circumnavigation</a></li><li><a href="/wiki/Category:Spain_in_the_Age_of_Discovery" title="Category:Spain in the Age of Discovery">Spain in the Age of Discovery</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Timeline+of+the+Magellan%E2%80%93Elcano+circumnavigation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Timeline+of+the+Magellan%E2%80%93Elcano+circumnavigation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;oldid=882579671" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q60524519" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;id=882579671" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Timeline+of+the+Magellan%E2%80%93Elcano+circumnavigation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Timeline+of+the+Magellan%E2%80%93Elcano+circumnavigation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q60524519#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 10 February 2019, at 02:21<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Timeline_of_the_Magellan%E2%80%93Elcano_circumnavigation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.258","ppvisitednodes":{"value":490,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6617,"limit":2097152},"templateargumentsize":{"value":762,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7963,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  213.717      1 -total"," 49.60%  106.012      1 Template:Reflist"," 43.00%   91.898      2 Template:Cite_web"," 28.58%   61.081      1 Template:Wikivoyage"," 27.33%   58.401      1 Template:Sister_project"," 25.41%   54.298      1 Template:Side_box"," 21.73%   46.436      1 Template:ISBN","  8.16%   17.430      1 Template:Catalog_lookup_link","  7.26%   15.516      1 Template:Error-small","  6.07%   12.974      1 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":2109980,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20190210022029","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1333"});});</script>
+</body>
+</html>
+

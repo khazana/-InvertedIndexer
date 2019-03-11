@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Eastern Wu - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eastern_Wu","wgTitle":"Eastern Wu","wgCurRevisionId":881921744,"wgRevisionId":881921744,"wgArticleId":278229,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vague or ambiguous geographic scope from February 2013","Articles containing Chinese-language text","Use dmy dates from September 2016","Former country articles categorised by government type","222 establishments","280 disestablishments","Eastern Wu","Wu (region)","Former monarchies of East Asia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eastern_Wu","wgRelevantArticleId":278229,"wgRequestId":"XGICywpAADkAABfS8vUAAACR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q274488","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Three_Kingdoms.png/1200px-Three_Kingdoms.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eastern_Wu" rel="alternate"/>
+<link href="/w/index.php?title=Eastern_Wu&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Eastern_Wu&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Eastern_Wu" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eastern_Wu rootpage-Eastern_Wu skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Eastern Wu</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the university of the same name in Chinese, see <a href="/wiki/Soochow_University_(Taiwan)" title="Soochow University (Taiwan)">Soochow University (Taiwan)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox geography vcard" style="width:22em;font-size:88%;"><tbody><tr><th class="adr" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><div class="fn org country-name" style="display:inline">Wu</div><br/><div style="padding-top:0.25em; font-weight:normal;"><style data-mw-deduplicate="TemplateStyles:r872444996">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><span lang="zh-Hant" title="Chinese language text">吳</span></span></div></th></tr><tr><td colspan="2" style="text-align:center">222–280<sup class="reference" id="cite_ref-Dardess_1-0"><a href="#cite_note-Dardess-1">[1]</a></sup></td></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Three_Kingdoms.png" title="The territories of Wu (in light greenish grey), as of 262 A.D."><img alt="The territories of Wu (in light greenish grey), as of 262 A.D." data-file-height="912" data-file-width="1288" decoding="async" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Three_Kingdoms.png/250px-Three_Kingdoms.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Three_Kingdoms.png/375px-Three_Kingdoms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Three_Kingdoms.png/500px-Three_Kingdoms.png 2x" width="250"/></a><div style="font-size:90%;position:relative;top:0.3em;">The territories of Wu (in light greenish grey), as of 262 A.D.</div></td></tr><tr><th scope="row">Capital</th><td><a href="/wiki/Ezhou" title="Ezhou">Wuchang</a><br/><small>(222–229, 265–266)</small><br/>
+<a href="/wiki/Jiankang" title="Jiankang">Jianye</a><br/><small>(229–265, 266–280)</small></td></tr><tr><th scope="row">Common languages</th><td><a href="/wiki/Old_Chinese" title="Old Chinese">Chinese</a></td></tr><tr><th scope="row">Religion <div style="font-weight:normal;display:inline;"></div></th><td><a href="/wiki/Taoism" title="Taoism">Taoism</a>, <a href="/wiki/Confucianism" title="Confucianism">Confucianism</a>, <a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Chinese folk religion</a></td></tr><tr><th scope="row">Government</th><td>Monarchy</td></tr><tr class="mergedrow"><th scope="row">King <span style="font-size:85%;">(222–229)</span><br/><a href="/wiki/Emperor_of_China" title="Emperor of China">Emperor</a> <span style="font-size:85%;">(229–280)</span></th><td> </td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 222–252 </div></th><td><a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 252–258 </div></th><td><a href="/wiki/Sun_Liang" title="Sun Liang">Sun Liang</a></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 258–264 </div></th><td><a class="mw-redirect" href="/wiki/Sun_Xiu_(emperor)" title="Sun Xiu (emperor)">Sun Xiu</a></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 264–280 </div></th><td><a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row">Historical era</th><td><a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a></td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• Independence from Cao Wei </div></th><td>222</td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• Sun Quan declaring himself Emperor </div></th><td>229</td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• <a href="/wiki/Conquest_of_Wu_by_Jin" title="Conquest of Wu by Jin">Conquest of Wu by Jin</a> </div></th><td>31 May 280<sup class="reference" id="cite_ref-Dardess_1-0"><a href="#cite_note-Dardess-1">[1]</a></sup></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left;">Population</th></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 238<sup class="reference" id="cite_ref-zou_2-0"><a href="#cite_note-zou-2">[2]</a></sup> </div></th><td>2,567,000 (disputed)</td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">• 280<sup class="reference" id="cite_ref-zou_2-1"><a href="#cite_note-zou-2">[2]</a></sup> </div></th><td>2,535,000 (disputed)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row">Currency</th><td><a class="mw-redirect" href="/wiki/Chinese_coin" title="Chinese coin">Chinese coin</a>, <a href="/wiki/Cash_(Chinese_coin)" title="Cash (Chinese coin)">Chinese cash</a></td></tr><tr><td colspan="2" style="text-align:center">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+<tbody><tr>
+<td style="text-align:center; border:0; padding-bottom:0"><div id="before-after"></div> <b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b>
+</td></tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" data-file-height="2" data-file-width="3" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Blank.png" width="22"/>
+</td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Cao_Wei" title="Cao Wei">Cao Wei</a>
+</td></tr>
+</tbody></table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a class="mw-redirect" href="/wiki/Western_Jin_dynasty" title="Western Jin dynasty">Western Jin dynasty</a>
+</td>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" data-file-height="2" data-file-width="3" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Blank.png" width="22"/>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table></td></tr><tr><th scope="row">Today part of</th><td><a href="/wiki/China" title="China">China</a><br/><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td></tr><tr style="font-size:90%;"><td colspan="2" style="text-align:center"><div style="text-align:left;margin-left:auto; margin-right:auto;">Tanner (2009) estimates the Wu population to be about one-sixth of the Han population.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> This would be much more than the numbers given in 238 and 280, and could be because of census methods used in ancient China.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><tbody><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><td colspan="2" style="text-align:center;font-size: 125%; background-color:#b0c4de;">Eastern Wu</td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">Traditional Chinese</a></th><td><span lang="zh-Hant" style="font-size:1rem;" title="Chinese language text"><a class="extiw" href="https://en.wiktionary.org/wiki/%E6%9D%B1%E5%90%B3" title="wikt:東吳">東吳</a></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Simplified Chinese</a></th><td><span lang="zh-Hans" style="font-size:1rem;" title="Chinese language text"><a class="extiw" href="https://en.wiktionary.org/wiki/%E4%B8%9C%E5%90%B4" title="wikt:东吴">东吴</a></span></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row" style="font-weight:normal"><a class="mw-redirect" href="/wiki/Hanyu_Pinyin" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td>Dōng Wú</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center"><table class="collapsible collapsed" style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%; text-align: left; background-color: #f9ffbc;">Transcriptions</th></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Mandarin</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a class="mw-redirect" href="/wiki/Hanyu_Pinyin" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Dōng Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Bopomofo" title="Bopomofo">Bopomofo</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">ㄉㄨㄥ   ㄨˊ</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Spelling_in_Gwoyeu_Romatzyh" title="Spelling in Gwoyeu Romatzyh">Gwoyeu Romatzyh</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Dong Wu</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Wade%E2%80%93Giles" title="Wade–Giles">Wade–Giles</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Tung<sup>1</sup> Wu<sup>2</sup></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Tongyong_Pinyin" title="Tongyong Pinyin">Tongyong Pinyin</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Dong Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Yale_romanization_of_Mandarin" title="Yale romanization of Mandarin">Yale Romanization</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Dūng Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Mandarin_Phonetic_Symbols_II" title="Mandarin Phonetic Symbols II">MPS2</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Dūng Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">IPA</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration"><span class="IPA" style="white-space:nowrap"><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">[tʊ́ŋ ǔ]</a></span></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Cantonese" title="Cantonese">Yue: Cantonese</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese">Yale Romanization</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration">Dūng Ng̀h</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Help:IPA/Cantonese" title="Help:IPA/Cantonese">IPA</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration"><small></small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Cantonese" title="Help:IPA/Cantonese">[tóŋ ŋ̩̏]</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Jyutping" title="Jyutping">Jyutping</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration">Dung1 Ng4</span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Southern_Min" title="Southern Min">Southern Min</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Hokkien" title="Hokkien">Hokkien</a> <a href="/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB" title="Pe̍h-ōe-jī">POJ</a></th><td><span lang="nan-Latn" style="font-style:normal" title="Taiwanese Hokkien-language transliteration">Tang Ngô͘  <i>or</i> Tong Ngô͘</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Taiwanese_Romanization_System" title="Taiwanese Romanization System">Tâi-lô</a></th><td><span lang="nan-Latn" style="font-style:normal" title="Taiwanese Hokkien-language transliteration">Tang Ngôo <i>or</i> Tong Ngôo</span></td></tr></tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<table class="infobox" style="width:22em"><tbody><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><td colspan="2" style="text-align:center;font-size: 125%; background-color:#b0c4de;">Sun Wu</td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">Traditional Chinese</a></th><td><span lang="zh-Hant" style="font-size:1rem;" title="Chinese language text"><a class="extiw" href="https://en.wiktionary.org/wiki/%E5%AD%AB%E5%90%B3" title="wikt:孫吳">孫吳</a></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Simplified Chinese</a></th><td><span lang="zh-Hans" style="font-size:1rem;" title="Chinese language text"><a class="extiw" href="https://en.wiktionary.org/wiki/%E5%AD%99%E5%90%B4" title="wikt:孙吴">孙吴</a></span></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row" style="font-weight:normal"><a class="mw-redirect" href="/wiki/Hanyu_Pinyin" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td>Sūn Wú</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center"><table class="collapsible collapsed" style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%; text-align: left; background-color: #f9ffbc;">Transcriptions</th></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Mandarin</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a class="mw-redirect" href="/wiki/Hanyu_Pinyin" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Sūn Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Bopomofo" title="Bopomofo">Bopomofo</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">ㄙㄨㄣ   ㄨˊ</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Spelling_in_Gwoyeu_Romatzyh" title="Spelling in Gwoyeu Romatzyh">Gwoyeu Romatzyh</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Suen Wu</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Wade%E2%80%93Giles" title="Wade–Giles">Wade–Giles</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Sun<sup>1</sup> Wu<sup>2</sup></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Tongyong_Pinyin" title="Tongyong Pinyin">Tongyong Pinyin</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Sun Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Yale_romanization_of_Mandarin" title="Yale romanization of Mandarin">Yale Romanization</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Swūn Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Mandarin_Phonetic_Symbols_II" title="Mandarin Phonetic Symbols II">MPS2</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration">Suēn Wú</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">IPA</a></th><td><span lang="zh-Latn" style="font-style:normal" title="Chinese-language transliteration"><span class="IPA" style="white-space:nowrap"><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">[swə́n ǔ]</a></span></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Cantonese" title="Cantonese">Yue: Cantonese</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Yale_romanization_of_Cantonese" title="Yale romanization of Cantonese">Yale Romanization</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration">Syūn Ng̀h</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Help:IPA/Cantonese" title="Help:IPA/Cantonese">IPA</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration"><small></small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Cantonese" title="Help:IPA/Cantonese">[sýːn ŋ̩̏]</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Jyutping" title="Jyutping">Jyutping</a></th><td><span lang="yue-Latn" style="font-style:normal" title="Yue Chinese-language transliteration">Syun1 Ng4</span></td></tr></tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Wu</b> (222–280), commonly known as <b>Dong Wu</b> (<b>Eastern Wu</b>) or <b>Sun Wu</b>, was one of the three major states that competed for supremacy over <a href="/wiki/China" title="China">China</a> in the <a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a> period (220–280). It previously existed from 220–222 as a <a href="/wiki/Vassal" title="Vassal">vassal</a> kingdom nominally under <a href="/wiki/Cao_Wei" title="Cao Wei">Cao Wei</a>, its rival state, but declared independence from Wei and became a sovereign state in 222. It became an empire in 229 after its founding ruler, <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a>, declared himself <a href="/wiki/Emperor_of_China" title="Emperor of China">emperor</a>. Its name was derived from the place it was based in — the <a href="/wiki/Jiangnan" title="Jiangnan">Jiangnan</a> (<a href="/wiki/Yangtze_River_Delta" title="Yangtze River Delta">Yangtze River Delta</a>) region, which was also historically known as "<a href="/wiki/Wu_(region)" title="Wu (region)">Wu</a>". It was referred to as "Dong Wu" ("Eastern Wu") or "Sun Wu" by historians to distinguish it from other Chinese historical states with similar names which were also located in that region, such as the <a href="/wiki/Wu_(state)" title="Wu (state)">Wu state</a> in the <a href="/wiki/Spring_and_Autumn_period" title="Spring and Autumn period">Spring and Autumn period</a> and the <a href="/wiki/Wuyue" title="Wuyue">Wuyue</a> kingdom in the <a href="/wiki/Five_Dynasties_and_Ten_Kingdoms_period" title="Five Dynasties and Ten Kingdoms period">Five Dynasties and Ten Kingdoms period</a>. It was called "Eastern Wu" because it occupied most of eastern China in the Three Kingdoms period, and "Sun Wu" because the family name of its rulers was "<a href="/wiki/Sun_(surname)" title="Sun (surname)">Sun</a>". During its existence, Wu's capital was at <a href="/wiki/Jiankang" title="Jiankang">Jianye</a> (present-day <a href="/wiki/Nanjing" title="Nanjing">Nanjing</a>, <a href="/wiki/Jiangsu" title="Jiangsu">Jiangsu</a>), but at times it was also at Wuchang (<span lang="zh-Hant" title="Chinese language text">武昌</span>; present-day <a href="/wiki/Ezhou" title="Ezhou">Ezhou</a>, <a href="/wiki/Hubei" title="Hubei">Hubei</a>).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Beginnings_and_founding"><span class="tocnumber">1.1</span> <span class="toctext">Beginnings and founding</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Sun_Quan's_reign"><span class="tocnumber">1.2</span> <span class="toctext">Sun Quan's reign</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Reigns_of_Sun_Liang_and_Sun_Xiu"><span class="tocnumber">1.3</span> <span class="toctext">Reigns of Sun Liang and Sun Xiu</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Fall_of_Wu"><span class="tocnumber">1.4</span> <span class="toctext">Fall of Wu</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Government_and_military"><span class="tocnumber">2</span> <span class="toctext">Government and military</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Culture_and_economy"><span class="tocnumber">3</span> <span class="toctext">Culture and economy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Civil_matters"><span class="tocnumber">4</span> <span class="toctext">Civil matters</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Legacy"><span class="tocnumber">5</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#List_of_territories"><span class="tocnumber">6</span> <span class="toctext">List of territories</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#List_of_sovereigns"><span class="tocnumber">7</span> <span class="toctext">List of sovereigns</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Emperors'_family_tree"><span class="tocnumber">8</span> <span class="toctext">Emperors' family tree</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Gallery"><span class="tocnumber">9</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">11</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Bibliography"><span class="tocnumber">13</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:244px;"><a class="image" href="/wiki/File:WuJar.jpg"><img alt="" class="thumbimage" data-file-height="1387" data-file-width="967" decoding="async" height="347" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WuJar.jpg/242px-WuJar.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WuJar.jpg/363px-WuJar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WuJar.jpg/484px-WuJar.jpg 2x" width="242"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:WuJar.jpg" title="Enlarge"></a></div>A jar made in Eastern Wu dating to the <a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a> period.</div></div></div>
+<h3><span class="mw-headline" id="Beginnings_and_founding">Beginnings and founding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=2" title="Edit section: Beginnings and founding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Chibi.jpg"><img alt="" class="thumbimage" data-file-height="350" data-file-width="416" decoding="async" height="126" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chibi.jpg/150px-Chibi.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chibi.jpg/225px-Chibi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chibi.jpg/300px-Chibi.jpg 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Chibi.jpg" title="Enlarge"></a></div>Before the dynasty of Eastern Wu was established, the territory was defended by the Sun clan in the <a href="/wiki/Battle_of_Red_Cliffs" title="Battle of Red Cliffs">Battle of Red Cliffs</a>.</div></div></div>
+<p>Towards the <a href="/wiki/End_of_the_Han_dynasty" title="End of the Han dynasty">end of the Han dynasty</a>, <a href="/wiki/Sun_Ce" title="Sun Ce">Sun Ce</a>, the eldest son of the warlord <a href="/wiki/Sun_Jian" title="Sun Jian">Sun Jian</a>, and his followers borrowed troops from the warlord <a href="/wiki/Yuan_Shu" title="Yuan Shu">Yuan Shu</a> and embarked on <a href="/wiki/Sun_Ce%27s_conquests_in_Jiangdong" title="Sun Ce's conquests in Jiangdong">a series of military conquests</a> in the <a href="/wiki/Jiangnan" title="Jiangnan">Jiangdong</a> and <a href="/wiki/Wu_(region)" title="Wu (region)">Wu</a> regions between 194 and 199, seizing several territories previously occupied by warlords such as <a href="/wiki/Liu_Yao_(warlord)" title="Liu Yao (warlord)">Liu Yao</a>, <a href="/wiki/Yan_Baihu" title="Yan Baihu">Yan Baihu</a> and <a href="/wiki/Wang_Lang" title="Wang Lang">Wang Lang</a>. Sun Ce broke off relations with Yuan Shu around 196-197 after the latter declared himself emperor — an act deemed as treason against <a href="/wiki/Emperor_Xian_of_Han" title="Emperor Xian of Han">Emperor Xian</a>, the figurehead ruler of the Han dynasty. The warlord <a href="/wiki/Cao_Cao" title="Cao Cao">Cao Cao</a>, who was the <i>de facto</i> head of government in the Han imperial court, asked Emperor Xian to grant Sun Ce the title of "Marquis of Wu" (<span lang="zh-Hant" title="Chinese language text">吳侯</span>).
+</p><p>Sun Ce was assassinated in the summer of 200 and was succeeded by his younger brother, <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a>. Sun Quan, like his elder brother, also paid nominal allegiance to Emperor Xian while maintaining autonomous rule over the Wu territories. In 208, Sun Quan allied with the warlord <a href="/wiki/Liu_Bei" title="Liu Bei">Liu Bei</a> and they combined forces to defeat Cao Cao at the <a href="/wiki/Battle_of_Red_Cliffs" title="Battle of Red Cliffs">Battle of Red Cliffs</a>. Sun Quan and Liu Bei maintained their alliance against Cao Cao after the battle for the next ten years or so, despite having some territorial disputes over <a href="/wiki/Jingzhou_(ancient_China)" title="Jingzhou (ancient China)">Jing Province</a>. In 219, Sun Quan severed ties with Liu Bei when he sent his general <a href="/wiki/L%C3%BC_Meng" title="Lü Meng">Lü Meng</a> to <a href="/wiki/L%C3%BC_Meng%27s_invasion_of_Jing_Province" title="Lü Meng's invasion of Jing Province">invade Liu's territories in Jing Province</a>. <a href="/wiki/Guan_Yu" title="Guan Yu">Guan Yu</a>, who was defending Liu Bei's assets in Jing Province, was captured and executed by Sun Quan's forces. After that, the boundaries of Sun Quan's domain extended from beyond the Jiangdong region to include the southern part of Jing Province, which covered roughly present-day <a href="/wiki/Hunan" title="Hunan">Hunan</a> and parts of <a href="/wiki/Hubei" title="Hubei">Hubei</a>.
+</p><p>In 220, Cao Cao's son and successor, <a href="/wiki/Cao_Pi" title="Cao Pi">Cao Pi</a>, ended the Han dynasty by forcing Emperor Xian to abdicate in his favour and established the state of <a href="/wiki/Cao_Wei" title="Cao Wei">Cao Wei</a>. Sun Quan agreed to submit to Wei and was granted the title of a vassal king, "King of Wu" (<span lang="zh-Hant" title="Chinese language text">吳王</span>), by Cao Pi. A year later, Liu Bei declared himself emperor and founded the state of <a href="/wiki/Shu_Han" title="Shu Han">Shu Han</a>. In 222, Liu Bei launched a military campaign against Sun Quan to take back Jing Province and avenge Guan Yu, leading to the <a href="/wiki/Battle_of_Xiaoting" title="Battle of Xiaoting">Battle of Xiaoting</a>. However, Liu Bei suffered a crushing defeat at the hands of Sun Quan's general <a href="/wiki/Lu_Xun_(Three_Kingdoms)" title="Lu Xun (Three Kingdoms)">Lu Xun</a> and was forced to retreat to <a href="/wiki/Baidicheng" title="Baidicheng">Baidicheng</a>, where he died a year later.
+</p><p>Liu Bei's successor, <a href="/wiki/Liu_Shan" title="Liu Shan">Liu Shan</a>, and his regent, <a href="/wiki/Zhuge_Liang" title="Zhuge Liang">Zhuge Liang</a>, made peace with Sun Quan later and reaffirmed their previous alliance. Sun Quan declared independence from Wei in 222, but continued to rule as "King of Wu" until 229, when he declared himself "Emperor of Wu". His legitimacy was recognised by Shu.
+</p>
+<h3><span id="Sun_Quan.27s_reign"></span><span class="mw-headline" id="Sun_Quan's_reign">Sun Quan's reign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=3" title="Edit section: Sun Quan's reign">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sun Quan ruled for over 30 years and his long reign resulted in stability in southern China. During his reign, Wu engaged Wei in numerous wars, including the battles of <a href="/wiki/Battle_of_Ruxu_(222%E2%80%93223)" title="Battle of Ruxu (222–223)">Ruxu</a> (222–223), <a href="/wiki/Battle_of_Shiting" title="Battle of Shiting">Shiting</a> (228), and <a href="/wiki/Battle_of_Hefei_(234)" title="Battle of Hefei (234)">Hefei</a> (234). However, Wu never managed to gain any territory north of the Yangtze River while Wei also never succeeded in conquering the lands south of the Yangtze.
+</p><p>A succession struggle broke out between Sun Quan's sons in the later part of his reign — Sun Quan instated <a href="/wiki/Sun_He_(Zixiao)" title="Sun He (Zixiao)">Sun He</a> as the <a href="/wiki/Crown_prince" title="Crown prince">crown prince</a> in 242 after his former heir apparent, <a href="/wiki/Sun_Deng_(Eastern_Wu)" title="Sun Deng (Eastern Wu)">Sun Deng</a>, died in 241, but Sun He soon became involved in a rivalry with his younger brother, <a href="/wiki/Sun_Ba" title="Sun Ba">Sun Ba</a>. The conflict resulted in the emergence of two rivalling factions, each supporting either Sun He or Sun Ba, in Sun Quan's imperial court. Sun Quan eventually deposed Sun He and forced Sun Ba to commit suicide, while <a href="/wiki/Lu_Xun_(Three_Kingdoms)" title="Lu Xun (Three Kingdoms)">Lu Xun</a> and many other ministers who took either Sun He's or Sun Ba's side in the struggle met with unhappy ends. Sun Quan appointed his youngest son, <a href="/wiki/Sun_Liang" title="Sun Liang">Sun Liang</a>, as the crown prince after the incident.
+</p>
+<h3><span class="mw-headline" id="Reigns_of_Sun_Liang_and_Sun_Xiu">Reigns of Sun Liang and Sun Xiu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=4" title="Edit section: Reigns of Sun Liang and Sun Xiu">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sun Quan died in 252 and was succeeded by Sun Liang, with <a href="/wiki/Zhuge_Ke" title="Zhuge Ke">Zhuge Ke</a> and <a href="/wiki/Sun_Jun_(Three_Kingdoms)" title="Sun Jun (Three Kingdoms)">Sun Jun</a> serving as regents. In 253, Zhuge Ke was assassinated in a coup launched by Sun Jun, and the state power of Wu fell into Sun Jun's hands and was passed on to his cousin, <a href="/wiki/Sun_Chen" title="Sun Chen">Sun Chen</a>, after his death. During Sun Liang's reign, <a href="/wiki/Three_Rebellions_in_Shouchun" title="Three Rebellions in Shouchun">two rebellions</a> broke out in the Wei garrison at Shouchun (around present-day <a href="/wiki/Shou_County" title="Shou County">Shou County</a>, <a href="/wiki/Anhui" title="Anhui">Anhui</a>) in 255 and 257–258. Sun Jun and Sun Chen led Wu forces to support the rebels in the first and second rebellions respectively in the hope of making some territorial gains in Wei, but both revolts were suppressed and the Wu forces retreated after suffering many losses.
+</p><p>Sun Liang was deposed in 258 by Sun Chen, who installed <a class="mw-redirect" href="/wiki/Sun_Xiu_(emperor)" title="Sun Xiu (emperor)">Sun Xiu</a>, another son of Sun Quan, on the throne. Sun Xiu killed Sun Chen later in a coup with the help of <a href="/wiki/Zhang_Bu" title="Zhang Bu">Zhang Bu</a> and <a href="/wiki/Ding_Feng_(general)" title="Ding Feng (general)">Ding Feng</a>.
+</p>
+<h3><span class="mw-headline" id="Fall_of_Wu">Fall of Wu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=5" title="Edit section: Fall of Wu">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sun Xiu died of illness in 264, a year after <a href="/wiki/Conquest_of_Shu_by_Wei" title="Conquest of Shu by Wei">Shu was conquered by Wei</a>. At the time, Wu was experiencing internal turmoil because rebellions had broken out in <a href="/wiki/Jiaozhi#Three_Kingdoms" title="Jiaozhi">Jiaozhi</a> (<span lang="zh-Hant" title="Chinese language text">交趾</span>) in the south. The ministers <a href="/wiki/Puyang_Xing" title="Puyang Xing">Puyang Xing</a>, <a href="/wiki/Wan_Yu" title="Wan Yu">Wan Yu</a> and <a href="/wiki/Zhang_Bu" title="Zhang Bu">Zhang Bu</a> decided to install Sun He's son, <a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a>, on the throne.
+</p><p>In the beginning of Sun Hao's reign, the emperor reduced taxes, gave relief to the poor, and granted freedom to a large number of palace maids. However, Sun Hao gradually became more cruel and superstitious and started indulging in wine and women instead of finding ways to revive his declining state. Sun Hao's tyranny caused widespread anger and hatred towards him in Wu, but it was due to the efforts of officials such as <a href="/wiki/Lu_Kai" title="Lu Kai">Lu Kai</a> and <a href="/wiki/Lu_Kang_(Three_Kingdoms)" title="Lu Kang (Three Kingdoms)">Lu Kang</a> that Wu was able to remain relatively stable and peaceful.
+</p><p>In February 266, <a href="/wiki/Emperor_Wu_of_Jin" title="Emperor Wu of Jin">Sima Yan</a> ended the state of Cao Wei by forcing its last ruler, <a href="/wiki/Cao_Huan" title="Cao Huan">Cao Huan</a>, to abdicate in his favour, and then established the <a href="/wiki/Jin_dynasty_(265%E2%80%93420)" title="Jin dynasty (265–420)">Jin dynasty</a>. In 279, Jin forces led by <a href="/wiki/Du_Yu" title="Du Yu">Du Yu</a>, <a href="/wiki/Wang_Jun_(Jin_dynasty)" title="Wang Jun (Jin dynasty)">Wang Jun</a> and others attacked Wu from six directions. Sun Hao attempted to put up resistance by sending his armies to fight the Jin invaders, but the Wu forces suffered several consecutive defeats and even the Wu chancellor, <a href="/wiki/Zhang_Ti" title="Zhang Ti">Zhang Ti</a>, was killed in action. Seeing that Wu was doomed to fall, Sun Hao surrendered to the Jin dynasty on 31 May 280,<sup class="reference" id="cite_ref-Dardess_1-1"><a href="#cite_note-Dardess-1">[1]</a></sup> marking the end of Wu and the end of the <a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a> period.
+</p>
+<h2><span class="mw-headline" id="Government_and_military">Government and military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=6" title="Edit section: Government and military">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite Wu and its court becoming imperial in 229, Sun Quan had kept Wu in a <a class="mw-redirect" href="/wiki/Warlordism" title="Warlordism">warlordism</a> reflected state.  When Wu was initially founded its military was dominated by famed generals who had gained their positions through prowess and pluck.  These generals were celebrated for their <a href="/wiki/Individualism" title="Individualism">individualism</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Politics within the court were often influenced by conflicts between powerful families and individuals.  Positions within the court were inherited from one generation to the next unlike the Han dynasty's <a href="/wiki/Bureaucracy" title="Bureaucracy">bureaucracy</a>.  However, over time, the influence ultimately would move away from the <a href="/wiki/Central_government" title="Central government">central government</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Outside of the court, families displayed their own independent authority. Wu, at times, was to a certain extent run for the protection of particular families.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Culture_and_economy">Culture and economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=7" title="Edit section: Culture and economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CottonPlant.JPG"><img alt="" class="thumbimage" data-file-height="1500" data-file-width="2100" decoding="async" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/220px-CottonPlant.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/330px-CottonPlant.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/440px-CottonPlant.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:CottonPlant.JPG" title="Enlarge"></a></div>Shu Han exported cotton into Eastern Wu.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><a class="image" href="/wiki/File:Celadon_Storehouse_and_Courtyard,_Ezhou.jpg"><img alt="" class="thumbimage" data-file-height="4000" data-file-width="6000" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg/260px-Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg/390px-Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg/520px-Celadon_Storehouse_and_Courtyard%2C_Ezhou.jpg 2x" width="260"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Celadon_Storehouse_and_Courtyard,_Ezhou.jpg" title="Enlarge"></a></div>Celadon Storehouse and Courtyard. Wu Kingdom.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Bullock-cart,_Echeng.jpg"><img alt="" class="thumbimage" data-file-height="4000" data-file-width="6000" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullock-cart%2C_Echeng.jpg/220px-Bullock-cart%2C_Echeng.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullock-cart%2C_Echeng.jpg/330px-Bullock-cart%2C_Echeng.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullock-cart%2C_Echeng.jpg/440px-Bullock-cart%2C_Echeng.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bullock-cart,_Echeng.jpg" title="Enlarge"></a></div>Pottery Bullock-cart. Wu Kingdom.</div></div></div>
+<p>The culture of Wu was most solidified under the reign of Sun Quan from 229 to 252. Migrations from the north and the needed settlement from the <a href="/wiki/Shanyue" title="Shanyue">Shanyue</a> barbarians made it possible for the increase in manpower, agriculture, and settling the lower most parts of Wu. Along with that, river transportation became a huge factor and flourished as the <a href="/wiki/Jiangnan" title="Jiangnan">Jiangnan</a> and Zhedong canals were finished with construction. After the <a href="/wiki/Battle_of_Xiaoting" title="Battle of Xiaoting">Battle of Xiaoting</a> and during the <a href="/wiki/Cao_Pi%27s_invasions_of_Eastern_Wu" title="Cao Pi's invasions of Eastern Wu">invasions of Wu</a> by <a href="/wiki/Cao_Wei" title="Cao Wei">Wei</a> in the 220s, Shu was able to reestablish their trade and relationships with Wu. Shu's cotton was a great influx for Wu, and the development of shipbuilding, salt,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> and metal industries was greatly increased.
+</p><p>The fact of inflation and economic problems still were in existence since the Han dynasty.<sup class="reference" id="cite_ref-de_Crespigny_1990_loc=24_10-0"><a href="#cite_note-de_Crespigny_1990_loc=24-10">[10]</a></sup> Sun Quan tried to start a currency of large coins manufactured by copper. He also tried to prohibit private minting. This policy was terminated in 246 due to ineffectiveness.<sup class="reference" id="cite_ref-de_Crespigny_1990_loc=24_10-1"><a href="#cite_note-de_Crespigny_1990_loc=24-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[a]</a></sup>
+</p><p>Eastern Wu was able to make close overseas trade with countries such as Vietnam and Cambodia.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[11]</a></sup> Wu also traded with India and the Middle East.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Civil_matters">Civil matters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=8" title="Edit section: Civil matters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Personages with clerical or scholarly abilities had roles to play within the state, but the policies were more determined by those of military command.<sup class="reference" id="cite_ref-cres4i-4_14-0"><a href="#cite_note-cres4i-4-14">[13]</a></sup> Nevertheless, every Wu army was in need of administrative support and, according to <a href="/wiki/Rafe_de_Crespigny" title="Rafe de Crespigny">Rafe de Crespigny</a>, certain scholars were "recognised as practical counsellors, regardless of their fighting prowess or their ability to command troops in the field."<sup class="reference" id="cite_ref-cres4i-4_14-1"><a href="#cite_note-cres4i-4-14">[13]</a></sup>
+</p><p>Under the reign of <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a>, he needed a strong role of advisors and secretaries in order to keep his link of power in a maintained level. Sun Quan's prestige in dealing with hostiles and friendly relations called for the establishment of a controlled form of an imperial government for the empire of Wu. Sun Quan also created the opportunity for people residing within Wu to gain prestige and influence throughout the empire and the surrounding establishments with the duty of being an envoy.<sup class="reference" id="cite_ref-cres4i-4_14-2"><a href="#cite_note-cres4i-4-14">[13]</a></sup>
+</p><p>Following the death of <a href="/wiki/Cao_Pi" title="Cao Pi">Cao Pi</a> in 226, Sun Quan strongly promoted his kingdom to focus on agriculture because the threat from Wei was lifted.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[14]</a></sup> However, <a href="/wiki/Lu_Xun" title="Lu Xun">Lu Xun</a> suggested to Sun Quan that military commanders should become involved in the colonization of land. Sun Quan quickly accepted and he, along with his sons would execute the memorial presented by Lu Xun.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[15]</a></sup> However, in 240, Sun Quan restrained Lu Xun's idea and refocused on agricultural works, because Wu came to suffer a severe famine.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[16]</a></sup> In 234, when <a href="/wiki/Zhuge_Ke" title="Zhuge Ke">Zhuge Ke</a> was in control of affairs in the south, he strongly ignored the colonisation order and viciously ordered the agriculture factor, often starving enemies into submission.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=9" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Eastern_Wu_green_glaze_pottery_jar_(top).JPG"><img alt="" class="thumbimage" data-file-height="384" data-file-width="576" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eastern_Wu_green_glaze_pottery_jar_%28top%29.JPG/300px-Eastern_Wu_green_glaze_pottery_jar_%28top%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eastern_Wu_green_glaze_pottery_jar_%28top%29.JPG/450px-Eastern_Wu_green_glaze_pottery_jar_%28top%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/3/31/Eastern_Wu_green_glaze_pottery_jar_%28top%29.JPG 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Eastern_Wu_green_glaze_pottery_jar_(top).JPG" title="Enlarge"></a></div>An Eastern Wu green-glaze ceramic jar with human figures, birds, and architecture on display in the <a href="/wiki/Nanjing_Museum" title="Nanjing Museum">Nanjing Museum</a>.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG"><img alt="" class="thumbimage" data-file-height="3240" data-file-width="4320" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG/300px-Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG/450px-Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG/600px-Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Painted_Iacquer_narrow_table_unearthed_from_the_tomb_of_Zhuran_2012-05.JPG" title="Enlarge"></a></div>Painted <a href="/wiki/Lacquerware" title="Lacquerware">lacquerware</a> table from the tomb of <a href="/wiki/Zhu_Ran" title="Zhu Ran">Zhu Ran</a> (182-249) in <a class="mw-redirect" href="/wiki/Anhui_province" title="Anhui province">Anhui province</a>, Eastern Wu period, showing figures wearing silk <i><a href="/wiki/Hanfu" title="Hanfu">Hanfu</a></i> attire</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tomb_of_Zhuran_04_2012-05.JPG"><img alt="" class="thumbimage" data-file-height="4320" data-file-width="3240" decoding="async" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tomb_of_Zhuran_04_2012-05.JPG/220px-Tomb_of_Zhuran_04_2012-05.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tomb_of_Zhuran_04_2012-05.JPG/330px-Tomb_of_Zhuran_04_2012-05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tomb_of_Zhuran_04_2012-05.JPG/440px-Tomb_of_Zhuran_04_2012-05.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Tomb_of_Zhuran_04_2012-05.JPG" title="Enlarge"></a></div>Entrance to the tomb of <a href="/wiki/Zhu_Ran" title="Zhu Ran">Zhu Ran</a> (182-249) in <a class="mw-redirect" href="/wiki/Anhui_province" title="Anhui province">Anhui province</a>, Eastern Wu period</div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:368px;max-width:368px"><div class="tsingle" style="float:left;margin:1px;width:182px;max-width:182px"><div class="thumbimage"><a class="image" href="/wiki/File:Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG"><img alt="" data-file-height="4320" data-file-width="3240" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG/180px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG/270px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG/360px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_01_2012-05.JPG 2x" width="180"/></a></div></div><div class="tsingle" style="float:left;margin:1px;width:182px;max-width:182px"><div class="thumbimage"><a class="image" href="/wiki/File:Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG"><img alt="" data-file-height="4320" data-file-width="3240" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG/180px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG/270px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG/360px-Painted_Iacquer_dish_unearthed_from_the_tomb_of_Zhuran_02_2012-05.JPG 2x" width="180"/></a></div></div><div style="clear:left"></div><div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Painted <a href="/wiki/Lacquerware" title="Lacquerware">lacquerware</a> dishes from the tomb of <a href="/wiki/Zhu_Ran" title="Zhu Ran">Zhu Ran</a> (182-249) in <a class="mw-redirect" href="/wiki/Anhui_province" title="Anhui province">Anhui province</a>, Eastern Wu period, showing figures wearing silk <i><a href="/wiki/Hanfu" title="Hanfu">Hanfu</a></i> attire</div></div></div>
+<p>Under the rule of Wu, the <a href="/wiki/Yangtze_River_Delta" title="Yangtze River Delta">Yangtze River Delta</a> region, regarded in early history as a barbaric "jungle", developed into one of the commercial, cultural, and political centres of China. The achievements of Wu in the south marked the coming of Chinese civilization to the farthest southern reaches of the empire.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[18]</a></sup>
+</p><p>In 230, the island of <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a> was reached by the Chinese during the Three Kingdoms period under the reign of Sun Quan.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[19]</a></sup> Contact with the native population and the dispatch of officials to an island named "Yizhou" (<span lang="zh-Hant" title="Chinese language text">夷州</span>) by the Wu navy might have been to Taiwan, but the location of Yizhou is open to dispute; some historians believe it was Taiwan, while others believe it was the <a href="/wiki/Ryukyu_Islands" title="Ryukyu Islands">Ryukyu Islands</a>. Wu merchants also may have reached <a href="/wiki/Southern_Vietnam" title="Southern Vietnam">Southern Vietnam</a> and <a href="/wiki/Cambodia" title="Cambodia">Cambodia</a>. Failed protection of <a href="/wiki/Gongsun_Yuan" title="Gongsun Yuan">Gongsun Yuan</a> also was in existence when the latter <a href="/wiki/Sima_Yi%27s_Liaodong_campaign" title="Sima Yi's Liaodong campaign">rebelled against Wei</a>. This was because of the waterway's difficulties. Such things cost Wu, and the achievements supposedly gained within Taiwan did not cover this problem and Sun Quan lost his vassal.<sup class="reference" id="cite_ref-de_Crespigny_1990_loc=10_21-0"><a href="#cite_note-de_Crespigny_1990_loc=10-21">[20]</a></sup>
+</p><p>Later on in the existence of Wu, the once great military was turned to an unimpressive military. It was most likely an easy task to take <a href="/wiki/Hefei" title="Hefei">Hefei</a> from Wei, but Wu could not do so. Since the 230s, this task was made harder due to the "New City", a heavily fortified castle built at Hefei by Wei.<sup class="reference" id="cite_ref-de_Crespigny_1990_loc=10_21-1"><a href="#cite_note-de_Crespigny_1990_loc=10-21">[20]</a></sup> One of the greatest failures to accomplish something later on in Wu's reign was during 255 and during the last few years of the 250s. When <a href="/wiki/Guanqiu_Jian" title="Guanqiu Jian">Guanqiu Jian</a> and <a href="/wiki/Wen_Qin" title="Wen Qin">Wen Qin</a> <a class="mw-redirect" href="/wiki/Second_Rebellion_in_Shouchun" title="Second Rebellion in Shouchun">rebelled</a> against Wei, Wu promised to help the two in Shouchun (around present-day <a href="/wiki/Shou_County" title="Shou County">Shou County</a>, <a href="/wiki/Anhui" title="Anhui">Anhui</a>). However, the Wu forces never made it in time before the rebellion was quashed by <a href="/wiki/Sima_Shi" title="Sima Shi">Sima Shi</a> and the Wei forces. When <a href="/wiki/Zhuge_Dan" title="Zhuge Dan">Zhuge Dan</a> launched a <a class="mw-redirect" href="/wiki/Third_Rebellion_in_Shouchun" title="Third Rebellion in Shouchun">massive full-scale rebellion</a>, the Wu forces suffered a great defeat as they lent a great quantity of manpower to Zhuge Dan's cause. Shouchun was quickly regained by Wei under <a href="/wiki/Sima_Zhao" title="Sima Zhao">Sima Zhao</a>'s command.<sup class="reference" id="cite_ref-de_Crespigny_1990_loc=10_21-2"><a href="#cite_note-de_Crespigny_1990_loc=10-21">[20]</a></sup>
+</p><p>During the <a href="/wiki/Conquest_of_Shu_by_Wei" title="Conquest of Shu by Wei">conquest of Shu by Wei</a> in 263, Wu could not fully lend support to their allies due to a revolt in Vietnam.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[21]</a></sup>
+</p><p>The decline of Wu was long in existence since the death of <a href="/wiki/Lu_Xun_(Three_Kingdoms)" title="Lu Xun (Three Kingdoms)">Lu Xun</a> in 245 and the death of Sun Quan in 252. Sun Quan's successors could do little for the empire. <a href="/wiki/Zhuge_Ke" title="Zhuge Ke">Zhuge Ke</a> was assassinated by <a href="/wiki/Sun_Jun_(Three_Kingdoms)" title="Sun Jun (Three Kingdoms)">Sun Jun</a> in 253 after a <a href="/wiki/Battle_of_Hefei_(253)" title="Battle of Hefei (253)">failed invasion of Hefei</a> following the Wu victory over an invading Wei force at <a href="/wiki/Battle_of_Dongxing" title="Battle of Dongxing">Dongxing</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[22]</a></sup> <a href="/wiki/Ding_Feng_(general)" title="Ding Feng (general)">Ding Feng</a> also ended up killing <a href="/wiki/Sun_Chen" title="Sun Chen">Sun Chen</a> under orders from <a class="mw-redirect" href="/wiki/Sun_Xiu_(emperor)" title="Sun Xiu (emperor)">Sun Xiu</a>. Corruption plagued Wu, which led to an easy <a href="/wiki/Conquest_of_Wu_by_Jin" title="Conquest of Wu by Jin">conquest of Wu</a> by the <a class="mw-redirect" href="/wiki/Jin_dynasty_(265-420)" title="Jin dynasty (265-420)">Jin dynasty</a> in 280.
+</p>
+<h2><span class="mw-headline" id="List_of_territories">List of territories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=10" title="Edit section: List of territories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<caption>Territories of Eastern Wu
+</caption>
+<tbody><tr>
+<th><a href="/wiki/Zhou_(country_subdivision)" title="Zhou (country subdivision)">Province</a></th>
+<th>Provincial capital</th>
+<th><a class="mw-redirect" href="/wiki/Commandery_(China)" title="Commandery (China)">Commandery</a></th>
+<th>Commandery capital</th>
+<th>No. of counties
+</th></tr>
+<tr>
+<td rowspan="16"><a class="mw-redirect" href="/wiki/Yangzhou_(ancient_China)" title="Yangzhou (ancient China)">Yang</a><br/>揚</td>
+<td rowspan="16">Jianye<br/>建業</td>
+<td>Danyang<br/>丹陽</td>
+<td>Jianye<br/>建業</td>
+<td>16
+</td></tr>
+<tr>
+<td>Wu<br/><span lang="zh-Hant" title="Chinese language text">吳</span></td>
+<td>Wu County<br/><span lang="zh-Hant" title="Chinese language text">吳縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Qichun<br/><span lang="zh-Hant" title="Chinese language text">蘄春</span></td>
+<td>Qichun<br/><span lang="zh-Hant" title="Chinese language text">蘄春</span></td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/Kuaiji_Commandery" title="Kuaiji Commandery">Kuaiji</a><br/><span lang="zh-Hant" title="Chinese language text">會稽</span></td>
+<td>Shanyin County<br/><span lang="zh-Hant" title="Chinese language text">山陰縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Yuzhang<br/><span lang="zh-Hant" title="Chinese language text">豫章</span></td>
+<td>Nanchang<br/><span lang="zh-Hant" title="Chinese language text">南昌</span></td>
+<td>16
+</td></tr>
+<tr>
+<td>Lujiang<br/><span lang="zh-Hant" title="Chinese language text">廬江</span></td>
+<td>Wan County<br/><span lang="zh-Hant" title="Chinese language text">皖縣</span></td>
+<td>2
+</td></tr>
+<tr>
+<td>Luling<br/><span lang="zh-Hant" title="Chinese language text">廬陵</span></td>
+<td>Gaochang County<br/><span lang="zh-Hant" title="Chinese language text">高昌縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Poyang<br/><span lang="zh-Hant" title="Chinese language text">鄱陽</span></td>
+<td>Poyang County<br/><span lang="zh-Hant" title="Chinese language text">鄱陽縣</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Xindu<br/><span lang="zh-Hant" title="Chinese language text">新都</span></td>
+<td>Shixin County<br/><span lang="zh-Hant" title="Chinese language text">始新縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Linchuan<br/><span lang="zh-Hant" title="Chinese language text">臨川</span></td>
+<td>Nancheng County<br/><span lang="zh-Hant" title="Chinese language text">南城縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Linhai<br/><span lang="zh-Hant" title="Chinese language text">臨海</span></td>
+<td>Zhang'an County<br/><span lang="zh-Hant" title="Chinese language text">章安縣</span></td>
+<td>7
+</td></tr>
+<tr>
+<td>Jian'an<br/><span lang="zh-Hant" title="Chinese language text">建安</span></td>
+<td>Jian'an County<br/><span lang="zh-Hant" title="Chinese language text">建安縣</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Wuxing<br/><span lang="zh-Hant" title="Chinese language text">吳興</span></td>
+<td>Wucheng County<br/><span lang="zh-Hant" title="Chinese language text">烏程縣</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Dongyang<br/><span lang="zh-Hant" title="Chinese language text">東陽</span></td>
+<td>Changshan County<br/><span lang="zh-Hant" title="Chinese language text">長山縣</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Piling<br/><span lang="zh-Hant" title="Chinese language text">毗陵典農校尉</span></td>
+<td>Piling County<br/><span lang="zh-Hant" title="Chinese language text">毗陵縣</span></td>
+<td>3
+</td></tr>
+<tr>
+<td>South Luling<br/><span lang="zh-Hant" title="Chinese language text">廬陵南部都尉</span></td>
+<td>Yudu County<br/><span lang="zh-Hant" title="Chinese language text">雩都縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td rowspan="17"><a href="/wiki/Jingzhou_(ancient_China)" title="Jingzhou (ancient China)">Jing</a><br/><span lang="zh-Hant" title="Chinese language text">荊</span></td>
+<td rowspan="17">Jiangling<br/><span lang="zh-Hant" title="Chinese language text">江陵</span></td>
+<td>Nan<br/><span lang="zh-Hant" title="Chinese language text">南</span></td>
+<td>Jiangling<br/><span lang="zh-Hant" title="Chinese language text">江陵</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Wuling<br/><span lang="zh-Hant" title="Chinese language text">武陵</span></td>
+<td>Linyuan County<br/><span lang="zh-Hant" title="Chinese language text">臨沅縣</span></td>
+<td>11
+</td></tr>
+<tr>
+<td>Lingling<br/><span lang="zh-Hant" title="Chinese language text">零陵</span></td>
+<td>Quanling County<br/><span lang="zh-Hant" title="Chinese language text">泉陵縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Guiyang<br/><span lang="zh-Hant" title="Chinese language text">桂陽</span></td>
+<td>Chen County<br/><span lang="zh-Hant" title="Chinese language text">郴縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Changsha<br/><span lang="zh-Hant" title="Chinese language text">長沙</span></td>
+<td>Linxiang County<br/><span lang="zh-Hant" title="Chinese language text">臨湘縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Wuchang<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[b]</a></sup><br/><span lang="zh-Hant" title="Chinese language text">武昌</span></td>
+<td>Wuchang County<br/><span lang="zh-Hant" title="Chinese language text">武昌縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Ancheng<br/><span lang="zh-Hant" title="Chinese language text">安成</span></td>
+<td>Ancheng County<br/><span lang="zh-Hant" title="Chinese language text">安成縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Pengze<br/><span lang="zh-Hant" title="Chinese language text">彭澤</span></td>
+<td>Pengze County<br/><span lang="zh-Hant" title="Chinese language text">彭澤縣</span></td>
+<td>4
+</td></tr>
+<tr>
+<td>Yidu<br/><span lang="zh-Hant" title="Chinese language text">宜都</span></td>
+<td>Yidao County<br/><span lang="zh-Hant" title="Chinese language text">夷道縣</span></td>
+<td>3
+</td></tr>
+<tr>
+<td>Linhe<br/><span lang="zh-Hant" title="Chinese language text">臨賀</span></td>
+<td>Linhe County<br/><span lang="zh-Hant" title="Chinese language text">臨賀縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Hengyang<br/><span lang="zh-Hant" title="Chinese language text">衡陽</span></td>
+<td>Xiangnan County<br/><span lang="zh-Hant" title="Chinese language text">湘南縣</span></td>
+<td>10
+</td></tr>
+<tr>
+<td>Xiangdong<br/><span lang="zh-Hant" title="Chinese language text">湘東</span></td>
+<td>Ling County<br/><span lang="zh-Hant" title="Chinese language text">酃縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Jianping<br/><span lang="zh-Hant" title="Chinese language text">建平</span></td>
+<td>Wu County<br/><span lang="zh-Hant" title="Chinese language text">巫縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Tianmen<br/><span lang="zh-Hant" title="Chinese language text">天門</span></td>
+<td>Lüzhong County<br/><span lang="zh-Hant" title="Chinese language text">漊中縣</span></td>
+<td>3
+</td></tr>
+<tr>
+<td>Zhaoling<br/><span lang="zh-Hant" title="Chinese language text">昭陵</span></td>
+<td>Zhaoling County<br/><span lang="zh-Hant" title="Chinese language text">昭陵縣</span></td>
+<td>5
+</td></tr>
+<tr>
+<td>Shi'an<br/><span lang="zh-Hant" title="Chinese language text">始安</span></td>
+<td>Shi'an County<br/><span lang="zh-Hant" title="Chinese language text">始安縣</span></td>
+<td>7
+</td></tr>
+<tr>
+<td>Shixing<br/><span lang="zh-Hant" title="Chinese language text">始興</span></td>
+<td>Qujiang County<br/><span lang="zh-Hant" title="Chinese language text">曲江縣</span></td>
+<td>7
+</td></tr>
+<tr>
+<td rowspan="7">Guang<br/><span lang="zh-Hant" title="Chinese language text">廣</span></td>
+<td rowspan="7">Panyu<br/><span lang="zh-Hant" title="Chinese language text">番禺</span></td>
+<td>Nanhai<br/><span lang="zh-Hant" title="Chinese language text">南海</span></td>
+<td>Panyu County<br/><span lang="zh-Hant" title="Chinese language text">番禺縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Cangwu<br/><span lang="zh-Hant" title="Chinese language text">蒼梧</span></td>
+<td>Guangxin County<br/><span lang="zh-Hant" title="Chinese language text">廣信縣</span></td>
+<td>11
+</td></tr>
+<tr>
+<td>Yulin<br/><span lang="zh-Hant" title="Chinese language text">鬱林</span></td>
+<td>Bushan County<br/><span lang="zh-Hant" title="Chinese language text">布山縣</span></td>
+<td>9
+</td></tr>
+<tr>
+<td>Gaoliang<br/><span lang="zh-Hant" title="Chinese language text">高涼</span></td>
+<td>Siping County<br/><span lang="zh-Hant" title="Chinese language text">思平縣</span></td>
+<td>3
+</td></tr>
+<tr>
+<td>Gaoxing<br/><span lang="zh-Hant" title="Chinese language text">高興</span></td>
+<td>Guanghua County<br/><span lang="zh-Hant" title="Chinese language text">廣化縣</span></td>
+<td>5
+</td></tr>
+<tr>
+<td>Guilin<br/><span lang="zh-Hant" title="Chinese language text">桂林</span></td>
+<td>Wu'an County<br/><span lang="zh-Hant" title="Chinese language text">武安縣</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>North Hepu<br/><span lang="zh-Hant" title="Chinese language text">合浦北部尉</span></td>
+<td>Anguang County<br/><span lang="zh-Hant" title="Chinese language text">安廣縣</span></td>
+<td>3
+</td></tr>
+<tr>
+<td rowspan="8"><a href="/wiki/Jiaozhou_(region)" title="Jiaozhou (region)">Jiao</a><br/><span lang="zh-Hant" title="Chinese language text">交</span></td>
+<td rowspan="8">Longbian<br/><span lang="zh-Hant" title="Chinese language text">龍編</span></td>
+<td><a href="/wiki/Jiaozhi" title="Jiaozhi">Jiaozhi</a><br/><span lang="zh-Hant" title="Chinese language text">交阯</span></td>
+<td>Longbian<br/><span lang="zh-Hant" title="Chinese language text">龍編</span></td>
+<td>14
+</td></tr>
+<tr>
+<td><a href="/wiki/Rinan" title="Rinan">Rinan</a><br/><span lang="zh-Hant" title="Chinese language text">日南</span></td>
+<td>Zhuwu<br/><span lang="zh-Hant" title="Chinese language text">朱吾</span></td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/wiki/Jiuzhen" title="Jiuzhen">Jiuzhen</a><br/><span lang="zh-Hant" title="Chinese language text">九真</span></td>
+<td>Xupu<br/><span lang="zh-Hant" title="Chinese language text">胥浦</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Hepu<br/><span lang="zh-Hant" title="Chinese language text">合浦</span></td>
+<td>Hepu County<br/><span lang="zh-Hant" title="Chinese language text">合浦縣</span></td>
+<td>5
+</td></tr>
+<tr>
+<td>Wuping<br/><span lang="zh-Hant" title="Chinese language text">武平</span></td>
+<td>Wuning<br/><span lang="zh-Hant" title="Chinese language text">武寧</span></td>
+<td>7
+</td></tr>
+<tr>
+<td>Jiude<br/><span lang="zh-Hant" title="Chinese language text">九德</span></td>
+<td>Jiude<br/><span lang="zh-Hant" title="Chinese language text">九德</span></td>
+<td>6
+</td></tr>
+<tr>
+<td>Xinchang<br/><span lang="zh-Hant" title="Chinese language text">新昌</span></td>
+<td>Jianing<br/><span lang="zh-Hant" title="Chinese language text">嘉寧</span></td>
+<td>4
+</td></tr>
+<tr>
+<td>Zhuya<br/><span lang="zh-Hant" title="Chinese language text">朱崖</span></td>
+<td>Xuwen County<br/><span lang="zh-Hant" title="Chinese language text">徐聞縣</span></td>
+<td>2
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="List_of_sovereigns">List of sovereigns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=11" title="Edit section: List of sovereigns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption><b>Eastern Wu rulers</b>
+</caption>
+<tbody><tr>
+<th><a href="/wiki/Temple_name" title="Temple name">Temple name</a></th>
+<th><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></th>
+<th><a href="/wiki/Chinese_surname" title="Chinese surname">Family name</a> (in bold) and <a href="/wiki/Chinese_name" title="Chinese name">personal name</a></th>
+<th>Reign</th>
+<th><a href="/wiki/Chinese_era_name" title="Chinese era name">Era names</a> and their year ranges</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>Shizu<br/><span lang="zh-Hant" title="Chinese language text">始祖</span></td>
+<td>Emperor Wulie<br/><span lang="zh-Hant" title="Chinese language text">武烈皇帝</span></td>
+<td><a href="/wiki/Sun_Jian" title="Sun Jian">Sun Jian</a><br/><span lang="zh-Hant" title="Chinese language text">孫堅</span></td>
+<td>(N/A)</td>
+<td>(N/A)</td>
+<td>Sun Jian's temple and posthumous names were granted posthumously by <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a>.
+</td></tr>
+<tr>
+<td>(N/A)</td>
+<td>Prince Huan of Changsha<br/><span lang="zh-Hant" title="Chinese language text">長沙桓王</span></td>
+<td><a href="/wiki/Sun_Ce" title="Sun Ce">Sun Ce</a><br/><span lang="zh-Hant" title="Chinese language text">孫策</span></td>
+<td>(N/A)</td>
+<td>(N/A)</td>
+<td>Sun Ce's posthumous name was granted posthumously by <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a>.
+</td></tr>
+<tr>
+<td>Taizu<br/><span lang="zh-Hant" title="Chinese language text">太祖</span></td>
+<td>Emperor Da<br/><span lang="zh-Hant" title="Chinese language text">大皇帝</span></td>
+<td><a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a><br/><span lang="zh-Hant" title="Chinese language text">孫權</span></td>
+<td>222-252</td>
+<td>
+<ul><li>Huangwu<br/><span lang="zh-Hant" title="Chinese language text">黃武</span> <span style="font-size:85%;">(222-229)</span></li>
+<li>Huanglong<br/><span lang="zh-Hant" title="Chinese language text">黃龍</span> <span style="font-size:85%;">(229-231)</span></li>
+<li>Jiahe<br/><span lang="zh-Hant" title="Chinese language text">嘉禾</span> <span style="font-size:85%;">(232-238)</span></li>
+<li>Chiwu<br/><span lang="zh-Hant" title="Chinese language text">赤烏</span> <span style="font-size:85%;">(238-251)</span></li>
+<li>Taiyuan<br/><span lang="zh-Hant" title="Chinese language text">太元</span> <span style="font-size:85%;">(251-252)</span></li>
+<li>Shenfeng<br/><span lang="zh-Hant" title="Chinese language text">神鳳</span> <span style="font-size:85%;">(252)</span></li></ul>
+</td>
+<td>Sun Quan adopted the era name "Huangwu" in 222 after declaring independence from Wei. However, he continued ruling under the title "King of Wu" and did not proclaim himself emperor until 229.
+</td></tr>
+<tr>
+<td>(N/A)</td>
+<td>(N/A)</td>
+<td><a href="/wiki/Sun_Liang" title="Sun Liang">Sun Liang</a><br/></td>
+<td>252-258</td>
+<td>
+<ul><li>Jianxing<br/><span lang="zh-Hant" title="Chinese language text">建興</span> <span style="font-size:85%;">(252-253)</span></li>
+<li>Wufeng<br/><span lang="zh-Hant" title="Chinese language text">五鳳</span> <span style="font-size:85%;">(254-256)</span></li>
+<li>Taiping<br/><span lang="zh-Hant" title="Chinese language text">太平</span> <span style="font-size:85%;">(256-258)</span></li></ul>
+</td>
+<td>Sun Liang became "Prince of Kuaiji" (<span lang="zh-Hant" title="Chinese language text">會稽王</span>) after he was dethroned by <a href="/wiki/Sun_Chen" title="Sun Chen">Sun Chen</a> in 258. In 260, his successor <a class="mw-redirect" href="/wiki/Sun_Xiu_(emperor)" title="Sun Xiu (emperor)">Sun Xiu</a> further demoted him to "Marquis of Houguan" (<span lang="zh-Hant" title="Chinese language text">侯官侯</span>).
+</td></tr>
+<tr>
+<td>(N/A)</td>
+<td>Emperor Jing<br/><span lang="zh-Hant" title="Chinese language text">景皇帝</span></td>
+<td><a href="/wiki/Sun_Xiu" title="Sun Xiu">Sun Xiu</a><br/><span lang="zh-Hant" title="Chinese language text">孫休</span></td>
+<td>258-264</td>
+<td>
+<ul><li>Yong'an<br/><span lang="zh-Hant" title="Chinese language text">永安</span> <span style="font-size:85%;">(258-264)</span></li></ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>(N/A)</td>
+<td>Emperor Wen<br/><span lang="zh-Hant" title="Chinese language text">文皇帝</span></td>
+<td><a href="/wiki/Sun_He_(Zixiao)" title="Sun He (Zixiao)">Sun He</a><br/><span lang="zh-Hant" title="Chinese language text">孫和</span></td>
+<td>(N/A)</td>
+<td>(N/A)</td>
+<td>Sun He's posthumous name was granted posthumously by <a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a>.
+</td></tr>
+<tr>
+<td>(N/A)</td>
+<td>Emperor Mo<br/><span lang="zh-Hant" title="Chinese language text">末帝</span></td>
+<td><a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a><br/><span lang="zh-Hant" title="Chinese language text">孫皓</span></td>
+<td>264-280</td>
+<td>
+<ul><li>Yuanxing<br/><span lang="zh-Hant" title="Chinese language text">元興</span> <span style="font-size:85%;">(264-265)</span></li>
+<li>Ganlu<br/><span lang="zh-Hant" title="Chinese language text">甘露</span> <span style="font-size:85%;">(265-266)</span></li>
+<li>Baoding<br/><span lang="zh-Hant" title="Chinese language text">寶鼎</span> <span style="font-size:85%;">(266-269)</span></li>
+<li>Jianheng<br/><span lang="zh-Hant" title="Chinese language text">建衡</span> <span style="font-size:85%;">(269-271)</span></li>
+<li>Fenghuang<br/><span lang="zh-Hant" title="Chinese language text">鳳凰</span> <span style="font-size:85%;">(272-274)</span></li>
+<li>Tiance<br/><span lang="zh-Hant" title="Chinese language text">天冊</span> <span style="font-size:85%;">(275-276)</span></li>
+<li>Tianxi<br/><span lang="zh-Hant" title="Chinese language text">天璽</span> <span style="font-size:85%;">(276)</span></li>
+<li>Tianji<br/><span lang="zh-Hant" title="Chinese language text">天紀</span> <span style="font-size:85%;">(277-280)</span></li></ul>
+</td>
+<td>Sun Hao held the title of "Marquis of Wucheng" (<span lang="zh-Hant" title="Chinese language text">烏程侯</span>) before he became emperor in 264. In 280, after surrendering to the <a href="/wiki/Jin_dynasty_(265%E2%80%93420)" title="Jin dynasty (265–420)">Jin dynasty</a>, he was granted the title of "Marquis of Guiming" (<span lang="zh-Hant" title="Chinese language text">歸命侯</span>) by <a href="/wiki/Emperor_Wu_of_Jin" title="Emperor Wu of Jin">Sima Yan</a>. He is also sometimes referred to as "Emperor Mo of Wu" (<span lang="zh-Hant" title="Chinese language text">吳末帝</span>), which literally means "last emperor of Wu".
+</td></tr>
+</tbody></table>
+<h2><span id="Emperors.27_family_tree"></span><span class="mw-headline" id="Emperors'_family_tree">Emperors' family tree</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=12" title="Edit section: Emperors' family tree">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Eastern_Wu_family_trees" title="Eastern Wu family trees">Eastern Wu family trees</a></div>
+<table class="collapsible collapsed" style="margin: 0.3em auto auto; clear:none; min-width:60%; width:60%; font-size:88%; border:1px solid #aaa;">
+<tbody><tr>
+<th style="padding:0.2em 0.3em 0.2em 4.3em;background:none; width:60%">Eastern Wu
+</th></tr>
+<tr>
+<td style="text-align:center">
+<table style="border-spacing: 0px; border-collapse: separate; margin: 0 auto; font-size:112%;">
+<tbody><tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Sun Zhong<br/>孫鍾</td></tr><tr style="height:1px;text-align:center"></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td style="height:1em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td></tr><tr style="height:1px;text-align:center"><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Jian" title="Sun Jian">Sun Jian</a><br/>孫堅<br/><small>c. 155–191</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Jing" title="Sun Jing">Sun Jing</a><br/>孫靜</td></tr><tr style="height:1px;text-align:center"></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td style="height:1em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td></tr><tr style="height:1px;text-align:center"><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><small>175–200</small><br/><a href="/wiki/Sun_Ce" title="Sun Ce">Sun Ce</a><br/>孫策<br/>197–200<br/><small>Marquis of Wu<br/>吳侯</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;border-width:2px"><small>182–252</small><br/><b><a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a><br/>孫權</b><br/>229–252<br/><small>Emperor Da<br/>大帝</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Sun Gao<br/>孫暠</td></tr><tr style="height:1px;text-align:center"></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td style="height:1em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td><td style="height:1em;border-bottom:1px solid black;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td></tr><tr style="height:1px;text-align:center"><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td><td style="height:1em;width:1em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td colspan="2" style="height:1em;width:2em"></td><td style="border-right:1px solid black;height:1em;width:1em"></td></tr>
+<tr style="height:1px;text-align:center"><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Deng_(Eastern_Wu)" title="Sun Deng (Eastern Wu)">Sun Deng</a><br/>孫登<br/><small>209–241</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_He_(Zixiao)" title="Sun He (Zixiao)">Sun He</a><br/>孫和<br/><small>223–253</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;border-width:2px"><small>235–264</small><br/><b><a href="/wiki/Sun_Xiu" title="Sun Xiu">Sun Xiu</a><br/>孫休</b><br/>258–264<br/><small>Emperor Jing<br/>景帝</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;border-width:2px"><small>243–260</small><br/><b><a href="/wiki/Sun_Liang" title="Sun Liang">Sun Liang</a><br/>孫亮</b><br/>252–258<br/><small>Prince of Kuaiji<br/>會稽王</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Chuo" title="Sun Chuo">Sun Chuo</a><br/>孫綽<br/><small>320-377</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em">Sun Gong<br/>孫恭</td></tr><tr style="height:1px;text-align:center"></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td><td rowspan="2" style="height:2em;width:1em"></td></tr><tr style="height:1px;text-align:center"></tr>
+<tr style="height:1px;text-align:center"><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em;border-width:2px"><small>242–284</small><br/><b><a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a><br/>孫皓</b><br/>264–280</td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Chen" title="Sun Chen">Sun Chen</a><br/>孫綝<br/><small>231–258</small></td><td colspan="2" rowspan="2" style="height:2em;width:2em"></td><td colspan="6" rowspan="2" style="border:1px solid black;padding:0.2em"><a href="/wiki/Sun_Jun_(Three_Kingdoms)" title="Sun Jun (Three Kingdoms)">Sun Jun</a><br/><small>219–256</small></td></tr><tr style="height:1px;text-align:center"></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=13" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Three_Kingdoms_Wu_-_funeral_urn.jpg"><img alt="" data-file-height="2426" data-file-width="1643" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Kingdoms_Wu_-_funeral_urn.jpg/81px-Three_Kingdoms_Wu_-_funeral_urn.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Kingdoms_Wu_-_funeral_urn.jpg/122px-Three_Kingdoms_Wu_-_funeral_urn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Kingdoms_Wu_-_funeral_urn.jpg/162px-Three_Kingdoms_Wu_-_funeral_urn.jpg 2x" width="81"/></a></div></div>
+<div class="gallerytext">
+<p>An Eastern Wu funeral urn, dating from the third century, on display in a museum in <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Japan" title="Japan">Japan</a>.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Sun_Quan_Tang.jpg"><img alt="" data-file-height="1270" data-file-width="936" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/88px-Sun_Quan_Tang.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/133px-Sun_Quan_Tang.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/177px-Sun_Quan_Tang.jpg 2x" width="88"/></a></div></div>
+<div class="gallerytext">
+<p>A portrait of <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a> painted by <a href="/wiki/Yan_Liben" title="Yan Liben">Yan Liben</a> in the <a href="/wiki/Tang_dynasty" title="Tang dynasty">Tang dynasty</a>.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Sun_Quan_and_his_brother_Sun_Ce.jpg"><img alt="" data-file-height="2048" data-file-width="1536" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sun_Quan_and_his_brother_Sun_Ce.jpg/90px-Sun_Quan_and_his_brother_Sun_Ce.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sun_Quan_and_his_brother_Sun_Ce.jpg/135px-Sun_Quan_and_his_brother_Sun_Ce.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sun_Quan_and_his_brother_Sun_Ce.jpg/180px-Sun_Quan_and_his_brother_Sun_Ce.jpg 2x" width="90"/></a></div></div>
+<div class="gallerytext">
+<p>Statues of <a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a> (left) and <a href="/wiki/Sun_Ce" title="Sun Ce">Sun Ce</a>.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (February 2013)">where?</span></a></i>]</sup>
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:SunQuan_MeihuaShan.jpg"><img alt="" data-file-height="1024" data-file-width="768" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SunQuan_MeihuaShan.jpg/90px-SunQuan_MeihuaShan.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SunQuan_MeihuaShan.jpg/135px-SunQuan_MeihuaShan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SunQuan_MeihuaShan.jpg/180px-SunQuan_MeihuaShan.jpg 2x" width="90"/></a></div></div>
+<div class="gallerytext">
+<p>A statue of Sun Quan at Meihua Hill, <a href="/wiki/Purple_Mountain_(Nanjing)" title="Purple Mountain (Nanjing)">Purple Mountain</a>, <a href="/wiki/Nanjing" title="Nanjing">Nanjing</a>, <a href="/wiki/Jiangsu" title="Jiangsu">Jiangsu</a>.
+</p>
+</div>
+</div></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Eastern_Wu_family_trees" title="Eastern Wu family trees">Eastern Wu family trees</a></li>
+<li><a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a></li>
+<li><a href="/wiki/Cao_Wei" title="Cao Wei">Cao Wei</a></li>
+<li><a href="/wiki/Shu_Han" title="Shu Han">Shu Han</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">The coinage policies of this period are described in CS 26, 794-5; Yang, "Economic history," 191-2.  See also the article of Ho Tzu-ch'üan, "Manorial economy," summarised in Sun and DeFrancis, Chinese social history, at 140. On the large coins of Wu, and the attempt to enforce a monopoly of minting, see SGZ 47/Wu 2, 1140, 1142 and 1146 PC quoting Jiangbiao zhuan.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Divided from the original Jiangxia Commandery. When Eastern Wu took control of the commandery, it was unknown whether it still existed. The commandery capital was unknown.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Dardess-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dardess_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dardess_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Dardess, John W (10 September 2010). "The Three Kingdoms, 221-264". <i>Governing China, 150-1850</i>. Indianapolis: Hackett Pub. Co. p. 7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1603844473" title="Special:BookSources/1603844473">1603844473</a>. <q>Weakened by internal strife, horrific palace murders, and major defections to the enemy, the last Wu emperor surrendered on 31 May 280, and his realm was annexed to the Jin.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Three+Kingdoms%2C+221-264&amp;rft.btitle=Governing+China%2C+150-1850&amp;rft.place=Indianapolis&amp;rft.pages=7&amp;rft.pub=Hackett+Pub.+Co.&amp;rft.date=2010-09-10&amp;rft.isbn=1603844473&amp;rft.aulast=Dardess&amp;rft.aufirst=John+W&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-zou-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-zou_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zou_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Zou Jiwan (Chinese: <span lang="zh">鄒紀萬</span>), <i>Zhongguo Tongshi - Weijin Nanbeichao Shi</i> <span lang="zh-Hant" title="Chinese language text">中國通史·魏晉南北朝史</span>, (1992).</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Tanner, Harold M. (13 March 2009). "Chapter 5: The Age of Warriors and Buddhists". <i>China: A History</i>. Hackett Publishing. p. 142. <q>When it was established, Wu had only one-sixth of the population of the Eastern Han Empire (Cao Wei held over two-thirds of the Han population).</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+5%3A+The+Age+of+Warriors+and+Buddhists&amp;rft.btitle=China%3A+A+History&amp;rft.pages=142&amp;rft.pub=Hackett+Publishing&amp;rft.date=2009-03-13&amp;rft.aulast=Tanner&amp;rft.aufirst=Harold+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a> (1922). <i>Problem of China</i>. London: <a class="mw-redirect" href="/wiki/George_Allen_%26_Unwin" title="George Allen &amp; Unwin">George Allen &amp; Unwin</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Problem+of+China&amp;rft.place=London&amp;rft.pub=George+Allen+%26+Unwin&amp;rft.date=1922&amp;rft.au=Bertrand+Russell&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 3.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Rafe_de_Crespigny" title="Rafe de Crespigny">Rafe de Crespigny</a> (1990). "Chapter 8 Empire in the South". <a class="external text" href="https://digitalcollections.anu.edu.au/html/1885/42048/gos_ch8.pdf" rel="nofollow"><i>Generals of the south : the foundation and early history of the Three Kingdoms state of Wu</i></a> <span class="cs1-format">(PDF)</span>. Cambera: Australian National University, Faculty of Asian Studies. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0731509013" title="Special:BookSources/0731509013">0731509013</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2015</span>. <q>Though Sun Quan had claimed the imperial title in 229, and made some pretence of establishing the forms of an imperial court, the government of Wu continued to reflect the structure of a warlord state. In human terms, the time of the foundation of Wu was dominated by military commanders who held authority through their personal courage and energy, and were celebrated for their individualism, and it was no small achievement that Sun Quan was able to keep such a group under control.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+8+Empire+in+the+South&amp;rft.btitle=Generals+of+the+south+%3A+the+foundation+and+early+history+of+the+Three+Kingdoms+state+of+Wu&amp;rft.place=Cambera&amp;rft.pub=Australian+National+University%2C+Faculty+of+Asian+Studies&amp;rft.date=1990&amp;rft.isbn=0731509013&amp;rft.au=Rafe+de+Crespigny&amp;rft_id=https%3A%2F%2Fdigitalcollections.anu.edu.au%2Fhtml%2F1885%2F42048%2Fgos_ch8.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Rafe_de_Crespigny" title="Rafe de Crespigny">Rafe de Crespigny</a> (1990). "Chapter 8 Empire in the South". <a class="external text" href="https://digitalcollections.anu.edu.au/html/1885/42048/gos_ch8.pdf" rel="nofollow"><i>Generals of the south : the foundation and early history of the Three Kingdoms state of Wu</i></a> <span class="cs1-format">(PDF)</span>. Cambera: Australian National University, Faculty of Asian Studies. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0731509013" title="Special:BookSources/0731509013">0731509013</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2015</span>. <q>Politics at court were largely dominated by the intrigues and conflicts of powerful individuals and families. In particular, unlike the bureaucracy of Han, substantial official positions, and particularly those involving the command of troops, were regularly transferred by inheritance from one generation to the next. In the course of time, however, there was a shift of influence in the central government from the first generation of men who had risen to power in the early years of the state, many of them from the north and all chosen for their personal ability and loyalty, to men from south of the Yangzi, whose families had prospered under the Sun regime.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+8+Empire+in+the+South&amp;rft.btitle=Generals+of+the+south+%3A+the+foundation+and+early+history+of+the+Three+Kingdoms+state+of+Wu&amp;rft.place=Cambera&amp;rft.pub=Australian+National+University%2C+Faculty+of+Asian+Studies&amp;rft.date=1990&amp;rft.isbn=0731509013&amp;rft.au=Rafe+de+Crespigny&amp;rft_id=https%3A%2F%2Fdigitalcollections.anu.edu.au%2Fhtml%2F1885%2F42048%2Fgos_ch8.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Rafe_de_Crespigny" title="Rafe de Crespigny">Rafe de Crespigny</a> (1990). "Chapter 8 Empire in the South". <a class="external text" href="https://digitalcollections.anu.edu.au/html/1885/42048/gos_ch8.pdf" rel="nofollow"><i>Generals of the south : the foundation and early history of the Three Kingdoms state of Wu</i></a> <span class="cs1-format">(PDF)</span>. Cambera: Australian National University, Faculty of Asian Studies. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0731509013" title="Special:BookSources/0731509013">0731509013</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2015</span>. <q>Outside the court and the capital, moreover, great independent authority was held by these local families, which consolidated their power through the acquisition of tenants and other dependents who sought protection from the uncertainty of the times and the demands of government. This development, already begun in the time of Han, meant that the power of the central government was limited, and its capacity to exploit the resources of the state was heavily restricted. To a degree, the state of Wu was run for the protection and the benefit of the great families who were its nominal subjects.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+8+Empire+in+the+South&amp;rft.btitle=Generals+of+the+south+%3A+the+foundation+and+early+history+of+the+Three+Kingdoms+state+of+Wu&amp;rft.place=Cambera&amp;rft.pub=Australian+National+University%2C+Faculty+of+Asian+Studies&amp;rft.date=1990&amp;rft.isbn=0731509013&amp;rft.au=Rafe+de+Crespigny&amp;rft_id=https%3A%2F%2Fdigitalcollections.anu.edu.au%2Fhtml%2F1885%2F42048%2Fgos_ch8.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.travelchinaguide.com/intro/history/three_kingdoms/wu-kingdom/" rel="nofollow">"Travel China Guide"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2014</span>. <q>Due to the convenient river transportation in the east of Yangtze River, the shipbuilding industry and salt industry of Wu were prosperous. During that period, the ships were improved to hold about 1,000 people.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Travel+China+Guide&amp;rft_id=http%3A%2F%2Fwww.travelchinaguide.com%2Fintro%2Fhistory%2Fthree_kingdoms%2Fwu-kingdom%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-de_Crespigny_1990_loc=24-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-de_Crespigny_1990_loc=24_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-de_Crespigny_1990_loc=24_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 24.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.travelchinaguide.com/intro/history/three_kingdoms/wu-kingdom/" rel="nofollow">"Travel China Guide"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2014</span>. <q>Depending on the advantage of navigation, Kingdom of Wu established close trade routes with some overseas countries such as Vietnam and Cambodia.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Travel+China+Guide&amp;rft_id=http%3A%2F%2Fwww.travelchinaguide.com%2Fintro%2Fhistory%2Fthree_kingdoms%2Fwu-kingdom%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Eberhard, Wolfram (1987). <i>A History of China</i> (4th ed., corr. in the 3rd print. ed.). Berkeley: University of California Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0520032683" title="Special:BookSources/0520032683">0520032683</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+China&amp;rft.place=Berkeley&amp;rft.edition=4th+ed.%2C+corr.+in+the+3rd+print.&amp;rft.pub=University+of+California+Press&amp;rft.date=1987&amp;rft.isbn=0520032683&amp;rft.aulast=Eberhard&amp;rft.aufirst=Wolfram&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-cres4i-4-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-cres4i-4_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cres4i-4_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cres4i-4_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 4.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 6.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 6–7.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 7.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 8.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 1.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 9–10.</span>
+</li>
+<li id="cite_note-de_Crespigny_1990_loc=10-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-de_Crespigny_1990_loc=10_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-de_Crespigny_1990_loc=10_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-de_Crespigny_1990_loc=10_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 10.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 10–11</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="#CITEREFde_Crespigny1990">de Crespigny 1990</a>, 11.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eastern_Wu&amp;action=edit&amp;section=17" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book" id="CITEREFde_Crespigny1990">de Crespigny, Rafe (1990). "Empire in the South". <a class="external text" href="https://digitalcollections.anu.edu.au/html/1885/42048/gos_index.html" rel="nofollow"><i>Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu</i></a> (2004 Internet ed.). Cambera: Faculty of Asian Studies, The Australian National University. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0731509013" title="Special:BookSources/0731509013">0731509013</a>. <a class="external text" href="https://archive.is/20120709044544/https://digitalcollections.anu.edu.au/html/1885/42048/gos_index.html" rel="nofollow">Archived</a> from the original on 9 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Empire+in+the+South&amp;rft.btitle=Generals+of+the+South%3A+The+Foundation+and+Early+History+of+the+Three+Kingdoms+State+of+Wu&amp;rft.place=Cambera&amp;rft.edition=2004+Internet&amp;rft.pub=Faculty+of+Asian+Studies%2C+The+Australian+National+University&amp;rft.date=1990&amp;rft.isbn=0731509013&amp;rft.aulast=de+Crespigny&amp;rft.aufirst=Rafe&amp;rft_id=https%3A%2F%2Fdigitalcollections.anu.edu.au%2Fhtml%2F1885%2F42048%2Fgos_index.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEastern+Wu"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Prominent_people_of_Eastern_Wu" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:People_of_Eastern_Wu" title="Template:People of Eastern Wu"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:People_of_Eastern_Wu" title="Template talk:People of Eastern Wu"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:People_of_Eastern_Wu&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Prominent_people_of_Eastern_Wu" style="font-size:114%;margin:0 4em">Prominent people of <a class="mw-selflink selflink">Eastern Wu</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Emperors</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sun_Quan" title="Sun Quan">Sun Quan</a></li>
+<li><a href="/wiki/Sun_Liang" title="Sun Liang">Sun Liang</a></li>
+<li><a href="/wiki/Sun_Xiu" title="Sun Xiu">Sun Xiu</a></li>
+<li><a href="/wiki/Sun_Hao" title="Sun Hao">Sun Hao</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Empresses and noble ladies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lady_Xie" title="Lady Xie">Lady Xie</a></li>
+<li><a class="new" href="/w/index.php?title=Lady_Xu_(wife_of_Sun_Quan)&amp;action=edit&amp;redlink=1" title="Lady Xu (wife of Sun Quan) (page does not exist)">Lady Xu</a></li>
+<li><a href="/wiki/Pan_Shu" title="Pan Shu">Pan Shu</a></li>
+<li><a href="/wiki/Bu_Lianshi" title="Bu Lianshi">Bu Lianshi</a></li>
+<li><a class="new" href="/w/index.php?title=Empress_Dayi&amp;action=edit&amp;redlink=1" title="Empress Dayi (page does not exist)">Empress Dayi</a></li>
+<li><a class="new" href="/w/index.php?title=Empress_Jinghuai&amp;action=edit&amp;redlink=1" title="Empress Jinghuai (page does not exist)">Empress Jinghuai</a></li>
+<li><a href="/wiki/Quan_Huijie" title="Quan Huijie">Quan Huijie</a></li>
+<li><a href="/wiki/Empress_Zhu_(Eastern_Wu)" title="Empress Zhu (Eastern Wu)">Empress Zhu</a></li>
+<li><a href="/wiki/Empress_Dowager_He_(Eastern_Wu)" title="Empress Dowager He (Eastern Wu)">Empress Dowager He</a></li>
+<li><a href="/wiki/Teng_Fanglan" title="Teng Fanglan">Teng Fanglan</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Princes, princesses and royal figures</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sun_Deng_(Eastern_Wu)" title="Sun Deng (Eastern Wu)">Sun Deng</a></li>
+<li><a href="/wiki/Sun_L%C3%BC" title="Sun Lü">Sun Lü</a></li>
+<li><a href="/wiki/Sun_He_(Zixiao)" title="Sun He (Zixiao)">Sun He</a></li>
+<li><a href="/wiki/Sun_Ba" title="Sun Ba">Sun Ba</a></li>
+<li><a href="/wiki/Sun_Fen" title="Sun Fen">Sun Fen</a></li>
+<li><a href="/wiki/Sun_Luban" title="Sun Luban">Sun Luban</a></li>
+<li><a href="/wiki/Sun_Luyu" title="Sun Luyu">Sun Luyu</a></li>
+<li><a href="/wiki/Sun_Huan_(Shuwu)" title="Sun Huan (Shuwu)">Sun Huan (Shuwu)</a></li>
+<li><a href="/wiki/Sun_Shao_(general)" title="Sun Shao (general)">Sun Shao</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Chancellors</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sun_Shao_(Changxu)" title="Sun Shao (Changxu)">Sun Shao</a></li>
+<li><a href="/wiki/Gu_Yong" title="Gu Yong">Gu Yong</a></li>
+<li><a href="/wiki/Lu_Xun_(Three_Kingdoms)" title="Lu Xun (Three Kingdoms)">Lu Xun</a></li>
+<li><a href="/wiki/Bu_Zhi" title="Bu Zhi">Bu Zhi</a></li>
+<li><a href="/wiki/Zhu_Ju" title="Zhu Ju">Zhu Ju</a></li>
+<li><a href="/wiki/Sun_Jun_(Three_Kingdoms)" title="Sun Jun (Three Kingdoms)">Sun Jun</a></li>
+<li><a href="/wiki/Sun_Chen" title="Sun Chen">Sun Chen</a></li>
+<li><a href="/wiki/Puyang_Xing" title="Puyang Xing">Puyang Xing</a></li>
+<li><a href="/wiki/Lu_Kai" title="Lu Kai">Lu Kai</a></li>
+<li><a href="/wiki/Wan_Yu" title="Wan Yu">Wan Yu</a></li>
+<li><a href="/wiki/Zhang_Ti" title="Zhang Ti">Zhang Ti</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Civil officers</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cen_Hun" title="Cen Hun">Cen Hun</a></li>
+<li><a href="/wiki/Cheng_Bing" title="Cheng Bing">Cheng Bing</a></li>
+<li><a class="new" href="/w/index.php?title=Ding_Gu&amp;action=edit&amp;redlink=1" title="Ding Gu (page does not exist)">Ding Gu</a></li>
+<li><a href="/wiki/Gu_Cheng_(Three_Kingdoms)" title="Gu Cheng (Three Kingdoms)">Gu Cheng</a></li>
+<li><a href="/wiki/Gu_Tan" title="Gu Tan">Gu Tan</a></li>
+<li><a href="/wiki/Gu_Ti" title="Gu Ti">Gu Ti</a></li>
+<li><a class="new" href="/w/index.php?title=He_Shao&amp;action=edit&amp;redlink=1" title="He Shao (page does not exist)">He Shao</a></li>
+<li><a href="/wiki/He_Zhi" title="He Zhi">He Zhi</a></li>
+<li><a href="/wiki/Hu_Zong" title="Hu Zong">Hu Zong</a></li>
+<li><a href="/wiki/Hua_He" title="Hua He">Hua He</a></li>
+<li><a href="/wiki/Ji_Yan_(Three_Kingdoms)" title="Ji Yan (Three Kingdoms)">Ji Yan</a></li>
+<li><a href="/wiki/Kan_Ze" title="Kan Ze">Kan Ze</a></li>
+<li><a class="new" href="/w/index.php?title=Liu_Dun&amp;action=edit&amp;redlink=1" title="Liu Dun (page does not exist)">Liu Dun</a></li>
+<li><a href="/wiki/Liu_Ji_(Three_Kingdoms)" title="Liu Ji (Three Kingdoms)">Liu Ji</a></li>
+<li><a href="/wiki/Lou_Xuan" title="Lou Xuan">Lou Xuan</a></li>
+<li><a href="/wiki/Lu_Mao" title="Lu Mao">Lu Mao</a></li>
+<li><a href="/wiki/L%C3%BC_Yi_(Eastern_Wu)" title="Lü Yi (Eastern Wu)">Lü Yi</a></li>
+<li><a href="/wiki/Pan_Jun" title="Pan Jun">Pan Jun</a></li>
+<li><a href="/wiki/Shi_Xie" title="Shi Xie">Shi Xie</a></li>
+<li><a href="/wiki/Shi_Yi_(Eastern_Wu)" title="Shi Yi (Eastern Wu)">Shi Yi</a></li>
+<li><a class="new" href="/w/index.php?title=Sun_Hong&amp;action=edit&amp;redlink=1" title="Sun Hong (page does not exist)">Sun Hong</a></li>
+<li><a href="/wiki/Wang_Fan" title="Wang Fan">Wang Fan</a></li>
+<li><a href="/wiki/Wei_Zhao_(Three_Kingdoms)" title="Wei Zhao (Three Kingdoms)">Wei Zhao</a></li>
+<li><a href="/wiki/Wu_Can" title="Wu Can">Wu Can</a></li>
+<li><a class="new" href="/w/index.php?title=Wu_Fan_(Three_Kingdoms)&amp;action=edit&amp;redlink=1" title="Wu Fan (Three Kingdoms) (page does not exist)">Wu Fan</a></li>
+<li><a class="new" href="/w/index.php?title=Xu_Xiang_(Three_Kingdoms)&amp;action=edit&amp;redlink=1" title="Xu Xiang (Three Kingdoms) (page does not exist)">Xu Xiang</a></li>
+<li><a href="/wiki/Xue_Zong" title="Xue Zong">Xue Zong</a></li>
+<li><a href="/wiki/Yan_Jun" title="Yan Jun">Yan Jun</a></li>
+<li><a href="/wiki/Yin_Li_(Eastern_Wu)" title="Yin Li (Eastern Wu)">Yin Li</a></li>
+<li><a href="/wiki/Yu_Fan" title="Yu Fan">Yu Fan</a></li>
+<li><a href="/wiki/Yu_Si" title="Yu Si">Yu Si</a></li>
+<li><a href="/wiki/Yu_Zhong_(Three_Kingdoms)" title="Yu Zhong (Three Kingdoms)">Yu Zhong</a></li>
+<li><a href="/wiki/Zhang_Wen_(Three_Kingdoms)" title="Zhang Wen (Three Kingdoms)">Zhang Wen</a></li>
+<li><a href="/wiki/Zhang_Zhao" title="Zhang Zhao">Zhang Zhao</a></li>
+<li><a class="new" href="/w/index.php?title=Zhao_Da&amp;action=edit&amp;redlink=1" title="Zhao Da (page does not exist)">Zhao Da</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Military officers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chen_Biao" title="Chen Biao">Chen Biao</a></li>
+<li><a href="/wiki/Ding_Feng_(general)" title="Ding Feng (general)">Ding Feng</a></li>
+<li><a href="/wiki/Han_Dang" title="Han Dang">Han Dang</a></li>
+<li><a href="/wiki/He_Qi" title="He Qi">He Qi</a></li>
+<li><a href="/wiki/Ling_Tong" title="Ling Tong">Ling Tong</a></li>
+<li><a href="/wiki/Liu_Zan" title="Liu Zan">Liu Zan</a></li>
+<li><a href="/wiki/Lu_Jing" title="Lu Jing">Lu Jing</a></li>
+<li><a href="/wiki/Lu_Kang_(Three_Kingdoms)" title="Lu Kang (Three Kingdoms)">Lu Kang</a></li>
+<li><a href="/wiki/Lu_Yin_(Three_Kingdoms)" title="Lu Yin (Three Kingdoms)">Lu Yin</a></li>
+<li><a href="/wiki/L%C3%BC_Dai" title="Lü Dai">Lü Dai</a></li>
+<li><a href="/wiki/L%C3%BC_Ju" title="Lü Ju">Lü Ju</a></li>
+<li><a href="/wiki/L%C3%BC_Fan" title="Lü Fan">Lü Fan</a></li>
+<li><a href="/wiki/Luo_Tong" title="Luo Tong">Luo Tong</a></li>
+<li><a href="/wiki/Mi_Fang" title="Mi Fang">Mi Fang</a></li>
+<li><a href="/wiki/Pan_Zhang" title="Pan Zhang">Pan Zhang</a></li>
+<li><a href="/wiki/Quan_Cong" title="Quan Cong">Quan Cong</a></li>
+<li><a href="/wiki/Shi_Ji_(Three_Kingdoms)" title="Shi Ji (Three Kingdoms)">Shi Ji</a></li>
+<li><a href="/wiki/Song_Qian_(Eastern_Wu)" title="Song Qian (Eastern Wu)">Song Qian</a></li>
+<li><a href="/wiki/Tang_Zi" title="Tang Zi">Tang Zi</a></li>
+<li><a class="new" href="/w/index.php?title=Tao_Huang_(Jin_dynasty)&amp;action=edit&amp;redlink=1" title="Tao Huang (Jin dynasty) (page does not exist)">Tao Huang</a></li>
+<li><a class="mw-redirect" href="/wiki/Tao_Jun_(Three_Kingdoms)" title="Tao Jun (Three Kingdoms)">Tao Jun</a></li>
+<li><a href="/wiki/Teng_Xiu" title="Teng Xiu">Teng Xiu</a></li>
+<li><a href="/wiki/Teng_Yin" title="Teng Yin">Teng Yin</a></li>
+<li><a href="/wiki/Wen_Qin" title="Wen Qin">Wen Qin</a></li>
+<li><a href="/wiki/Wen_Yang_(Three_Kingdoms)" title="Wen Yang (Three Kingdoms)">Wen Yang</a></li>
+<li><a class="new" href="/w/index.php?title=Wu_Yan_(Shize)&amp;action=edit&amp;redlink=1" title="Wu Yan (Shize) (page does not exist)">Wu Yan</a></li>
+<li><a href="/wiki/Xu_Sheng" title="Xu Sheng">Xu Sheng</a></li>
+<li><a href="/wiki/Xue_Xu" title="Xue Xu">Xue Xu</a></li>
+<li><a href="/wiki/Xue_Ying" title="Xue Ying">Xue Ying</a></li>
+<li><a href="/wiki/Zhang_Bu" title="Zhang Bu">Zhang Bu</a></li>
+<li><a href="/wiki/Zhang_Cheng_(Three_Kingdoms)" title="Zhang Cheng (Three Kingdoms)">Zhang Cheng</a></li>
+<li><a class="new" href="/w/index.php?title=Zhang_Fen&amp;action=edit&amp;redlink=1" title="Zhang Fen (page does not exist)">Zhang Fen</a></li>
+<li><a href="/wiki/Zhang_Xiu_(Eastern_Wu)" title="Zhang Xiu (Eastern Wu)">Zhang Xiu</a></li>
+<li><a class="new" href="/w/index.php?title=Zhongli_Mu&amp;action=edit&amp;redlink=1" title="Zhongli Mu (page does not exist)">Zhongli Mu</a></li>
+<li><a href="/wiki/Zhou_Fang_(Three_Kingdoms)" title="Zhou Fang (Three Kingdoms)">Zhou Fang</a></li>
+<li><a href="/wiki/Zhou_Tai" title="Zhou Tai">Zhou Tai</a></li>
+<li><a href="/wiki/Zhu_Huan" title="Zhu Huan">Zhu Huan</a></li>
+<li><a href="/wiki/Zhu_Ran" title="Zhu Ran">Zhu Ran</a></li>
+<li><a href="/wiki/Zhu_Yi_(Three_Kingdoms)" title="Zhu Yi (Three Kingdoms)">Zhu Yi</a></li>
+<li><a href="/wiki/Zhu_Zhi" title="Zhu Zhi">Zhu Zhi</a></li>
+<li><a href="/wiki/Zhuge_Jin" title="Zhuge Jin">Zhuge Jin</a></li>
+<li><a class="new" href="/w/index.php?title=Zhuge_Jing&amp;action=edit&amp;redlink=1" title="Zhuge Jing (page does not exist)">Zhuge Jing</a></li>
+<li><a href="/wiki/Zhuge_Ke" title="Zhuge Ke">Zhuge Ke</a></li>
+<li><a href="/wiki/Zhuge_Rong" title="Zhuge Rong">Zhuge Rong</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cao_Buxing" title="Cao Buxing">Cao Buxing</a></li>
+<li><a href="/wiki/Chen_Zhuo" title="Chen Zhuo">Chen Zhuo</a></li>
+<li><a href="/wiki/Ge_Xuan" title="Ge Xuan">Ge Xuan</a></li>
+<li><a href="/wiki/Lu_Ji_(Shiheng)" title="Lu Ji (Shiheng)">Lu Ji</a></li>
+<li><a href="/wiki/Zhi_Qian" title="Zhi Qian">Zhi Qian</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Three_Kingdoms_(220–280)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Three_Kingdoms" title="Template:Three Kingdoms"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Three_Kingdoms" title="Template talk:Three Kingdoms"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Three_Kingdoms&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Three_Kingdoms_(220–280)" style="font-size:114%;margin:0 4em"><a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a> (220–280)</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cao_Wei" title="Cao Wei">Cao Wei</a></li>
+<li><a href="/wiki/Shu_Han" title="Shu Han">Shu Han</a></li>
+<li><a class="mw-selflink selflink">Eastern Wu</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20190211231837
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 1.280 seconds
+Real time usage: 1.521 seconds
+Preprocessor visited node count: 8881/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 197124/2097152 bytes
+Template argument size: 7057/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41663/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.742/10.000 seconds
+Lua memory usage: 18.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1292.430      1 -total
+ 46.32%  598.636      6 Template:Infobox
+ 37.93%  490.175      1 Template:Infobox_country
+ 28.66%  370.450    146 Template:Lang
+ 13.82%  178.678      2 Template:Reflist
+ 12.06%  155.816      2 Template:Infobox_Chinese
+ 12.05%  155.717      1 Template:Nobold
+ 10.41%  134.483      1 Template:ISO_3166_code
+  8.23%  106.424      8 Template:Cite_book
+  3.27%   42.198      1 Template:Where
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:278229-0!canonical and timestamp 20190211231835 and revision id 881921744
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eastern_Wu&amp;oldid=881921744">https://en.wikipedia.org/w/index.php?title=Eastern_Wu&amp;oldid=881921744</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:222_establishments" title="Category:222 establishments">222 establishments</a></li><li><a href="/wiki/Category:280_disestablishments" title="Category:280 disestablishments">280 disestablishments</a></li><li><a href="/wiki/Category:Eastern_Wu" title="Category:Eastern Wu">Eastern Wu</a></li><li><a href="/wiki/Category:Wu_(region)" title="Category:Wu (region)">Wu (region)</a></li><li><a href="/wiki/Category:Former_monarchies_of_East_Asia" title="Category:Former monarchies of East Asia">Former monarchies of East Asia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_February_2013" title="Category:Vague or ambiguous geographic scope from February 2013">Vague or ambiguous geographic scope from February 2013</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2016" title="Category:Use dmy dates from September 2016">Use dmy dates from September 2016</a></li><li><a href="/wiki/Category:Former_country_articles_categorised_by_government_type" title="Category:Former country articles categorised by government type">Former country articles categorised by government type</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eastern+Wu" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Eastern+Wu" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Eastern_Wu" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Eastern_Wu" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Eastern_Wu">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Eastern_Wu&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Eastern_Wu&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Eastern_Wu" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Eastern_Wu" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eastern_Wu&amp;oldid=881921744" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eastern_Wu&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q274488" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eastern_Wu&amp;id=881921744" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eastern+Wu">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Eastern+Wu&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Eastern_Wu&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Eastern_Wu" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%85%D9%84%D9%83%D8%A9_%D9%88%D9%88_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9" hreflang="ar" lang="ar" title="مملكة وو الشرقية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/U_(%C3%A7arl%C4%B1q)" hreflang="az" lang="az" title="U (çarlıq) – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%A7%DB%87_(%DA%86%D8%A7%D8%B1%D9%84%DB%8C%D9%82)" hreflang="azb" lang="azb" title="اۇ (چارلیق) – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ng%C3%B4%CD%98_(Sam-kok)" hreflang="nan" lang="nan" title="Ngô͘ (Sam-kok) – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3" hreflang="be" lang="be" title="Царства У – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Wu_ar_Reter" hreflang="br" lang="br" title="Wu ar Reter – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Wu_Oriental" hreflang="ca" lang="ca" title="Wu Oriental – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wu-Dynastie" hreflang="de" lang="de" title="Wu-Dynastie – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Wu_(reino)" hreflang="es" lang="es" title="Wu (reino) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Wu" hreflang="eo" lang="eo" title="Wu – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%88%D9%88%DB%8C_%D8%B4%D8%B1%D9%82%DB%8C" hreflang="fa" lang="fa" title="ووی شرقی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Royaume_de_Wu" hreflang="fr" lang="fr" title="Royaume de Wu – French">Français</a></li><li class="interlanguage-link interwiki-gan"><a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E6%9D%B1%E5%90%B3" hreflang="gan" lang="gan" title="東吳 – Gan Chinese">贛語</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/S%C3%BBn_%C7%B8g" hreflang="hak" lang="hak" title="Sûn Ǹg – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%98%A4_(%EC%82%BC%EA%B5%AD)" hreflang="ko" lang="ko" title="오 (삼국) – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%80_%E0%A4%B5%E0%A5%82_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8_%E0%A4%9A%E0%A5%80%E0%A4%A8)" hreflang="hi" lang="hi" title="पूर्वी वू राज्य (प्राचीन चीन) – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Isto%C4%8Dni_Wu" hreflang="hr" lang="hr" title="Istočni Wu – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Dong_Wu" hreflang="id" lang="id" title="Dong Wu – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Regno_Wu" hreflang="it" lang="it" title="Regno Wu – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Wu_Timur" hreflang="ms" lang="ms" title="Wu Timur – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/S%C5%8Fng-ng%C3%B9" hreflang="cdo" lang="cdo" title="Sŏng-ngù – Min Dong Chinese">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Koninkrijk_Wu" hreflang="nl" lang="nl" title="Koninkrijk Wu – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%91%89_(%E4%B8%89%E5%9B%BD)" hreflang="ja" lang="ja" title="呉 (三国) – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/%C3%98stre_Wu" hreflang="no" lang="no" title="Østre Wu – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Wu-dynastiet" hreflang="nn" lang="nn" title="Wu-dynastiet – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%82%E0%A8%B0%E0%A8%B5%E0%A9%80_%E0%A8%B5%E0%A9%82_%E0%A8%B0%E0%A8%BE%E0%A8%9C" hreflang="pa" lang="pa" title="ਪੂਰਵੀ ਵੂ ਰਾਜ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wu_(Okres_Trzech_Kr%C3%B3lestw)" hreflang="pl" lang="pl" title="Wu (Okres Trzech Królestw) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Wu_Oriental" hreflang="pt" lang="pt" title="Wu Oriental – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Wu_de_Est" hreflang="ro" lang="ro" title="Wu de Est – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3_(%D0%A2%D1%80%D0%BE%D0%B5%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B8%D0%B5)" hreflang="ru" lang="ru" title="У (Троецарствие) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Eastren_Wu" hreflang="sco" lang="sco" title="Eastren Wu – Scots">Scots</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8_%D0%92%D1%83" hreflang="sr" lang="sr" title="Источни Ву – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Isto%C4%8Dni_Wu" hreflang="sh" lang="sh" title="Istočni Wu – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Wu-kuningaskunta" hreflang="fi" lang="fi" title="Wu-kuningaskunta – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/%C3%96stra_Wu" hreflang="sv" lang="sv" title="Östra Wu – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%87%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B9%8A%E0%B8%81" hreflang="th" lang="th" title="ง่อก๊ก – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Wu_Hanedan%C4%B1" hreflang="tr" lang="tr" title="Wu Hanedanı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D1%96%D1%8F_%D0%A3" hreflang="uk" lang="uk" title="Династія У – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Ng%C3%B4" hreflang="vi" lang="vi" title="Đông Ngô – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E5%AD%AB%E5%90%B3" hreflang="lzh" lang="lzh" title="孫吳 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%AD%99%E5%90%B4" hreflang="wuu" lang="wuu" title="孙吴 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%90%B3_(%E4%B8%89%E5%9C%8B)" hreflang="yue" lang="yue" title="吳 (三國) – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AD%AB%E5%90%B3" hreflang="zh" lang="zh" title="孫吳 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q274488#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 February 2019, at 17:46<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Eastern_Wu&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.280","walltime":"1.521","ppvisitednodes":{"value":8881,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":197124,"limit":2097152},"templateargumentsize":{"value":7057,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41663,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1292.430      1 -total"," 46.32%  598.636      6 Template:Infobox"," 37.93%  490.175      1 Template:Infobox_country"," 28.66%  370.450    146 Template:Lang"," 13.82%  178.678      2 Template:Reflist"," 12.06%  155.816      2 Template:Infobox_Chinese"," 12.05%  155.717      1 Template:Nobold"," 10.41%  134.483      1 Template:ISO_3166_code","  8.23%  106.424      8 Template:Cite_book","  3.27%   42.198      1 Template:Where"]},"scribunto":{"limitreport-timeusage":{"value":"0.742","limit":"10.000"},"limitreport-memusage":{"value":19873215,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190211231837","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Eastern Wu","url":"https:\/\/en.wikipedia.org\/wiki\/Eastern_Wu","sameAs":"http:\/\/www.wikidata.org\/entity\/Q274488","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q274488","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-26T22:01:19Z","dateModified":"2019-02-05T17:46:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/Three_Kingdoms.png","headline":"former country"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1661,"wgHostname":"mw1262"});});</script>
+</body>
+</html>
+

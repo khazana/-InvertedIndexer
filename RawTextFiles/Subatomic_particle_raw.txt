@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Subatomic particle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Subatomic_particle","wgTitle":"Subatomic particle","wgCurRevisionId":880074590,"wgRevisionId":880074590,"wgArticleId":212490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Wikipedia indefinitely move-protected pages","Articles with Encyclopædia Britannica links","Subatomic particles","Quantum mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Subatomic_particle","wgRelevantArticleId":212490,"wgRequestId":"XFvVQgpAME0AADJHEd0AAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q177013","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.14" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/1200px-Standard_Model_of_Elementary_Particles.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Subatomic_particle" rel="alternate"/>
+<link href="/w/index.php?title=Subatomic_particle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Subatomic_particle&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Subatomic_particle" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Subatomic_particle rootpage-Subatomic_particle skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Subatomic particle</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a> of <a href="/wiki/Particle_physics" title="Particle physics">particle physics</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Standard_Model_of_Elementary_Particles.svg"><img alt="Standard Model of Elementary Particles.svg" data-file-height="490" data-file-width="512" decoding="async" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/200px-Standard_Model_of_Elementary_Particles.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/300px-Standard_Model_of_Elementary_Particles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/400px-Standard_Model_of_Elementary_Particles.svg.png 2x" width="200"/></a><div style="padding-top:0.2em;line-height:1.2em"><a class="mw-redirect" href="/wiki/Elementary_particles" title="Elementary particles">Elementary particles</a> of the <a class="mw-redirect" href="/wiki/Standard_model" title="Standard model">standard model</a></div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Background</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Particle_physics" title="Particle physics">Particle physics</a><br/><a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a><br/><a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a> <br/> <a href="/wiki/Gauge_theory" title="Gauge theory">Gauge theory</a> <br/> <a href="/wiki/Spontaneous_symmetry_breaking" title="Spontaneous symmetry breaking">Spontaneous symmetry breaking</a><br/> <a href="/wiki/Higgs_mechanism" title="Higgs mechanism">Higgs mechanism</a></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Constituents</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Electroweak_interaction" title="Electroweak interaction">Electroweak interaction</a><br/> <a href="/wiki/Quantum_chromodynamics" title="Quantum chromodynamics">Quantum chromodynamics</a><br/> <a class="mw-redirect" href="/wiki/CKM_matrix" title="CKM matrix">CKM matrix</a><br/><a class="mw-redirect" href="/wiki/Standard_Model_(mathematical_formulation)" title="Standard Model (mathematical formulation)">Standard Model mathematics</a></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Limitations</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Strong_CP_problem" title="Strong CP problem">Strong CP problem</a><br/><a href="/wiki/Hierarchy_problem" title="Hierarchy problem">Hierarchy problem</a><br/><a href="/wiki/Neutrino_oscillation" title="Neutrino oscillation">Neutrino oscillations</a><br/><a href="/wiki/Physics_beyond_the_Standard_Model" title="Physics beyond the Standard Model">Physics beyond the Standard Model</a></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Scientists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Ernest_Rutherford" title="Ernest Rutherford">Rutherford</a> <b>·</b> <a href="/wiki/J._J._Thomson" title="J. J. Thomson">Thomson</a> <b>·</b> <a href="/wiki/James_Chadwick" title="James Chadwick">Chadwick</a> <b>·</b> <a href="/wiki/Satyendra_Nath_Bose" title="Satyendra Nath Bose">Bose</a> <b>·</b> <a class="mw-redirect" href="/wiki/George_Sudarshan" title="George Sudarshan">Sudarshan</a> <b>·</b> <a href="/wiki/Masatoshi_Koshiba" title="Masatoshi Koshiba">Koshiba</a> <b>·</b> <a href="/wiki/Raymond_Davis_Jr." title="Raymond Davis Jr.">Davis Jr.</a> <b>·</b> <a href="/wiki/Carl_David_Anderson" title="Carl David Anderson">Anderson</a> <b>·</b> <a href="/wiki/Enrico_Fermi" title="Enrico Fermi">Fermi</a> <b>·</b> <a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac</a> <b>·</b> <a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman</a> <b>·</b> <a href="/wiki/Carlo_Rubbia" title="Carlo Rubbia">Rubbia</a> <b>·</b> <a href="/wiki/Murray_Gell-Mann" title="Murray Gell-Mann">Gell-Mann</a> <b>·</b> <a href="/wiki/Henry_Way_Kendall" title="Henry Way Kendall">Kendall</a> <b>·</b> <a href="/wiki/Richard_E._Taylor" title="Richard E. Taylor">Taylor</a> <b>·</b> <a href="/wiki/Jerome_Isaac_Friedman" title="Jerome Isaac Friedman">Friedman</a> <b>·</b> <a href="/wiki/C._F._Powell" title="C. F. Powell">Powell</a> <b>·</b> <a href="/wiki/Philip_Warren_Anderson" title="Philip Warren Anderson">P. W. Anderson</a> <b>·</b> <a class="mw-redirect" href="/wiki/Sheldon_Glashow" title="Sheldon Glashow">Glashow</a> <b>·</b> <a href="/wiki/John_Iliopoulos" title="John Iliopoulos">Iliopoulos</a> <b>·</b> <a href="/wiki/Luciano_Maiani" title="Luciano Maiani">Maiani</a> <b>·</b> <a href="/wiki/Simon_van_der_Meer" title="Simon van der Meer">Meer</a> <b>·</b> <a href="/wiki/Clyde_Cowan" title="Clyde Cowan">Cowan</a> <b>·</b> <a href="/wiki/Yoichiro_Nambu" title="Yoichiro Nambu">Nambu</a> <b>·</b> <a href="/wiki/Owen_Chamberlain" title="Owen Chamberlain">Chamberlain</a> <b>·</b> <a href="/wiki/Nicola_Cabibbo" title="Nicola Cabibbo">Cabibbo</a> <b>·</b> <a href="/wiki/Melvin_Schwartz" title="Melvin Schwartz">Schwartz</a> <b>·</b> <a href="/wiki/Martin_Lewis_Perl" title="Martin Lewis Perl">Perl</a> <b>·</b> <a href="/wiki/Ettore_Majorana" title="Ettore Majorana">Majorana</a> <b>·</b> <a href="/wiki/Steven_Weinberg" title="Steven Weinberg">Weinberg</a> <b>·</b> <a href="/wiki/Tsung-Dao_Lee" title="Tsung-Dao Lee">Lee</a> <b>·</b> <a href="/wiki/John_Clive_Ward" title="John Clive Ward">Ward</a> <b>·</b> <a href="/wiki/Abdus_Salam" title="Abdus Salam">Salam</a> <b>·</b> <a href="/wiki/Makoto_Kobayashi_(physicist)" title="Makoto Kobayashi (physicist)">Kobayashi</a> <b>·</b> <a href="/wiki/Toshihide_Maskawa" title="Toshihide Maskawa">Maskawa</a> <b>·</b> <a class="mw-redirect" href="/wiki/Chen_Ning_Yang" title="Chen Ning Yang">Yang</a> <b>·</b> <a href="/wiki/Hideki_Yukawa" title="Hideki Yukawa">Yukawa</a> <b>·</b> <a href="/wiki/Gerard_%27t_Hooft" title="Gerard 't Hooft">'t Hooft</a> <b>·</b> <a class="mw-redirect" href="/wiki/Martinus_Veltman" title="Martinus Veltman">Veltman</a> <b>·</b> <a href="/wiki/David_Gross" title="David Gross">Gross</a> <b>·</b> <a class="mw-redirect" href="/wiki/H._David_Politzer" title="H. David Politzer">Politzer</a> <b>·</b> <a href="/wiki/Frank_Wilczek" title="Frank Wilczek">Wilczek</a> <b>·</b> <a class="mw-redirect" href="/wiki/James_Watson_Cronin" title="James Watson Cronin">Cronin</a> <b>·</b> <a href="/wiki/Val_Logsdon_Fitch" title="Val Logsdon Fitch">Fitch</a> <b>·</b> <a href="/wiki/John_Hasbrouck_Van_Vleck" title="John Hasbrouck Van Vleck">Vleck</a> <b>·</b> <a href="/wiki/Peter_Higgs" title="Peter Higgs">Higgs</a> <b>·</b> <a href="/wiki/Fran%C3%A7ois_Englert" title="François Englert">Englert</a> <b>·</b> <a href="/wiki/Robert_Brout" title="Robert Brout">Brout</a> <b>·</b> <a href="/wiki/C._R._Hagen" title="C. R. Hagen">Hagen</a> <b>·</b> <a href="/wiki/Gerald_Guralnik" title="Gerald Guralnik">Guralnik</a>  <b>·</b> <a class="mw-redirect" href="/wiki/Tom_W._B._Kibble" title="Tom W. B. Kibble">Kibble</a>  <b>·</b> <a class="mw-redirect" href="/wiki/Samuel_Chao_Chung_Ting" title="Samuel Chao Chung Ting">Ting</a> <b>·</b> <a href="/wiki/Burton_Richter" title="Burton Richter">Richter</a></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Standard_model_of_particle_physics" title="Template:Standard model of particle physics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Standard_model_of_particle_physics" title="Template talk:Standard model of particle physics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Standard_model_of_particle_physics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>In the <a href="/wiki/Physics" title="Physics">physical sciences</a>, <b>subatomic particles</b> are <a href="/wiki/Particle" title="Particle">particles</a> much smaller than <a href="/wiki/Atom" title="Atom">atoms</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The two types of subatomic particles are: <a href="/wiki/Elementary_particle" title="Elementary particle">elementary particles</a>, which according to current theories are not made of other particles; and <i>composite</i> particles.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Particle_physics" title="Particle physics">Particle physics</a> and <a href="/wiki/Nuclear_physics" title="Nuclear physics">nuclear physics</a> study these particles and how they <a href="/wiki/Interaction" title="Interaction">interact</a>.<sup class="reference" id="cite_ref-IntroQM1_3-0"><a href="#cite_note-IntroQM1-3">[3]</a></sup>
+The idea of a particle underwent serious rethinking when experiments showed that light could behave like a stream of particles (called <a href="/wiki/Photon" title="Photon">photons</a>) as well as exhibiting wave-like properties. This led to the new concept of <a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">wave–particle duality</a> to reflect that quantum-scale "particles" behave like both particles and waves (they are sometimes described as <a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">wavicles</a> to reflect this). Another new concept, the <a href="/wiki/Uncertainty_principle" title="Uncertainty principle">uncertainty principle</a>, states that some of their properties taken together, such as their simultaneous <a href="/wiki/Position_(vector)" title="Position (vector)">position</a> and <a href="/wiki/Momentum" title="Momentum">momentum</a>, cannot be measured exactly.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> In more recent times, wave–particle duality has been shown to apply not only to photons but to increasingly massive particles as well.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>Interactions of particles in the framework of <a href="/wiki/Quantum_field_theory" title="Quantum field theory">quantum field theory</a> are understood as creation and annihilation of <i><a href="/wiki/Quantum" title="Quantum">quanta</a></i> of corresponding <a href="/wiki/Fundamental_interaction" title="Fundamental interaction">fundamental interactions</a>. This blends particle physics with <a href="/wiki/Quantum_field_theory" title="Quantum field theory">field theory</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="tocnumber">1</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#By_statistics"><span class="tocnumber">1.1</span> <span class="toctext">By statistics</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#By_composition"><span class="tocnumber">1.2</span> <span class="toctext">By composition</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#By_mass"><span class="tocnumber">1.3</span> <span class="toctext">By mass</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_properties"><span class="tocnumber">2</span> <span class="toctext">Other properties</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Dividing_an_atom"><span class="tocnumber">3</span> <span class="toctext">Dividing an atom</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=1" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="By_statistics">By statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=2" title="Edit section: By statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Spin%E2%80%93statistics_theorem" title="Spin–statistics theorem">Spin–statistics theorem</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:394px;"><a class="image" href="/wiki/File:Standard_Model_of_Elementary_Particles.svg"><img alt="" class="thumbimage" data-file-height="490" data-file-width="512" decoding="async" height="375" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/392px-Standard_Model_of_Elementary_Particles.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/588px-Standard_Model_of_Elementary_Particles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/784px-Standard_Model_of_Elementary_Particles.svg.png 2x" width="392"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Standard_Model_of_Elementary_Particles.svg" title="Enlarge"></a></div>The <a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a> classification of particles</div></div></div>
+<p>Any subatomic particle, like any particle in the three-dimensional <a href="/wiki/Space" title="Space">space</a> that obeys the laws of <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>, can be either a <a href="/wiki/Boson" title="Boson">boson</a> (with integer <a href="/wiki/Spin_(physics)" title="Spin (physics)">spin</a>) or a <a href="/wiki/Fermion" title="Fermion">fermion</a> (with odd half-integer spin).
+</p>
+<h3><span class="mw-headline" id="By_composition">By composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=3" title="Edit section: By composition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The elementary particles of the <a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a> include:<sup class="reference" id="cite_ref-IntroSM1_6-0"><a href="#cite_note-IntroSM1-6">[6]</a></sup>
+</p>
+<ul><li>Six "<a href="/wiki/Flavour_(particle_physics)" title="Flavour (particle physics)">flavors</a>" of <a href="/wiki/Quark" title="Quark">quarks</a>: <a href="/wiki/Up_quark" title="Up quark">up</a>, <a href="/wiki/Down_quark" title="Down quark">down</a>, <a href="/wiki/Bottom_quark" title="Bottom quark">bottom</a>, <a href="/wiki/Top_quark" title="Top quark">top</a>, <a href="/wiki/Strange_quark" title="Strange quark">strange</a>, and <a href="/wiki/Charm_quark" title="Charm quark">charm</a>;</li>
+<li>Six types of <a href="/wiki/Lepton" title="Lepton">leptons</a>: <a href="/wiki/Electron" title="Electron">electron</a>, <a href="/wiki/Electron_neutrino" title="Electron neutrino">electron neutrino</a>, <a href="/wiki/Muon" title="Muon">muon</a>, <a href="/wiki/Muon_neutrino" title="Muon neutrino">muon neutrino</a>, <a href="/wiki/Tau_(particle)" title="Tau (particle)">tau</a>, <a href="/wiki/Tau_neutrino" title="Tau neutrino">tau neutrino</a>;</li>
+<li>Twelve <a href="/wiki/Gauge_boson" title="Gauge boson">gauge bosons</a> (force carriers): the <a href="/wiki/Photon" title="Photon">photon</a> of <a href="/wiki/Electromagnetism" title="Electromagnetism">electromagnetism</a>, the three <a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a> of the <a href="/wiki/Weak_interaction" title="Weak interaction">weak force</a>, and the eight <a href="/wiki/Gluon" title="Gluon">gluons</a> of the <a class="mw-redirect" href="/wiki/Strong_force" title="Strong force">strong force</a>;</li>
+<li>The <a href="/wiki/Higgs_boson" title="Higgs boson">Higgs boson</a>.</li></ul>
+<p>Various <a href="/wiki/Physics_beyond_the_Standard_Model" title="Physics beyond the Standard Model">extensions of the Standard Model</a> predict the existence of an elementary <a href="/wiki/Graviton" title="Graviton">graviton</a> particle and <a class="mw-redirect" href="/wiki/List_of_elementary_particles#Hypothetical_particles" title="List of elementary particles">many other elementary particles</a>.
+</p><p>Composite subatomic particles (such as <a href="/wiki/Proton" title="Proton">protons</a> or atomic <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">nuclei</a>) are <a href="/wiki/Bound_state" title="Bound state">bound states</a> of two or more <a href="/wiki/Elementary_particle" title="Elementary particle">elementary particles</a>. For example, a proton is made of two <a href="/wiki/Up_quark" title="Up quark">up quarks</a> and one <a href="/wiki/Down_quark" title="Down quark">down quark</a>, while the atomic nucleus of <a href="/wiki/Helium-4" title="Helium-4">helium-4</a> is composed of two protons and two <a href="/wiki/Neutron" title="Neutron">neutrons</a>. The neutron is made of two down quarks and one up quark. Composite particles include all <a href="/wiki/Hadron" title="Hadron">hadrons</a>: these include <a href="/wiki/Baryon" title="Baryon">baryons</a> (such as <a href="/wiki/Proton" title="Proton">protons</a> and <a href="/wiki/Neutron" title="Neutron">neutrons</a>) and <a href="/wiki/Meson" title="Meson">mesons</a> (such as <a href="/wiki/Pion" title="Pion">pions</a> and <a href="/wiki/Kaon" title="Kaon">kaons</a>).
+</p>
+<h3><span class="mw-headline" id="By_mass">By mass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=4" title="Edit section: By mass">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a>, the <a href="/wiki/Mass%E2%80%93energy_equivalence" title="Mass–energy equivalence">energy of a particle at rest equals its mass times the speed of light squared</a>, <span class="nowrap"><i>E</i> = <i>mc</i><sup>2</sup></span>. That is, <a href="/wiki/Mass" title="Mass">mass</a> can be expressed in terms of <a href="/wiki/Energy" title="Energy">energy</a> and vice versa. If a particle has a <a href="/wiki/Frame_of_reference" title="Frame of reference">frame of reference</a> in which it lies <a href="/wiki/Rest_(physics)" title="Rest (physics)">at rest</a>, then it has a positive <a class="mw-redirect" href="/wiki/Rest_mass" title="Rest mass">rest mass</a> and is referred to as <i>massive</i>.
+</p><p>All composite particles are massive. Baryons (meaning "heavy") tend to have greater mass than mesons (meaning "intermediate"), which in turn tend to be heavier than leptons (meaning "lightweight"), but the heaviest lepton (the <a class="mw-redirect" href="/wiki/Tau_particle" title="Tau particle">tau particle</a>) is heavier than the two lightest flavours of baryons (<a href="/wiki/Nucleon" title="Nucleon">nucleons</a>). It is also certain that any particle with an <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a> is massive.
+</p><p>All <a href="/wiki/Massless_particle" title="Massless particle">massless particles</a> (particles whose <a href="/wiki/Invariant_mass" title="Invariant mass">invariant mass</a> is zero) are elementary. These include the photon and gluon, although the latter cannot be isolated.
+</p>
+<h2><span class="mw-headline" id="Other_properties">Other properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=5" title="Edit section: Other properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Through the work of <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>, <a href="/wiki/Satyendra_Nath_Bose" title="Satyendra Nath Bose">Satyendra Nath Bose</a>, <a href="/wiki/Louis_de_Broglie" title="Louis de Broglie">Louis de Broglie</a>, and many others, current scientific theory holds that <i>all</i> particles also have a wave nature.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> This has been verified not only for elementary particles but also for compound particles like atoms and even molecules. In fact, according to traditional formulations of non-relativistic quantum mechanics, wave–particle duality applies to all objects, even macroscopic ones; although the wave properties of macroscopic objects cannot be detected due to their small wavelengths.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Interactions between particles have been scrutinized for many centuries, and a few simple laws underpin how particles behave in collisions and interactions. The most fundamental of these are the laws of <a href="/wiki/Conservation_of_energy" title="Conservation of energy">conservation of energy</a> and <a class="mw-redirect" href="/wiki/Conservation_of_momentum" title="Conservation of momentum">conservation of momentum</a>, which let us make calculations of particle interactions on scales of magnitude that range from stars to <a href="/wiki/Quark" title="Quark">quarks</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> These are the prerequisite basics of <a class="mw-redirect" href="/wiki/Newtonian_mechanics" title="Newtonian mechanics">Newtonian mechanics</a>, a series of statements and equations in <i><a class="mw-redirect" href="/wiki/Philosophiae_Naturalis_Principia_Mathematica" title="Philosophiae Naturalis Principia Mathematica">Philosophiae Naturalis Principia Mathematica</a></i>, originally published in 1687.
+</p>
+<h2><span class="mw-headline" id="Dividing_an_atom">Dividing an atom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=6" title="Edit section: Dividing an atom">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The negatively charged electron has a mass equal to ​<span class="frac nowrap"><sup>1</sup>⁄<sub>1837 or 1836</sub></span> of that of a <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> atom. The remainder of the hydrogen atom's mass comes from the positively charged <a href="/wiki/Proton" title="Proton">proton</a>. The <a href="/wiki/Atomic_number" title="Atomic number">atomic number</a> of an element is the number of protons in its nucleus. Neutrons are neutral particles having a mass slightly greater than that of the proton. Different <a href="/wiki/Isotope" title="Isotope">isotopes</a> of the same element contain the same number of protons but differing numbers of neutrons. The <a href="/wiki/Mass_number" title="Mass number">mass number</a> of an isotope is the total number of <a href="/wiki/Nucleon" title="Nucleon">nucleons</a> (neutrons and protons collectively).
+</p><p><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a> concerns itself with how electron sharing binds atoms into structures such as crystals and <a href="/wiki/Molecule" title="Molecule">molecules</a>. <a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear physics</a> deals with how protons and neutrons arrange themselves in nuclei. The study of subatomic particles, atoms and molecules, and their structure and interactions, requires <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>. Analyzing processes that change the numbers and types of particles requires <a href="/wiki/Quantum_field_theory" title="Quantum field theory">quantum field theory</a>. The study of subatomic particles <i>per se</i> is called <a href="/wiki/Particle_physics" title="Particle physics">particle physics</a>. The term <i><a class="mw-redirect" href="/wiki/High-energy_physics" title="High-energy physics">high-energy physics</a></i> is nearly synonymous to "particle physics" since creation of particles requires high energies: it occurs only as a result of <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a>, or in <a href="/wiki/Particle_accelerator" title="Particle accelerator">particle accelerators</a>. <a class="mw-redirect" href="/wiki/Phenomenology_(particle_physics)" title="Phenomenology (particle physics)">Particle phenomenology</a> systematizes the knowledge about subatomic particles obtained from these experiments.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=7" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/History_of_subatomic_physics" title="History of subatomic physics">History of subatomic physics</a> and <a href="/wiki/Timeline_of_particle_discoveries" title="Timeline of particle discoveries">Timeline of particle discoveries</a></div>
+<p>The term "<i>subatomic</i> particle" is largely a <a href="/wiki/Retronym" title="Retronym">retronym</a> of the 1960s, used to distinguish a large number of <a href="/wiki/Baryon" title="Baryon">baryons</a> and <a href="/wiki/Meson" title="Meson">mesons</a> (which comprise <a href="/wiki/Hadron" title="Hadron">hadrons</a>) from particles that are now thought to be <a href="/wiki/Elementary_particle" title="Elementary particle">truly elementary</a>. Before that hadrons were usually classified as "elementary" because their composition was unknown.
+</p><p>A list of important discoveries follows:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Particle
+</th>
+<th>Composition
+</th>
+<th>Theorized
+</th>
+<th>Discovered
+</th>
+<th>Comments
+</th></tr>
+<tr>
+<td><a href="/wiki/Electron" title="Electron">Electron</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>e<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (<a href="/wiki/Lepton" title="Lepton">lepton</a>)
+</td>
+<td><a class="mw-redirect" href="/wiki/G._Johnstone_Stoney" title="G. Johnstone Stoney">G. Johnstone Stoney</a> (1874)
+</td>
+<td><a href="/wiki/J._J._Thomson" title="J. J. Thomson">J. J. Thomson</a> (1897)
+</td>
+<td>Minimum unit of electrical charge, for which Stoney suggested the name in 1891.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Alpha_particle" title="Alpha particle">alpha particle</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>α<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (atomic nucleus)
+</td>
+<td>never
+</td>
+<td><a href="/wiki/Ernest_Rutherford" title="Ernest Rutherford">Ernest Rutherford</a> (1899)
+</td>
+<td>Proven by Rutherford and <a href="/wiki/Thomas_Royds" title="Thomas Royds">Thomas Royds</a> in 1907 to be helium nuclei.
+</td></tr>
+<tr>
+<td><a href="/wiki/Photon" title="Photon">Photon</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>γ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (<a href="/wiki/Quantum" title="Quantum">quantum</a>)
+</td>
+<td><a href="/wiki/Max_Planck" title="Max Planck">Max Planck</a> (1900)
+</td>
+<td><a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> (1905)<small><br/> or Ernest Rutherford (1899) as <a href="/wiki/Gamma_ray" title="Gamma ray">γ rays</a></small>
+</td>
+<td>Necessary to solve the problem of <a class="mw-redirect" href="/wiki/Black_body_radiation" title="Black body radiation">black body radiation</a> in <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Proton" title="Proton">Proton</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>p<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (<a href="/wiki/Baryon" title="Baryon">baryon</a>)
+</td>
+<td>Long ago
+</td>
+<td>Ernest Rutherford (1919, named 1920)
+</td>
+<td>The nucleus of <span style="white-space:nowrap;"><a class="mw-redirect" href="/wiki/Hydrogen-1" title="Hydrogen-1"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></a></span>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Neutron" title="Neutron">Neutron</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>n<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (baryon)
+</td>
+<td>Ernest Rutherford (<abbr title="circa">c.</abbr>1918)
+</td>
+<td><a href="/wiki/James_Chadwick" title="James Chadwick">James Chadwick</a> (1932)
+</td>
+<td>The second <a href="/wiki/Nucleon" title="Nucleon">nucleon</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Antiparticle" title="Antiparticle">Antiparticles</a>
+</td>
+<td> 
+</td>
+<td><a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a> (1928)
+</td>
+<td><a class="mw-redirect" href="/wiki/Carl_D._Anderson" title="Carl D. Anderson">Carl D. Anderson</a> (<a href="/wiki/Positron" title="Positron"><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>e<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></a>, 1932)
+</td>
+<td>Now explained with <a href="/wiki/CPT_symmetry" title="CPT symmetry">CPT symmetry</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Pion" title="Pion">Pions</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (<a href="/wiki/Meson" title="Meson">mesons</a>)
+</td>
+<td><a href="/wiki/Hideki_Yukawa" title="Hideki Yukawa">Hideki Yukawa</a> (1935)
+</td>
+<td><a href="/wiki/C%C3%A9sar_Lattes" title="César Lattes">César Lattes</a>, <a href="/wiki/Giuseppe_Occhialini" title="Giuseppe Occhialini">Giuseppe Occhialini</a> (1947) and <a class="mw-redirect" href="/wiki/Cecil_Powell" title="Cecil Powell">Cecil Powell</a>
+</td>
+<td>Explains the <a href="/wiki/Nuclear_force" title="Nuclear force">nuclear force</a> between nucleons. The first meson (by modern definition) to be discovered.
+</td></tr>
+<tr>
+<td><a href="/wiki/Muon" title="Muon">Muon</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>μ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (lepton)
+</td>
+<td>never
+</td>
+<td>Carl D. Anderson (1936)
+</td>
+<td>The first named meson; today considered a lepton.
+</td></tr>
+<tr>
+<td><a href="/wiki/Kaon" title="Kaon">Kaons</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (mesons)
+</td>
+<td>never
+</td>
+<td>1947
+</td>
+<td>Discovered in <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a>. The first <a class="mw-redirect" href="/wiki/Strange_particle" title="Strange particle">strange particle</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Lambda_baryon" title="Lambda baryon">Lambda baryons</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Λ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>composite (baryons)
+</td>
+<td>never
+</td>
+<td><a href="/wiki/University_of_Melbourne" title="University of Melbourne">University of Melbourne</a> (<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Λ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, 1950)<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</td>
+<td>The first <a href="/wiki/Hyperon" title="Hyperon">hyperon</a> discovered.
+</td></tr>
+<tr>
+<td><a href="/wiki/Neutrino" title="Neutrino">Neutrino</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>ν<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (lepton)
+</td>
+<td><a href="/wiki/Wolfgang_Pauli" title="Wolfgang Pauli">Wolfgang Pauli</a> (1930), named by <a href="/wiki/Enrico_Fermi" title="Enrico Fermi">Enrico Fermi</a>
+</td>
+<td><a href="/wiki/Clyde_Cowan" title="Clyde Cowan">Clyde Cowan</a>, <a href="/wiki/Frederick_Reines" title="Frederick Reines">Frederick Reines</a> (<a href="/wiki/Electron_neutrino" title="Electron neutrino"><span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>ν<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">e</sub></span></span></a>, 1956)
+</td>
+<td>Solved the problem of energy <a href="/wiki/Spectrum" title="Spectrum">spectrum</a> of <a href="/wiki/Beta_decay" title="Beta decay">beta decay</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Quark" title="Quark">Quarks</a><br/>(<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>u<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>d<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>s<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>)
+</td>
+<td>elementary
+</td>
+<td><a href="/wiki/Murray_Gell-Mann" title="Murray Gell-Mann">Murray Gell-Mann</a>, <a href="/wiki/George_Zweig" title="George Zweig">George Zweig</a> (1964)
+</td>
+<td colspan="2">No particular confirmation event for the <a href="/wiki/Quark_model" title="Quark model">quark model</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Charm_quark" title="Charm quark">charm quark</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>c<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (quark)
+</td>
+<td>1970
+</td>
+<td>1974
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bottom_quark" title="Bottom quark">bottom quark</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>b<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (quark)
+</td>
+<td>1973
+</td>
+<td>1977
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">Weak gauge bosons</a>
+</td>
+<td>elementary (quantum)
+</td>
+<td><a class="mw-redirect" href="/wiki/Sheldon_Glashow" title="Sheldon Glashow">Glashow</a>, <a href="/wiki/Steven_Weinberg" title="Steven Weinberg">Weinberg</a>, <a href="/wiki/Abdus_Salam" title="Abdus Salam">Salam</a> (1968)
+</td>
+<td><a href="/wiki/CERN" title="CERN">CERN</a> (1983)
+</td>
+<td>Properties verified through the 1990s.
+</td></tr>
+<tr>
+<td><a href="/wiki/Top_quark" title="Top quark">top quark</a> <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>t<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>
+</td>
+<td>elementary (quark)
+</td>
+<td>1973
+</td>
+<td>1995
+</td>
+<td>Does not <a href="/wiki/Hadronization" title="Hadronization">hadronize</a>, but is necessary to complete the Standard Model.
+</td></tr>
+<tr>
+<td><a href="/wiki/Higgs_boson" title="Higgs boson">Higgs boson</a>
+</td>
+<td>elementary (quantum)
+</td>
+<td><a href="/wiki/Peter_Higgs" title="Peter Higgs">Peter Higgs</a> et al. (1964)
+</td>
+<td>CERN (2012)
+</td>
+<td>Thought to be confirmed in 2013. More evidence found in 2014.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tetraquark" title="Tetraquark">Tetraquark</a>
+</td>
+<td>composite
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Zc(3900)" title="Zc(3900)">Z<sub>c</sub>(3900)</a>, 2013,<small> to be confirmed as a tetraquark</small>
+</td>
+<td>A new class of hadrons.
+</td></tr>
+<tr>
+<td><a href="/wiki/Graviton" title="Graviton">Graviton</a>
+</td>
+<td>elementary (quantum)
+</td>
+<td>Albert Einstein (1916)
+</td>
+<td>Not discovered
+</td>
+<td>Interpretation of a <a href="/wiki/Gravitational_wave" title="Gravitational wave">gravitational wave</a> as a particle is controversial.
+</td></tr>
+<tr>
+<td><a href="/wiki/Magnetic_monopole" title="Magnetic monopole">Magnetic monopole</a>
+</td>
+<td>elementary (unclassified)
+</td>
+<td>Paul Dirac (1931)
+</td>
+<td>Not discovered
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg"><img alt="icon" class="noviewer" data-file-height="303" data-file-width="266" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/25px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/49px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="25"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><i><a class="mw-redirect" href="/wiki/Atom:_Journey_Across_the_Subatomic_Cosmos" title="Atom: Journey Across the Subatomic Cosmos">Atom: Journey Across the Subatomic Cosmos</a></i> (book)</li>
+<li><i><a class="mw-redirect" href="/wiki/Atom:_An_Odyssey_from_the_Big_Bang_to_Life_on_Earth...and_Beyond" title="Atom: An Odyssey from the Big Bang to Life on Earth...and Beyond">Atom: An Odyssey from the Big Bang to Life on Earth...and Beyond</a></i> (book)</li>
+<li><a class="mw-redirect" href="/wiki/CPT_invariance" title="CPT invariance">CPT invariance</a></li>
+<li><a class="mw-redirect" href="/wiki/Dark_Matter" title="Dark Matter">Dark Matter</a></li>
+<li><a href="/wiki/Hot_spot_effect_in_subatomic_physics" title="Hot spot effect in subatomic physics">Hot spot effect in subatomic physics</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_fictional_elements,_materials,_isotopes_and_atomic_particles" title="List of fictional elements, materials, isotopes and atomic particles">List of fictional elements, materials, isotopes and atomic particles</a></li>
+<li><a href="/wiki/List_of_particles" title="List of particles">List of particles</a></li>
+<li><a class="mw-redirect" href="/wiki/Poincar%C3%A9_symmetry" title="Poincaré symmetry">Poincaré symmetry</a></li>
+<li><a href="/wiki/Ylem" title="Ylem">Ylem</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ndt-ed.org/EducationResources/HighSchool/Radiography/subatomicparticles.htm" rel="nofollow">"Subatomic particles"</a>. NTD<span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Subatomic+particles&amp;rft.pub=NTD&amp;rft_id=http%3A%2F%2Fwww.ndt-ed.org%2FEducationResources%2FHighSchool%2FRadiography%2Fsubatomicparticles.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Bolonkin, Alexander (2011). <i>Universe, Human Immortality and Future Human Evaluation</i>. <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>. p. 25. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780124158016" title="Special:BookSources/9780124158016">9780124158016</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Universe%2C+Human+Immortality+and+Future+Human+Evaluation&amp;rft.pages=25&amp;rft.pub=Elsevier&amp;rft.date=2011&amp;rft.isbn=9780124158016&amp;rft.aulast=Bolonkin&amp;rft.aufirst=Alexander&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-IntroQM1-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-IntroQM1_3-0">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Fritzsch, Harald (2005). <a class="external text" href="https://books.google.com/books?id=KFodZ8oHz2sC&amp;printsec=frontcover" rel="nofollow"><i>Elementary Particles</i></a>. <a href="/wiki/World_Scientific" title="World Scientific">World Scientific</a>. pp. 11–20. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-256-141-1" title="Special:BookSources/978-981-256-141-1">978-981-256-141-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elementary+Particles&amp;rft.pages=11-20&amp;rft.pub=World+Scientific&amp;rft.date=2005&amp;rft.isbn=978-981-256-141-1&amp;rft.aulast=Fritzsch&amp;rft.aufirst=Harald&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKFodZ8oHz2sC%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFHeisenberg1927">Heisenberg, W. (1927), "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik", <i><a href="/wiki/Zeitschrift_f%C3%BCr_Physik" title="Zeitschrift für Physik">Zeitschrift für Physik</a></i> (in German), <b>43</b> (3–4): 172–198, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1927ZPhy...43..172H" rel="nofollow">1927ZPhy...43..172H</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF01397280" rel="nofollow">10.1007/BF01397280</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+Physik&amp;rft.atitle=%C3%9Cber+den+anschaulichen+Inhalt+der+quantentheoretischen+Kinematik+und+Mechanik&amp;rft.volume=43&amp;rft.issue=3%E2%80%934&amp;rft.pages=172-198&amp;rft.date=1927&amp;rft_id=info%3Adoi%2F10.1007%2FBF01397280&amp;rft_id=info%3Abibcode%2F1927ZPhy...43..172H&amp;rft.aulast=Heisenberg&amp;rft.aufirst=W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Arndt, Markus; Naziz, Olaf; Vos-Andreae, Julian; Keller, Claudia; Van Der Zouw, Gerbrand; Zeilinger, Anton (2000). "Wave-particle duality of C60 molecules". <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>401</b> (6754): 680–682. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1999Natur.401..680A" rel="nofollow">1999Natur.401..680A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F44348" rel="nofollow">10.1038/44348</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18494170" rel="nofollow">18494170</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Wave-particle+duality+of+C60+molecules&amp;rft.volume=401&amp;rft.issue=6754&amp;rft.pages=680-682&amp;rft.date=2000&amp;rft_id=info%3Apmid%2F18494170&amp;rft_id=info%3Adoi%2F10.1038%2F44348&amp;rft_id=info%3Abibcode%2F1999Natur.401..680A&amp;rft.aulast=Arndt&amp;rft.aufirst=Markus&amp;rft.au=Naziz%2C+Olaf&amp;rft.au=Vos-Andreae%2C+Julian&amp;rft.au=Keller%2C+Claudia&amp;rft.au=Van+Der+Zouw%2C+Gerbrand&amp;rft.au=Zeilinger%2C+Anton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-IntroSM1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-IntroSM1_6-0">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Cottingham, W.N.; Greenwood, D.A. (2007). <a class="external text" href="https://books.google.com/books?id=Dm36BYq9iu0C&amp;printsec=frontcover" rel="nofollow"><i>An introduction to the standard model of particle physics</i></a>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. p. 1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-85249-4" title="Special:BookSources/978-0-521-85249-4">978-0-521-85249-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+introduction+to+the+standard+model+of+particle+physics&amp;rft.pages=1&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2007&amp;rft.isbn=978-0-521-85249-4&amp;rft.aulast=Cottingham&amp;rft.aufirst=W.N.&amp;rft.au=Greenwood%2C+D.A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDm36BYq9iu0C%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Walter Greiner (2001). <a class="external text" href="https://books.google.com/books?id=7qCMUfwoQcAC&amp;pg=PA29" rel="nofollow"><i>Quantum Mechanics: An Introduction</i></a>. <a class="mw-redirect" href="/wiki/Springer_(publisher)" title="Springer (publisher)">Springer</a>. p. 29. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-67458-0" title="Special:BookSources/978-3-540-67458-0">978-3-540-67458-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Mechanics%3A+An+Introduction&amp;rft.pages=29&amp;rft.pub=Springer&amp;rft.date=2001&amp;rft.isbn=978-3-540-67458-0&amp;rft.au=Walter+Greiner&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7qCMUfwoQcAC%26pg%3DPA29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Eisberg, R. &amp; Resnick, R. (1985). <i>Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles</i> (2nd ed.). <a class="mw-redirect" href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. pp. 59–60. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-471-87373-0" title="Special:BookSources/978-0-471-87373-0">978-0-471-87373-0</a>. <q>For both large and small wavelengths, both matter and radiation have both particle and wave aspects. [...] But the wave aspects of their motion become more difficult to observe as their wavelengths become shorter. [...] For ordinary macroscopic particles the mass is so large that the momentum is always sufficiently large to make the de Broglie wavelength small enough to be beyond the range of experimental detection, and classical mechanics reigns supreme.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Physics+of+Atoms%2C+Molecules%2C+Solids%2C+Nuclei%2C+and+Particles&amp;rft.pages=59-60&amp;rft.edition=2nd&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1985&amp;rft.isbn=978-0-471-87373-0&amp;rft.au=Eisberg%2C+R.&amp;rft.au=Resnick%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> (1687). <a class="mw-redirect" href="/wiki/Newton%27s_Laws_of_Motion" title="Newton's Laws of Motion">Newton's Laws of Motion</a> (<i><a class="mw-redirect" href="/wiki/Philosophiae_Naturalis_Principia_Mathematica" title="Philosophiae Naturalis Principia Mathematica">Philosophiae Naturalis Principia Mathematica</a></i>)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Taiebyzadeh, Payam (2017). String Theory; A unified theory and inner dimension of elementary particles (BazDahm). Riverside, Iran: Shamloo Publications Center. <link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-600-116-684-6" title="Special:BookSources/978-600-116-684-6">978-600-116-684-6</a>.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Klemperer, Otto (1959). "Electron Physics: The Physics of the Free Electron". <i>Physics Today</i>. <b>13</b> (6): 64–66. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1960PhT....13R..64K" rel="nofollow">1960PhT....13R..64K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.3057011" rel="nofollow">10.1063/1.3057011</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physics+Today&amp;rft.atitle=Electron+Physics%3A+The+Physics+of+the+Free+Electron&amp;rft.volume=13&amp;rft.issue=6&amp;rft.pages=64-66&amp;rft.date=1959&amp;rft_id=info%3Adoi%2F10.1063%2F1.3057011&amp;rft_id=info%3Abibcode%2F1960PhT....13R..64K&amp;rft.aulast=Klemperer&amp;rft.aufirst=Otto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Some sources such as <a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/Hbase/Particles/quark.html#c4" rel="nofollow">The Strange Quark</a> indicate 1947.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="http://press.web.cern.ch/press-releases/2014/06/cern-experiments-report-new-higgs-boson-measurements" rel="nofollow">CERN experiments report new Higgs boson measurements</a>. cern.ch (23 June 2014)</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>General readers</dt></dl>
+<ul><li><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman, R.P.</a> &amp; <a href="/wiki/Steven_Weinberg" title="Steven Weinberg">Weinberg, S.</a> (1987). <i>Elementary Particles and the Laws of Physics:  The 1986 Dirac Memorial Lectures</i>. Cambridge Univ. Press.</li>
+<li><cite class="citation book"><a href="/wiki/Brian_Greene" title="Brian Greene">Brian Greene</a> (1999). <a href="/wiki/The_Elegant_Universe" title="The Elegant Universe"><i>The Elegant Universe</i></a>. <a class="mw-redirect" href="/wiki/W.W._Norton_%26_Company" title="W.W. Norton &amp; Company">W.W. Norton &amp; Company</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-393-05858-1" title="Special:BookSources/978-0-393-05858-1">978-0-393-05858-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Elegant+Universe&amp;rft.pub=W.W.+Norton+%26+Company&amp;rft.date=1999&amp;rft.isbn=978-0-393-05858-1&amp;rft.au=Brian+Greene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li>Oerter, Robert (2006). <i>The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics</i>. Plume.</li>
+<li>Schumm, Bruce A. (2004). <i>Deep Down Things: The Breathtaking Beauty of Particle Physics</i>. Johns Hopkins University Press. <link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8018-7971-X" title="Special:BookSources/0-8018-7971-X">0-8018-7971-X</a>.</li>
+<li><cite class="citation book"><a class="mw-redirect" href="/wiki/Martinus_Veltman" title="Martinus Veltman">Martinus Veltman</a> (2003). <i>Facts and Mysteries in Elementary Particle Physics</i>. <a href="/wiki/World_Scientific" title="World Scientific">World Scientific</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-238-149-1" title="Special:BookSources/978-981-238-149-1">978-981-238-149-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Facts+and+Mysteries+in+Elementary+Particle+Physics&amp;rft.pub=World+Scientific&amp;rft.date=2003&amp;rft.isbn=978-981-238-149-1&amp;rft.au=Martinus+Veltman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li></ul>
+<dl><dt>Textbooks</dt></dl>
+<ul><li>Coughlan, G.D., J.E. Dodd, and B.M. Gripaios (2006). <i>The Ideas of Particle Physics: An Introduction for Scientists</i>, 3rd ed. Cambridge Univ. Press. An undergraduate text for those not majoring in physics.</li>
+<li><cite class="citation book">Griffiths, David J. (1987). <i>Introduction to Elementary Particles</i>. <a class="mw-redirect" href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-471-60386-3" title="Special:BookSources/978-0-471-60386-3">978-0-471-60386-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Elementary+Particles&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1987&amp;rft.isbn=978-0-471-60386-3&amp;rft.au=Griffiths%2C+David+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Kane, Gordon L. (1987). <i>Modern Elementary Particle Physics</i>. <a class="mw-redirect" href="/wiki/Perseus_Books" title="Perseus Books">Perseus Books</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-201-11749-3" title="Special:BookSources/978-0-201-11749-3">978-0-201-11749-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Modern+Elementary+Particle+Physics&amp;rft.pub=Perseus+Books&amp;rft.date=1987&amp;rft.isbn=978-0-201-11749-3&amp;rft.au=Kane%2C+Gordon+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubatomic+particle"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subatomic_particle&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.britannica.com/EBchecked/topic/570533" rel="nofollow">Subatomic particle (physics)</a> at <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i></li>
+<li><a class="external text" href="https://web.archive.org/web/20070902025809/http://particleadventure.org/frameless/standard_model.html" rel="nofollow">particleadventure.org: The Standard Model.</a></li>
+<li><a class="external text" href="http://www.cpepweb.org/cpep_sm_large.html" rel="nofollow">cpepweb.org: Particle chart.</a></li>
+<li><a class="external text" href="http://pdg.lbl.gov/" rel="nofollow">University of California: Particle Data Group.</a></li>
+<li><a class="external text" href="http://web.mit.edu/redingtn/www/netadv/qft.html" rel="nofollow">Annotated Physics Encyclopædia: Quantum Field Theory.</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20030902215642/http://jgalvez.home.cern.ch/jgalvez/School/pdf/LM-WeakIteractions.pdf" rel="nofollow">Jose Galvez: Chapter 1 Electrodynamics (pdf).</a></li></ul>
+<div aria-labelledby="Particles_in_physics" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Particles" title="Template:Particles"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Particles" title="Template talk:Particles"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Particles&amp;action=edit"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Particles_in_physics" style="font-size:114%;margin:0 4em"><a href="/wiki/Particle_physics" title="Particle physics">Particles in physics</a></div></th></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Elementary_particle" title="Elementary particle">Elementary</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Fermion" title="Fermion">Fermions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Quark" title="Quark">Quarks</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Up_quark" title="Up quark">Up (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Up_antiquark" title="Up antiquark">antiquark)</a></li>
+<li><a href="/wiki/Down_quark" title="Down quark">Down (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Down_antiquark" title="Down antiquark">antiquark)</a></li>
+<li><a href="/wiki/Charm_quark" title="Charm quark">Charm (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Charm_antiquark" title="Charm antiquark">antiquark)</a></li>
+<li><a href="/wiki/Strange_quark" title="Strange quark">Strange (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Strange_antiquark" title="Strange antiquark">antiquark)</a></li>
+<li><a href="/wiki/Top_quark" title="Top quark">Top (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Top_antiquark" title="Top antiquark">antiquark)</a></li>
+<li><a href="/wiki/Bottom_quark" title="Bottom quark">Bottom (quark</a></li>
+<li><a class="mw-redirect" href="/wiki/Bottom_antiquark" title="Bottom antiquark">antiquark)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Lepton" title="Lepton">Leptons</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electron" title="Electron">Electron</a></li>
+<li><a href="/wiki/Positron" title="Positron">Positron</a></li>
+<li><a href="/wiki/Muon" title="Muon">Muon</a></li>
+<li><a class="mw-redirect" href="/wiki/Antimuon" title="Antimuon">Antimuon</a></li>
+<li><a href="/wiki/Tau_(particle)" title="Tau (particle)">Tau</a></li>
+<li><a class="mw-redirect" href="/wiki/Antitau" title="Antitau">Antitau</a></li>
+<li><a href="/wiki/Electron_neutrino" title="Electron neutrino">Electron neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Electron antineutrino</a></li>
+<li><a href="/wiki/Muon_neutrino" title="Muon neutrino">Muon neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Muon antineutrino</a></li>
+<li><a href="/wiki/Tau_neutrino" title="Tau neutrino">Tau neutrino</a></li>
+<li><a class="mw-redirect" href="/wiki/Antineutrino" title="Antineutrino">Tau antineutrino</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Boson" title="Boson">Bosons</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:4em;font-weight:normal; text-align: center;"><a href="/wiki/Gauge_boson" title="Gauge boson">Gauge</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Photon" title="Photon">Photon</a></li>
+<li><a href="/wiki/Gluon" title="Gluon">Gluon</a></li>
+<li><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:4em;font-weight:normal; text-align: center;"><a href="/wiki/Scalar_boson" title="Scalar boson">Scalar</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Higgs_boson" title="Higgs boson">Higgs boson </a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;;font-weight:normal; text-align: center;"><a href="/wiki/Ghost_(physics)" title="Ghost (physics)">Ghost fields</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Faddeev%E2%80%93Popov_ghost" title="Faddeev–Popov ghost">Faddeev–Popov ghosts</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a class="mw-redirect" href="/wiki/Hypothetical_particles" title="Hypothetical particles">Hypothetical</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Superpartner" title="Superpartner">Superpartners</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Gaugino" title="Gaugino">Gauginos</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gluino" title="Gluino">Gluino</a></li>
+<li><a href="/wiki/Gravitino" title="Gravitino">Gravitino</a></li>
+<li><a href="/wiki/Photino" title="Photino">Photino</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Higgsino" title="Higgsino">Higgsino</a></li>
+<li><a href="/wiki/Neutralino" title="Neutralino">Neutralino</a></li>
+<li><a href="/wiki/Chargino" title="Chargino">Chargino</a></li>
+<li><a href="/wiki/Axino" title="Axino">Axino</a></li>
+<li><a href="/wiki/Sfermion" title="Sfermion">Sfermion</a> (<a href="/wiki/Stop_squark" title="Stop squark">Stop squark</a>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Planck_particle" title="Planck particle">Planck particle</a></li>
+<li><a href="/wiki/Axion" title="Axion">Axion</a></li>
+<li><a href="/wiki/Dilaton" title="Dilaton">Dilaton</a></li>
+<li><a href="/wiki/Dual_graviton" title="Dual graviton">Dual graviton</a></li>
+<li><a href="/wiki/Graviton" title="Graviton">Graviton</a></li>
+<li><a href="/wiki/Leptoquark" title="Leptoquark">Leptoquark</a></li>
+<li><a href="/wiki/Majoron" title="Majoron">Majoron</a></li>
+<li><a href="/wiki/Majorana_fermion" title="Majorana fermion">Majorana fermion</a></li>
+<li><a href="/wiki/Magnetic_monopole" title="Magnetic monopole">Magnetic monopole</a></li>
+<li><a href="/wiki/Preon" title="Preon">Preon</a></li>
+<li><a href="/wiki/Sterile_neutrino" title="Sterile neutrino">Sterile neutrino</a></li>
+<li><a href="/wiki/Tachyon" title="Tachyon">Tachyon</a></li>
+<li><a href="/wiki/W%E2%80%B2_and_Z%E2%80%B2_bosons" title="W′ and Z′ bosons">W′ and Z′ bosons</a></li>
+<li><a href="/wiki/X_and_Y_bosons" title="X and Y bosons">X and Y bosons</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Bound_state" title="Bound state">Composite</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Hadrons" scope="row" style="width:1%"><a href="/wiki/Hadron" title="Hadron">Hadrons</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Baryon" title="Baryon">Baryons</a> / <a href="/wiki/Hyperon" title="Hyperon">hyperons</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nucleon" title="Nucleon">Nucleon</a>
+<ul><li><a href="/wiki/Proton" title="Proton">Proton</a></li>
+<li><a href="/wiki/Antiproton" title="Antiproton">Antiproton</a></li>
+<li><a href="/wiki/Neutron" title="Neutron">Neutron</a></li>
+<li><a href="/wiki/Antineutron" title="Antineutron">Antineutron</a></li></ul></li>
+<li><a href="/wiki/Delta_baryon" title="Delta baryon">Delta baryon</a></li>
+<li><a href="/wiki/Lambda_baryon" title="Lambda baryon">Lambda baryon</a></li>
+<li><a href="/wiki/Sigma_baryon" title="Sigma baryon">Sigma baryon</a></li>
+<li><a href="/wiki/Xi_baryon" title="Xi baryon">Xi baryon</a></li>
+<li><a href="/wiki/Omega_baryon" title="Omega baryon">Omega baryon</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Meson" title="Meson">Mesons</a> / <a href="/wiki/Quarkonium" title="Quarkonium">quarkonia</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pion" title="Pion">Pion</a></li>
+<li><a href="/wiki/Rho_meson" title="Rho meson">Rho meson</a></li>
+<li><a href="/wiki/Eta_meson" title="Eta meson">Eta and eta prime mesons</a></li>
+<li><a href="/wiki/Phi_meson" title="Phi meson">Phi meson</a></li>
+<li><a href="/wiki/J/psi_meson" title="J/psi meson">J/psi meson</a></li>
+<li><a href="/wiki/List_of_mesons" title="List of mesons">Omega meson</a></li>
+<li><a href="/wiki/Upsilon_meson" title="Upsilon meson">Upsilon meson</a></li>
+<li><a href="/wiki/Kaon" title="Kaon">Kaon</a></li>
+<li><a href="/wiki/B_meson" title="B meson">B meson</a></li>
+<li><a href="/wiki/D_meson" title="D meson">D meson</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Exotic_hadron" title="Exotic hadron">Exotic hadrons</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetraquark" title="Tetraquark">Tetraquark</a></li>
+<li><a href="/wiki/Pentaquark" title="Pentaquark">Pentaquark</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atomic_nucleus" title="Atomic nucleus">Atomic nuclei</a></li>
+<li><a href="/wiki/Atom" title="Atom">Atoms</a></li>
+<li><a href="/wiki/Exotic_atom" title="Exotic atom">Exotic atoms</a>
+<ul><li><a href="/wiki/Positronium" title="Positronium">Positronium</a></li>
+<li><a href="/wiki/Muonium" title="Muonium">Muonium</a></li>
+<li><a class="mw-redirect" href="/wiki/Tauonium" title="Tauonium">Tauonium</a></li>
+<li><a href="/wiki/Onium" title="Onium">Onia</a></li></ul></li>
+<li><a href="/wiki/Superatom" title="Superatom">Superatoms</a></li>
+<li><a href="/wiki/Molecule" title="Molecule">Molecules</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Hypothetical_composite_particles" title="Category:Hypothetical composite particles">Hypothetical</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Hypothetical baryons</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hexaquark" title="Hexaquark">Hexaquark</a></li>
+<li><a href="/wiki/Skyrmion" title="Skyrmion">Skyrmion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Hypothetical mesons</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glueball" title="Glueball">Glueball</a></li>
+<li><a href="/wiki/Theta_meson" title="Theta meson">Theta meson</a></li>
+<li><a href="/wiki/T_meson" title="T meson">T meson</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal; text-align: center;;font-weight:normal; text-align: center;">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mesonic_molecule" title="Mesonic molecule">Mesonic molecule</a></li>
+<li><a href="/wiki/Pomeron" title="Pomeron">Pomeron</a></li>
+<li><a href="/wiki/Diquark" title="Diquark">Diquarks</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Quasiparticle" title="Quasiparticle">Quasiparticles</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Davydov_soliton" title="Davydov soliton">Davydov soliton</a></li>
+<li><a href="/wiki/Dropleton" title="Dropleton">Dropleton</a></li>
+<li><a href="/wiki/Exciton" title="Exciton">Exciton</a></li>
+<li><a href="/wiki/Electron_hole" title="Electron hole">Hole</a></li>
+<li><a href="/wiki/Magnon" title="Magnon">Magnon</a></li>
+<li><a href="/wiki/Phonon" title="Phonon">Phonon</a></li>
+<li><a href="/wiki/Plasmaron" title="Plasmaron">Plasmaron</a></li>
+<li><a href="/wiki/Plasmon" title="Plasmon">Plasmon</a></li>
+<li><a href="/wiki/Polariton" title="Polariton">Polariton</a></li>
+<li><a href="/wiki/Polaron" title="Polaron">Polaron</a></li>
+<li><a href="/wiki/Roton" title="Roton">Roton</a></li>
+<li><a href="/wiki/Trion_(physics)" title="Trion (physics)">Trion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_baryons" title="List of baryons">Baryons</a></li>
+<li><a href="/wiki/List_of_mesons" title="List of mesons">Mesons</a></li>
+<li><a href="/wiki/List_of_particles" title="List of particles">Particles</a></li>
+<li><a href="/wiki/List_of_quasiparticles" title="List of quasiparticles">Quasiparticles</a></li>
+<li><a href="/wiki/Timeline_of_particle_discoveries" title="Timeline of particle discoveries">Timeline of particle discoveries</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_subatomic_physics" title="History of subatomic physics">History of subatomic physics</a>
+<ul><li><a href="/wiki/Timeline_of_atomic_and_subatomic_physics" title="Timeline of atomic and subatomic physics">timeline</a></li></ul></li>
+<li><a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a>
+<ul><li><a class="mw-redirect" href="/wiki/Standard_Model_(mathematical_formulation)" title="Standard Model (mathematical formulation)">mathematical formulation</a></li></ul></li>
+<li><a class="mw-selflink selflink">Subatomic particles</a></li>
+<li><a href="/wiki/Particle" title="Particle">Particles</a></li>
+<li><a href="/wiki/Antiparticle" title="Antiparticle">Antiparticles</a></li>
+<li><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear physics</a></li>
+<li><a class="mw-redirect" href="/wiki/Eightfold_Way_(physics)" title="Eightfold Way (physics)">Eightfold Way</a>
+<ul><li><a href="/wiki/Quark_model" title="Quark model">Quark model</a></li></ul></li>
+<li><a href="/wiki/Exotic_matter" title="Exotic matter">Exotic matter</a></li>
+<li><a href="/wiki/Massless_particle" title="Massless particle">Massless particle</a></li>
+<li><a href="/wiki/Relativistic_particle" title="Relativistic particle">Relativistic particle</a></li>
+<li><a href="/wiki/Virtual_particle" title="Virtual particle">Virtual particle</a></li>
+<li><a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">Wave–particle duality</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Book:Hadronic_Matter" title="Book:Hadronic Matter">Hadronic Matter</a></li>
+<li><a href="/wiki/Book:Particles_of_the_Standard_Model" title="Book:Particles of the Standard Model">Particles of the Standard Model</a></li>
+<li><a href="/wiki/Book:Leptons" title="Book:Leptons">Leptons</a></li>
+<li><a href="/wiki/Book:Quarks" title="Book:Quarks">Quarks</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div><img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <b><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></b></div></td></tr></tbody></table></div>
+<div aria-labelledby="Into_matter" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Composition" title="Template:Composition"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Composition" title="Template talk:Composition"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Composition&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Into_matter" style="font-size:114%;margin:0 4em">Into <a href="/wiki/Matter" title="Matter">matter</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Physical_body" title="Physical body">Macroscopic object</a> &gt; <a href="/wiki/Molecule" title="Molecule">Molecule</a> &gt; <a href="/wiki/Atom" title="Atom">Atom</a> &gt; <a class="mw-selflink selflink">Subatomic particle</a> (<a href="/wiki/List_of_particles#Composite_particles" title="List of particles">Composite particle</a></li>
+<li><a href="/wiki/Elementary_particle" title="Elementary particle">Elementary particle</a>)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1346
+Cached time: 20190207063250
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.620 seconds
+Real time usage: 0.762 seconds
+Preprocessor visited node count: 3310/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 226411/2097152 bytes
+Template argument size: 3128/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 22/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 40839/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.252/10.000 seconds
+Lua memory usage: 4.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  582.120      1 -total
+ 37.36%  217.458      1 Template:Reflist
+ 20.41%  118.809     19 Template:Subatomic_particle
+ 17.97%  104.610     11 Template:Navbox
+ 14.15%   82.356     20 Template:Physics_particle
+ 12.51%   72.851      1 Template:Cite_web
+ 10.09%   58.751     40 Template:Su
+  9.34%   54.378      1 Template:Particles
+  7.68%   44.718      9 Template:Cite_book
+  7.55%   43.930      2 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:212490-0!canonical and timestamp 20190207063249 and revision id 880074590
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Subatomic_particle&amp;oldid=880074590">https://en.wikipedia.org/w/index.php?title=Subatomic_particle&amp;oldid=880074590</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Subatomic_particles" title="Category:Subatomic particles">Subatomic particles</a></li><li><a href="/wiki/Category:Quantum_mechanics" title="Category:Quantum mechanics">Quantum mechanics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:Articles_with_Encyclop%C3%A6dia_Britannica_links" title="Category:Articles with Encyclopædia Britannica links">Articles with Encyclopædia Britannica links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Subatomic+particle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Subatomic+particle" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Subatomic_particle" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Subatomic_particle" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Subatomic_particle">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Subatomic_particle&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Subatomic_particle&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Subatomic_particle" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Subatomic_particle" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Subatomic_particle&amp;oldid=880074590" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Subatomic_particle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177013" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Subatomic_particle&amp;id=880074590" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Subatomic+particle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Subatomic+particle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Subatomic_particle&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Subatomiese_deeltjie" hreflang="af" lang="af" title="Subatomiese deeltjie – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D8%B3%D9%8A%D9%85_%D8%AF%D9%88%D9%86_%D8%B0%D8%B1%D9%8A" hreflang="ar" lang="ar" title="جسيم دون ذري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Part%C3%ADcula_subat%C3%B3mica" hreflang="ast" lang="ast" title="Partícula subatómica – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Madd%C9%99_v%C9%99_sah%C9%99_z%C9%99rr%C9%99cikl%C9%99ri" hreflang="az" lang="az" title="Maddə və sahə zərrəcikləri – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%A7%D8%AA%D9%88%D9%85_%D9%BE%D8%A7%D8%B1%DA%86%D8%A7%D8%AC%DB%8C%D9%82%D9%84%D8%A7%D8%B1%DB%8C" hreflang="azb" lang="azb" title="اتوم پارچاجیقلاری – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A6%A3%E0%A6%BE" hreflang="bn" lang="bn" title="অতিপারমাণবিক কণা – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D0%B8_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%86%D0%B8" hreflang="bg" lang="bg" title="Субатомни частици – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Subatomske_%C4%8Destice" hreflang="bs" lang="bs" title="Subatomske čestice – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Part%C3%ADcula_subat%C3%B2mica" hreflang="ca" lang="ca" title="Partícula subatòmica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Subatom%C3%A1rn%C3%AD_%C4%8D%C3%A1stice" hreflang="cs" lang="cs" title="Subatomární částice – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Gronyn_isatomig" hreflang="cy" lang="cy" title="Gronyn isatomig – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Subatomar_partikel" hreflang="da" lang="da" title="Subatomar partikel – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Subatomares_Teilchen" hreflang="de" lang="de" title="Subatomares Teilchen – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Subatomaarsed_osakesed" hreflang="et" lang="et" title="Subatomaarsed osakesed – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CE%BF%CE%B1%CF%84%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC_%CF%83%CF%89%CE%BC%CE%B1%CF%84%CE%AF%CE%B4%CE%B9%CE%B1" hreflang="el" lang="el" title="Υποατομικά σωματίδια – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Part%C3%ADcula_subat%C3%B3mica" hreflang="es" lang="es" title="Partícula subatómica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Partikula_azpiatomiko" hreflang="eu" lang="eu" title="Partikula azpiatomiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A7%D8%AA_%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA%D9%85%DB%8C" hreflang="fa" lang="fa" title="ذرات زیراتمی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Particule_subatomique" hreflang="fr" lang="fr" title="Particule subatomique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/C%C3%A1ithn%C3%ADn_fo-adamhach" hreflang="ga" lang="ga" title="Cáithnín fo-adamhach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Ayrneen_fo-vreneenagh" hreflang="gv" lang="gv" title="Ayrneen fo-vreneenagh – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Part%C3%ADcula_subat%C3%B3mica" hreflang="gl" lang="gl" title="Partícula subatómica – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%9B%90%EC%9E%90_%EC%9E%85%EC%9E%90" hreflang="ko" lang="ko" title="아원자 입자 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%86%D5%A5%D6%80%D5%A1%D5%BF%D5%B8%D5%B4%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B4%D5%A1%D5%BD%D5%B6%D5%AB%D5%AF" hreflang="hy" lang="hy" title="Ներատոմային մասնիկ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%81%E0%A4%95_%E0%A4%95%E0%A4%A3" hreflang="hi" lang="hi" title="अवपरमाणुक कण – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Subatomska_%C4%8Destica" hreflang="hr" lang="hr" title="Subatomska čestica – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Partikel_subatom" hreflang="id" lang="id" title="Partikel subatom – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Particula_subatomic" hreflang="ia" lang="ia" title="Particula subatomic – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-xh"><a class="interlanguage-link-target" href="https://xh.wikipedia.org/wiki/I-subatomic_particle" hreflang="xh" lang="xh" title="I-subatomic particle – Xhosa">IsiXhosa</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Particella_subatomica" hreflang="it" lang="it" title="Particella subatomica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%9C%D7%A7%D7%99%D7%A7_%D7%AA%D7%AA-%D7%90%D7%98%D7%95%D7%9E%D7%99" hreflang="he" lang="he" title="חלקיק תת-אטומי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%89%E0%B2%AA%E0%B2%AA%E0%B2%B0%E0%B2%AE%E0%B2%BE%E0%B2%A3%E0%B3%81_%E0%B2%95%E0%B2%A3" hreflang="kn" lang="kn" title="ಉಪಪರಮಾಣು ಕಣ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Keriy%C3%AA_atom%C3%AA" hreflang="ku" lang="ku" title="Keriyê atomê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Subatom%C4%81ra_da%C4%BCi%C5%86a" hreflang="lv" lang="lv" title="Subatomāra daļiņa – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Subatomin%C4%97_dalel%C4%97" hreflang="lt" lang="lt" title="Subatominė dalelė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Subatomair_deilkes" hreflang="li" lang="li" title="Subatomair deilkes – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szubatomi_r%C3%A9szecske" hreflang="hu" lang="hu" title="Szubatomi részecske – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D0%BC%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%81%D1%82%D0%B8%D1%87%D0%BA%D0%B0" hreflang="mk" lang="mk" title="Субатомска честичка – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%89%E0%B4%AA%E0%B4%BE%E0%B4%A3%E0%B5%81%E0%B4%95%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE" hreflang="ml" lang="ml" title="ഉപാണുകണങ്ങൾ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Zarah_subatom" hreflang="ms" lang="ms" title="Zarah subatom – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/%C4%80_ngu%C3%B2ng-c%E1%B9%B3%CC%84_l%C4%ADk-c%E1%B9%B3%CC%84" hreflang="cdo" lang="cdo" title="Ā nguòng-cṳ̄ lĭk-cṳ̄ – Min Dong Chinese">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC%D0%B0%D0%B0%D1%81_%D0%B6%D0%B8%D0%B6%D0%B8%D0%B3_%D0%B1%D3%A9%D3%A9%D0%BC" hreflang="mn" lang="mn" title="Атомаас жижиг бөөм – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%80%E1%80%BA%E1%80%90%E1%80%99%E1%80%BA%E1%80%A1%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%A1%E1%80%99%E1%80%BE%E1%80%AF%E1%80%94%E1%80%BA" hreflang="my" lang="my" title="အက်တမ်အောက်အမှုန် – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Subatomair_deeltje" hreflang="nl" lang="nl" title="Subatomair deeltje – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BA%9C%E5%8E%9F%E5%AD%90%E7%B2%92%E5%AD%90" hreflang="ja" lang="ja" title="亜原子粒子 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Subatom%C3%A6r_partikkel" hreflang="no" lang="no" title="Subatomær partikkel – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nov"><a class="interlanguage-link-target" href="https://nov.wikipedia.org/wiki/Subatomi_partikle" hreflang="nov" lang="nov" title="Subatomi partikle – Novial">Novial</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%89%E0%A9%B1%E0%A8%AA-%E0%A8%AA%E0%A8%B0%E0%A8%AE%E0%A8%BE%E0%A8%A3%E0%A9%82_%E0%A8%95%E0%A8%A3" hreflang="pa" lang="pa" title="ਉੱਪ-ਪਰਮਾਣੂ ਕਣ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-jam"><a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Sobatamik_paatikl" hreflang="jam" lang="jam" title="Sobatamik paatikl – Jamaican Creole English">Patois</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Part%C3%ADcula_subat%C3%B4mica" hreflang="pt" lang="pt" title="Partícula subatômica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Particul%C4%83_subatomic%C4%83" hreflang="ro" lang="ro" title="Particulă subatomică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%86%D0%B0" hreflang="ru" lang="ru" title="Субатомная частица – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Subatomic_pairticle" hreflang="sco" lang="sco" title="Subatomic pairticle – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Subatomic_particle" hreflang="en-simple" lang="en-simple" title="Subatomic particle – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Subat%C3%B3mov%C3%A1_%C4%8Dastica" hreflang="sk" lang="sk" title="Subatómová častica – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Podatomski_delec" hreflang="sl" lang="sl" title="Podatomski delec – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D0%BC%D1%81%D0%BA%D0%B5_%D1%87%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B5" hreflang="sr" lang="sr" title="Субатомске честице – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Subatomske_%C4%8Destice" hreflang="sh" lang="sh" title="Subatomske čestice – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Partikel_subatomik" hreflang="su" lang="su" title="Partikel subatomik – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Subatomiset_hiukkaset" hreflang="fi" lang="fi" title="Subatomiset hiukkaset – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Subatom%C3%A4r_partikel" hreflang="sv" lang="sv" title="Subatomär partikel – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A3%E0%AF%81%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="அணுவடித்துகள் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B0%B0%E0%B0%AE%E0%B0%BE%E0%B0%A3%E0%B1%81%E0%B0%B5%E0%B1%81" hreflang="te" lang="te" title="పరమాణువు – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%A1" hreflang="th" lang="th" title="อนุภาคย่อยของอะตอม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Atomalt%C4%B1_par%C3%A7ac%C4%B1k" hreflang="tr" lang="tr" title="Atomaltı parçacık – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D0%B0_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Субатомна частинка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B1%D8%AC%D9%88%DB%81%D8%B1%DB%8C_%D8%B0%D8%B1%DB%81" hreflang="ur" lang="ur" title="زیرجوہری ذرہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%E1%BA%A1t_h%E1%BA%A1_nguy%C3%AAn_t%E1%BB%AD" hreflang="vi" lang="vi" title="Hạt hạ nguyên tử – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-fiu-vro"><a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/Tsibiputin" hreflang="vro" lang="vro" title="Tsibiputin – Võro">Võro</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E4%BA%9E%E5%8E%9F%E5%AD%90%E7%B2%92%E5%AD%90" hreflang="yue" lang="yue" title="亞原子粒子 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%AC%A1%E5%8E%9F%E5%AD%90%E7%B2%92%E5%AD%90" hreflang="zh" lang="zh" title="次原子粒子 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177013#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 January 2019, at 04:57<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Subatomic_particle&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.620","walltime":"0.762","ppvisitednodes":{"value":3310,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":226411,"limit":2097152},"templateargumentsize":{"value":3128,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40839,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  582.120      1 -total"," 37.36%  217.458      1 Template:Reflist"," 20.41%  118.809     19 Template:Subatomic_particle"," 17.97%  104.610     11 Template:Navbox"," 14.15%   82.356     20 Template:Physics_particle"," 12.51%   72.851      1 Template:Cite_web"," 10.09%   58.751     40 Template:Su","  9.34%   54.378      1 Template:Particles","  7.68%   44.718      9 Template:Cite_book","  7.55%   43.930      2 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.252","limit":"10.000"},"limitreport-memusage":{"value":5086406,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20190207063250","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1242"});});</script>
+</body>
+</html>
+

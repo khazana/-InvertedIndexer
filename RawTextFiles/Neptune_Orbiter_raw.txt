@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Neptune Orbiter - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Neptune_Orbiter","wgTitle":"Neptune Orbiter","wgCurRevisionId":820590541,"wgRevisionId":820590541,"wgArticleId":1884129,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2009","Articles with unsourced statements from May 2015","Proposed NASA space probes","Missions to Neptune","Cancelled spacecraft","Orbiters (space probe)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Neptune_Orbiter","wgRelevantArticleId":1884129,"wgRequestId":"XFZQSwpAICwAAHsqop0AAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q255625","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.14" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/1/1e/Neptune_orbiter.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Neptune_Orbiter" rel="alternate"/>
+<link href="/w/index.php?title=Neptune_Orbiter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Neptune_Orbiter&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Neptune_Orbiter" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Neptune_Orbiter rootpage-Neptune_Orbiter skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Neptune Orbiter</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the cancelled 1990s NASA Neptune Orbiter, see <a href="/wiki/Mariner_Mark_II" title="Mariner Mark II">Mariner Mark II</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Neptune_orbiter.jpg"><img alt="" class="thumbimage" data-file-height="555" data-file-width="640" decoding="async" height="260" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Neptune_orbiter.jpg/300px-Neptune_orbiter.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Neptune_orbiter.jpg/450px-Neptune_orbiter.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1e/Neptune_orbiter.jpg/600px-Neptune_orbiter.jpg 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Neptune_orbiter.jpg" title="Enlarge"></a></div>The Neptune Orbiter (top) would have dropped two probes to investigate the atmosphere of the planet (middle). The orbiter would then deploy a lander on the surface of Triton (bottom).</div></div></div>
+<p><b>Neptune Orbiter</b> was a proposed <a href="/wiki/NASA" title="NASA">NASA</a> unmanned planetary spacecraft to explore the planet <a href="/wiki/Neptune" title="Neptune">Neptune</a>. It was envisioned that it would be launched sometime around 2016 and take 8 to 12 years to reach the planet; however, NASA's website no longer lists any possible launch date.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The Neptune Orbiter concept would have answered many questions about the nature of the planet.
+</p><p>Its objective was to study Neptune's atmosphere and weather, its ring system, and its moons, particularly <a href="/wiki/Triton_(moon)" title="Triton (moon)">Triton</a>. The <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> proposed one mission plan in 2004,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> while the <a href="/wiki/University_of_Idaho" title="University of Idaho">University of Idaho</a> and <a href="/wiki/Boeing" title="Boeing">Boeing</a> proposed an alternative approach in 2005.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mission_summary_and_status"><span class="tocnumber">1</span> <span class="toctext">Mission summary and status</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Power_sources"><span class="tocnumber">2</span> <span class="toctext">Power sources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Radioisotope_thermoelectric_generators"><span class="tocnumber">2.1</span> <span class="toctext">Radioisotope thermoelectric generators</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Solar_panels"><span class="tocnumber">2.2</span> <span class="toctext">Solar panels</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Instruments"><span class="tocnumber">3</span> <span class="toctext">Instruments</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Orbiter"><span class="tocnumber">3.1</span> <span class="toctext">Orbiter</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Triton_lander(s)"><span class="tocnumber">3.2</span> <span class="toctext">Triton lander(s)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Atmospheric_probe(s)"><span class="tocnumber">3.3</span> <span class="toctext">Atmospheric probe(s)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Mission_summary_and_status">Mission summary and status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=1" title="Edit section: Mission summary and status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Neptune Orbiter's primary mission was to go into orbit and perform scientific studies of the planet. The mission concept was first proposed to NASA in 2005. It was proposed to use a launch rocket similar to the <a class="mw-redirect" href="/wiki/Delta_IV_rocket" title="Delta IV rocket">Delta IV</a> or <a href="/wiki/Atlas_V" title="Atlas V">Atlas V</a>. The orbiter's trajectory was to use one Venus gravity assist, and a Jupiter gravity assist before arriving at Neptune. The length of time from launch until Neptune arrival was estimated to be 10.25 years.
+</p><p>Just prior to arriving, the orbiter would release its two atmospheric probes, which would transmit data before <a href="/wiki/Aerocapture" title="Aerocapture">aerocapture</a>. Then, it would begin Neptune orbit insertion by aerocapture. After adjusting its orbit to its planned science orbit, the orbiter would carry out studies of Neptune, its rings, atmosphere, weather, and its natural satellites. The main phase of the science operations would have taken from 3 to 5 years with a possible extension lasting 3 more years.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2009)">citation needed</span></a></i>]</sup>
+</p><p>In 2008, the mission was removed from <a class="external text" href="https://web.archive.org/web/20090805113110/http://solarsystem.nasa.gov/missions/future1.cfm" rel="nofollow">NASA's possible future missions</a> list. According to NASA's 2010 budget, funding to missions to the outer Solar System was aimed at the future <a class="mw-redirect" href="/wiki/Europa_Jupiter_System_Mission" title="Europa Jupiter System Mission">Europa Jupiter System Mission</a>. The remaining budget was allocated to ongoing undertakings such as <i><a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">Cassini–Huygens</a></i>, <i><a href="/wiki/Juno_(spacecraft)" title="Juno (spacecraft)">Juno</a></i>, and <i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i>, with the Neptune system not being part of any official considerations.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>In 2011, NASA's Decadal Survey considered a mission to an ice giant—either Uranus or Neptune—but for feasibility reasons recommended a <a class="mw-redirect" href="/wiki/Uranus_orbiter_and_probe" title="Uranus orbiter and probe">Uranus orbiter and probe</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Power_sources">Power sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=2" title="Edit section: Power sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Radioisotope_thermoelectric_generators">Radioisotope thermoelectric generators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=3" title="Edit section: Radioisotope thermoelectric generators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Caltech mission concept would have been similar in design to previous NASA outer Solar System missions. It would use <a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">radioisotope thermoelectric generators</a> for electrical power.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Based on this proposal, the spacecraft design would be similar to <i><a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">Galileo</a></i>, <i><a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">Cassini–Huygens</a></i>, <i><a href="/wiki/Voyager_2" title="Voyager 2">Voyager 2</a></i>, and <i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i>, with conventional thrusters for propulsion. Another proposal were to power the spacecraft with a nuclear powered Stirling engine, which NASA were developing at that time (this project later cancelled) together with Ion propulsion.
+</p>
+<h3><span class="mw-headline" id="Solar_panels">Solar panels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=4" title="Edit section: Solar panels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another proposal called for using <a class="mw-redirect" href="/wiki/Photovoltaic_module" title="Photovoltaic module">solar panels</a> to provide electrical power to the spacecraft. The panels would be inflatable, reducing their mass. Although advancements in solar panel technology means it should be possible to achieve sufficient power at the distance of Neptune, the high cost of providing the solar panels would possibly eliminate the idea of using solar cells. This design would presumably also use conventional thrusters, because the dim sunlight in the outer Solar System would probably be insufficient to power an <a class="mw-redirect" href="/wiki/Ion_propulsion" title="Ion propulsion">ion propulsion</a> system.
+</p>
+<h2><span class="mw-headline" id="Instruments">Instruments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=5" title="Edit section: Instruments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Orbiter">Orbiter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=6" title="Edit section: Orbiter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The orbiter would have carried out the main mission objectives. Some proposed instruments were a multispectral imaging system to image the planet from <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a> to <a href="/wiki/Infrared" title="Infrared">infrared</a>, and a <a href="/wiki/Magnetometer" title="Magnetometer">magnetometer</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2015)">citation needed</span></a></i>]</sup> to investigate why the Neptune's <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a> is oriented so far from the planet's axis of rotation.
+</p>
+<h3><span id="Triton_lander.28s.29"></span><span class="mw-headline" id="Triton_lander(s)">Triton lander(s)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=7" title="Edit section: Triton lander(s)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>NASA scientists and engineers have considered to send one or two mini-landers to Triton's surface and analyze the composition of the surface, the interior, and the very rarefied nitrogen atmosphere. Various landing sites were suggested, among those the area with Nitrogen geysers that had been discovered by the Voyager spacecraft, but other locations were also proposed such as either the north or south poles of Triton. No final decision were however made since this were only a proposed mission. The landers' operational lifetime could have been anything between days to a month depending on power source and instrumentation.
+</p>
+<h3><span id="Atmospheric_probe.28s.29"></span><span class="mw-headline" id="Atmospheric_probe(s)">Atmospheric probe(s)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=8" title="Edit section: Atmospheric probe(s)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Along with Triton landers, at least two atmospheric probes were proposed to descend through Neptune's atmosphere and study the climate and weather of the stormy planet. Similar to the <a class="mw-redirect" href="/wiki/Galileo_probe#Galileo's_atmospheric_entry_probe" title="Galileo probe">Galileo probe</a> that descended into Jupiter's atmosphere, the descent of a probe into the atmosphere of Neptune would take about 2–3 hours until the planet's atmospheric heat and pressure would destroy it – the data transmitted during the descent would allow a detailed analysis of Neptune's atmosphere.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Voyager_program" title="Voyager program">Voyager program</a></li>
+<li><a href="/wiki/Jupiter_Icy_Moons_Orbiter" title="Jupiter Icy Moons Orbiter">Jupiter Icy Moons Orbiter</a></li>
+<li><a href="/wiki/Triton_Hopper" title="Triton Hopper">Triton Hopper</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090805113110/http://solarsystem.nasa.gov/missions/future1.cfm" rel="nofollow">"Solar System Exploration: Missions: Solar System Strategic Exploration Plans"</a>. <a href="/wiki/NASA" title="NASA">NASA</a>. 2009-03-07. Archived from <a class="external text" href="http://solarsystem.nasa.gov/missions/future1.cfm" rel="nofollow">the original</a> on 2009-08-05.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Solar+System+Exploration%3A+Missions%3A+Solar+System+Strategic+Exploration+Plans&amp;rft.pub=NASA&amp;rft.date=2009-03-07&amp;rft_id=http%3A%2F%2Fsolarsystem.nasa.gov%2Fmissions%2Ffuture1.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Douglas Fiehler and Steven Oleson. (July 2004). <a class="external text" href="http://arc.aiaa.org/doi/abs/10.2514/6.2004-3978" rel="nofollow">"Neptune Orbiters Utilizing Solar and Radioisotope Electric Propulsion"</a>. <a href="/wiki/American_Institute_of_Aeronautics_and_Astronautics" title="American Institute of Aeronautics and Astronautics">American Institute of Aeronautics and Astronautics</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Neptune+Orbiters+Utilizing+Solar+and+Radioisotope+Electric+Propulsion&amp;rft.pub=American+Institute+of+Aeronautics+and+Astronautics&amp;rft.date=2004-07&amp;rft.au=Douglas+Fiehler+and+Steven+Oleson.&amp;rft_id=http%3A%2F%2Farc.aiaa.org%2Fdoi%2Fabs%2F10.2514%2F6.2004-3978&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Bernie Bienstock and David Atkinson (10 June 2005). <a class="external text" href="http://www.lpi.usra.edu/opag/jun_05_meeting/presentations/NEP_OPAG_Rev.pdf" rel="nofollow">"NEPtune Orbiter with Probes"</a> <span class="cs1-format">(PDF)</span>. Outer Planets Assessment Group<span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NEPtune+Orbiter+with+Probes&amp;rft.pub=Outer+Planets+Assessment+Group&amp;rft.date=2005-06-10&amp;rft.au=Bernie+Bienstock+and+David+Atkinson&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Fopag%2Fjun_05_meeting%2Fpresentations%2FNEP_OPAG_Rev.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nasa.gov/pdf/428154main_Planetary_Science.pdf" rel="nofollow">"Planetary Science"</a> <span class="cs1-format">(PDF)</span>. NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Planetary+Science&amp;rft.pub=NASA&amp;rft_id=https%3A%2F%2Fwww.nasa.gov%2Fpdf%2F428154main_Planetary_Science.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://solarsystem.nasa.gov/docs/131171.pdf" rel="nofollow">"Vision and Voyages for Planetary Science in the Decade 2013–2022"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/National_Academies_Press" title="National Academies Press">National Academies Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vision+and+Voyages+for+Planetary+Science+in+the+Decade+2013%E2%80%932022&amp;rft.pub=National+Academies+Press&amp;rft_id=https%3A%2F%2Fsolarsystem.nasa.gov%2Fdocs%2F131171.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Mohammed Omair Khan (September 15, 2009). <a class="external text" href="http://www.lpi.usra.edu/decadal/sbag/topical_wp/MohammedOKhan.pdf" rel="nofollow">"The Importance of Utilizing and Developing Radioisotope Electric Propulsion for Missions Beyond Saturn"</a> <span class="cs1-format">(PDF)</span>. JPL/Caltech<span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Importance+of+Utilizing+and+Developing+Radioisotope+Electric+Propulsion+for+Missions+Beyond+Saturn&amp;rft.pub=JPL%2FCaltech&amp;rft.date=2009-09-15&amp;rft.au=Mohammed+Omair+Khan&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Fdecadal%2Fsbag%2Ftopical_wp%2FMohammedOKhan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeptune+Orbiter"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neptune_Orbiter&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.cosis.net/abstracts/EGU05/05224/EGU05-J-05224.pdf" rel="nofollow"><i>Cassini–Huygens</i>-level science from NASA’s “Neptune orbiter with probes” vision mission (PDF)</a></li>
+<li><a class="external text" href="http://www.lpi.usra.edu/meetings/outerplanets2001/pdf/4095.pdf" rel="nofollow">The Case For A Neptune Orbiter/Multi-probe Mission (PDF)</a></li>
+<li><a class="external text" href="http://www.astrophys-assist.com/educate/neptune/neptune.htm" rel="nofollow">Neptune Revisited</a></li>
+<li><a class="external text" href="http://www.space.com/businesstechnology/technology/neptune_orbiter_techwed_041215.html" rel="nofollow">Reaching Toward Neptune: Two Ways to Explore an Ice Giant</a></li></ul>
+<div aria-labelledby="Neptune" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="text-align: center;;background:#A0FFAO;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Neptune" title="Template:Neptune"><abbr style="text-align: center;;background:#A0FFAO;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Neptune" title="Template talk:Neptune"><abbr style="text-align: center;;background:#A0FFAO;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neptune&amp;action=edit"><abbr style="text-align: center;;background:#A0FFAO;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Neptune" style="font-size:114%;margin:0 4em"><a href="/wiki/Neptune" title="Neptune">Neptune</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="text-align: center;"><div id="*_Outline_of_Neptune">
+<ul><li><a href="/wiki/Outline_of_Neptune" title="Outline of Neptune">Outline of Neptune</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%">Geography</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great_Dark_Spot" title="Great Dark Spot">Great Dark Spot</a></li>
+<li><a href="/wiki/Small_Dark_Spot" title="Small Dark Spot">Small Dark Spot</a></li>
+<li><a href="/wiki/Rings_of_Neptune" title="Rings of Neptune">Rings</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a class="image" href="/wiki/File:Neptune_Full.jpg" title="NASA image of Neptune"><img alt="NASA image of Neptune" data-file-height="2200" data-file-width="2200" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/100px-Neptune_Full.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/150px-Neptune_Full.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/200px-Neptune_Full.jpg 2x" width="100"/></a></div></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Moons_of_Neptune" title="Moons of Neptune">Moons</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Despina_(moon)" title="Despina (moon)">Despina</a></li>
+<li><a href="/wiki/Galatea_(moon)" title="Galatea (moon)">Galatea</a></li>
+<li><a href="/wiki/Halimede_(moon)" title="Halimede (moon)">Halimede</a></li>
+<li><a class="mw-redirect" href="/wiki/Laomedeia_(moon)" title="Laomedeia (moon)">Laomedeia</a></li>
+<li><a href="/wiki/Larissa_(moon)" title="Larissa (moon)">Larissa</a></li>
+<li><a href="/wiki/Naiad_(moon)" title="Naiad (moon)">Naiad</a></li>
+<li><a href="/wiki/Neptune_XIV" title="Neptune XIV">Neptune XIV</a></li>
+<li><a href="/wiki/Nereid_(moon)" title="Nereid (moon)">Nereid</a></li>
+<li><a href="/wiki/Neso_(moon)" title="Neso (moon)">Neso</a></li>
+<li><a href="/wiki/Proteus_(moon)" title="Proteus (moon)">Proteus</a></li>
+<li><a href="/wiki/Psamathe_(moon)" title="Psamathe (moon)">Psamathe</a></li>
+<li><a href="/wiki/Sao_(moon)" title="Sao (moon)">Sao</a></li>
+<li><a href="/wiki/Thalassa_(moon)" title="Thalassa (moon)">Thalassa</a></li>
+<li><a href="/wiki/Triton_(moon)" title="Triton (moon)">Triton</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%">Astronomy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Discovery_of_Neptune" title="Discovery of Neptune">Discovery</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Urbain_Le_Verrier" title="Urbain Le Verrier">Urbain Le Verrier</a></li>
+<li><a href="/wiki/Johann_Gottfried_Galle" title="Johann Gottfried Galle">Johann Gottfried Galle</a></li>
+<li><a href="/wiki/John_Couch_Adams" title="John Couch Adams">John Couch Adams</a></li>
+<li><a href="/wiki/Heinrich_Louis_d%27Arrest" title="Heinrich Louis d'Arrest">Heinrich Louis d'Arrest</a></li>
+<li><a href="/wiki/William_Lassell" title="William Lassell">William Lassell</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;">General</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kuiper_belt" title="Kuiper belt">Kuiper belt</a></li>
+<li><a href="/wiki/List_of_Neptune-crossing_minor_planets" title="List of Neptune-crossing minor planets">Neptune-crossing minor planets</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: center;"><a href="/wiki/Neptune_trojan" title="Neptune trojan">Trojans</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_QR322" title="2001 QR322">2001 QR<sub>322</sub></a></li>
+<li><a href="/wiki/2004_KV18" title="2004 KV18">2004 KV<sub>18</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/2004_UP10" title="2004 UP10">2004 UP<sub>10</sub></a></li>
+<li><a href="/wiki/2005_TN53" title="2005 TN53">2005 TN<sub>53</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/2005_TO74" title="2005 TO74">2005 TO<sub>74</sub></a></li>
+<li><a href="/wiki/2006_RJ103" title="2006 RJ103">2006 RJ<sub>103</sub></a></li>
+<li><a href="/wiki/2007_VL305" title="2007 VL305">2007 VL<sub>305</sub></a></li>
+<li><a href="/wiki/2008_LC18" title="2008 LC18">2008 LC<sub>18</sub></a></li>
+<li><a href="/wiki/2011_HM102" title="2011 HM102">2011 HM<sub>102</sub></a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Exploration_of_Neptune" title="Exploration of Neptune">Exploration</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Past</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Voyager_2" title="Voyager 2">Voyager 2</a></i> <small>(1989 flyby)</small></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Proposals</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ODINUS" title="ODINUS">ODINUS</a></li>
+<li><a href="/wiki/Triton_Hopper" title="Triton Hopper">Triton Hopper</a></li>
+<li><i><a href="/wiki/Argo_(spacecraft)" title="Argo (spacecraft)">Argo</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Cancelled</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mariner_Mark_II" title="Mariner Mark II">Mariner Mark II</a></li>
+<li><a class="mw-selflink selflink">Neptune Orbiter</a></li>
+<li><i><a href="/wiki/New_Horizons_2" title="New Horizons 2">New Horizons 2</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Neptune_in_fiction" title="Neptune in fiction">Fiction</a></li>
+<li><a href="/wiki/Neptune_(mythology)" title="Neptune (mythology)">Mythology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="text-align: center;"><div>
+<ul><li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Neptune" title="Book:Neptune">Book</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Neptune" title="Category:Neptune">Category</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20190203022203
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.324 seconds
+Preprocessor visited node count: 737/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38039/2097152 bytes
+Template argument size: 1011/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17676/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.140/10.000 seconds
+Lua memory usage: 3.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  274.585      1 -total
+ 49.50%  135.922      1 Template:Reflist
+ 42.64%  117.074      6 Template:Cite_web
+ 25.46%   69.900      2 Template:Citation_needed
+ 22.38%   61.442      2 Template:Fix
+ 13.08%   35.924      4 Template:Category_handler
+ 12.50%   34.323      1 Template:For
+ 11.28%   30.964      3 Template:Navbox
+ 10.85%   29.795      1 Template:Neptune
+  7.44%   20.429      2 Template:Delink
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1884129-0!canonical and timestamp 20190203022203 and revision id 820590541
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Neptune_Orbiter&amp;oldid=820590541">https://en.wikipedia.org/w/index.php?title=Neptune_Orbiter&amp;oldid=820590541</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Proposed_NASA_space_probes" title="Category:Proposed NASA space probes">Proposed NASA space probes</a></li><li><a href="/wiki/Category:Missions_to_Neptune" title="Category:Missions to Neptune">Missions to Neptune</a></li><li><a href="/wiki/Category:Cancelled_spacecraft" title="Category:Cancelled spacecraft">Cancelled spacecraft</a></li><li><a href="/wiki/Category:Orbiters_(space_probe)" title="Category:Orbiters (space probe)">Orbiters (space probe)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2009" title="Category:Articles with unsourced statements from August 2009">Articles with unsourced statements from August 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2015" title="Category:Articles with unsourced statements from May 2015">Articles with unsourced statements from May 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Neptune+Orbiter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Neptune+Orbiter" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Neptune_Orbiter" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Neptune_Orbiter" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Neptune_Orbiter">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Neptune_Orbiter&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Neptune_Orbiter&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Neptune_Orbiter" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Neptune_Orbiter" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Neptune_Orbiter&amp;oldid=820590541" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Neptune_Orbiter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q255625" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Neptune_Orbiter&amp;id=820590541" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Neptune+Orbiter">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Neptune+Orbiter&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Neptune_Orbiter&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%95%B4%EC%99%95%EC%84%B1_%EA%B6%A4%EB%8F%84%EC%84%A0" hreflang="ko" lang="ko" title="해왕성 궤도선 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Neptune_Orbiter" hreflang="id" lang="id" title="Neptune Orbiter – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Neptune_Orbiter" hreflang="it" lang="it" title="Neptune Orbiter – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Neptune_Orbiter" hreflang="hu" lang="hu" title="Neptune Orbiter – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%93%E3%82%BF%E3%83%BC" hreflang="ja" lang="ja" title="ネプチューン・オービター – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Neptune_Orbiter" hreflang="no" lang="no" title="Neptune Orbiter – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Neptune/Triton_Orbiter" hreflang="pt" lang="pt" title="Neptune/Triton Orbiter – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Neptune_Orbiter" hreflang="ru" lang="ru" title="Neptune Orbiter – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Neptune_Orbiter" hreflang="fi" lang="fi" title="Neptune Orbiter – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Neptune_Orbiter" hreflang="sv" lang="sv" title="Neptune Orbiter – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Neptune_orbiter" hreflang="uk" lang="uk" title="Neptune orbiter – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q255625#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 January 2018, at 14:20<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Neptune_Orbiter&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.324","ppvisitednodes":{"value":737,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38039,"limit":2097152},"templateargumentsize":{"value":1011,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17676,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  274.585      1 -total"," 49.50%  135.922      1 Template:Reflist"," 42.64%  117.074      6 Template:Cite_web"," 25.46%   69.900      2 Template:Citation_needed"," 22.38%   61.442      2 Template:Fix"," 13.08%   35.924      4 Template:Category_handler"," 12.50%   34.323      1 Template:For"," 11.28%   30.964      3 Template:Navbox"," 10.85%   29.795      1 Template:Neptune","  7.44%   20.429      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.140","limit":"10.000"},"limitreport-memusage":{"value":3892024,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190203022203","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Neptune Orbiter","url":"https:\/\/en.wikipedia.org\/wiki\/Neptune_Orbiter","sameAs":"http:\/\/www.wikidata.org\/entity\/Q255625","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q255625","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-14T01:14:08Z","dateModified":"2018-01-15T14:20:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1e\/Neptune_orbiter.jpg"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":444,"wgHostname":"mw1323"});});</script>
+</body>
+</html>
+

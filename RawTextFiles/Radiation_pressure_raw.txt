@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Radiation pressure - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Radiation_pressure","wgTitle":"Radiation pressure","wgCurRevisionId":882211057,"wgRevisionId":882211057,"wgArticleId":43709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Celestial mechanics","Radiation effects","Radiation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Radiation_pressure","wgRelevantArticleId":43709,"wgRequestId":"XGLzvApAMFwAAB5lphMAAAAQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q649036","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sail-Force1.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Radiation_pressure" rel="alternate"/>
+<link href="/w/index.php?title=Radiation_pressure&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Radiation_pressure&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Radiation_pressure" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Radiation_pressure rootpage-Radiation_pressure skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Radiation pressure</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sail-Force1.gif"><img alt="" class="thumbimage" data-file-height="248" data-file-width="246" decoding="async" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sail-Force1.gif/220px-Sail-Force1.gif" srcset="//upload.wikimedia.org/wikipedia/commons/8/8f/Sail-Force1.gif 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Sail-Force1.gif" title="Enlarge"></a></div>Force on a reflector results from reflecting the photon flux</div></div></div>
+<p><b>Radiation pressure</b> is the <a href="/wiki/Pressure" title="Pressure">pressure</a> exerted upon any surface due to the exchange of <a href="/wiki/Momentum" title="Momentum">momentum</a> between the object and the <a href="/wiki/Electromagnetic_field" title="Electromagnetic field">electromagnetic field</a>. This includes the momentum of light or <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a> of any <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> which is <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorbed</a>,  <a href="/wiki/Reflection_(physics)" title="Reflection (physics)">reflected</a>, or otherwise emitted (e.g. <a class="mw-redirect" href="/wiki/Black_body_radiation" title="Black body radiation">black body radiation</a>) by matter on any scale (from macroscopic objects to dust particles to gas molecules).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>The forces generated by radiation pressure are generally too small to be noticed under everyday circumstances; however, they are important in some physical processes. This particularly includes objects in <a href="/wiki/Outer_space" title="Outer space">outer space</a> where it is usually the main force acting on objects besides gravity, and where the net effect of a tiny force may have a large cumulative effect over long periods of time. For example, had the effects of the sun's radiation pressure on the spacecraft of the <a href="/wiki/Viking_program" title="Viking program">Viking program</a> been ignored, the spacecraft would have missed Mars orbit by about 15,000 km (9,300 mi).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Radiation pressure from starlight is crucial in a number of <a class="mw-redirect" href="/wiki/Astrophysical" title="Astrophysical">astrophysical</a> processes as well. The significance of radiation pressure increases rapidly at extremely high temperatures, and can sometimes dwarf the usual <a href="/wiki/Kinetic_theory_of_gases" title="Kinetic theory of gases">gas pressure</a>, for instance in <a href="/wiki/Stellar_structure" title="Stellar structure">stellar interiors</a> and <a class="mw-redirect" href="/wiki/Thermonuclear_weapons" title="Thermonuclear weapons">thermonuclear weapons</a>.
+</p><p>Radiation pressure can equally well be accounted for by considering the momentum of a classical electromagnetic field or in terms of the momenta of <a class="mw-redirect" href="/wiki/Photons" title="Photons">photons</a>, particles of light. The interaction of electromagnetic waves or photons with matter may involve an exchange of <a href="/wiki/Momentum" title="Momentum">momentum</a>. Due to the law of <a class="mw-redirect" href="/wiki/Conservation_of_momentum" title="Conservation of momentum">conservation of momentum</a>, any change in the total momentum of the waves or photons must involve an equal and opposite change in the momentum of the matter it interacted with (<a class="mw-redirect" href="/wiki/Newton%27s_third_law_of_motion" title="Newton's third law of motion">Newton's third law of motion</a>), as is illustrated in the accompanying figure for the case of light being perfectly reflected by a surface. This transfer of momentum is the general explanation for what we term radiation pressure.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Theory"><span class="tocnumber">2</span> <span class="toctext">Theory</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Radiation_pressure_from_momentum_of_an_electromagnetic_wave"><span class="tocnumber">2.1</span> <span class="toctext">Radiation pressure from momentum of an electromagnetic wave</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Radiation_pressure_from_reflection"><span class="tocnumber">2.2</span> <span class="toctext">Radiation pressure from reflection</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Radiation_pressure_by_emission"><span class="tocnumber">2.3</span> <span class="toctext">Radiation pressure by emission</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Radiation_pressure_in_terms_of_photons"><span class="tocnumber">2.4</span> <span class="toctext">Radiation pressure in terms of photons</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Compression_in_a_uniform_radiation_field"><span class="tocnumber">2.5</span> <span class="toctext">Compression in a uniform radiation field</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Solar_radiation_pressure"><span class="tocnumber">3</span> <span class="toctext">Solar radiation pressure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Pressures_of_absorption_and_reflection"><span class="tocnumber">3.1</span> <span class="toctext">Pressures of absorption and reflection</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Radiation_pressure_perturbations"><span class="tocnumber">3.2</span> <span class="toctext">Radiation pressure perturbations</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Solar_sails"><span class="tocnumber">3.3</span> <span class="toctext">Solar sails</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Cosmic_effects_of_radiation_pressure"><span class="tocnumber">4</span> <span class="toctext">Cosmic effects of radiation pressure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#The_early_universe"><span class="tocnumber">4.1</span> <span class="toctext">The early universe</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Galaxy_formation_and_evolution"><span class="tocnumber">4.2</span> <span class="toctext">Galaxy formation and evolution</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Clouds_of_dust_and_gases"><span class="tocnumber">4.3</span> <span class="toctext">Clouds of dust and gases</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Clusters_of_stars"><span class="tocnumber">4.4</span> <span class="toctext">Clusters of stars</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Star_formation"><span class="tocnumber">4.5</span> <span class="toctext">Star formation</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Stellar_planetary_systems"><span class="tocnumber">4.6</span> <span class="toctext">Stellar planetary systems</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Stellar_interiors"><span class="tocnumber">4.7</span> <span class="toctext">Stellar interiors</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Comets"><span class="tocnumber">4.8</span> <span class="toctext">Comets</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Laser_applications_of_radiation_pressure"><span class="tocnumber">5</span> <span class="toctext">Laser applications of radiation pressure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Optical_tweezers"><span class="tocnumber">5.1</span> <span class="toctext">Optical tweezers</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Other_examples"><span class="tocnumber">5.2</span> <span class="toctext">Other examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=1" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Johannes Kepler</a> put forward the concept of radiation pressure back in 1619 to explain the observation that a tail of a <a href="/wiki/Comet" title="Comet">comet</a> always points away from the Sun.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>The assertion that light, as <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a>, has the property of <a href="/wiki/Momentum" title="Momentum">momentum</a> and thus exerts a <a href="/wiki/Pressure" title="Pressure">pressure</a> upon any surface it is exposed to was published by <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">James Clerk Maxwell</a> in 1862, and proven experimentally by Russian physicist <a class="mw-redirect" href="/wiki/Pyotr_Nikolaevich_Lebedev" title="Pyotr Nikolaevich Lebedev">Pyotr Lebedev</a> in 1900<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> and by <a href="/wiki/Ernest_Fox_Nichols" title="Ernest Fox Nichols">Ernest Fox Nichols</a> and <a href="/wiki/Gordon_Ferrie_Hull" title="Gordon Ferrie Hull">Gordon Ferrie Hull</a> in 1901.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The pressure is very feeble, but can be detected by allowing the radiation to fall upon a delicately poised vane of reflective metal in a <a href="/wiki/Nichols_radiometer" title="Nichols radiometer">Nichols radiometer</a> (this should not be confused with the <a href="/wiki/Crookes_radiometer" title="Crookes radiometer">Crookes radiometer</a>, whose characteristic motion is <i>not</i> caused by radiation pressure but by impacting gas molecules).
+</p>
+<h2><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=2" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">Electromagnetic radiation</a> and <a href="/wiki/Speed_of_light" title="Speed of light">Speed of light</a></div>
+<p>Radiation pressure can be viewed as a consequence of the <a class="mw-redirect" href="/wiki/Conservation_of_momentum" title="Conservation of momentum">conservation of momentum</a> given the momentum attributed to electromagnetic radiation. That momentum can be equally well calculated on the basis of electromagnetic theory or from the combined momenta of a stream of photons, giving identical results as is shown below.
+</p>
+<h3><span class="mw-headline" id="Radiation_pressure_from_momentum_of_an_electromagnetic_wave">Radiation pressure from momentum of an electromagnetic wave</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=3" title="Edit section: Radiation pressure from momentum of an electromagnetic wave">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Poynting_vector" title="Poynting vector">Poynting vector</a></div>
+<p>According to Maxwell's theory of electromagnetism, an electromagnetic wave carries momentum, which will be transferred to an opaque surface it strikes.
+</p><p>The energy flux (irradiance) of a plane wave is calculated using the <a href="/wiki/Poynting_vector" title="Poynting vector">Poynting vector</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {S} =\mathbf {E} \times \mathbf {H} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">S</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {S} =\mathbf {E} \times \mathbf {H} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf{S} = \mathbf{E}\times\mathbf{H}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2f5d48a9306bbfffcca2f0171abe578b0bfd708" style="vertical-align: -0.338ex; width:11.273ex; height:2.176ex;"/></span>, whose magnitude we denote by S. S divided by the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a> is the density of the linear momentum per unit area (pressure) of the electromagnetic field. That pressure is experienced as radiation pressure on the surface:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{incident}}={\frac {\langle S\rangle }{c}}={\frac {I_{f}}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>incident</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>S</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{incident}}={\frac {\langle S\rangle }{c}}={\frac {I_{f}}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{incident}}={\frac {\langle S\rangle }{c}}={\frac {I_{f}}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37d4da14f0afd19ee9fa315d4680d7898e00bfe0" style="vertical-align: -1.838ex; width:20.818ex; height:5.676ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> is pressure (usually in <a class="mw-redirect" href="/wiki/Pascals" title="Pascals">Pascals</a>), <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{f}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{f}}</annotation>
+</semantics>
+</math></span><img alt="I_f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/047def7fd5af119db9e24051cfebd31e173d4d0d" style="vertical-align: -1.005ex; width:2.159ex; height:2.843ex;"/></span> is the incident <a href="/wiki/Irradiance" title="Irradiance">irradiance</a> (usually in W/m<sup>2</sup>) and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span> is the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a> in vacuum.
+</p><p>If the surface is planar at an angle α to the incident wave, the intensity across the surface will be geometrically reduced by the cosine of that angle and the component of the radiation force against the surface will also be reduced by the cosine of α, resulting in a pressure:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{incident}}={\frac {I_{f}}{c}}\cos ^{2}\alpha }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>incident</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{incident}}={\frac {I_{f}}{c}}\cos ^{2}\alpha }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{incident}}={\frac {I_{f}}{c}}\cos ^{2}\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6b9e9bd3c92e997705edf059178c1dcd0d290c4" style="vertical-align: -1.838ex; width:20.002ex; height:5.509ex;"/></span></dd></dl>
+<p>The momentum from the incident wave is in the same direction of that wave.  But only the component of that momentum normal to the surface contributes to the pressure on the surface, as given above.  The component of that force tangent to the surface is not called pressure.<sup class="reference" id="cite_ref-Wright_8-0"><a href="#cite_note-Wright-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Radiation_pressure_from_reflection">Radiation pressure from reflection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=4" title="Edit section: Radiation pressure from reflection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The above treatment for an incident wave accounts for the radiation pressure experienced by a black (totally absorbing) body. If the wave is <a class="mw-redirect" href="/wiki/Specularly_reflected" title="Specularly reflected">specularly reflected</a>, then the recoil due to the reflected wave will further contribute to the radiation pressure. In the case of a perfect reflector, this pressure will be identical to the pressure caused by the incident wave:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{emitted}}={\frac {I_{f}}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>emitted</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{emitted}}={\frac {I_{f}}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{emitted}}={\frac {I_{f}}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/005c7db84e14a12530a44625b6b55d26e2898128" style="vertical-align: -1.838ex; width:13.298ex; height:5.509ex;"/></span></dd></dl>
+<p>thus <i>doubling</i> the net radiation pressure on the surface:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{net}}=P_{\text{incident}}+P_{\text{emitted}}=2{\frac {I_{f}}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>net</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>incident</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>emitted</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{net}}=P_{\text{incident}}+P_{\text{emitted}}=2{\frac {I_{f}}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{net}}=P_{\text{incident}}+P_{\text{emitted}}=2{\frac {I_{f}}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ecb3897c48768a54446ebb447abe6d2d8f2e146d" style="vertical-align: -1.838ex; width:31.888ex; height:5.509ex;"/></span></dd></dl>
+<p>For a partially reflective surface, the second term must be multiplied by the reflectivity (also known as reflection coefficient of intensity), so that the increase is less than double. For a <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffusely reflective</a> surface, the details of the reflection and geometry must be taken into account, again resulting in an increased net radiation pressure of less than double.
+</p>
+<h3><span class="mw-headline" id="Radiation_pressure_by_emission">Radiation pressure by emission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=5" title="Edit section: Radiation pressure by emission">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Just as a wave reflected from a body contributes to the net radiation pressure experienced, a body that emits radiation of its own (rather than reflected) obtains a radiation pressure again given by the irradiance of that emission <i>in the direction normal to the surface</i> <i>I<sub>e</sub></i>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{emitted}}={\frac {I_{e}}{c}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>emitted</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{emitted}}={\frac {I_{e}}{c}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{emitted}}={\frac {I_{e}}{c}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96d76e7b239c7c8810291297e3dc4926ab84e99c" style="vertical-align: -1.838ex; width:13.16ex; height:5.176ex;"/></span></dd></dl>
+<p>The emission can be from <a class="mw-redirect" href="/wiki/Black_body_radiation" title="Black body radiation">black body radiation</a> or any other radiative mechanism. Since all materials emit black body radiation (unless they are totally reflective or at absolute zero), this source for radiation pressure is ubiquitous but usually very tiny. However, because black body radiation increases rapidly with temperature (according to the fourth power of temperature as given by the <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a>), radiation pressure due to the temperature of a very hot object (or due to incoming black body radiation from similarly hot surroundings) can become very significant. This becomes important in stellar interiors which are at millions of degrees.
+</p>
+<h3><span class="mw-headline" id="Radiation_pressure_in_terms_of_photons">Radiation pressure in terms of photons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=6" title="Edit section: Radiation pressure in terms of photons">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Photons" title="Photons">Photons</a> and <a href="/wiki/Momentum" title="Momentum">Momentum</a></div>
+<p>Electromagnetic radiation can be <a href="/wiki/Wave%E2%80%93particle_duality" title="Wave–particle duality">viewed</a> in terms of particles rather than waves; these particles are known as <a class="mw-redirect" href="/wiki/Photons" title="Photons">photons</a>. Photons do not have a rest-mass; however, photons are never at rest (they move at the speed of light) and acquire a momentum nonetheless which is given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p={\dfrac {h}{\lambda }}={\frac {E_{p}}{c}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mi>h</mi>
+<mi>λ<!-- λ --></mi>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p={\dfrac {h}{\lambda }}={\frac {E_{p}}{c}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p={\dfrac {h}{\lambda }}={\frac {E_{p}}{c}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/32d83b132a7b9beb9a82032b493833541d4da7dd" style="vertical-align: -2.005ex; margin-left: -0.089ex; width:13.905ex; height:5.676ex;"/></span></dd></dl>
+<p>where <i>p</i> is momentum, <i>h</i> is <a class="mw-redirect" href="/wiki/Planck%27s_constant" title="Planck's constant">Planck's constant</a>, λ is <a href="/wiki/Wavelength" title="Wavelength">wavelength</a>, and <i>c</i> is speed of light in vacuum. And <i>E<sub>p</sub></i> is the energy of a single photon given by: 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{p}=h\nu ={\frac {hc}{\lambda }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>c</mi>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{p}=h\nu ={\frac {hc}{\lambda }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{p}=h\nu ={\frac {hc}{\lambda }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd406d710ccd4270dd2d0a80b692c24973eda8d5" style="vertical-align: -2.005ex; width:14.724ex; height:5.509ex;"/></span></dd></dl>
+<p>The radiation pressure again can be seen as the transfer of each photon's momentum to the opaque surface, plus the momentum due to a (possible) recoil photon for a (partially) reflecting surface. Since an incident wave of irradiance <i>I<sub>f</sub></i> over an area <i>A</i> has a power of  <i>I<sub>f</sub>A</i>, this implies a flux of <i>I<sub>f</sub>/E<sub>p</sub></i> photons per second per unit area striking the surface. Combining this with the above expression for the momentum of a single photon, results in the same relationships between irradiance and radiation pressure described above using classical electromagnetics. And again, reflected or otherwise emitted photons will contribute to the net radiation pressure identically.
+</p>
+<h3><span class="mw-headline" id="Compression_in_a_uniform_radiation_field">Compression in a uniform radiation field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=7" title="Edit section: Compression in a uniform radiation field">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In general, the pressure of electromagnetic waves can be obtained from the <a href="/wiki/Electromagnetic_stress%E2%80%93energy_tensor#Algebraic_properties" title="Electromagnetic stress–energy tensor">vanishing of the trace of the electromagnetic stress tensor</a>: Since this trace <a href="/wiki/Stress%E2%80%93energy_tensor#Stress–energy_of_a_fluid_in_equilibrium" title="Stress–energy tensor">equals 3<i>P</i> - <i>u</i></a>, we get
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {u}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>u</mi>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {u}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={\frac {u}{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/489fc331bebe45a59b9445b48cc1c223b68a49aa" style="vertical-align: -1.838ex; width:7.01ex; height:4.676ex;"/></span></dd></dl>
+<p>where <i>u</i> is the radiation density per unit volume. 
+</p><p>This can also be shown in the specific case of the pressure exerted on surfaces of a body in <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a> with its surroundings, at a temperature <i>T</i>: The body will be surrounded by a uniform radiation field described by the <a class="mw-redirect" href="/wiki/Planck_law" title="Planck law">Planck black body radiation law</a>, and will experience a compressive pressure due to that impinging radiation, its reflection, and its own black body emission. From that it can be shown that the resulting pressure is equal to one third of the total radiant energy per unit volume in the surrounding space.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>By using <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a>, this can be expressed as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\text{compress}}={\frac {u}{3}}={\frac {4\sigma }{3c}}T^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>compress</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>u</mi>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>σ<!-- σ --></mi>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\text{compress}}={\frac {u}{3}}={\frac {4\sigma }{3c}}T^{4}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\text{compress}}={\frac {u}{3}}={\frac {4\sigma }{3c}}T^{4}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e5c293310c836a2a6487e4c38c587da8cd81d4a5" style="vertical-align: -1.838ex; width:22.695ex; height:5.176ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sigma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>σ<!-- σ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+</semantics>
+</math></span><img alt="\sigma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> is the <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a>.
+</p>
+<h2><span class="mw-headline" id="Solar_radiation_pressure">Solar radiation pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=8" title="Edit section: Solar radiation pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solar radiation pressure is due to the sun's radiation at closer distances, thus especially within the <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">solar system</a>.  While it acts on all objects, its net effect is generally greater on smaller bodies since they have a larger ratio of surface area to mass.  All spacecraft experience such a pressure except when they are behind the shadow of a larger <a href="/wiki/Orbiting_body" title="Orbiting body"> orbiting body</a>.
+</p><p>Solar radiation pressure on objects near the earth may be calculated using the sun's <a href="/wiki/Irradiance" title="Irradiance">irradiance</a> at 1 <a href="/wiki/Astronomical_unit" title="Astronomical unit">AU</a>, known as the <a href="/wiki/Solar_constant" title="Solar constant">solar constant</a> or <i>G<sub>SC</sub></i>, whose value is set at <b>1361 <a href="/wiki/Watt" title="Watt">W</a>/<a href="/wiki/Metre" title="Metre">m</a><sup>2</sup></b> as of 2011.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>All stars have a <a href="/wiki/Spectral_energy_distribution" title="Spectral energy distribution">spectral energy distribution</a> that depends on their surface temperature.  The distribution is approximately that of <a href="/wiki/Black-body_radiation" title="Black-body radiation">black-body radiation</a>.  This distribution must be taken into account when calculating the radiation pressure or identifying reflector materials for optimizing a <a href="/wiki/Solar_sail" title="Solar sail">solar sail</a> for instance.
+</p>
+<h3><span class="mw-headline" id="Pressures_of_absorption_and_reflection">Pressures of absorption and reflection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=9" title="Edit section: Pressures of absorption and reflection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Solar radiation pressure at the earth's distance from the sun, may be calculated by dividing the <a href="/wiki/Solar_constant" title="Solar constant">solar constant</a> <i>G<sub>SC</sub></i> (above) by the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a> c.  For an absorbing sheet facing the sun, this is simply:<sup class="reference" id="cite_ref-RMG_14-0"><a href="#cite_note-RMG-14">[14]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {G_{\text{SC}}}{c}}\approx 4.5\cdot 10^{-6}{\textsf {Pa}}=4.5\mu {\textsf {Pa}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SC</mtext>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mn>4.5</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>6</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext mathvariant="sans-serif">Pa</mtext>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>4.5</mn>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext mathvariant="sans-serif">Pa</mtext>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {G_{\text{SC}}}{c}}\approx 4.5\cdot 10^{-6}{\textsf {Pa}}=4.5\mu {\textsf {Pa}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={\frac {G_{\text{SC}}}{c}}\approx 4.5\cdot 10^{-6}{\textsf {Pa}}=4.5\mu {\textsf {Pa}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce858e2e29f79d2309a60569f025b27119d88c3c" style="vertical-align: -1.838ex; width:34.926ex; height:5.343ex;"/></span></dd></dl>
+<p>This result is in the <a class="mw-redirect" href="/wiki/S.I." title="S.I.">S.I.</a> unit <a class="mw-redirect" href="/wiki/Pascals" title="Pascals">Pascals</a>, equivalent to N/m<sup>2</sup> (<a class="mw-redirect" href="/wiki/Newtons" title="Newtons">Newtons</a> per square meter). For a sheet at an angle α to the sun, the effective area <i>A</i> of a sheet is reduced by a geometrical factor resulting in a force <i>in the direction of the sunlight</i> of:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F={\frac {G_{\text{SC}}}{c}}(A\cos \alpha )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SC</mtext>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>A</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F={\frac {G_{\text{SC}}}{c}}(A\cos \alpha )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F={\frac {G_{\text{SC}}}{c}}(A\cos \alpha )}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/943ed1fcc8b5dd13c8841312cc9975755e15bb29" style="vertical-align: -1.838ex; width:18.76ex; height:5.343ex;"/></span></dd></dl>
+<p>To find the component of this force normal to the surface, another cosine factor must be applied resulting in a pressure <i>P</i> on the surface of:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {F}{A}}={\frac {G_{\text{SC}}}{c}}\cos ^{2}\alpha }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>F</mi>
+<mi>A</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SC</mtext>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {F}{A}}={\frac {G_{\text{SC}}}{c}}\cos ^{2}\alpha }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={\frac {F}{A}}={\frac {G_{\text{SC}}}{c}}\cos ^{2}\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa95b314a33ffb08afa74bea51144f2b626d4553" style="vertical-align: -2.005ex; width:21.944ex; height:5.509ex;"/></span></dd></dl>
+<p>Note, however, that in order to account for the net effect of solar radiation on a spacecraft for instance, one would need to consider the <i>total</i> force (in the direction away from the sun) given by the preceding equation, rather than just the component normal to the surface that we identify as "pressure".
+</p><p>The solar constant is defined for the sun's radiation at the distance to the earth, also known as one <a href="/wiki/Astronomical_unit" title="Astronomical unit">astronomical unit</a> (AU). Consequently, at a distance of <i>R</i> astronomical units (<i>R</i> thus being dimensionless), applying the <a class="mw-redirect" href="/wiki/Inverse_square_law" title="Inverse square law">inverse square law</a>, we would find:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SC</mtext>
+</mrow>
+</msub>
+<mrow>
+<mi>c</mi>
+<msup>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P={\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26a24b657baba1b928ba3b69e2a1068f2a5ebdd3" style="vertical-align: -2.171ex; width:16.267ex; height:5.676ex;"/></span></dd></dl>
+<p>Finally, considering not an absorbing but a perfectly reflecting surface, the pressure is <i>doubled</i> due to the reflected wave, resulting in:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P=2{\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SC</mtext>
+</mrow>
+</msub>
+<mrow>
+<mi>c</mi>
+<msup>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>α<!-- α --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P=2{\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P=2{\frac {G_{\text{SC}}}{cR^{2}}}\cos ^{2}\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22045518a208607125c4c331225585ccad703a1f" style="vertical-align: -2.171ex; width:17.429ex; height:5.676ex;"/></span></dd></dl>
+<p>Note that unlike the case of an absorbing material, the resulting force on a reflecting body is given exactly by this pressure acting normal to the surface, with the tangential forces from the incident and reflecting waves canceling each other. In practice, materials are neither totally reflecting nor totally absorbing, so the resulting force will be a weighted average of the forces calculated using these formulae.
+</p>
+<dl><dd><table class="wikitable" style="text-align: center; width: 400px; height: 230px;">
+<caption>Solar radiation pressure on perfect reflector at normal incidence (α=0)
+</caption>
+<tbody><tr>
+<th>Distance from sun</th>
+<th>Radiation pressure in μPa (μN/m<sup>2</sup>)
+</th></tr>
+<tr>
+<th>0.20 AU
+</th>
+<td>227
+</td></tr>
+<tr>
+<th>0.39 AU (<a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a>)
+</th>
+<td>60.6
+</td></tr>
+<tr>
+<th>0.72 AU (<a href="/wiki/Venus" title="Venus">Venus</a>)
+</th>
+<td>17.4
+</td></tr>
+<tr>
+<th>1.00 AU (Earth)
+</th>
+<td>9.08
+</td></tr>
+<tr>
+<th>1.52 AU (<a href="/wiki/Mars" title="Mars">Mars</a>)
+</th>
+<td>3.91
+</td></tr>
+<tr>
+<th>3.00 AU (Typical <a href="/wiki/Asteroid" title="Asteroid">asteroid</a>)
+</th>
+<td>1.01
+</td></tr>
+<tr>
+<th>5.20 AU (<a class="mw-redirect" href="/wiki/Jupiter_(planet)" title="Jupiter (planet)">Jupiter</a>)
+</th>
+<td>0.34
+</td></tr></tbody></table></dd></dl>
+<h3><span class="mw-headline" id="Radiation_pressure_perturbations">Radiation pressure perturbations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=10" title="Edit section: Radiation pressure perturbations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Yarkovsky_effect" title="Yarkovsky effect">Yarkovsky effect</a>, <a class="mw-redirect" href="/wiki/YORP_effect" title="YORP effect">YORP effect</a>, and <a href="/wiki/Poynting%E2%80%93Robertson_effect" title="Poynting–Robertson effect">Poynting–Robertson effect</a></div>
+<p>Solar radiation pressure is a source of <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">orbital perturbations</a>.  It significantly affects the orbits and trajectories of small bodies including all spacecraft.
+</p><p>Solar radiation pressure affects bodies throughout much of the Solar System.  Small bodies are more affected than large because of their lower mass relative to their surface area.  Spacecraft are affected along with natural bodies (comets, asteroids, dust grains, gas molecules).
+</p><p>The radiation pressure results in forces and torques on the bodies that can change their translational and rotational motions.  Translational changes affect the orbits of the bodies.  Rotational rates may increase or decrease.  Loosely aggregated bodies may break apart under high rotation rates.  Dust grains can either leave the Solar System or spiral into the Sun.
+</p><p>A whole body is typically composed of numerous surfaces that have different orientations on the body.  The facets may be flat or curved.  They will have different areas.  They may have optical properties differing from other aspects.
+</p><p>At any particular time, some facets will be exposed to the Sun and some will be in shadow.  Each surface exposed to the Sun will be reflecting, absorbing, and emitting radiation.  Facets in shadow will be emitting radiation.  The summation of pressures across all of the facets will define the net force and torque on the body.  These can be calculated using the equations in the preceding sections.<sup class="reference" id="cite_ref-Wright_8-1"><a href="#cite_note-Wright-8">[8]</a></sup><sup class="reference" id="cite_ref-RMG_14-1"><a href="#cite_note-RMG-14">[14]</a></sup>
+</p><p>The <a href="/wiki/Yarkovsky_effect" title="Yarkovsky effect">Yarkovsky effect</a> affects the translation of a small body.  It results from a face leaving solar exposure being at a higher temperature than a face approaching solar exposure.  The radiation emitted from the warmer face will be more intense than that of the opposite face, resulting in a net force on the body that will affect its motion.
+</p><p>The <a class="mw-redirect" href="/wiki/YORP_effect" title="YORP effect">YORP effect</a> is a collection of effects expanding upon the earlier concept of the Yarkovsky effect, but of a similar nature.  It affects the spin properties of bodies.
+</p><p>The <a href="/wiki/Poynting%E2%80%93Robertson_effect" title="Poynting–Robertson effect">Poynting–Robertson effect</a> applies to grain-size particles.  From the perspective of a grain of dust circling the Sun, the Sun's radiation appears to be coming from a slightly forward direction (<a href="/wiki/Aberration_of_light" title="Aberration of light">aberration of light</a>). Therefore, the absorption of this radiation leads to a force with a component against the direction of movement. (The angle of aberration is tiny since the radiation is moving at the speed of light while the dust grain is moving many orders of magnitude slower than that.)  The result is a gradual spiral of dust grains into the Sun.  Over long periods of time, this effect cleans out much of the dust in the Solar System.
+</p><p>While rather small in comparison to other forces, the radiation pressure force is inexorable.  Over long periods of time, the net effect of the force is substantial.  Such feeble pressures can produce marked effects upon minute particles like <a href="/wiki/Gas" title="Gas">gas</a> <a href="/wiki/Ion" title="Ion">ions</a> and <a href="/wiki/Electron" title="Electron">electrons</a>, and are essential in the theory of electron emission from the Sun, of <a href="/wiki/Comet" title="Comet">cometary</a> material, and so on.
+</p><p>Because the ratio of surface area to volume (and thus mass) increases with decreasing particle size, dusty (<a href="/wiki/Micrometre" title="Micrometre">micrometre</a>-size) particles are susceptible to radiation pressure even in the outer solar system.  For example, the evolution of the <a href="/wiki/Rings_of_Saturn#Outer_rings" title="Rings of Saturn">outer rings of Saturn</a> is significantly influenced by radiation pressure.
+</p><p>As a consequence of light pressure, <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> in 1909 predicted the existence of "radiation friction" which would oppose the movement of matter. He wrote, “radiation will exert pressure on both sides of the plate. The forces of pressure exerted on the two sides are equal if the plate is at rest. However, if it is in motion, more radiation will be reflected on the surface that is ahead during the motion (front surface) than on the back surface. The backward acting force of pressure exerted on the front surface is thus larger than the force of pressure acting on the back. Hence, as the resultant of the two forces, there remains a force that counteracts the motion of the plate and that increases with the velocity of the plate. We will call this resultant 'radiation friction' in brief.”
+</p>
+<h3><span class="mw-headline" id="Solar_sails">Solar sails</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=11" title="Edit section: Solar sails">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></div>
+<p>Solar sailing, an experimental method of <a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">spacecraft propulsion</a>, uses radiation pressure from the Sun as a motive force. The idea of interplanetary travel by light was mentioned by <a href="/wiki/Jules_Verne" title="Jules Verne">Jules Verne</a> in <i>From the Earth to the Moon</i>.
+</p><p>A sail reflects about 90% of the incident radiation.  The 10% that is absorbed is radiated away from both surfaces, with the proportion emitted from the unlit surface depending on the thermal conductivity of the sail.  A sail has curvature, surface irregularities, and other minor factors that affect its performance.
+</p><p>The Japan Aerospace Exploration Agency (<a href="/wiki/JAXA" title="JAXA">JAXA</a>) has successfully unfurled a solar sail in space which has already succeeded in propelling its payload with the <a href="/wiki/IKAROS" title="IKAROS">IKAROS</a> project.
+</p>
+<h2><span class="mw-headline" id="Cosmic_effects_of_radiation_pressure">Cosmic effects of radiation pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=12" title="Edit section: Cosmic effects of radiation pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Radiation pressure has had a major effect on the development of the cosmos, from the birth of the universe to ongoing formation of stars and shaping of clouds of dust and gasses on a wide range of scales.
+</p>
+<h3><span class="mw-headline" id="The_early_universe">The early universe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=13" title="Edit section: The early universe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Photon_epoch" title="Photon epoch">photon epoch</a> is a phase when the energy of the universe was dominated by photons, between 10 seconds and 380,000 years after the <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a>.
+</p>
+<h3><span class="mw-headline" id="Galaxy_formation_and_evolution">Galaxy formation and evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=14" title="Edit section: Galaxy formation and evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The process of <a href="/wiki/Galaxy_formation_and_evolution" title="Galaxy formation and evolution">galaxy formation and evolution</a> began early in the history of the cosmos. Observations of the early universe strongly suggest that objects grew from bottom-up (i.e., smaller objects merging to form larger ones). As stars are thereby formed and become sources of electromagnetic radiation, radiation pressure from the stars becomes a factor in the dynamics of remaining <a href="/wiki/Circumstellar_disc" title="Circumstellar disc">circumstellar</a> material.
+</p>
+<h3><span class="mw-headline" id="Clouds_of_dust_and_gases">Clouds of dust and gases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=15" title="Edit section: Clouds of dust and gases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pillars_2014_HST_denoise_0.6_12.jpg"><img alt="" class="thumbimage" data-file-height="4276" data-file-width="4100" decoding="async" height="229" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pillars_2014_HST_denoise_0.6_12.jpg/220px-Pillars_2014_HST_denoise_0.6_12.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pillars_2014_HST_denoise_0.6_12.jpg/330px-Pillars_2014_HST_denoise_0.6_12.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pillars_2014_HST_denoise_0.6_12.jpg/440px-Pillars_2014_HST_denoise_0.6_12.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Pillars_2014_HST_denoise_0.6_12.jpg" title="Enlarge"></a></div>The <i>Pillars of Creation</i> clouds within the <a href="/wiki/Eagle_Nebula" title="Eagle Nebula">Eagle Nebula</a> shaped by radiation pressure and stellar winds.</div></div></div>
+<p>The <a href="/wiki/Gravitational_compression" title="Gravitational compression">gravitational compression</a> of clouds of dust and gases is strongly influenced by radiation pressure, especially when the condensations lead to star births.  The larger young stars forming within the compressed clouds emit intense levels of radiation that shift the clouds, causing either dispersion or condensations in nearby regions, which influences birth rates in those nearby regions.
+</p>
+<h3><span class="mw-headline" id="Clusters_of_stars">Clusters of stars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=16" title="Edit section: Clusters of stars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stars predominantly form in regions of large clouds of dust and gases, giving rise to <a href="/wiki/Star_cluster" title="Star cluster">star clusters</a>.  Radiation pressure from the member stars eventually disperses the clouds, which can have a profound effect on the evolution of the cluster.
+</p><p>Many <a href="/wiki/Open_cluster" title="Open cluster">open clusters</a> are inherently unstable, with a small enough mass that the <a href="/wiki/Escape_velocity" title="Escape velocity">escape velocity</a> of the system is lower than the average <a href="/wiki/Velocity" title="Velocity">velocity</a> of the constituent stars. These clusters will rapidly disperse within a few million years. In many cases, the stripping away of the gas from which the cluster formed by the radiation pressure of the hot young stars reduces the cluster mass enough to allow rapid dispersal.
+</p>
+<h3><span class="mw-headline" id="Star_formation">Star formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=17" title="Edit section: Star formation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Star_formation" title="Star formation">Star formation</a> is the process by which dense regions within <a href="/wiki/Molecular_cloud" title="Molecular cloud">molecular clouds</a> in <a class="mw-redirect" href="/wiki/Interstellar_space" title="Interstellar space">interstellar space</a> collapse to form <a href="/wiki/Star" title="Star">stars</a>. As a branch of <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, star formation includes the study of the <a href="/wiki/Interstellar_medium" title="Interstellar medium">interstellar medium</a> and <a class="mw-redirect" href="/wiki/Giant_molecular_cloud" title="Giant molecular cloud">giant molecular clouds</a> (GMC) as precursors to the star formation process, and the study of <a href="/wiki/Protostar" title="Protostar">protostars</a> and <a href="/wiki/Young_stellar_object" title="Young stellar object">young stellar objects</a> as its immediate products.  Star formation theory, as well as accounting for the formation of a single star, must also account for the statistics of <a href="/wiki/Binary_star" title="Binary star">binary stars</a> and the <a href="/wiki/Initial_mass_function" title="Initial mass function">initial mass function</a>.
+</p>
+<h3><span class="mw-headline" id="Stellar_planetary_systems">Stellar planetary systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=18" title="Edit section: Stellar planetary systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:David_A._Aguilar%27s_Red_Dwarf_Stars.jpg"><img alt="" class="thumbimage" data-file-height="2672" data-file-width="3264" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/David_A._Aguilar%27s_Red_Dwarf_Stars.jpg/220px-David_A._Aguilar%27s_Red_Dwarf_Stars.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/David_A._Aguilar%27s_Red_Dwarf_Stars.jpg/330px-David_A._Aguilar%27s_Red_Dwarf_Stars.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/David_A._Aguilar%27s_Red_Dwarf_Stars.jpg/440px-David_A._Aguilar%27s_Red_Dwarf_Stars.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:David_A._Aguilar%27s_Red_Dwarf_Stars.jpg" title="Enlarge"></a></div>A protoplanetary disk with a cleared central region (artist's conception).</div></div></div>
+<p><a href="/wiki/Planetary_system" title="Planetary system">Planetary systems</a> are generally believed to form as part of the same process that results in <a href="/wiki/Star_formation" title="Star formation">star formation</a>. A <a href="/wiki/Protoplanetary_disk" title="Protoplanetary disk">protoplanetary disk</a> forms by gravitational collapse of a <a href="/wiki/Molecular_cloud" title="Molecular cloud">molecular cloud</a>, called a <a class="mw-redirect" href="/wiki/Solar_nebula" title="Solar nebula">solar nebula</a>,  and then evolves into a planetary system by collisions and gravitational capture. Radiation pressure can clear a region in the immediate vicinity of the star. As the formation process continues, radiation pressure continues to play a role in affecting the distribution of matter.  In particular, dust and grains can spiral into the star or escape the stellar system under the action of radiation pressure.
+</p>
+<h3><span class="mw-headline" id="Stellar_interiors">Stellar interiors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=19" title="Edit section: Stellar interiors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Star" title="Star">stellar</a> interiors the temperatures are very high. Stellar models predict a temperature of 15 MK in the center of the <a href="/wiki/Sun" title="Sun">Sun</a>, and at the cores of <a class="mw-redirect" href="/wiki/Supergiant" title="Supergiant">supergiant</a> stars the temperature may exceed 1 GK. As the radiation pressure scales as the fourth power of the temperature, it becomes important at these high temperatures. In the Sun, radiation pressure is still quite small when compared to the gas pressure. In the heaviest non-degenerate stars, radiation pressure is the dominant pressure component.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Comets">Comets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=20" title="Edit section: Comets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Comet_Hale-Bopp_1995O1.jpg"><img alt="" class="thumbimage" data-file-height="1500" data-file-width="1500" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/220px-Comet_Hale-Bopp_1995O1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/330px-Comet_Hale-Bopp_1995O1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/440px-Comet_Hale-Bopp_1995O1.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Comet_Hale-Bopp_1995O1.jpg" title="Enlarge"></a></div><a href="/wiki/Comet_Hale%E2%80%93Bopp" title="Comet Hale–Bopp">Comet Hale–Bopp</a> (C/1995 O1). Radiation pressure and solar wind effects on the dust and gas tails are clearly seen.</div></div></div>
+<p>Solar radiation pressure strongly affects <a href="/wiki/Comet_tail" title="Comet tail">comet tails</a>.  Solar heating causes gases to be released from the <a href="/wiki/Comet_nucleus" title="Comet nucleus">comet nucleus</a>, which also carry away dust grains.  Radiation pressure and <a href="/wiki/Solar_wind" title="Solar wind">solar wind</a> then drive the dust and gases away from the Sun's direction.  The gases form a generally straight tail, while slower moving dust particles create a broader, curving tail.
+</p>
+<h2><span class="mw-headline" id="Laser_applications_of_radiation_pressure">Laser applications of radiation pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=21" title="Edit section: Laser applications of radiation pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Optical_tweezers">Optical tweezers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=22" title="Edit section: Optical tweezers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lasers can be used as a source of monochromatic light with wavelength <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+</semantics>
+</math></span><img alt="\lambda " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;"/></span>. With a set of lenses, one can focus the laser beam to a point that is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+</semantics>
+</math></span><img alt="\lambda " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;"/></span> in diameter (or <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r={\frac {\lambda }{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>λ<!-- λ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r={\frac {\lambda }{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r={\frac {\lambda }{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f445338e7c29062d3c8186aa1ea262d17e0095b0" style="vertical-align: -1.838ex; width:6.338ex; height:5.343ex;"/></span>). 
+</p><p>The radiation pressure of a 30 mW laser of 1064 nm can therefore be computed as follows: 
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{rea}=\pi \left({\frac {\lambda }{2}}\right)^{2}\approx 10^{-12}{\text{ m}}^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>λ<!-- λ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>≈<!-- ≈ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>12</mn>
+</mrow>
+</msup>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> m</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{rea}=\pi \left({\frac {\lambda }{2}}\right)^{2}\approx 10^{-12}{\text{ m}}^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{rea}=\pi \left({\frac {\lambda }{2}}\right)^{2}\approx 10^{-12}{\text{ m}}^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/692dab3e62afff60f042b16559c7ee23e6972f64" style="vertical-align: -2.505ex; width:27.599ex; height:6.509ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F_{orce}={\frac {P_{ower}}{c}}={\frac {30{\text{ mW}}}{299792458{\text{ m/s}}}}\approx 10^{-10}{\text{ N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>r</mi>
+<mi>c</mi>
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>w</mi>
+<mi>e</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>30</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> mW</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mn>299792458</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> m/s</mtext>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>10</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> N</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{orce}={\frac {P_{ower}}{c}}={\frac {30{\text{ mW}}}{299792458{\text{ m/s}}}}\approx 10^{-10}{\text{ N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F_{orce}={\frac {P_{ower}}{c}}={\frac {30{\text{ mW}}}{299792458{\text{ m/s}}}}\approx 10^{-10}{\text{ N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00cb266ddee8dde3d5706fdf20e43fb146f376a7" style="vertical-align: -2.671ex; width:43.778ex; height:6.009ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{ressure}={\frac {F_{orce}}{A_{rea}}}\approx {\frac {10^{-10}{\text{ N}}}{10^{-12}{\text{ m}}^{2}}}=100{\text{ Pascal}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>s</mi>
+<mi>s</mi>
+<mi>u</mi>
+<mi>r</mi>
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>r</mi>
+<mi>c</mi>
+<mi>e</mi>
+</mrow>
+</msub>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>a</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>10</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> N</mtext>
+</mrow>
+</mrow>
+<mrow>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>12</mn>
+</mrow>
+</msup>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> m</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>100</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> Pascal</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{ressure}={\frac {F_{orce}}{A_{rea}}}\approx {\frac {10^{-10}{\text{ N}}}{10^{-12}{\text{ m}}^{2}}}=100{\text{ Pascal}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{ressure}={\frac {F_{orce}}{A_{rea}}}\approx {\frac {10^{-10}{\text{ N}}}{10^{-12}{\text{ m}}^{2}}}=100{\text{ Pascal}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7432d6252396c5b3dba6c2a0f6471fae412cb3f" style="vertical-align: -2.338ex; width:42.555ex; height:6.176ex;"/></span>
+</p><p>This is used in <a href="/wiki/Optical_tweezers" title="Optical tweezers">optical tweezers</a>. 
+</p>
+<h3><span class="mw-headline" id="Other_examples">Other examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=23" title="Edit section: Other examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Laser_cooling" title="Laser cooling">Laser cooling</a> is applied to cooling materials very close to absolute zero.  Atoms traveling towards a laser light source perceive a <a href="/wiki/Doppler_effect" title="Doppler effect">doppler effect</a> tuned to the absorption frequency of the target element. The radiation pressure on the atom slows movement in a particular direction until the Doppler effect moves out of the frequency range of the element, causing an overall cooling effect.
+</p><p>Large lasers operating in space have been suggested as a means of propelling sail craft in <a href="/wiki/Beam-powered_propulsion" title="Beam-powered propulsion">beam-powered propulsion</a>.
+</p><p>The reflection of a laser pulse from the surface of an elastic solid gives rise to various types of elastic waves that propagate inside the solid. The weakest waves are generally those that are generated by the radiation pressure acting during the reflection of the light. Recently, such light-pressure-induced elastic waves were observed inside an ultrahigh-reflectivity <a href="/wiki/Dielectric_mirror" title="Dielectric mirror">dielectric mirror</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> These waves are the most basic fingerprint of a light-solid matter interaction on the macroscopic scale.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg"><img alt="icon" class="noviewer" data-file-height="303" data-file-width="266" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/25px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/49px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="25"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2400" data-file-width="3000" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/32px-Earth-moon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/48px-Earth-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/64px-Earth-moon.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a class="mw-redirect" href="/wiki/Portal:Space" title="Portal:Space">Space portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:He1523a.jpg"><img alt="icon" class="noviewer" data-file-height="207" data-file-width="180" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/24px-He1523a.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/36px-He1523a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/49px-He1523a.jpg 2x" width="24"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Star" title="Portal:Star">Star portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a class="mw-redirect" href="/wiki/Light_absorption" title="Light absorption">Light absorption</a></li>
+<li><a class="mw-redirect" href="/wiki/Photons" title="Photons">Photons</a></li>
+<li><a href="/wiki/Poynting%E2%80%93Robertson_effect" title="Poynting–Robertson effect">Poynting–Robertson effect</a></li>
+<li><a href="/wiki/Poynting_vector" title="Poynting vector">Poynting vector</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></li>
+<li><a href="/wiki/Sunlight" title="Sunlight">Sunlight</a></li>
+<li><a class="mw-redirect" href="/wiki/Wave-particle_duality" title="Wave-particle duality">Wave-particle duality</a></li>
+<li><a href="/wiki/Yarkovsky_effect" title="Yarkovsky effect">Yarkovsky effect</a></li>
+<li><a class="mw-redirect" href="/wiki/YORP_effect" title="YORP effect">YORP effect</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Stellar Atmospheres, D. Mihalas (1978), Second edition, W H Freeman &amp; Co</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Eddington, A. S., &amp; Eddington, A. S. (1988). The internal constitution of the stars. Cambridge University Press.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Chandrasekhar, S. (2013). Radiative transfer. Courier Corporation.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Eugene Hecht, "Optics", 4th edition (p. 57)</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Johannes Kepler</a> (1619). <a class="new" href="/w/index.php?title=De_Cometis_Libelli_Tres&amp;action=edit&amp;redlink=1" title="De Cometis Libelli Tres (page does not exist)"><i>De Cometis Libelli Tres</i></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=De+Cometis+Libelli+Tres&amp;rft.date=1619&amp;rft.au=Johannes+Kepler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">P. Lebedev, 1901, "Untersuchungen über die Druckkräfte des Lichtes", Annalen der Physik, 1901</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Nichols, E.F &amp; Hull, G.F. (1903) <a class="external text" href="https://books.google.com/books?id=8n8OAAAAIAAJ&amp;pg=RA5-PA327&amp;dq=torsion+balance+radiation" rel="nofollow">The Pressure due to Radiation</a>, <i>The Astrophysical Journal</i>,Vol.17 No.5, p.315-351</span>
+</li>
+<li id="cite_note-Wright-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wright_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wright_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation" id="CITEREFWright,_Jerome_L.1992">Wright, Jerome L. (1992), <i>Space Sailing</i>, Gordon and Breach Science Publishers</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Space+Sailing&amp;rft.pub=Gordon+and+Breach+Science+Publishers&amp;rft.date=1992&amp;rft.au=Wright%2C+Jerome+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Shankar R., <i>Principles of Quantum Mechanics</i>, 2nd edition.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Carroll, Bradley W.  &amp; Dale A. Ostlie, <i>An Introduction to Modern Astrophysics</i>, 2nd edition.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Jackson, John David, (1999) <i>Classical Electrodynamics</i>.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Kardar, Mehran. "Statistical Physics of Particles".</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kopp, G.; Lean, J. L. (2011). "A new, lower value of total solar irradiance: Evidence and climate significance". <i>Geophysical Research Letters</i>. <b>38</b>: n/a. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2010GL045777" rel="nofollow">10.1029/2010GL045777</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=A+new%2C+lower+value+of+total+solar+irradiance%3A+Evidence+and+climate+significance&amp;rft.volume=38&amp;rft.pages=n%2Fa&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1029%2F2010GL045777&amp;rft.au=Kopp%2C+G.&amp;rft.au=Lean%2C+J.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-RMG-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-RMG_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RMG_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Georgevic, R. M. (1973) "The Solar Radiation Pressure Forces and Torques Model", <i>The Journal of the Astronautical Sciences</i>, Vol. 27, No. 1, Jan–Feb. First known publication describing how solar radiation pressure creates forces and torques that affect spacecraft.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Einstein, A. (1909). <i>On the development of our views concerning the nature and constitution of radiation. Translated in: The Collected Papers of Albert Einstein, vol. 2 (Princeton University Press, Princeton, 1989)</i>. Princeton, NJ: Princeton University Press. p. 391.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On+the+development+of+our+views+concerning+the+nature+and+constitution+of+radiation.+Translated+in%3A+The+Collected+Papers+of+Albert+Einstein%2C+vol.+2+%28Princeton+University+Press%2C+Princeton%2C+1989%29&amp;rft.place=Princeton%2C+NJ&amp;rft.pages=391&amp;rft.pub=Princeton+University+Press&amp;rft.date=1909&amp;rft.au=Einstein%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Dale A. Ostlie and Bradley W. Carroll, <i>An Introduction to Modern Astrophysics</i> (2nd edition), page 341, Pearson, San Francisco, 2007</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Požar, T.; Možina, J. (2013). "Measurement of Elastic Waves Induced by the Reflection of Light". <i>Physical Review Letters</i>. <b>111</b> (18): 185501. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysrevlett.111.185501" rel="nofollow">10.1103/Physrevlett.111.185501</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24237537" rel="nofollow">24237537</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Measurement+of+Elastic+Waves+Induced+by+the+Reflection+of+Light.&amp;rft.volume=111&amp;rft.issue=18&amp;rft.pages=185501&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1103%2FPhysrevlett.111.185501&amp;rft_id=info%3Apmid%2F24237537&amp;rft.aulast=Po%C5%BEar&amp;rft.aufirst=T.&amp;rft.au=Mo%C5%BEina%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Požar, T.; Laloš, J.; Babnik, A.; Petkovšek, R.; Bethune-Waddell, M.; Chau, K. J.; Lukasievicz, G. V. B.; Astrath, N. G. C. (2018). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC6105914" rel="nofollow">"Isolated detection of elastic waves driven by the momentum of light"</a>. <i>Nature Communications</i>. <b>9</b> (1): 3340. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fs41467-018-05706-3" rel="nofollow">10.1038/s41467-018-05706-3</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC6105914" rel="nofollow">6105914</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/30131489" rel="nofollow">30131489</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Communications&amp;rft.atitle=Isolated+detection+of+elastic+waves+driven+by+the+momentum+of+light&amp;rft.volume=9&amp;rft.issue=1&amp;rft.pages=3340&amp;rft.date=2018&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6105914&amp;rft_id=info%3Apmid%2F30131489&amp;rft_id=info%3Adoi%2F10.1038%2Fs41467-018-05706-3&amp;rft.aulast=Po%C5%BEar&amp;rft.aufirst=T.&amp;rft.au=Lalo%C5%A1%2C+J.&amp;rft.au=Babnik%2C+A.&amp;rft.au=Petkov%C5%A1ek%2C+R.&amp;rft.au=Bethune-Waddell%2C+M.&amp;rft.au=Chau%2C+K.+J.&amp;rft.au=Lukasievicz%2C+G.+V.+B.&amp;rft.au=Astrath%2C+N.+G.+C.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6105914&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiation+pressure"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiation_pressure&amp;action=edit&amp;section=26" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Demir, Dilek,<b>"A table-top demonstration of radiation pressure"</b>,2011, Diplomathesis, E-Theses univie (<a class="external free" href="http://othes.univie.ac.at/16381/" rel="nofollow">http://othes.univie.ac.at/16381/</a>)</li>
+<li>R. Shankar, "Principles of Quantum Mechanics", 2nd edition. <a class="external autonumber" href="http://www.fisica.net/quantica/Shankar%20-%20Principles%20of%20quantum%20mechanics.pdf" rel="nofollow">[1]</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20190212160352
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 939/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15474/2097152 bytes
+Template argument size: 180/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23422/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 4.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  288.701      1 -total
+ 54.70%  157.928      1 Template:Reflist
+ 24.93%   71.983      2 Template:Cite_book
+ 20.00%   57.744      3 Template:Cite_journal
+ 16.70%   48.210      1 Template:Cvt
+  9.23%   26.641      1 Template:Portal
+  6.13%   17.702      3 Template:See_also
+  5.20%   15.007      1 Template:Div_col
+  3.12%    9.018      1 Template:Citation
+  2.75%    7.933      2 Template:Main
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43709-0!canonical!math=5 and timestamp 20190212160352 and revision id 882211057
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Radiation_pressure&amp;oldid=882211057">https://en.wikipedia.org/w/index.php?title=Radiation_pressure&amp;oldid=882211057</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Celestial_mechanics" title="Category:Celestial mechanics">Celestial mechanics</a></li><li><a href="/wiki/Category:Radiation_effects" title="Category:Radiation effects">Radiation effects</a></li><li><a href="/wiki/Category:Radiation" title="Category:Radiation">Radiation</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Radiation+pressure" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Radiation+pressure" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Radiation_pressure" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Radiation_pressure" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Radiation_pressure">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Radiation_pressure&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Radiation_pressure&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Radiation_pressure" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Radiation_pressure" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Radiation_pressure&amp;oldid=882211057" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Radiation_pressure&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q649036" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Radiation_pressure&amp;id=882211057" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Radiation+pressure">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Radiation+pressure&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Radiation_pressure&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B6%D8%BA%D8%B7_%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9" hreflang="ar" lang="ar" title="ضغط إشعاع – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D1%96%D1%81%D0%BA_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B0%D0%B3%D0%B0_%D0%B2%D1%8B%D0%BF%D1%80%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="be" lang="be" title="Ціск электрамагнітнага выпраменьвання – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pressi%C3%B3_de_radiaci%C3%B3" hreflang="ca" lang="ca" title="Pressió de radiació – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Strahlungsdruck" hreflang="de" lang="de" title="Strahlungsdruck – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Presi%C3%B3n_de_radiaci%C3%B3n" hreflang="es" lang="es" title="Presión de radiación – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Premo_de_radiado" hreflang="eo" lang="eo" title="Premo de radiado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B4%D8%A7%D8%B1_%D8%AA%D8%A7%D8%A8%D8%B4" hreflang="fa" lang="fa" title="فشار تابش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pression_de_rayonnement" hreflang="fr" lang="fr" title="Pression de rayonnement – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%82%AC%EC%95%95" hreflang="ko" lang="ko" title="복사압 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D6%82%D5%B5%D5%BD%D5%AB_%D5%B3%D5%B6%D5%B7%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Լույսի ճնշում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%A3_%E0%A4%A6%E0%A4%BE%E0%A4%AC" hreflang="hi" lang="hi" title="विकिरण दाब – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Tlak_elektromagnetskog_zra%C4%8Denja" hreflang="hr" lang="hr" title="Tlak elektromagnetskog zračenja – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pressione_di_radiazione" hreflang="it" lang="it" title="Pressione di radiazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9C%D7%97%D7%A5_%D7%A7%D7%A8%D7%99%D7%A0%D7%94" hreflang="he" lang="he" title="לחץ קרינה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/F%C3%A9nynyom%C3%A1s" hreflang="hu" lang="hu" title="Fénynyomás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B7%D1%80%D0%B0%D1%87%D0%B5%D1%9A%D0%B5" hreflang="mk" lang="mk" title="Притисок на зрачење – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stralingsdruk" hreflang="nl" lang="nl" title="Stralingsdruk – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E5%9C%A7" hreflang="ja" lang="ja" title="放射圧 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Str%C3%A5lingstrykk" hreflang="no" lang="no" title="Strålingstrykk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Str%C3%A5lingstrykk" hreflang="nn" lang="nn" title="Strålingstrykk – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ci%C5%9Bnienie_promieniowania" hreflang="pl" lang="pl" title="Ciśnienie promieniowania – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Press%C3%A3o_de_radia%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Pressão de radiação – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Давление электромагнитного излучения – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Radiation_pressure" hreflang="en-simple" lang="en-simple" title="Radiation pressure – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Sevalni_tlak" hreflang="sl" lang="sl" title="Sevalni tlak – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Tlak_elektromagnetskog_zra%C4%8Denja" hreflang="sh" lang="sh" title="Tlak elektromagnetskog zračenja – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/S%C3%A4teilynpaine" hreflang="fi" lang="fi" title="Säteilynpaine – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Str%C3%A5lningstryck" hreflang="sv" lang="sv" title="Strålningstryck – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Radyasyon_bas%C4%B1nc%C4%B1" hreflang="tr" lang="tr" title="Radyasyon basıncı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D1%82%D0%B8%D1%81%D0%BA" hreflang="uk" lang="uk" title="Світловий тиск – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C3%81p_su%E1%BA%A5t_%C3%A1nh_s%C3%A1ng" hreflang="vi" lang="vi" title="Áp suất ánh sáng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BC%BB%E5%B0%84%E5%A3%93" hreflang="zh" lang="zh" title="輻射壓 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q649036#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 February 2019, at 15:21<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Radiation_pressure&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.467","ppvisitednodes":{"value":939,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15474,"limit":2097152},"templateargumentsize":{"value":180,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23422,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  288.701      1 -total"," 54.70%  157.928      1 Template:Reflist"," 24.93%   71.983      2 Template:Cite_book"," 20.00%   57.744      3 Template:Cite_journal"," 16.70%   48.210      1 Template:Cvt","  9.23%   26.641      1 Template:Portal","  6.13%   17.702      3 Template:See_also","  5.20%   15.007      1 Template:Div_col","  3.12%    9.018      1 Template:Citation","  2.75%    7.933      2 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":4977544,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190212160352","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1257"});});</script>
+</body>
+</html>
+

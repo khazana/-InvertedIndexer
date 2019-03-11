@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cosmic neutrino background - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cosmic_neutrino_background","wgTitle":"Cosmic neutrino background","wgCurRevisionId":883466500,"wgRevisionId":883466500,"wgArticleId":2669531,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical cosmology","Cosmic background radiation","Neutrino astronomy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cosmic_neutrino_background","wgRelevantArticleId":2669531,"wgRequestId":"XGbhSApAMF0AABUOadoAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3075329","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.17" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/1200px-Ilc_9yr_moll4096.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cosmic_neutrino_background" rel="alternate"/>
+<link href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cosmic_neutrino_background" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cosmic_neutrino_background rootpage-Cosmic_neutrino_background skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Cosmic neutrino background</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Physical_cosmology" title="Physical cosmology">Physical cosmology</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Ilc_9yr_moll4096.png"><img alt="Full-sky image derived from nine years' WMAP data" data-file-height="2048" data-file-width="4096" decoding="async" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/220px-Ilc_9yr_moll4096.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/330px-Ilc_9yr_moll4096.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/440px-Ilc_9yr_moll4096.png 2x" width="220"/></a></td></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:0;font-weight:normal; display:block;margin-bottom:0.4em;">
+<ul><li><a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a> <b>·</b> <a href="/wiki/Universe" title="Universe">Universe</a></li>
+<li><a href="/wiki/Age_of_the_universe" title="Age of the universe">Age of the universe</a></li>
+<li><a href="/wiki/Chronology_of_the_universe" title="Chronology of the universe">Chronology of the universe</a></li></ul></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;">Early universe</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;paddding-bottom:0;margin-bottom:0;"><tbody><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a class="mw-redirect" href="/wiki/Planck_epoch" title="Planck epoch">Planck epoch</a></li>
+<li><a href="/wiki/Grand_unification_epoch" title="Grand unification epoch">Grand unification epoch</a></li>
+<li><a href="/wiki/Quark_epoch" title="Quark epoch">Quark epoch</a></li>
+<li><a href="/wiki/Hadron_epoch" title="Hadron epoch">Hadron epoch</a></li>
+<li><a href="/wiki/Lepton_epoch" title="Lepton epoch">Lepton epoch</a></li>
+<li><a href="/wiki/Photon_epoch" title="Photon epoch">Photon epoch</a></li>
+<li><a href="/wiki/Big_Bang_nucleosynthesis" title="Big Bang nucleosynthesis">Big Bang nucleosynthesis</a></li>
+<li><a href="/wiki/Inflation_(cosmology)" title="Inflation (cosmology)">Inflation</a></li>
+<li><a class="mw-redirect" href="/wiki/Dark_Ages_(cosmology)" title="Dark Ages (cosmology)">Dark Ages</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;font-weight:normal;font-style:italic;">
+Backgrounds</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cosmic_background_radiation" title="Cosmic background radiation">Cosmic background radiation (CBR)</a></li>
+<li><a href="/wiki/Gravitational_wave_background" title="Gravitational wave background">Gravitational wave background (GWB)</a></li>
+<li><a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">Cosmic microwave background (CMB)</a> <b>·</b> <a class="mw-selflink selflink">Cosmic neutrino background (CNB)</a></li>
+<li><a href="/wiki/Cosmic_infrared_background" title="Cosmic infrared background">Cosmic infrared background (INB)</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;">Expansion <b>·</b> Future</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Hubble%27s_law" title="Hubble's law">Hubble's law</a> <b>·</b> <a href="/wiki/Redshift" title="Redshift">Redshift</a></li>
+<li><a href="/wiki/Expansion_of_the_universe" title="Expansion of the universe">Expansion of the universe</a></li>
+<li><a href="/wiki/Accelerating_expansion_of_the_universe" title="Accelerating expansion of the universe">Accelerating expansion of the universe</a></li>
+<li><a href="/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric" title="Friedmann–Lemaître–Robertson–Walker metric">FLRW metric</a> <b>·</b> <a href="/wiki/Friedmann_equations" title="Friedmann equations">Friedmann equations</a></li>
+<li><a href="/wiki/Inhomogeneous_cosmology" title="Inhomogeneous cosmology">Inhomogeneous cosmology</a></li>
+<li><a href="/wiki/Future_of_an_expanding_universe" title="Future of an expanding universe">Future of an expanding universe</a></li>
+<li><a href="/wiki/Ultimate_fate_of_the_universe" title="Ultimate fate of the universe">Ultimate fate of the universe</a></li>
+<li><a href="/wiki/Heat_death_of_the_universe" title="Heat death of the universe">Heat death of the universe</a></li>
+<li><a href="/wiki/Big_Rip" title="Big Rip">Big Rip</a></li>
+<li><a href="/wiki/Big_Crunch" title="Big Crunch">Big Crunch</a></li>
+<li><a href="/wiki/Big_Bounce" title="Big Bounce">Big Bounce</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;">Components <b>·</b> Structure</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;paddding-bottom:0;margin-bottom:0;"><tbody><tr><th style="padding:0.1em;font-weight:normal;font-style:italic;">
+Components</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Lambda-CDM_model" title="Lambda-CDM model">Lambda-CDM model</a></li>
+<li><a class="mw-redirect" href="/wiki/Baryonic_matter" title="Baryonic matter">Baryonic matter</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a></li>
+<li><a href="/wiki/Radiation" title="Radiation">Radiation</a></li>
+<li><a href="/wiki/Dark_energy" title="Dark energy">Dark energy</a>
+<ul><li><a href="/wiki/Quintessence_(physics)" title="Quintessence (physics)">Quintessence</a></li>
+<li><a href="/wiki/Phantom_energy" title="Phantom energy">Phantom energy</a></li></ul></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a>
+<ul><li><a href="/wiki/Cold_dark_matter" title="Cold dark matter">Cold dark matter</a></li>
+<li><a href="/wiki/Warm_dark_matter" title="Warm dark matter">Warm dark matter</a></li>
+<li><a href="/wiki/Hot_dark_matter" title="Hot dark matter">Hot dark matter</a></li></ul></li>
+<li><a href="/wiki/Dark_radiation" title="Dark radiation">Dark radiation</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;font-weight:normal;font-style:italic;">
+Structure</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Shape_of_the_universe" title="Shape of the universe">Shape of the universe</a></li>
+<li><a href="/wiki/Reionization" title="Reionization">Reionization</a> <b>·</b> <a href="/wiki/Structure_formation" title="Structure formation">Structure formation</a></li>
+<li><a href="/wiki/Galaxy_formation_and_evolution" title="Galaxy formation and evolution">Galaxy formation</a></li>
+<li><a href="/wiki/Observable_universe#Large-scale_structure" title="Observable universe">Large-scale structure</a></li>
+<li><a href="/wiki/Large_quasar_group" title="Large quasar group">Large quasar group</a></li>
+<li><a href="/wiki/Galaxy_filament" title="Galaxy filament">Galaxy filament</a></li>
+<li><a href="/wiki/Supercluster" title="Supercluster">Supercluster</a></li>
+<li><a href="/wiki/Galaxy_cluster" title="Galaxy cluster">Galaxy cluster</a></li>
+<li><a href="/wiki/Galaxy_group" title="Galaxy group">Galaxy group</a></li>
+<li><a href="/wiki/Local_Group" title="Local Group">Local Group</a></li>
+<li><a href="/wiki/Void_(astronomy)" title="Void (astronomy)">Void</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;"><a href="/wiki/Observational_cosmology" title="Observational cosmology">Experiments</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/BOOMERanG_experiment" title="BOOMERanG experiment">BOOMERanG</a></li>
+<li><a href="/wiki/Cosmic_Background_Explorer" title="Cosmic Background Explorer">Cosmic Background Explorer (COBE)</a></li>
+<li><a href="/wiki/Illustris_project" title="Illustris project">Illustris project</a></li>
+<li><a href="/wiki/Planck_(spacecraft)" title="Planck (spacecraft)">Planck space observatory</a></li>
+<li><a href="/wiki/Dark_Energy_Survey" title="Dark Energy Survey">Dark Energy Survey</a></li>
+<li><a href="/wiki/Euclid_(spacecraft)" title="Euclid (spacecraft)">Euclid</a></li>
+<li><a href="/wiki/Large_Synoptic_Survey_Telescope" title="Large Synoptic Survey Telescope">Large Synoptic Survey Telescope</a></li>
+<li><a href="/wiki/Sloan_Digital_Sky_Survey" title="Sloan Digital Sky Survey">Sloan Digital Sky Survey (SDSS)</a></li>
+<li><a href="/wiki/2dF_Galaxy_Redshift_Survey" title="2dF Galaxy Redshift Survey">2dF Galaxy Redshift Survey ("2dF")</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Wilkinson_Microwave_Anisotropy_Probe" title="Wilkinson Microwave Anisotropy Probe">Wilkinson Microwave Anisotropy<br/>Probe (WMAP)</a></div></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;">
+<ul><li><a href="/wiki/List_of_cosmologists" title="List of cosmologists">Scientists</a></li></ul></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist" style="padding:0 0.9em;">
+<li><a href="/wiki/Marc_Aaronson" title="Marc Aaronson">Aaronson</a></li>
+<li><a href="/wiki/Hannes_Alfv%C3%A9n" title="Hannes Alfvén">Alfvén</a></li>
+<li><a href="/wiki/Ralph_Asher_Alpher" title="Ralph Asher Alpher">Alpher</a></li>
+<li><a href="/wiki/Somnath_Bharadwaj" title="Somnath Bharadwaj">Bharadwaj</a></li>
+<li><a href="/wiki/Nicolaus_Copernicus" title="Nicolaus Copernicus">Copernicus</a></li>
+<li><a href="/wiki/Willem_de_Sitter" title="Willem de Sitter">de Sitter</a></li>
+<li><a href="/wiki/Robert_H._Dicke" title="Robert H. Dicke">Dicke</a></li>
+<li><a href="/wiki/J%C3%BCrgen_Ehlers" title="Jürgen Ehlers">Ehlers</a></li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a></li>
+<li><a href="/wiki/George_F._R._Ellis" title="George F. R. Ellis">Ellis</a></li>
+<li><a href="/wiki/Alexander_Friedmann" title="Alexander Friedmann">Friedman</a></li>
+<li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a></li>
+<li><a href="/wiki/George_Gamow" title="George Gamow">Gamow</a></li>
+<li><a href="/wiki/Alan_Guth" title="Alan Guth">Guth</a></li>
+<li><a href="/wiki/Stephen_Hawking" title="Stephen Hawking">Hawking</a></li>
+<li><a href="/wiki/Edwin_Hubble" title="Edwin Hubble">Hubble</a></li>
+<li><a href="/wiki/Georges_Lema%C3%AEtre" title="Georges Lemaître">Lemaître</a></li>
+<li><a href="/wiki/Andrei_Linde" title="Andrei Linde">Linde</a></li>
+<li><a href="/wiki/John_C._Mather" title="John C. Mather">Mather</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a></li>
+<li><a href="/wiki/Roger_Penrose" title="Roger Penrose">Penrose</a></li>
+<li><a href="/wiki/Arno_Allan_Penzias" title="Arno Allan Penzias">Penzias</a></li>
+<li><a href="/wiki/Vera_Rubin" title="Vera Rubin">Rubin</a></li>
+<li><a href="/wiki/Brian_Schmidt" title="Brian Schmidt">Schmidt</a></li>
+<li><a href="/wiki/George_Smoot" title="George Smoot">Smoot</a></li>
+<li><a href="/wiki/Alexei_Starobinsky" title="Alexei Starobinsky">Starobinsky</a></li>
+<li><a href="/wiki/Paul_Steinhardt" title="Paul Steinhardt">Steinhardt</a></li>
+<li><a href="/wiki/Nicholas_B._Suntzeff" title="Nicholas B. Suntzeff">Suntzeff</a></li>
+<li><a href="/wiki/Rashid_Sunyaev" title="Rashid Sunyaev">Sunyaev</a></li>
+<li><a href="/wiki/Richard_C._Tolman" title="Richard C. Tolman">Tolman</a></li>
+<li><a href="/wiki/Robert_Woodrow_Wilson" title="Robert Woodrow Wilson">Wilson</a></li>
+<li><a class="mw-redirect" href="/wiki/Yakov_Borisovich_Zel%27dovich" title="Yakov Borisovich Zel'dovich">Zel'dovich</a></li>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddd8e7;text-align:center;"><a href="/wiki/Physical_cosmology#Subject_history" title="Physical cosmology">Subject history</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Discovery_of_cosmic_microwave_background_radiation" title="Discovery of cosmic microwave background radiation">Discovery of cosmic microwave<br/>background radiation</a></div></li>
+<li><a href="/wiki/History_of_the_Big_Bang_theory" title="History of the Big Bang theory">History of the Big Bang theory</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Religious_interpretations_of_the_Big_Bang_theory" title="Religious interpretations of the Big Bang theory">Religious interpretations of<br/>the Big Bang theory</a></div></li>
+<li><a href="/wiki/Timeline_of_cosmological_theories" title="Timeline of cosmological theories">Timeline of cosmological theories</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;display:block;margin-top:0.4em; line-height:1.6em;padding-bottom:0.5em;">
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Physical_cosmology" title="Category:Physical cosmology">Category</a></li>
+<li><a class="image" href="/wiki/File:Ilc_9yr_moll4096.png"><img alt="Ilc 9yr moll4096.png" class="noviewer" data-file-height="2048" data-file-width="4096" decoding="async" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/16px-Ilc_9yr_moll4096.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/24px-Ilc_9yr_moll4096.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/32px-Ilc_9yr_moll4096.png 2x" width="16"/></a> <a href="/wiki/Portal:Cosmology" title="Portal:Cosmology">Cosmology portal</a></li>
+<li><a class="image" href="/wiki/File:Crab_Nebula.jpg"><img alt="Crab Nebula.jpg" class="noviewer" data-file-height="3864" data-file-width="3864" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/16px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/24px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/32px-Crab_Nebula.jpg 2x" width="16"/></a> <a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Physical_cosmology" title="Template:Physical cosmology"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Physical_cosmology" title="Template talk:Physical cosmology"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_cosmology&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>cosmic neutrino background</b> (<b>CNB</b>, <b>CνB</b><sup class="reference plainlinks nourlexpansion" id="ref_nu"><a class="external autonumber" href="//en.wikipedia.org/wiki/Cosmic_neutrino_background#endnote_nu">[1]</a></sup>) is the universe's background particle radiation composed of <a href="/wiki/Neutrino" title="Neutrino">neutrinos</a>. They are sometimes known as <b>relic neutrinos</b>.
+</p><p>The CνB is a relic of the <a class="mw-redirect" href="/wiki/Big_bang" title="Big bang">big bang</a>; while the <a class="mw-redirect" href="/wiki/Cosmic_microwave_background_radiation" title="Cosmic microwave background radiation">cosmic microwave background radiation</a> (CMB) dates from when the universe was 379,000 years old, the <a href="/wiki/Neutrino_decoupling" title="Neutrino decoupling">CνB decoupled</a> (separated) from matter when the universe was just one second old. It is estimated that today, the CνB has a temperature of roughly <span class="nowrap"><span class="sortkey" style="display:none">7000195000000000000♠</span>1.95 <a href="/wiki/Kelvin" title="Kelvin">K</a></span>.
+</p><p>As neutrinos rarely interact with matter, these neutrinos still exist today. They have a very low energy, around 10<sup>−4</sup> to 10<sup>−6</sup> <a class="mw-redirect" href="/wiki/Electron_volt" title="Electron volt">eV</a>.<sup class="reference" id="cite_ref-forbes_neutrino_1-0"><a href="#cite_note-forbes_neutrino-1">[1]</a></sup> Even high energy neutrinos are <a href="/wiki/Neutrino_detector" title="Neutrino detector">notoriously difficult to detect</a>, and the CνB has energies around 10<sup>−10</sup> times smaller, so the CνB may not be directly observed in detail for many years, if at all.<sup class="reference" id="cite_ref-forbes_neutrino_1-1"><a href="#cite_note-forbes_neutrino-1">[1]</a></sup> However, Big Bang cosmology makes many predictions about the CνB, and there is very strong indirect evidence that the CνB exists.<sup class="reference" id="cite_ref-forbes_neutrino_1-2"><a href="#cite_note-forbes_neutrino-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Derivation_of_the_CνB_temperature"><span class="tocnumber">1</span> <span class="toctext">Derivation of the CνB temperature</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Indirect_evidence_for_the_CνB"><span class="tocnumber">2</span> <span class="toctext">Indirect evidence for the CνB</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Big_Bang_nucleosynthesis"><span class="tocnumber">2.1</span> <span class="toctext">Big Bang nucleosynthesis</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#CMB_anisotropies_and_structure_formation"><span class="tocnumber">2.2</span> <span class="toctext">CMB anisotropies and structure formation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Indirect_evidence_from_phase_changes_to_the_Cosmic_Microwave_Background_(CMB)"><span class="tocnumber">2.3</span> <span class="toctext">Indirect evidence from phase changes to the Cosmic Microwave Background (CMB)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Prospects_for_the_direct_detection_of_the_CνB"><span class="tocnumber">3</span> <span class="toctext">Prospects for the direct detection of the CνB</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span id="Derivation_of_the_C.CE.BDB_temperature"></span><span class="mw-headline" id="Derivation_of_the_CνB_temperature">Derivation of the CνB temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=1" title="Edit section: Derivation of the CνB temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Given the temperature of the CMB, the temperature of the CνB can be estimated. Before <a href="/wiki/Neutrino_decoupling" title="Neutrino decoupling">neutrinos decoupled</a> from the rest of matter, the universe primarily consisted of neutrinos, <a href="/wiki/Electron" title="Electron">electrons</a>, <a href="/wiki/Positron" title="Positron">positrons</a>, and <a href="/wiki/Photon" title="Photon">photons</a>, all in <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a> with each other. Once the temperature dropped to approximately <span class="nowrap"><span class="sortkey" style="display:none">6987400544121750000♠</span>2.5 <a href="/wiki/Electronvolt" title="Electronvolt">MeV</a></span>, the neutrinos decoupled from the rest of matter. Despite this decoupling, neutrinos and photons remained at the same temperature as the universe expanded. However, when the temperature dropped below the mass of the electron, most <a class="mw-redirect" href="/wiki/Electron-positron_annihilation" title="Electron-positron annihilation">electrons and positrons annihilated</a>, transferring their heat and entropy to photons, and thus increasing the temperature of the photons. So the ratio of the temperature of the photons before and after the electron-positron annihilation is the same as the ratio of the temperature of the neutrinos and the photons today. To find this ratio, we assume that the entropy of the universe was approximately conserved by the electron-positron annihilation. Then using
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sigma \propto gT^{3},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>σ<!-- σ --></mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>g</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma \propto gT^{3},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sigma \propto gT^{3},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dcc44cc5ad8c27f3f834840e3966e9122707b15b" style="vertical-align: -0.671ex; width:8.965ex; height:3.009ex;"/></span></dd></dl>
+<p>where <i>σ</i> is the entropy, <i>g</i> is the effective <a href="/wiki/Degrees_of_freedom_(physics_and_chemistry)" title="Degrees of freedom (physics and chemistry)">degrees of freedom</a> and <i>T</i> is the temperature, we find that
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {g_{0}}{g_{1}}}\right)^{\frac {1}{3}}={\frac {T_{1}}{T_{0}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {g_{0}}{g_{1}}}\right)^{\frac {1}{3}}={\frac {T_{1}}{T_{0}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {g_{0}}{g_{1}}}\right)^{\frac {1}{3}}={\frac {T_{1}}{T_{0}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd3b606adec86256d6409ca63d5e0ad69146168" style="vertical-align: -2.505ex; width:15.15ex; height:7.176ex;"/></span></dd></dl>
+<p>where <i>T</i><sub>0</sub> denotes the temperature before the electron-positron annihilation and <i>T</i><sub>1</sub> denotes after. The factor <i>g</i><sub>0</sub> is determined by the particle species:
+</p>
+<ul><li>2 for photons, since they are massless <a class="mw-redirect" href="/wiki/Bosons" title="Bosons">bosons</a><sup class="reference" id="cite_ref-Weinberg_Cosmology_2-0"><a href="#cite_note-Weinberg_Cosmology-2">[2]</a></sup></li></ul>
+<ul><li>2 × (7/8) each for electrons and positrons, since they are <a class="mw-redirect" href="/wiki/Fermions" title="Fermions">fermions</a>.<sup class="reference" id="cite_ref-Weinberg_Cosmology_2-1"><a href="#cite_note-Weinberg_Cosmology-2">[2]</a></sup></li></ul>
+<p><i>g</i><sub>1</sub> is just 2 for photons. So
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {T_{\nu }}{T_{\gamma }}}=\left({\frac {2}{2+2\times 7/8+2\times 7/8}}\right)^{\frac {1}{3}}=\left({\frac {4}{11}}\right)^{\frac {1}{3}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>2</mn>
+<mrow>
+<mn>2</mn>
+<mo>+</mo>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<mn>7</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>8</mn>
+<mo>+</mo>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<mn>7</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>8</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>4</mn>
+<mn>11</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {T_{\nu }}{T_{\gamma }}}=\left({\frac {2}{2+2\times 7/8+2\times 7/8}}\right)^{\frac {1}{3}}=\left({\frac {4}{11}}\right)^{\frac {1}{3}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {T_{\nu }}{T_{\gamma }}}=\left({\frac {2}{2+2\times 7/8+2\times 7/8}}\right)^{\frac {1}{3}}=\left({\frac {4}{11}}\right)^{\frac {1}{3}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8a9b7767a296e220cf6aaa9624e72d9cdaba290" style="vertical-align: -2.671ex; width:46.297ex; height:7.343ex;"/></span></dd></dl>
+<p>Given the current value of <i>T<sub>γ</sub></i> = <span class="nowrap"><span class="sortkey" style="display:none">7000272500000000000♠</span>2.725 K</span>,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> it follows that <i>T<sub>ν</sub></i> ≈ <span class="nowrap"><span class="sortkey" style="display:none">7000195000000000000♠</span>1.95 K</span>.
+</p><p>The above discussion is valid for massless neutrinos, which are always relativistic. For neutrinos with a non-zero rest mass, the description in terms of a temperature is no longer appropriate after they become non-relativistic; i.e., when their thermal energy 3/2 <i>kT<sub>ν</sub></i> falls below the rest mass energy <i>m<sub>ν</sub>c</i><sup>2</sup>. Instead, in this case one should rather track their energy density, which remains well-defined.
+</p>
+<h2><span id="Indirect_evidence_for_the_C.CE.BDB"></span><span class="mw-headline" id="Indirect_evidence_for_the_CνB">Indirect evidence for the CνB</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=2" title="Edit section: Indirect evidence for the CνB">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Relativistic neutrinos contribute to the radiation energy density of the universe <i>ρ<sub>R</sub></i>, typically parameterized in terms of the effective number of neutrino species <i>N<sub>ν</sub></i>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho _{R}={\frac {\pi ^{2}}{15}}T_{\gamma }^{4}(1+z)^{4}\left[1+{\frac {7}{8}}N_{\nu }\left({\frac {4}{11}}\right)^{\frac {4}{3}}\right],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mn>15</mn>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>z</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>7</mn>
+<mn>8</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>4</mn>
+<mn>11</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{R}={\frac {\pi ^{2}}{15}}T_{\gamma }^{4}(1+z)^{4}\left[1+{\frac {7}{8}}N_{\nu }\left({\frac {4}{11}}\right)^{\frac {4}{3}}\right],}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \rho _{R}={\frac {\pi ^{2}}{15}}T_{\gamma }^{4}(1+z)^{4}\left[1+{\frac {7}{8}}N_{\nu }\left({\frac {4}{11}}\right)^{\frac {4}{3}}\right],}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/23cc2a3850653b73efa0e42d8effa68eb64602ac" style="vertical-align: -3.671ex; width:41.544ex; height:8.509ex;"/></span></dd></dl>
+<p>where <i>z</i> denotes the <a href="/wiki/Redshift" title="Redshift">redshift</a>. The first term in the square brackets is due to the CMB, the second comes from the CνB. The <a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a> with its three neutrino species predicts a value of <i>N<sub>ν</sub></i> ≃ <span class="nowrap"><span class="sortkey" style="display:none">7000304600000000000♠</span>3.046</span>,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> including a small correction caused by a non-thermal distortion of the spectra during <a href="/wiki/Positron" title="Positron">e<sup>+</sup></a>-<a href="/wiki/Electron" title="Electron">e<sup>−</sup></a>-<a href="/wiki/Annihilation" title="Annihilation">annihilation</a>. The radiation density had a major impact on various physical processes in the early universe, leaving potentially detectable imprints on measurable quantities, thus allowing us to <a href="/wiki/Inference" title="Inference">infer</a> the value of <i>N<sub>ν</sub></i> from observations.
+</p>
+<h3><span class="mw-headline" id="Big_Bang_nucleosynthesis">Big Bang nucleosynthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=3" title="Edit section: Big Bang nucleosynthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to its effect on the <a class="mw-redirect" href="/wiki/Metric_expansion_of_space" title="Metric expansion of space">expansion rate</a> of the universe during <a href="/wiki/Big_Bang_nucleosynthesis" title="Big Bang nucleosynthesis">Big Bang nucleosynthesis</a> (BBN), the theoretical expectations for the primordial abundances of light elements depend on <i>N<sub>ν</sub></i>. Astrophysical measurements of the primordial <span style="white-space:nowrap;"><a href="/wiki/Helium" title="Helium"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>He<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></a></span> and <span style="white-space:nowrap;"><a href="/wiki/Deuterium" title="Deuterium"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>D<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></a></span> abundances lead to a value of <i>N<sub>ν</sub></i> = <span class="nowrap"><span class="sortkey" style="display:none">7000314000000000000♠</span>3.14<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+0.70<br/>−0.65</span></span></span> at 68% <a href="/wiki/Confidence_interval" title="Confidence interval">c.l.</a>,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> in very good agreement with the Standard Model expectation.
+</p>
+<h3><span class="mw-headline" id="CMB_anisotropies_and_structure_formation">CMB anisotropies and structure formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=4" title="Edit section: CMB anisotropies and structure formation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The presence of the CνB affects the evolution of CMB anisotropies as well as the growth of matter perturbations in two ways: due to its contribution to the radiation density of the universe (which determines for instance the time of matter-radiation equality), and due to the neutrinos' anisotropic stress which dampens the acoustic oscillations of the spectra. Additionally, <a class="mw-redirect" href="/wiki/Free-streaming" title="Free-streaming">free-streaming</a> massive neutrinos suppress the growth of structure on small scales. The <a href="/wiki/Wilkinson_Microwave_Anisotropy_Probe" title="Wilkinson Microwave Anisotropy Probe">WMAP</a> spacecraft's five-year data combined with type Ia <a href="/wiki/Supernova" title="Supernova">supernova</a> data and information about the <a class="mw-redirect" href="/wiki/Baryon_acoustic_oscillation" title="Baryon acoustic oscillation">baryon acoustic oscillation</a> scale yielded <i>N<sub>ν</sub></i> = <span class="nowrap"><span class="sortkey" style="display:none">7000434000000000000♠</span>4.34<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+0.88<br/>−0.86</span></span></span> at 68% c.l.,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> providing an independent confirmation of the BBN constraints. The <a href="/wiki/Planck_(spacecraft)" title="Planck (spacecraft)">Planck spacecraft</a> collaboration has published the tightest bound to date on the effective number of neutrino species, at <i>N<sub>ν</sub></i> = <span class="nowrap"><span class="sortkey" style="display:none">7000315000000000000♠</span>3.15<span style="margin-left:0.3em;margin-right:0.15em;">±</span>0.23</span>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h3><span id="Indirect_evidence_from_phase_changes_to_the_Cosmic_Microwave_Background_.28CMB.29"></span><span class="mw-headline" id="Indirect_evidence_from_phase_changes_to_the_Cosmic_Microwave_Background_(CMB)">Indirect evidence from phase changes to the Cosmic Microwave Background (CMB)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=5" title="Edit section: Indirect evidence from phase changes to the Cosmic Microwave Background (CMB)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Big Bang cosmology makes many predictions about the CνB, and there is very strong indirect evidence that the cosmic neutrino background exists, both from <a href="/wiki/Big_Bang_nucleosynthesis" title="Big Bang nucleosynthesis">Big Bang nucleosynthesis</a> predictions of the helium abundance, and from anisotropies in the <a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">cosmic microwave background</a>. One of these predictions is that neutrinos will have left a subtle imprint on the cosmic microwave background (CMB). It is well known that the CMB has irregularities. Some of the CMB fluctuations were roughly regularly spaced, because of the effect of <a class="mw-redirect" href="/wiki/Baryon_acoustic_oscillation" title="Baryon acoustic oscillation">baryon acoustic oscillation</a>. In theory, the decoupled neutrinos should have had a very slight effect on the <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the various CMB fluctuations.<sup class="reference" id="cite_ref-forbes_neutrino_1-3"><a href="#cite_note-forbes_neutrino-1">[1]</a></sup>
+</p><p>In 2015, it was reported that such shifts had been detected in the CMB. Moreover the fluctuations corresponded to neutrinos of almost exactly the temperature predicted by Big Bang theory (<span class="nowrap">1.96 ± 0.02K</span> compared to a prediction of 1.95K), and exactly three types of neutrino, the same number of neutrino flavours currently predicted by the <a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a>.<sup class="reference" id="cite_ref-forbes_neutrino_1-4"><a href="#cite_note-forbes_neutrino-1">[1]</a></sup>
+</p>
+<h2><span id="Prospects_for_the_direct_detection_of_the_C.CE.BDB"></span><span class="mw-headline" id="Prospects_for_the_direct_detection_of_the_CνB">Prospects for the direct detection of the CνB</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=6" title="Edit section: Prospects for the direct detection of the CνB">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Confirmation of the existence of these relic neutrinos may only be possible by directly detecting them using experiments on Earth. This will be difficult as the neutrinos which make up the CνB are non-relativistic, in addition to interacting only weakly with normal matter, and so any effect they have in a detector will be hard to identify. One proposed method of direct detection of the CνB is to use capture of cosmic relic neutrinos on <a href="/wiki/Tritium" title="Tritium">tritium</a> i.e. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ^{3}\mathrm {H} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ^{3}\mathrm {H} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ^{3}\mathrm {H} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10e5416cf3d60cf179931c75a2598df71bfa980a" style="vertical-align: -0.338ex; width:2.797ex; height:2.676ex;"/></span>, leading to an induced form of <a href="/wiki/Beta_decay" title="Beta decay">beta decay</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The neutrinos of the CνB would lead to the production of electrons via the reaction <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu +^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+<msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+</mrow>
+<msup>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+<mo>+</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu +^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nu +^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da129726a5ffd893edd28e3076ccdeb9c5e547c0" style="vertical-align: -0.505ex; width:19.748ex; height:2.843ex;"/></span>, while the main background comes from electrons produced via natural beta decay <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}+{\bar {\nu }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+</mrow>
+<msup>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+<mo>+</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ν<!-- ν --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}+{\bar {\nu }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ^{3}\mathrm {H} \rightarrow ^{3}\mathrm {He} +e^{-}+{\bar {\nu }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb6d0ea5fde66738f8758b29adc8588f0687f31e" style="vertical-align: -0.505ex; width:19.833ex; height:2.843ex;"/></span>. These electrons would be detected by the experimental apparatus in order to measure the size of the CνB. The latter source of electrons is far more numerous, however their maximum energy is smaller than the average energy of the CνB-electrons by twice the average neutrino mass. Since this mass is tiny, of the order of a few <a href="/wiki/Electronvolt" title="Electronvolt">eVs</a> or less, such a detector must have an excellent energy resolution in order to separate the signal from the background. One such proposed experiment is called PTOLEMY, which will be made up of 100g of tritium target.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Detector should be ready by 2022<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2048" data-file-width="4096" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/32px-Ilc_9yr_moll4096.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/48px-Ilc_9yr_moll4096.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/64px-Ilc_9yr_moll4096.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Cosmology" title="Portal:Cosmology">Cosmology portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Cosmic_background_radiation" title="Cosmic background radiation">Cosmic background radiation</a></li>
+<li><a href="/wiki/Gravitational_wave_background" title="Gravitational wave background">Gravitational wave background</a></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></li>
+<li><a href="/wiki/Diffuse_supernova_neutrino_background" title="Diffuse supernova neutrino background">Diffuse supernova neutrino background</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li><span class="citation wikicite" id="endnote_nu"><b><a href="#ref_nu">^</a></b></span> ν (italic <i>ν</i>) is the Greek letter <i><a href="/wiki/Nu_(letter)" title="Nu (letter)">nu</a></i>, standardized symbol for <i>neutrinos</i>.</li></ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-forbes_neutrino-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-forbes_neutrino_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forbes_neutrino_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-forbes_neutrino_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-forbes_neutrino_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-forbes_neutrino_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://www.forbes.com/sites/startswithabang/2016/09/09/cosmic-neutrinos-detected-confirming-the-big-bangs-last-great-prediction" rel="nofollow">Cosmic Neutrinos Detected, Confirming The Big Bang's Last Great Prediction</a> - <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i> coverage of original paper: <a class="external text" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.091301" rel="nofollow">First Detection of the Acoustic Oscillation Phase Shift Expected from the Cosmic Neutrino Background</a> - Follin, Knox, Millea, Pan, pub.  Phys. Rev. Lett. 26 August 2015.</span>
+</li>
+<li id="cite_note-Weinberg_Cosmology-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Weinberg_Cosmology_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Weinberg_Cosmology_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Steven Weinberg (2008). <a class="external text" href="https://books.google.com/books?id=48C-ym2EmZkC&amp;pg=PA3" rel="nofollow"><i>Cosmology</i></a>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p. 151. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-852682-7" title="Special:BookSources/978-0-19-852682-7">978-0-19-852682-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cosmology&amp;rft.pages=151&amp;rft.pub=Oxford+University+Press&amp;rft.date=2008&amp;rft.isbn=978-0-19-852682-7&amp;rft.au=Steven+Weinberg&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D48C-ym2EmZkC%26pg%3DPA3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fixsen, Dale; Mather, John (2002). "The Spectral Results of the Far-Infrared Absolute Spectrophotometer Instrument on COBE". <i>Astrophysical Journal</i>. <b>581</b> (2): 817–822. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2002ApJ...581..817F" rel="nofollow">2002ApJ...581..817F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F344402" rel="nofollow">10.1086/344402</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astrophysical+Journal&amp;rft.atitle=The+Spectral+Results+of+the+Far-Infrared+Absolute+Spectrophotometer+Instrument+on+COBE&amp;rft.volume=581&amp;rft.issue=2&amp;rft.pages=817-822&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1086%2F344402&amp;rft_id=info%3Abibcode%2F2002ApJ...581..817F&amp;rft.aulast=Fixsen&amp;rft.aufirst=Dale&amp;rft.au=Mather%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mangano, Gianpiero;  et al. (2005). "Relic neutrino decoupling including flavor oscillations". <i>Nucl. Phys. B</i>. <b>729</b> (1–2): 221–234. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/hep-ph/0506164" rel="nofollow">hep-ph/0506164</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005NuPhB.729..221M" rel="nofollow">2005NuPhB.729..221M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.nuclphysb.2005.09.041" rel="nofollow">10.1016/j.nuclphysb.2005.09.041</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nucl.+Phys.+B&amp;rft.atitle=Relic+neutrino+decoupling+including+flavor+oscillations&amp;rft.volume=729&amp;rft.issue=1%E2%80%932&amp;rft.pages=221-234&amp;rft.date=2005&amp;rft_id=info%3Aarxiv%2Fhep-ph%2F0506164&amp;rft_id=info%3Adoi%2F10.1016%2Fj.nuclphysb.2005.09.041&amp;rft_id=info%3Abibcode%2F2005NuPhB.729..221M&amp;rft.aulast=Mangano&amp;rft.aufirst=Gianpiero&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cyburt, Richard;  et al. (2005). "New BBN limits on physics beyond the standard model from He-4". <i>Astropart. Phys</i>. <b>23</b> (3): 313–323. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/astro-ph/0408033" rel="nofollow">astro-ph/0408033</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005APh....23..313C" rel="nofollow">2005APh....23..313C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.astropartphys.2005.01.005" rel="nofollow">10.1016/j.astropartphys.2005.01.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astropart.+Phys.&amp;rft.atitle=New+BBN+limits+on+physics+beyond+the+standard+model+from+He-4&amp;rft.volume=23&amp;rft.issue=3&amp;rft.pages=313-323&amp;rft.date=2005&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0408033&amp;rft_id=info%3Adoi%2F10.1016%2Fj.astropartphys.2005.01.005&amp;rft_id=info%3Abibcode%2F2005APh....23..313C&amp;rft.aulast=Cyburt&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Komatsu, Eiichiro;  et al. (2011). "Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation". <i>The Astrophysical Journal Supplement Series</i>. <b>192</b> (2): 18. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1001.4538" rel="nofollow">1001.4538</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2011ApJS..192...18K" rel="nofollow">2011ApJS..192...18K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0067-0049%2F192%2F2%2F18" rel="nofollow">10.1088/0067-0049/192/2/18</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Supplement+Series&amp;rft.atitle=Seven-Year+Wilkinson+Microwave+Anisotropy+Probe+%28WMAP%29+Observations%3A+Cosmological+Interpretation&amp;rft.volume=192&amp;rft.issue=2&amp;rft.pages=18&amp;rft.date=2011&amp;rft_id=info%3Aarxiv%2F1001.4538&amp;rft_id=info%3Adoi%2F10.1088%2F0067-0049%2F192%2F2%2F18&amp;rft_id=info%3Abibcode%2F2011ApJS..192...18K&amp;rft.aulast=Komatsu&amp;rft.aufirst=Eiichiro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ade, P.A.R.;  et al. (2016). "Planck 2015 results. XIII. Cosmological parameters". <i>Astron. Astrophys</i>. <b>594</b> (A13): A13. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1502.01589" rel="nofollow">1502.01589</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016A&amp;A...594A..13P" rel="nofollow">2016A&amp;A...594A..13P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1051%2F0004-6361%2F201525830" rel="nofollow">10.1051/0004-6361/201525830</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astron.+Astrophys.&amp;rft.atitle=Planck+2015+results.+XIII.+Cosmological+parameters&amp;rft.volume=594&amp;rft.issue=A13&amp;rft.pages=A13&amp;rft.date=2016&amp;rft_id=info%3Aarxiv%2F1502.01589&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%2F201525830&amp;rft_id=info%3Abibcode%2F2016A%26A...594A..13P&amp;rft.aulast=Ade&amp;rft.aufirst=P.A.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Long, A.J.; Lunardini, C.; Sabancilar, E. (2014). "Detecting non-relativistic cosmic neutrinos by capture on tritium: phenomenology and physics potential". <i>JCAP</i>. <b>1408</b> (8): 038. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1405.7654" rel="nofollow">1405.7654</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014JCAP...08..038L" rel="nofollow">2014JCAP...08..038L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F1475-7516%2F2014%2F08%2F038" rel="nofollow">10.1088/1475-7516/2014/08/038</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JCAP&amp;rft.atitle=Detecting+non-relativistic+cosmic+neutrinos+by+capture+on+tritium%3A+phenomenology+and+physics+potential&amp;rft.volume=1408&amp;rft.issue=8&amp;rft.pages=038&amp;rft.date=2014&amp;rft_id=info%3Aarxiv%2F1405.7654&amp;rft_id=info%3Adoi%2F10.1088%2F1475-7516%2F2014%2F08%2F038&amp;rft_id=info%3Abibcode%2F2014JCAP...08..038L&amp;rft.aulast=Long&amp;rft.aufirst=A.J.&amp;rft.au=Lunardini%2C+C.&amp;rft.au=Sabancilar%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation arxiv">Betts, S.;  et al. (2013). "Development of a Relic Neutrino Detection Experiment at PTOLEMY: Princeton Tritium Observatory for Light, Early-Universe, Massive-Neutrino Yield". <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1307.4738" rel="nofollow">1307.4738</a></span> [<a class="external text" href="//arxiv.org/archive/astro-ph.IM" rel="nofollow">astro-ph.IM</a>].</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Development+of+a+Relic+Neutrino+Detection+Experiment+at+PTOLEMY%3A+Princeton+Tritium+Observatory+for+Light%2C+Early-Universe%2C+Massive-Neutrino+Yield&amp;rft.date=2013&amp;rft_id=info%3Aarxiv%2F1307.4738&amp;rft.aulast=Betts&amp;rft.aufirst=S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACosmic+neutrino+background"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external free" href="https://arxiv.org/pdf/1902.05508.pdf" rel="nofollow">https://arxiv.org/pdf/1902.05508.pdf</a></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Cosmology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="text-align:center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cosmology_topics" title="Template:Cosmology topics"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cosmology_topics" title="Template talk:Cosmology topics"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cosmology_topics&amp;action=edit"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Cosmology" style="font-size:114%;margin:0 4em"><a href="/wiki/Cosmology" title="Cosmology">Cosmology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Background</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Age_of_the_universe" title="Age of the universe">Age of the universe</a></li>
+<li><a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a></li>
+<li><a href="/wiki/Chronology_of_the_universe" title="Chronology of the universe">Chronology of the universe</a></li>
+<li><a href="/wiki/Universe" title="Universe">Universe</a></li></ul>
+</div></td><td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" data-file-height="2048" data-file-width="4096" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/110px-Ilc_9yr_moll4096.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/165px-Ilc_9yr_moll4096.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/220px-Ilc_9yr_moll4096.png 2x" width="110"/></div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">History of<br/>cosmological theories</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Discovery_of_cosmic_microwave_background_radiation" title="Discovery of cosmic microwave background radiation">Discovery of cosmic microwave background</a></li>
+<li><a href="/wiki/History_of_the_Big_Bang_theory" title="History of the Big Bang theory">History of the Big Bang theory</a></li>
+<li><a href="/wiki/Religious_interpretations_of_the_Big_Bang_theory" title="Religious interpretations of the Big Bang theory">Religious interpretations of the Big Bang</a></li>
+<li><a href="/wiki/Timeline_of_cosmological_theories" title="Timeline of cosmological theories">Timeline of cosmological theories</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Past universe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">Cosmic microwave background</a></li>
+<li><a class="mw-selflink selflink">Cosmic neutrino background</a></li>
+<li><a href="/wiki/Gravitational_wave_background" title="Gravitational wave background">Gravitational wave background</a></li>
+<li><a href="/wiki/Inflation_(cosmology)" title="Inflation (cosmology)">Inflation</a></li>
+<li><a href="/wiki/Big_Bang_nucleosynthesis" title="Big Bang nucleosynthesis">Nucleosynthesis</a></li>
+<li><a href="/wiki/Chronology_of_the_universe#Habitable_epoch" title="Chronology of the universe">Habitable epoch</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Present universe</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric" title="Friedmann–Lemaître–Robertson–Walker metric">FLRW metric</a></li>
+<li><a href="/wiki/Friedmann_equations" title="Friedmann equations">Friedmann equations</a></li>
+<li><a href="/wiki/Hubble%27s_law" title="Hubble's law">Hubble's law</a></li>
+<li><a class="mw-redirect" href="/wiki/Metric_expansion_of_space" title="Metric expansion of space">Metric expansion of space</a></li>
+<li><a href="/wiki/Accelerating_expansion_of_the_universe" title="Accelerating expansion of the universe">Accelerating expansion</a></li>
+<li><a href="/wiki/Redshift" title="Redshift">Redshift</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Future universe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Future_of_an_expanding_universe" title="Future of an expanding universe">Future of an expanding universe</a></li>
+<li><a href="/wiki/Ultimate_fate_of_the_universe" title="Ultimate fate of the universe">Ultimate fate of the universe</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Components</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dark_energy" title="Dark energy">Dark energy</a></li>
+<li><a href="/wiki/Dark_fluid" title="Dark fluid">Dark fluid</a></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></li>
+<li><a href="/wiki/Lambda-CDM_model" title="Lambda-CDM model">Lambda-CDM model</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Structure formation</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Galaxy_filament" title="Galaxy filament">Galaxy filament</a></li>
+<li><a href="/wiki/Galaxy_formation_and_evolution" title="Galaxy formation and evolution">Galaxy formation</a></li>
+<li><a href="/wiki/Large_quasar_group" title="Large quasar group">Large quasar group</a></li>
+<li><a class="mw-redirect" href="/wiki/Large-scale_structure_of_the_cosmos" title="Large-scale structure of the cosmos">Large-scale structure</a></li>
+<li><a href="/wiki/Reionization" title="Reionization">Reionization</a></li>
+<li><a href="/wiki/Shape_of_the_universe" title="Shape of the universe">Shape of the universe</a></li>
+<li><a href="/wiki/Structure_formation" title="Structure formation">Structure formation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Experiments</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2dF_Galaxy_Redshift_Survey" title="2dF Galaxy Redshift Survey">2dF</a></li>
+<li><a href="/wiki/6dF_Galaxy_Survey" title="6dF Galaxy Survey">6dF</a></li>
+<li><a href="/wiki/BOOMERanG_experiment" title="BOOMERanG experiment">BOOMERanG</a></li>
+<li><a href="/wiki/Cosmic_Background_Explorer" title="Cosmic Background Explorer">COBE</a></li>
+<li><a href="/wiki/Illustris_project" title="Illustris project">Illustris project</a></li>
+<li><a href="/wiki/Observational_cosmology" title="Observational cosmology">Observational cosmology</a></li>
+<li><a href="/wiki/Planck_(spacecraft)" title="Planck (spacecraft)">Planck</a></li>
+<li><a href="/wiki/Sloan_Digital_Sky_Survey" title="Sloan Digital Sky Survey">SDSS</a></li>
+<li><a href="/wiki/Wilkinson_Microwave_Anisotropy_Probe" title="Wilkinson Microwave Anisotropy Probe">WMAP</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="text-align:center;"><div><b><a class="image" href="/wiki/File:Ilc_9yr_moll4096.png"><img alt="Ilc 9yr moll4096.png" class="noviewer" data-file-height="2048" data-file-width="4096" decoding="async" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/16px-Ilc_9yr_moll4096.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/24px-Ilc_9yr_moll4096.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ilc_9yr_moll4096.png/32px-Ilc_9yr_moll4096.png 2x" width="16"/></a> <a href="/wiki/Portal:Cosmology" title="Portal:Cosmology">Cosmology portal</a></b></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20190215155511
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.420 seconds
+Real time usage: 0.596 seconds
+Preprocessor visited node count: 1490/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79237/2097152 bytes
+Template argument size: 816/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28841/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.204/10.000 seconds
+Lua memory usage: 6.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  445.106      1 -total
+ 40.37%  179.674      1 Template:Reflist
+ 22.16%   98.657      1 Template:Cosmology
+ 20.42%   90.896      1 Template:Sidebar_with_collapsible_lists
+ 15.73%   70.012      6 Template:Cite_journal
+ 15.58%   69.350      1 Template:Cite_book
+ 14.85%   66.089      8 Template:Val
+ 12.45%   55.426      2 Template:SimpleNuclide2
+ 10.30%   45.826      2 Template:Physics_particle
+  6.35%   28.264      4 Template:Su
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2669531-0!canonical!math=5 and timestamp 20190215155511 and revision id 883466500
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cosmic_neutrino_background&amp;oldid=883466500">https://en.wikipedia.org/w/index.php?title=Cosmic_neutrino_background&amp;oldid=883466500</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_cosmology" title="Category:Physical cosmology">Physical cosmology</a></li><li><a href="/wiki/Category:Cosmic_background_radiation" title="Category:Cosmic background radiation">Cosmic background radiation</a></li><li><a href="/wiki/Category:Neutrino_astronomy" title="Category:Neutrino astronomy">Neutrino astronomy</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cosmic+neutrino+background" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cosmic+neutrino+background" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cosmic_neutrino_background" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cosmic_neutrino_background" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Cosmic_neutrino_background">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cosmic_neutrino_background&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cosmic_neutrino_background&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cosmic_neutrino_background" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cosmic_neutrino_background" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cosmic_neutrino_background&amp;oldid=883466500" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cosmic_neutrino_background&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3075329" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cosmic_neutrino_background&amp;id=883466500" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cosmic+neutrino+background">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cosmic+neutrino+background&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cosmic_neutrino_background&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AE%D9%84%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%86%D9%8A%D9%88%D8%AA%D8%B1%D9%8A%D9%86%D9%88_%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A%D8%A9" hreflang="ar" lang="ar" title="خلفية النيوترينو الكونية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fons_c%C3%B2smic_de_neutrins" hreflang="ca" lang="ca" title="Fons còsmic de neutrins – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Reliktn%C3%AD_neutrina" hreflang="cs" lang="cs" title="Reliktní neutrina – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kosmischer_Neutrinohintergrund" hreflang="de" lang="de" title="Kosmischer Neutrinohintergrund – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fondo_c%C3%B3smico_de_neutrinos" hreflang="es" lang="es" title="Fondo cósmico de neutrinos – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%AA%D8%B1%DB%8C%D9%86%D9%88%DB%8C_%D8%B2%D9%85%DB%8C%D9%86%D9%87_%DA%A9%DB%8C%D9%87%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="نوترینوی زمینه کیهانی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fond_cosmologique_de_neutrinos" hreflang="fr" lang="fr" title="Fond cosmologique de neutrinos – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%B6%D5%A1%D6%81%D5%B8%D6%80%D5%A4%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B6%D5%A5%D5%B5%D5%BF%D6%80%D5%AB%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B3%D5%A1%D5%BC%D5%A1%D5%A3%D5%A1%D5%B5%D5%A9%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Մնացորդային նեյտրինային ճառագայթում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E8%83%8C%E6%99%AF" hreflang="ja" lang="ja" title="宇宙ニュートリノ背景 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Neutrinowe_promieniowanie_t%C5%82a" hreflang="pl" lang="pl" title="Neutrinowe promieniowanie tła – Polish">Polski</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Kozmick%C3%A9_neutr%C3%ADnov%C3%A9_pozadie" hreflang="sk" lang="sk" title="Kozmické neutrínové pozadie – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kosminen_neutriinotausta" hreflang="fi" lang="fi" title="Kosminen neutriinotausta – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%82%D1%80%D0%B8%D0%BD%D0%BD%D0%B5_%D1%80%D0%B5%D0%BB%D1%96%D0%BA%D1%82%D0%BE%D0%B2%D0%B5_%D0%B2%D0%B8%D0%BF%D1%80%D0%BE%D0%BC%D1%96%D0%BD%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Нейтринне реліктове випромінювання – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BE%AE%E5%AD%90%E8%83%8C%E6%99%AF%E8%BC%BB%E5%B0%84" hreflang="zh" lang="zh" title="宇宙中微子背景輻射 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3075329#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 February 2019, at 15:55<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cosmic_neutrino_background&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.596","ppvisitednodes":{"value":1490,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79237,"limit":2097152},"templateargumentsize":{"value":816,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28841,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  445.106      1 -total"," 40.37%  179.674      1 Template:Reflist"," 22.16%   98.657      1 Template:Cosmology"," 20.42%   90.896      1 Template:Sidebar_with_collapsible_lists"," 15.73%   70.012      6 Template:Cite_journal"," 15.58%   69.350      1 Template:Cite_book"," 14.85%   66.089      8 Template:Val"," 12.45%   55.426      2 Template:SimpleNuclide2"," 10.30%   45.826      2 Template:Physics_particle","  6.35%   28.264      4 Template:Su"]},"scribunto":{"limitreport-timeusage":{"value":"0.204","limit":"10.000"},"limitreport-memusage":{"value":6993423,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1287","timestamp":"20190215155511","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1258"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cold front - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cold_front","wgTitle":"Cold front","wgCurRevisionId":880188315,"wgRevisionId":880188315,"wgArticleId":20279444,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Weather fronts","Cold"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cold_front","wgRelevantArticleId":20279444,"wgRequestId":"XGAcBQpAMFsAAJcaDNcAAACS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q210316","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.16" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Retreating_cold_front.jpg/1200px-Retreating_cold_front.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cold_front" rel="alternate"/>
+<link href="/w/index.php?title=Cold_front&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cold_front&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cold_front" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cold_front rootpage-Cold_front skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Cold front</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cold_front_symbol.svg"><img alt="" class="thumbimage" data-file-height="60" data-file-width="440" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_front_symbol.svg/220px-Cold_front_symbol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_front_symbol.svg/330px-Cold_front_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_front_symbol.svg/440px-Cold_front_symbol.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Cold_front_symbol.svg" title="Enlarge"></a></div>The symbol of a cold front: a blue line with triangles pointing in the direction of travel</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Retreating_cold_front.jpg"><img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Retreating_cold_front.jpg/220px-Retreating_cold_front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Retreating_cold_front.jpg/330px-Retreating_cold_front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Retreating_cold_front.jpg/440px-Retreating_cold_front.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Retreating_cold_front.jpg" title="Enlarge"></a></div>A retreating cold front with clear air behind</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a class="image" href="/wiki/File:Cold_Front.jpg"><img alt="" class="thumbimage" data-file-height="1968" data-file-width="2237" decoding="async" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_Front.jpg/270px-Cold_Front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_Front.jpg/405px-Cold_Front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cold_Front.jpg/540px-Cold_Front.jpg 2x" width="270"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Cold_Front.jpg" title="Enlarge"></a></div>A cold front over the eastern and central region of the United States of America</div></div></div>
+<p>A <b>cold front</b> is the leading edge of a cooler mass of air, replacing at ground level a warmer mass of air, which lies within a fairly sharp surface <a href="/wiki/Trough_(meteorology)" title="Trough (meteorology)">trough</a> of <a href="/wiki/Low-pressure_area" title="Low-pressure area">low pressure</a>.  It forms in the wake of an <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">extratropical cyclone</a>, at the leading edge of its cold air <a href="/wiki/Advection#Meteorology" title="Advection">advection</a> pattern, which is also known as the <a href="/wiki/Cyclone" title="Cyclone">cyclone</a>'s dry conveyor belt circulation.  Temperature changes across the boundary can exceed 30 °C (54 °F).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>  When enough moisture is present, rain can occur along the boundary.  If there is significant instability along the boundary, a narrow line of thunderstorms can form along the frontal zone.  If instability is less, a broad shield of rain can move in behind the <a href="/wiki/Weather_front" title="Weather front">front</a>, which increases the temperature difference across the boundary.  Cold fronts are stronger in the fall and spring transition seasons and weakest during the summer.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development_of_cold_fronts"><span class="tocnumber">1</span> <span class="toctext">Development of cold fronts</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Clouds"><span class="tocnumber">2</span> <span class="toctext">Clouds</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Precipitation"><span class="tocnumber">3</span> <span class="toctext">Precipitation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Frontogenetical_circulation"><span class="tocnumber">3.1</span> <span class="toctext">Frontogenetical circulation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Temperature_changes"><span class="tocnumber">4</span> <span class="toctext">Temperature changes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Characteristics_of_boundaries_around_an_extratropical_cyclone"><span class="tocnumber">5</span> <span class="toctext">Characteristics of boundaries around an extratropical cyclone</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Development_of_cold_fronts">Development of cold fronts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=1" title="Edit section: Development of cold fronts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The cooler and denser air wedges under the less-dense warmer air, lifting it. This upward motion causes lowered <a href="/wiki/Pressure" title="Pressure">pressure</a> along the cold front and can cause the formation of a narrow line of <a href="/wiki/Shower" title="Shower">showers</a> and <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a> when enough <a href="/wiki/Moisture" title="Moisture">moisture</a> is present. On <a href="/wiki/Weather_map" title="Weather map">weather maps</a>, the surface position of the cold front is marked with the symbol of a blue line of triangles/spikes (pips) pointing in the direction of travel. A cold front's location is at the leading edge of the <a href="/wiki/Temperature" title="Temperature">temperature</a> drop off, which in an <a href="/wiki/Contour_line#Temperature_and_related_subjects" title="Contour line">isotherm</a> analysis would show up as the leading edge of the isotherm gradient, and it normally lies within a sharp surface <a href="/wiki/Trough_(meteorology)" title="Trough (meteorology)">trough</a>.<sup class="reference" id="cite_ref-DR_2-0"><a href="#cite_note-DR-2">[2]</a></sup> Cold fronts move faster than <a href="/wiki/Warm_front" title="Warm front">warm fronts</a> and can produce sharper changes in weather.  Since cold air is denser than warm air, it rapidly replaces the warm air preceding the boundary.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>In the northern hemisphere, a cold front usually causes a shift of wind from southwest to northwest clockwise, also known as veering, and in the southern hemisphere a shift from northwest to southwest (anticlockwise, backing). Normally, cold fronts can be marked by these characteristics:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Weather phenomenon
+</th>
+<th>Prior to the passing of the <a href="/wiki/Weather_front" title="Weather front">front</a>
+</th>
+<th>While the front is passing
+</th>
+<th>After the passing of the front
+</th></tr>
+<tr>
+<td>Temperature
+</td>
+<td>Warm
+</td>
+<td>Cooling suddenly
+</td>
+<td>Steadily cooling
+</td></tr>
+<tr>
+<td><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a>
+</td>
+<td>Decreasing steadily
+</td>
+<td>Lowest, then sudden increase
+</td>
+<td>Increasing steadily
+</td></tr>
+<tr>
+<td>Winds
+</td>
+<td>
+<ul><li>Southwest to southeast (northern hemisphere)</li>
+<li>Northwest to northeast (southern hemisphere)</li></ul>
+</td>
+<td>Gusty; shifting
+</td>
+<td>
+<ul><li>North to west, usually northwest (northern hemisphere)</li>
+<li>South to west, usually southwest (southern hemisphere)</li></ul>
+</td></tr>
+<tr>
+<td>Precipitation/conditions*
+</td>
+<td>Light patchy rain can be produced by stratocumulus or stratus in the warm sector. In summer, sometimes thunderstorms if a preceding <a href="/wiki/Squall_line" title="Squall line">squall line</a> is present. In winter <a href="/wiki/Snowsquall" title="Snowsquall">snow squalls</a> or showers may occur.<sup class="reference" id="cite_ref-:0_4-0"><a href="#cite_note-:0-4">[4]</a></sup>
+</td>
+<td>Prolonged rain (nimbostratus) or <a class="mw-redirect" href="/wiki/Thunderstorms" title="Thunderstorms">thunderstorms</a> (cumulonimbus): depends on conditions.
+</td>
+<td>Showers, then clearing
+</td></tr>
+<tr>
+<td>Clouds*
+</td>
+<td>Often preceded by cirrus, <a class="mw-redirect" href="/wiki/Cirrostratus" title="Cirrostratus">cirrostratus</a> then altostratus like a warm front (but usually with smaller amounts of these clouds). Areas of cirrocumulus and altocumulus within cirrostratus and altostratus more commonly seen than at a warm front. Larger cumulus clouds under the higher cloud types than at a warm front, where stratocumulus and cumulus humilis usually occur. Some of these cumulus clouds may produce showers ahead of the front.
+</td>
+<td>Cumulonimbus and cumulus congestus producing frequent showers, with a sheet of upper altostratus, through which the sun can sometimes be seen. Less commonly nimbostratus occurs with continuous rain.
+</td>
+<td>Patchy <a class="mw-redirect" href="/wiki/Altocumulus" title="Altocumulus">altocumulus</a> or <a class="mw-redirect" href="/wiki/Stratocumulus" title="Stratocumulus">stratocumulus</a> and higher <a href="/wiki/Cirrus_cloud" title="Cirrus cloud">cirrus</a> clouds along with fast moving <a class="mw-redirect" href="/wiki/Stratus_fractus" title="Stratus fractus">stratus fractus</a> then eventually scattered <a class="mw-redirect" href="/wiki/Cumulus" title="Cumulus">cumulus</a> and sometimes <a class="mw-redirect" href="/wiki/Cumulonimbus" title="Cumulonimbus">cumulonimbus</a>.
+</td></tr>
+<tr>
+<td>Visibility*
+</td>
+<td>Fair to poor in <a href="/wiki/Haze" title="Haze">haze</a>
+</td>
+<td>Poor, but improving
+</td>
+<td>Good, except in showers
+</td></tr>
+<tr>
+<td>Dew Point
+</td>
+<td>High, steady
+</td>
+<td>Sudden drop
+</td>
+<td>Falling
+</td></tr></tbody></table>
+<p>*provided there is sufficient moisture.
+</p>
+<h2><span class="mw-headline" id="Clouds">Clouds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=2" title="Edit section: Clouds">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If the cold front is highly unstable, <a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">cumulonimbus clouds</a> producing thunderstorms commonly form along the front. <a href="/wiki/Cumulonimbus_incus" title="Cumulonimbus incus">Anvil</a> <a href="/wiki/Cirrus_cloud" title="Cirrus cloud">cirrus clouds</a> may spread a considerable distance downwind from the thunderstorms.<sup class="reference" id="cite_ref-G&amp;N:207-212_5-0"><a href="#cite_note-G&amp;N:207-212-5">[5]</a></sup> The other cloud types associated with a cold front depend on atmospheric conditions such as air mass stability and wind shear.<sup class="reference" id="cite_ref-Holt_6-0"><a href="#cite_note-Holt-6">[6]</a></sup>  As the front approaches, middle-étage gives way to <a class="mw-redirect" href="/wiki/Altostratus" title="Altostratus">altostratus</a> and low-level <a class="mw-redirect" href="/wiki/Stratocumulus" title="Stratocumulus">stratocumulus</a> with intermittent light precipitation if the warm airmass being displaced by the cold front is mostly stable. With significant airmass instability, vertically developed <a class="mw-redirect" href="/wiki/Cumulus" title="Cumulus">cumulus</a> or cumulonimbus with showers and thunderstorms will form along the front.
+</p><p>After the passage of the cold front, the sky usually clears as high pressure builds in behind the system, although significant amounts of cumulus or stratocumulus, often in the form of long bands called <i>cloud streets</i> may persist if the air mass behind the front remains humid.<sup class="reference" id="cite_ref-Weston437-438_7-0"><a href="#cite_note-Weston437-438-7">[7]</a></sup> Small and unchanging amounts of cumulus or cirrus clouds in an otherwise clear sky are usually indications of continuing fair weather as long as the <a class="mw-redirect" href="/wiki/Barometric_pressure" title="Barometric pressure">barometric pressure</a> remains comparatively high.
+</p>
+<h2><span class="mw-headline" id="Precipitation">Precipitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=3" title="Edit section: Precipitation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a class="image" href="/wiki/File:Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County,_Kansas.png"><img alt="" class="thumbimage" data-file-height="678" data-file-width="799" decoding="async" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png/275px-Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png/413px-Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png/550px-Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County%2C_Kansas.png 2x" width="275"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Radar_image_of_severe_thunderstorms_and_cold_front_over_Marion_County,_Kansas.png" title="Enlarge"></a></div>A cold front as it appeared on the <a href="/wiki/National_Weather_Service_Wichita,_Kansas" title="National Weather Service Wichita, Kansas">National Weather Service Wichita, Kansas</a> <a class="mw-redirect" href="/wiki/WSR-88D" title="WSR-88D">WSR-88D</a> on April 3, 2011. The thin blue line labeled "cold front" is the front, with severe thunderstorms seen developing behind the front, which is moving towards the bottom right.</div></div></div>
+<p>A cold front commonly brings a narrow band of <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> that follows along the leading edge of the cold front. These bands of precipitation are often very strong,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> and can bring severe thunderstorms, <a href="/wiki/Hail" title="Hail">hailstorms</a>,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> snow squalls,<sup class="reference" id="cite_ref-:0_4-1"><a href="#cite_note-:0-4">[4]</a></sup> and/or <a href="/wiki/Tornado" title="Tornado">tornadoes</a>. In the spring, these cold fronts can be very strong, and can bring strong winds when the <a href="/wiki/Pressure_gradient" title="Pressure gradient">pressure gradient</a> is higher than normal. During the winter months, cold fronts sometimes come through an area with little or no precipitation.  Wider rain bands can occur behind cold fronts which tend to have more stratiform, and less convective, precipitation.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>  These rainstorms sometimes bring <a href="/wiki/Flood" title="Flood">flooding</a>, and can move very slowly when the storm steering it is strong and embedded within a <a class="mw-redirect" href="/wiki/Meridional_flow" title="Meridional flow">meridional flow</a> pattern (with more pole to equator motion rather than west to east motion). In the winter, cold fronts can bring cold spells, and occasionally snow. In the spring or summer in temperate latitudes, hail may occasionally fall along with the rain.  If moisture is not sufficient, such as when a system has previously moved across a mountain barrier, cold fronts can pass without cloudiness.
+</p>
+<h3><span class="mw-headline" id="Frontogenetical_circulation">Frontogenetical circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=4" title="Edit section: Frontogenetical circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Frontogenesis" title="Frontogenesis">Frontogenesis</a> is the process of creating or steepening the temperature gradient of a front. During this process the atmosphere reacts in an attempt to restore balance, the consequence is a circular motion along the front where air is being lifted up, along the cold front and dropping downward, behind the frontal boundary. This is the actual force of upward motion along a front that is responsible for clouds and precipitation.
+</p><p>As the temperature gradient steepens during frontogenesis, the <a href="/wiki/Thermal_wind" title="Thermal wind">thermal wind</a> becomes imbalanced. To maintain balance, the <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> aloft and below adjust, such that regions of divergence/convergence form. <a href="/wiki/Continuity_equation" title="Continuity equation">Mass continuity</a> would require a vertical transport of air along the cold front where there is divergence (lowered <a href="/wiki/Pressure" title="Pressure">pressure</a>). Although this circulation is described by a series of processes, they are actually occurring at the same time, observable along the front as a thermally direct circulation. There are several factors that influence the final shape and tilt of the circulation around the front, ultimately determining the kind and location of clouds and precipitation.<sup class="reference" id="cite_ref-Holt_6-1"><a href="#cite_note-Holt-6">[6]</a></sup><sup class="reference" id="cite_ref-Carl_11-0"><a href="#cite_note-Carl-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Temperature_changes">Temperature changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=5" title="Edit section: Temperature changes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cold fronts are the leading edge of cooler air masses, hence the name "cold front". They have stronger temperature changes during the <a href="/wiki/Autumn" title="Autumn">fall</a> (autumn) and spring and during the middle of winter.  Temperature changes associated with cold fronts can be as much as 50 °F (30 °C).  When cold fronts come through, there is usually a quick, yet strong gust of wind, that shows that the cold front is passing.  In <a href="/wiki/Surface_weather_observation" title="Surface weather observation">surface weather observations</a>, a remark known as FROPA is coded when this occurs.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>  The effects from a cold front can last from hours to days. The air behind the front is cooler than the air it is replacing and the warm air is forced to rise, so it cools.  As the cooler air cannot hold as much moisture as warm air, clouds form and rain occurs.
+</p>
+<h2><span class="mw-headline" id="Characteristics_of_boundaries_around_an_extratropical_cyclone">Characteristics of boundaries around an extratropical cyclone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=6" title="Edit section: Characteristics of boundaries around an extratropical cyclone">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Occluded_cyclone.svg"><img alt="" class="thumbimage" data-file-height="550" data-file-width="710" decoding="async" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Occluded_cyclone.svg/220px-Occluded_cyclone.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Occluded_cyclone.svg/330px-Occluded_cyclone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Occluded_cyclone.svg/440px-Occluded_cyclone.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Occluded_cyclone.svg" title="Enlarge"></a></div><a href="/wiki/Occluded_front" title="Occluded front">Occluded cyclone</a> example. The triple point is the intersection of the cold, warm, and occluded fronts.</div></div></div>
+<p>Cold fronts form when a cooler air mass moves into an area of warmer air in the wake of a developing extratropical cyclone. The warmer air interacts with the cooler air mass along the boundary, and usually produces precipitation.  Cold fronts often follow a <a href="/wiki/Warm_front" title="Warm front">warm front</a> or squall line. Very commonly, cold fronts have a warm front ahead but with a perpendicular orientation.  In areas where cold fronts catch up to the warm front, the <a href="/wiki/Occluded_front" title="Occluded front">occluded front</a> develops.  Occluded fronts have an area of warm air aloft.  When such a feature forms poleward of an extratropical cyclone, it is known as a <b><a class="mw-redirect" href="/wiki/Trowal" title="Trowal">trowal</a></b>, which is short for <b>TR</b>ough <b>O</b>f <b>W</b>arm <b>A</b>ir a<b>L</b>oft.<sup class="reference" id="cite_ref-TROW_13-0"><a href="#cite_note-TROW-13">[13]</a></sup>  A cold front is considered a <a href="/wiki/Warm_front" title="Warm front">warm front</a> if it begins to retreat ahead of the next extratropical cyclone along the frontal boundary, and called a <a href="/wiki/Stationary_front" title="Stationary front">stationary front</a> if it stalls.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Air_mass" title="Air mass">Air mass</a></li>
+<li><a href="/wiki/Blue_Norther_(weather)" title="Blue Norther (weather)">Blue Norther (weather)</a></li>
+<li><a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Weather_front" title="Weather front">Weather front</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.climate.umn.edu/doc/journal/cold_december_2013.htm" rel="nofollow">"Cold December: 2013"</a>. <i>www.climate.umn.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.climate.umn.edu&amp;rft.atitle=Cold+December%3A+2013&amp;rft_id=http%3A%2F%2Fwww.climate.umn.edu%2Fdoc%2Fjournal%2Fcold_december_2013.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-DR-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-DR_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">David Roth (2006-12-14). <a class="external text" href="http://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf" rel="nofollow">"Unified Surface Analysis Manual"</a> <span class="cs1-format">(PDF)</span>. <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unified+Surface+Analysis+Manual&amp;rft.pub=Hydrometeorological+Prediction+Center&amp;rft.date=2006-12-14&amp;rft.au=David+Roth&amp;rft_id=http%3A%2F%2Fwww.wpc.ncep.noaa.gov%2Fsfc%2FUASfcManualVersion1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Paul M. Markowski; Yvette P. Richardson (2011-09-20). <a class="external text" href="https://books.google.com/?id=MDeYosfLLEYC&amp;pg=PA119&amp;lpg=PA119&amp;dq=cold+front+movement+warm+front+book#v=onepage&amp;q=cold%20front%20movement%20warm%20front%20book&amp;f=false" rel="nofollow"><i>Mesoscale Meteorology in Midlatitudes</i></a>. John Wiley and Sons. p. 120. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-119-96667-8" title="Special:BookSources/978-1-119-96667-8">978-1-119-96667-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mesoscale+Meteorology+in+Midlatitudes&amp;rft.pages=120&amp;rft.pub=John+Wiley+and+Sons&amp;rft.date=2011-09-20&amp;rft.isbn=978-1-119-96667-8&amp;rft.au=Paul+M.+Markowski&amp;rft.au=Yvette+P.+Richardson&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DMDeYosfLLEYC%26pg%3DPA119%26lpg%3DPA119%26dq%3Dcold%2Bfront%2Bmovement%2Bwarm%2Bfront%2Bbook%23v%3Donepage%26q%3Dcold%2520front%2520movement%2520warm%2520front%2520book%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Donald, Ahrens, C. (2007). <i>Meteorology today : an introduction to weather, climate, and the environment</i> (8th ed.). Belmont, Calif.: Thomson/Brooks/Cole. pp. 298–300. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0495011620" title="Special:BookSources/978-0495011620">978-0495011620</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/66911677" rel="nofollow">66911677</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Meteorology+today+%3A+an+introduction+to+weather%2C+climate%2C+and+the+environment&amp;rft.place=Belmont%2C+Calif.&amp;rft.pages=298-300&amp;rft.edition=8th&amp;rft.pub=Thomson%2FBrooks%2FCole&amp;rft.date=2007&amp;rft_id=info%3Aoclcnum%2F66911677&amp;rft.isbn=978-0495011620&amp;rft.aulast=Donald&amp;rft.aufirst=Ahrens%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-G&amp;N:207-212-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-G&amp;N:207-212_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lee M. Grenci; Jon M. Nese (2001). <a class="external text" href="https://books.google.com/?id=oh8lqM5obuYC&amp;pg=PA212" rel="nofollow"><i>A World of Weather: Fundamentals of Meteorology: A Text / Laboratory Manual</i></a> (3rd ed.). Kendall/Hunt Publishing Company. pp. 207–212. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7872-7716-1" title="Special:BookSources/978-0-7872-7716-1">978-0-7872-7716-1</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/51160155" rel="nofollow">51160155</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+World+of+Weather%3A+Fundamentals+of+Meteorology%3A+A+Text+%2F+Laboratory+Manual&amp;rft.pages=207-212&amp;rft.edition=3rd&amp;rft.pub=Kendall%2FHunt+Publishing+Company&amp;rft.date=2001&amp;rft_id=info%3Aoclcnum%2F51160155&amp;rft.isbn=978-0-7872-7716-1&amp;rft.au=Lee+M.+Grenci&amp;rft.au=Jon+M.+Nese&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Doh8lqM5obuYC%26pg%3DPA212&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Holt-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Holt_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Holt_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Holton, James R. (2004). <a class="external text" href="https://books.google.com/books?id=fhW5oDv3EPsC&amp;pg=PA277" rel="nofollow"><i>An Introduction to Dynamic Meteorology</i></a>. Academic Press. p. 277. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-12-354015-7" title="Special:BookSources/978-0-12-354015-7">978-0-12-354015-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Dynamic+Meteorology&amp;rft.pages=277&amp;rft.pub=Academic+Press&amp;rft.date=2004&amp;rft.isbn=978-0-12-354015-7&amp;rft.aulast=Holton&amp;rft.aufirst=James+R.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfhW5oDv3EPsC%26pg%3DPA277&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Weston437-438-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Weston437-438_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Weston, K. J. (1980). "An observational study of convective cloud streets". <i>Tellus</i>. <b>32</b> (5): 433–438. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1980TellA..32..433W" rel="nofollow">1980TellA..32..433W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.2153-3490.1980.tb00970.x" rel="nofollow">10.1111/j.2153-3490.1980.tb00970.x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tellus&amp;rft.atitle=An+observational+study+of+convective+cloud+streets&amp;rft.volume=32&amp;rft.issue=5&amp;rft.pages=433-438&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1111%2Fj.2153-3490.1980.tb00970.x&amp;rft_id=info%3Abibcode%2F1980TellA..32..433W&amp;rft.aulast=Weston&amp;rft.aufirst=K.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=prefrontal-squall-line1" rel="nofollow">Prefrontal squall line.</a> Retrieved on 2008-12-24.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schemm, S.; L. Nisi, A. Martinov; D. Leuenberg &amp; O. Martius (2016). "On the link between cold fronts and hail in Switzerland". <i>Atmospheric Science Letters</i>. <b>17</b> (5): 315–325. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fasl.660" rel="nofollow">10.1002/asl.660</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Atmospheric+Science+Letters&amp;rft.atitle=On+the+link+between+cold+fronts+and+hail+in+Switzerland&amp;rft.volume=17&amp;rft.issue=5&amp;rft.pages=315-325&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1002%2Fasl.660&amp;rft.au=Schemm%2C+S.&amp;rft.au=L.+Nisi%2C+A.+Martinov&amp;rft.au=D.+Leuenberg&amp;rft.au=O.+Martius&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">K. A. Browning and Robert J. Gurney (1999). <a class="external text" href="https://books.google.com/books?id=DO5K1NK_ZewC&amp;pg=PA116&amp;lpg=PA116&amp;dq=when+do+wide+rain+bands+form+near+cold+fronts%3F&amp;source=web&amp;ots=j2xQaps00_&amp;sig=SSYUXEW1H4QDe4UI0K3T0WIW6Tk&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=9&amp;ct=result#PPA117,M1" rel="nofollow">Global Energy and Water Cycles.</a> Retrieved on 2008-12-26.</span>
+</li>
+<li id="cite_note-Carl-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carl_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Carlson, Toby N. (1991). <a class="external text" href="https://books.google.com/books?id=2lIVAAAAIAAJ&amp;pg=PA435" rel="nofollow"><i>Mid-latitude Weather Systems</i></a>. HarperCollins Academic. p. 435. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-04-551115-0" title="Special:BookSources/978-0-04-551115-0">978-0-04-551115-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mid-latitude+Weather+Systems&amp;rft.pages=435&amp;rft.pub=HarperCollins+Academic&amp;rft.date=1991&amp;rft.isbn=978-0-04-551115-0&amp;rft.aulast=Carlson&amp;rft.aufirst=Toby+N.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D2lIVAAAAIAAJ%26pg%3DPA435&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Nav Canada (January 2005). <i>Aviation Weather Services Guide</i>. p. 36.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aviation+Weather+Services+Guide&amp;rft.pages=36&amp;rft.date=2005-01&amp;rft.au=Nav+Canada&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-TROW-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-TROW_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="mw-redirect" href="/wiki/St._Louis_University" title="St. Louis University">St. Louis University</a> (2003-08-04). <a class="external text" href="https://web.archive.org/web/20060916052440/http://www.eas.slu.edu/CIPS/Presentations/Conferences/NWA2002/Snow_NWA_02/tsld003.htm" rel="nofollow">"What is a TROWAL? via the Internet Wayback Machine"</a>. Archived from <a class="external text" href="http://www.eas.slu.edu/CIPS/Presentations/Conferences/NWA2002/Snow_NWA_02/tsld003.htm" rel="nofollow">the original</a> on 2006-09-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-11-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+a+TROWAL%3F+via+the+Internet+Wayback+Machine&amp;rft.date=2003-08-04&amp;rft.au=St.+Louis+University&amp;rft_id=http%3A%2F%2Fwww.eas.slu.edu%2FCIPS%2FPresentations%2FConferences%2FNWA2002%2FSnow_NWA_02%2Ftsld003.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACold+front"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cold_front&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/af/frnts/cfrnt/def.rxml" rel="nofollow">Cold Front: transition zone from warm air to cold air</a></li>
+<li><a class="external text" href="http://serc.carleton.edu/NAGTWorkshops/visualization/collections/weather_fronts.html" rel="nofollow">Weather Fronts</a></li>
+<li><a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/af/frnts/home.rxml" rel="nofollow">Fronts: the boundaries between air masses</a></li></ul>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg"><img alt="Cumulus clouds in fair weather.jpeg" data-file-height="600" data-file-width="800" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/36px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/48px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="24"/></a></span><a href="/wiki/Portal:Weather" title="Portal:Weather">Weather portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20190210115508
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.268 seconds
+Real time usage: 0.333 seconds
+Preprocessor visited node count: 637/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19164/2097152 bytes
+Template argument size: 74/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34987/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 5.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  275.938      1 -total
+ 67.62%  186.601      1 Template:Reflist
+ 27.26%   75.213      3 Template:Cite_web
+ 21.82%   60.198      6 Template:Cite_book
+ 12.00%   33.115      1 Template:Convert
+  9.61%   26.510      1 Template:Distinguish
+  8.69%   23.986      2 Template:Cite_journal
+  5.61%   15.484      1 Template:Portal_bar
+  0.91%    2.519      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20279444-0!canonical and timestamp 20190210115508 and revision id 880188315
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cold_front&amp;oldid=880188315">https://en.wikipedia.org/w/index.php?title=Cold_front&amp;oldid=880188315</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Weather_fronts" title="Category:Weather fronts">Weather fronts</a></li><li><a href="/wiki/Category:Cold" title="Category:Cold">Cold</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cold+front" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cold+front" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cold_front" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cold_front" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Cold_front">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cold_front&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cold_front&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cold_front" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cold_front" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cold_front&amp;oldid=880188315" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cold_front&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q210316" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cold_front&amp;id=880188315" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cold+front">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cold+front&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cold_front&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cold_front" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%87%D8%A9_%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9" hreflang="ar" lang="ar" title="جبهة باردة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A6%B2_%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A6%BE" hreflang="bn" lang="bn" title="শীতল বায়ুরেখা – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B_%D1%84%D1%80%D0%BE%D0%BD%D1%82" hreflang="be" lang="be" title="Халодны фронт – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD_%D1%84%D1%80%D0%BE%D0%BD%D1%82" hreflang="bg" lang="bg" title="Студен фронт – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Front_fred" hreflang="ca" lang="ca" title="Front fred – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Studen%C3%A1_fronta" hreflang="cs" lang="cs" title="Studená fronta – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Koldfront" hreflang="da" lang="da" title="Koldfront – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kaltfront" hreflang="de" lang="de" title="Kaltfront – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/K%C3%BClm_front" hreflang="et" lang="et" title="Külm front – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A8%CF%85%CF%87%CF%81%CF%8C_%CE%BC%CE%AD%CF%84%CF%89%CF%80%CE%BF" hreflang="el" lang="el" title="Ψυχρό μέτωπο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fronte_hotz" hreflang="eu" lang="eu" title="Fronte hotz – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%A8%D9%87%D9%87_%D8%B3%D8%B1%D8%AF" hreflang="fa" lang="fa" title="جبهه سرد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Front_froid" hreflang="fr" lang="fr" title="Front froid – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fronte_fr%C3%ADa" hreflang="gl" lang="gl" title="Fronte fría – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%95%9C%EB%9E%AD%EC%A0%84%EC%84%A0" hreflang="ko" lang="ko" title="한랭전선 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Hladna_fronta" hreflang="hr" lang="hr" title="Hladna fronta – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Aukst%C4%81_fronte" hreflang="lv" lang="lv" title="Aukstā fronte – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A8%E0%B5%81%E0%B4%B7%E0%B5%8D%E0%B4%A3%E0%B4%B5%E0%B4%BE%E0%B4%A4%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B4%82" hreflang="ml" lang="ml" title="അനുഷ്ണവാതമുഖം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Koufront" hreflang="nl" lang="nl" title="Koufront – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AF%92%E5%86%B7%E5%89%8D%E7%B7%9A" hreflang="ja" lang="ja" title="寒冷前線 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kaldfront" hreflang="no" lang="no" title="Kaldfront – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kaldfront" hreflang="nn" lang="nn" title="Kaldfront – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Front_ch%C5%82odny" hreflang="pl" lang="pl" title="Front chłodny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Frente_fria" hreflang="pt" lang="pt" title="Frente fria – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D1%80%D0%BE%D0%BD%D1%82" hreflang="ru" lang="ru" title="Холодный фронт – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Cold_front" hreflang="en-simple" lang="en-simple" title="Cold front – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A5%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8_%D1%84%D1%80%D0%BE%D0%BD%D1%82" hreflang="sr" lang="sr" title="Хладни фронт – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kylm%C3%A4_rintama" hreflang="fi" lang="fi" title="Kylmä rintama – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kallfront" hreflang="sv" lang="sv" title="Kallfront – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99" hreflang="th" lang="th" title="แนวปะทะอากาศเย็น – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/So%C4%9Fuk_hava_k%C3%BCtlesi" hreflang="tr" lang="tr" title="Soğuk hava kütlesi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%84%D1%80%D0%BE%D0%BD%D1%82" hreflang="uk" lang="uk" title="Холодний фронт – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Fr%C3%B4ng_l%E1%BA%A1nh" hreflang="vi" lang="vi" title="Frông lạnh – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%86%B7%E9%8B%92" hreflang="wuu" lang="wuu" title="冷鋒 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%86%B7%E9%8B%92" hreflang="yue" lang="yue" title="冷鋒 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%86%B7%E9%94%8B" hreflang="zh" lang="zh" title="冷锋 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q210316#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 January 2019, at 22:34<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cold_front&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.333","ppvisitednodes":{"value":637,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19164,"limit":2097152},"templateargumentsize":{"value":74,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34987,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  275.938      1 -total"," 67.62%  186.601      1 Template:Reflist"," 27.26%   75.213      3 Template:Cite_web"," 21.82%   60.198      6 Template:Cite_book"," 12.00%   33.115      1 Template:Convert","  9.61%   26.510      1 Template:Distinguish","  8.69%   23.986      2 Template:Cite_journal","  5.61%   15.484      1 Template:Portal_bar","  0.91%    2.519      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":5341776,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20190210115508","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cold front","url":"https:\/\/en.wikipedia.org\/wiki\/Cold_front","sameAs":"http:\/\/www.wikidata.org\/entity\/Q210316","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q210316","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-31T05:19:57Z","dateModified":"2019-01-25T22:34:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/Retreating_cold_front.jpg","headline":"leading edge of a cooler mass of air"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1256"});});</script>
+</body>
+</html>
+

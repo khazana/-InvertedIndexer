@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Astronomical object - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Astronomical_object","wgTitle":"Astronomical object","wgCurRevisionId":882329972,"wgRevisionId":882329972,"wgArticleId":206542,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Webarchive template other archives","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Astronomical objects"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Astronomical_object","wgRelevantArticleId":206542,"wgRequestId":"XGbFngpAICsAAEnxn3oAAAAS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Celestial_body","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Astronomical_object","wgWikibaseItemId":"Q6999","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.17" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/7e/243_ida.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Astronomical_object" rel="alternate"/>
+<link href="/w/index.php?title=Astronomical_object&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Astronomical_object&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Astronomical_object" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Astronomical_object rootpage-Astronomical_object skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Astronomical object</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Celestial_body&amp;redirect=no" title="Celestial body">Celestial body</a>)</span></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about naturally occurring objects. For artificial objects, see <a href="/wiki/Satellite" title="Satellite">Satellite</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Celestial object" and "Celestial body" redirect here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Celestial_(disambiguation)" title="Celestial (disambiguation)">Celestial</a>.</div>
+<table class="infobox" style="width: 300px;">
+<tbody><tr>
+<td>
+<table cellpadding="0" cellspacing="0" style="background: #aaa; white-space: nowrap;">
+<tbody><tr>
+<td><a href="/wiki/243_Ida" title="243 Ida"><img alt="Asteroid Ida with its own moon" data-file-height="520" data-file-width="718" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/243_ida.jpg/166px-243_ida.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/243_ida.jpg/249px-243_ida.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/243_ida.jpg/332px-243_ida.jpg 2x" width="166"/></a> <a href="/wiki/Mimas_(moon)" title="Mimas (moon)"><img alt="Mimas, a natural satellite of Saturn" data-file-height="1800" data-file-width="1800" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mimas_Cassini.jpg/120px-Mimas_Cassini.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mimas_Cassini.jpg/180px-Mimas_Cassini.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mimas_Cassini.jpg/240px-Mimas_Cassini.jpg 2x" width="120"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/C/2014_Q2_(Lovejoy)" title="C/2014 Q2 (Lovejoy)"><img alt="C2014 Q2.jpg" data-file-height="2614" data-file-width="3978" decoding="async" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/C2014_Q2.jpg/195px-C2014_Q2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/C2014_Q2.jpg/292px-C2014_Q2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/C2014_Q2.jpg/390px-C2014_Q2.jpg 2x" width="195"/></a> <a href="/wiki/Jupiter" title="Jupiter"><img alt="Planet Jupiter, a gas giant" data-file-height="3207" data-file-width="2260" decoding="async" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/90px-Portrait_of_Jupiter_from_Cassini.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/135px-Portrait_of_Jupiter_from_Cassini.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Portrait_of_Jupiter_from_Cassini.jpg/180px-Portrait_of_Jupiter_from_Cassini.jpg 2x" width="90"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/Sun" title="The Sun, a G-type star"><img alt="The Sun, a G-type star" data-file-height="3860" data-file-width="4044" decoding="async" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/102px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/153px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/203px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg 2x" width="102"/></a> <a href="/wiki/Sirius#Visibility" title="Sirius#Visibility"><img alt="Star Sirius A with white dwarf companion Sirius B" data-file-height="403" data-file-width="369" decoding="async" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG/89px-Sirius_A_and_B_Hubble_photo.editted.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG/134px-Sirius_A_and_B_Hubble_photo.editted.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG/178px-Sirius_A_and_B_Hubble_photo.editted.PNG 2x" width="89"/></a> <a href="/wiki/Crab_Nebula" title="Crab Nebula"><img alt="Crab Nebula.jpg" data-file-height="3864" data-file-width="3864" decoding="async" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/97px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/146px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/194px-Crab_Nebula.jpg 2x" width="97"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/Black_hole" title="Black hole"><img alt="Black hole (artist's animation)" data-file-height="256" data-file-width="320" decoding="async" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BlackHole_Lensing.gif/161px-BlackHole_Lensing.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BlackHole_Lensing.gif/243px-BlackHole_Lensing.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d6/BlackHole_Lensing.gif 2x" width="161"/></a> <a href="/wiki/Vela_pulsar" title="Vela pulsar"><img alt="Vela pulsar, a rotating neutron star" data-file-height="630" data-file-width="600" decoding="async" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vela_Pulsar_jet.jpg/123px-Vela_Pulsar_jet.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vela_Pulsar_jet.jpg/185px-Vela_Pulsar_jet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vela_Pulsar_jet.jpg/246px-Vela_Pulsar_jet.jpg 2x" width="123"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/Messier_80" title="Messier 80"><img alt="Ghiiiiiiiiiiilobular star cluster" data-file-height="1864" data-file-width="1777" decoding="async" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg/116px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg/174px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg/233px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg 2x" width="116"/></a> <a href="/wiki/Pleiades" title="Pleiades"><img alt="Pleiades, an open star cluster" data-file-height="3515" data-file-width="4877" decoding="async" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/169px-Pleiades_large.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/254px-Pleiades_large.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/339px-Pleiades_large.jpg 2x" width="169"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/Whirlpool_galaxy" title="Whirlpool galaxy"><img alt="The Whirlpool galaxy" data-file-height="7965" data-file-width="11477" decoding="async" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/176px-Messier51_sRGB.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/264px-Messier51_sRGB.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/352px-Messier51_sRGB.jpg 2x" width="176"/></a> <a href="/wiki/Abell_2744" title="Abell 2744"><img alt="Abel 2744, Galaxy cluster" data-file-height="4360" data-file-width="3909" decoding="async" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heic1401a-Abell2744-20140107.jpg/109px-Heic1401a-Abell2744-20140107.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heic1401a-Abell2744-20140107.jpg/164px-Heic1401a-Abell2744-20140107.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heic1401a-Abell2744-20140107.jpg/219px-Heic1401a-Abell2744-20140107.jpg 2x" width="109"/></a>
+</td></tr>
+<tr>
+<td style="padding-top: 2px;"><a href="/wiki/Hubble_Ultra-Deep_Field" title="Hubble Ultra-Deep Field"><img alt="The Hubble Ultra-Deep Field 2014 image with an estimated 10,000 galaxies" data-file-height="2100" data-file-width="2300" decoding="async" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg/102px-NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg/153px-NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg/204px-NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg 2x" width="102"/></a> <a class="image" href="/wiki/File:2MASS_LSS_chart-NEW_Nasa.jpg"><img alt="Map of galaxy superclusters and filaments" data-file-height="627" data-file-width="1239" decoding="async" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2MASS_LSS_chart-NEW_Nasa.jpg/184px-2MASS_LSS_chart-NEW_Nasa.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2MASS_LSS_chart-NEW_Nasa.jpg/277px-2MASS_LSS_chart-NEW_Nasa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2MASS_LSS_chart-NEW_Nasa.jpg/368px-2MASS_LSS_chart-NEW_Nasa.jpg 2x" width="184"/></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td>Selection of astronomical bodies and objects
+</td></tr></tbody></table>
+<p>An <b>astronomical object</b> or <b>celestial object</b> is a naturally occurring <a href="/wiki/Physical_body" title="Physical body">physical entity</a>, association, or structure that exists in the <a href="/wiki/Observable_universe" title="Observable universe">observable universe</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, the terms <i>object</i> and <i>body</i> are often used interchangeably. However, an <b>astronomical body</b> or <b>celestial body</b> is a single, tightly bound, contiguous entity, while an astronomical or celestial <i>object</i> is a complex, less cohesively bound structure, which may consist of multiple bodies or even other objects with substructures.
+</p><p>Examples of astronomical objects include <a href="/wiki/Planetary_system" title="Planetary system">planetary systems</a>, <a href="/wiki/Star_cluster" title="Star cluster">star clusters</a>, <a href="/wiki/Nebula" title="Nebula">nebulae</a>, and <a class="mw-redirect" href="/wiki/Galaxies" title="Galaxies">galaxies</a>, while <a href="/wiki/Asteroid" title="Asteroid">asteroids</a>, <a href="/wiki/Natural_satellite" title="Natural satellite">moons</a>, <a href="/wiki/Planet" title="Planet">planets</a>, and <a href="/wiki/Star" title="Star">stars</a> are astronomical bodies. A <a href="/wiki/Comet" title="Comet">comet</a> may be identified as both body and object: It is a <i>body</i> when referring to the frozen <a href="/wiki/Comet_nucleus" title="Comet nucleus">nucleus</a> of ice and dust, and an <i>object</i> when describing the entire comet with its diffuse <a href="/wiki/Coma_(cometary)" title="Coma (cometary)">coma</a> and <a href="/wiki/Comet_tail" title="Comet tail">tail</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Galaxy_and_larger"><span class="tocnumber">1</span> <span class="toctext">Galaxy and larger</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Within_a_galaxy"><span class="tocnumber">2</span> <span class="toctext">Within a galaxy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Categories_by_location"><span class="tocnumber">3</span> <span class="toctext">Categories by location</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Galaxy_and_larger">Galaxy and larger</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=1" title="Edit section: Galaxy and larger">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Universe" title="Universe">universe</a> can be viewed as having a hierarchical structure.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> At the largest scales, the fundamental component of assembly is the <a href="/wiki/Galaxy" title="Galaxy">galaxy</a>. Galaxies are organized into <a href="/wiki/Galaxy_groups_and_clusters" title="Galaxy groups and clusters">groups and clusters</a>, often within larger <a class="mw-redirect" href="/wiki/Superclusters" title="Superclusters">superclusters</a>, that are strung along great <a href="/wiki/Galaxy_filament" title="Galaxy filament">filaments</a> between nearly empty <a href="/wiki/Void_(astronomy)" title="Void (astronomy)">voids</a>, forming a web that spans the observable universe.<sup class="reference" id="cite_ref-smolin1998_3-0"><a href="#cite_note-smolin1998-3">[3]</a></sup>
+</p><p>The universe has a variety of <a href="/wiki/Galaxy_morphological_classification" title="Galaxy morphological classification">morphologies</a>, with <a href="/wiki/Irregular_galaxy" title="Irregular galaxy">irregular</a>, <a href="/wiki/Elliptical_galaxy" title="Elliptical galaxy">elliptical</a> and <a href="/wiki/Disc_galaxy" title="Disc galaxy">disk-like</a> shapes, depending on their formation and evolutionary histories, including <a href="/wiki/Interacting_galaxy" title="Interacting galaxy">interaction</a> with other galaxies, which may lead to a <a href="/wiki/Galaxy_merger" title="Galaxy merger">merger</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Disc galaxies encompass <a href="/wiki/Lenticular_galaxy" title="Lenticular galaxy">lenticular</a> and <a class="mw-redirect" href="/wiki/Spiral_galaxies" title="Spiral galaxies">spiral galaxies</a> with features, such as <a class="mw-redirect" href="/wiki/Spiral_arms" title="Spiral arms">spiral arms</a> and a distinct <a href="/wiki/Galactic_halo" title="Galactic halo">halo</a>. At the core, most galaxies have a <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black hole</a>, which may result in an <a href="/wiki/Active_galactic_nucleus" title="Active galactic nucleus">active galactic nucleus</a>. Galaxies can also have satellites in the form of <a class="mw-redirect" href="/wiki/Dwarf_galaxies" title="Dwarf galaxies">dwarf galaxies</a> and <a href="/wiki/Globular_cluster" title="Globular cluster">globular clusters</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Within_a_galaxy">Within a galaxy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=2" title="Edit section: Within a galaxy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The constituents of a galaxy are formed out of gaseous matter that assembles through gravitational self-attraction in a hierarchical manner. At this level, the resulting fundamental components are the stars, which are typically assembled in clusters from the various condensing nebulae.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The great variety of stellar forms are determined almost entirely by the mass, composition and evolutionary state of these stars. Stars may be found in multi-star systems that orbit about each other in a hierarchical organization. A planetary system and various minor objects such as asteroids, comets and debris, can form in a hierarchical process of accretion from the <a href="/wiki/Protoplanetary_disk" title="Protoplanetary disk">protoplanetary disks</a> that surrounds newly formed stars.
+</p><p>The various distinctive types of stars are shown by the <a href="/wiki/Hertzsprung%E2%80%93Russell_diagram" title="Hertzsprung–Russell diagram">Hertzsprung–Russell diagram</a> (H–R diagram)—a plot of absolute stellar luminosity versus surface temperature. Each star follows an <a class="mw-redirect" href="/wiki/Evolutionary_track" title="Evolutionary track">evolutionary track</a> across this diagram. If this track takes the star through a region containing an <a class="mw-redirect" href="/wiki/Intrinsic_variable" title="Intrinsic variable">intrinsic variable</a> type, then its physical properties can cause it to become a <a href="/wiki/Variable_star" title="Variable star">variable star</a>. An example of this is the <a href="/wiki/Instability_strip" title="Instability strip">instability strip</a>, a region of the H-R diagram that includes <a href="/wiki/Delta_Scuti_variable" title="Delta Scuti variable">Delta Scuti</a>, <a href="/wiki/RR_Lyrae_variable" title="RR Lyrae variable">RR Lyrae</a> and <a href="/wiki/Cepheid_variable" title="Cepheid variable">Cepheid variables</a>.<sup class="reference" id="cite_ref-hansen_et_al2004_7-0"><a href="#cite_note-hansen_et_al2004-7">[7]</a></sup> Depending on the initial mass of the star and the presence or absence of a companion, a star may spend the last part of its life as a <a href="/wiki/Compact_star" title="Compact star">compact object</a>; either a <a href="/wiki/White_dwarf" title="White dwarf">white dwarf</a>, <a href="/wiki/Neutron_star" title="Neutron star">neutron star</a>, or <a href="/wiki/Black_hole" title="Black hole">black hole</a>.
+</p>
+<h2><span class="mw-headline" id="Categories_by_location">Categories by location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=3" title="Edit section: Categories by location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Lists_of_astronomical_objects" title="Lists of astronomical objects">Lists of astronomical objects</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/List_of_Solar_System_objects_by_size" title="List of Solar System objects by size">List of Solar System objects by size</a></div>
+<p>The table below lists the general categories of bodies and objects by their location or structure.
+</p>
+<table cellpadding="0" cellspacing="0" class="wikitable" style="white-space: nowrap;">
+<tbody><tr>
+<th rowspan="2" valign="middle">Solar bodies
+</th>
+<th colspan="3">Extrasolar
+</th></tr>
+<tr>
+<th>Simple bodies
+</th>
+<th>Compound objects
+</th>
+<th>Extended objects
+</th></tr>
+<tr valign="top">
+<td>
+<div style="background-color: #ccffcc; border-top: 1px solid #00CC00; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Solar_System" title="Solar System">Solar System</a></div>
+<ul><li><a href="/wiki/Giant_planet" title="Giant planet">Giant planet</a>
+<ul><li><a href="/wiki/Gas_giant" title="Gas giant">Gas giant</a></li>
+<li><a href="/wiki/Ice_giant" title="Ice giant">Ice giant</a></li></ul></li>
+<li><a href="/wiki/Heliosphere" title="Heliosphere">Heliosphere</a></li>
+<li><a href="/wiki/Oort_cloud" title="Oort cloud">Oort cloud</a></li>
+<li><a href="/wiki/Meteoroid" title="Meteoroid">Meteoroid</a>
+<ul><li><a href="/wiki/Micrometeoroid" title="Micrometeoroid">Micrometeoroid</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Meteor" title="Meteor">Meteor</a>
+<ul><li><a href="/wiki/Bolide" title="Bolide">Bolide</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Moons_of_the_Solar_System" title="Moons of the Solar System">Moons</a></li>
+<li><a class="mw-redirect" href="/wiki/Minor_planets" title="Minor planets">Minor planets</a> <span style="font-size:85%;">(see below)</span>
+<ul><li><a href="/wiki/Asteroid" title="Asteroid">Asteroids</a></li>
+<li><a href="/wiki/Dwarf_planet" title="Dwarf planet">Dwarf planets</a></li>
+<li><a href="/wiki/Minor-planet_moon" title="Minor-planet moon">Moons</a></li>
+<li><a href="/wiki/Binary_asteroid" title="Binary asteroid">Binaries</a></li></ul></li>
+<li><a href="/wiki/Planet" title="Planet">Planets</a> <span style="font-size:85%;">(see below)</span>
+<ul><li><a class="mw-redirect" href="/wiki/Ring_system_(astronomy)" title="Ring system (astronomy)">Ring system</a></li></ul></li>
+<li><a href="/wiki/Trans-Neptunian_object" title="Trans-Neptunian object">Trans-Neptunian objects</a></li>
+<li><a href="/wiki/Small_Solar_System_body" title="Small Solar System body">Small Solar System body</a>
+<ul><li><a href="/wiki/Comet" title="Comet">Comets</a></li>
+<li><a href="/wiki/Planetesimal" title="Planetesimal">Planetesimal</a></li>
+<li><a href="/wiki/Contact_binary_(small_Solar_System_body)" title="Contact binary (small Solar System body)">Contact binary</a></li></ul></li>
+<li><a href="/wiki/Sun" title="Sun">Sun</a></li></ul>
+<div style="background-color: #ccffcc; border-top: 1px solid #00CC00; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Planets</div>
+<ul><li><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a></li>
+<li><a href="/wiki/Venus" title="Venus">Venus</a></li>
+<li><a href="/wiki/Earth" title="Earth">Earth</a> – <a href="/wiki/Moon" title="Moon">Moon</a></li>
+<li><a href="/wiki/Mars" title="Mars">Mars</a> – <a href="/wiki/Moons_of_Mars" title="Moons of Mars">moons</a></li>
+<li><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> – <a href="/wiki/Moons_of_Jupiter" title="Moons of Jupiter">moons</a></li>
+<li><a href="/wiki/Saturn" title="Saturn">Saturn</a> – <a href="/wiki/Moons_of_Saturn" title="Moons of Saturn">moons</a></li>
+<li><a href="/wiki/Uranus" title="Uranus">Uranus</a> – <a href="/wiki/Moons_of_Uranus" title="Moons of Uranus">moons</a></li>
+<li><a href="/wiki/Neptune" title="Neptune">Neptune</a> – <a href="/wiki/Moons_of_Neptune" title="Moons of Neptune">moons</a></li></ul>
+<div style="background-color: #ccffcc; border-top: 1px solid #00CC00; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Dwarf planets</div>
+<ul><li><a href="/wiki/Pluto" title="Pluto">Pluto</a> – <a href="/wiki/Moons_of_Pluto" title="Moons of Pluto">moons</a></li>
+<li><a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a> – <a href="/wiki/Dysnomia_(moon)" title="Dysnomia (moon)">Dysnomia</a></li>
+<li><a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">Ceres</a></li>
+<li><a href="/wiki/Makemake" title="Makemake">Makemake</a> – <a class="mw-redirect" href="/wiki/S/2015_(136472)_1" title="S/2015 (136472) 1">moon</a></li>
+<li><a href="/wiki/Haumea" title="Haumea">Haumea</a> – <a href="/wiki/Moons_of_Haumea" title="Moons of Haumea">moons</a></li>
+<li><a href="/wiki/List_of_possible_dwarf_planets" title="List of possible dwarf planets">Others</a></li></ul>
+<div style="background-color: #ccffcc; border-top: 1px solid #00CC00; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Minor planets</div>
+<ul><li><a href="/wiki/Vulcanoid" title="Vulcanoid">Vulcanoids</a></li>
+<li><a class="mw-redirect" href="/wiki/Apohele_asteroid" title="Apohele asteroid">Apoheles</a></li>
+<li><a href="/wiki/Near-Earth_object" title="Near-Earth object">Near-Earth objects</a>
+<ul><li><a href="/wiki/Potentially_hazardous_object" title="Potentially hazardous object">PHO</a></li>
+<li><a href="/wiki/Arjuna_asteroid" title="Arjuna asteroid">Arjunas</a></li>
+<li><a href="/wiki/Aten_asteroid" title="Aten asteroid">Atens</a></li>
+<li><a href="/wiki/Apollo_asteroid" title="Apollo asteroid">Apollos</a></li>
+<li><a href="/wiki/Amor_asteroid" title="Amor asteroid">Amors</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Mars-crosser_asteroid" title="Mars-crosser asteroid">Mars-crossers</a></li>
+<li><a href="/wiki/Asteroid_belt" title="Asteroid belt">Asteroid belt</a> <span style="font-size:85%;">(<a href="/wiki/Asteroid_family" title="Asteroid family">families</a>)</span>
+<ul><li><a class="mw-redirect" href="/wiki/Alinda_family" title="Alinda family">Alindas</a></li>
+<li><a href="/wiki/Cybele_asteroid" title="Cybele asteroid">Cybeles</a></li>
+<li><a href="/wiki/Eos_family" title="Eos family">Eos</a></li>
+<li><a href="/wiki/Flora_family" title="Flora family">Floras</a></li>
+<li><a href="/wiki/Hilda_asteroid" title="Hilda asteroid">Hildas</a></li>
+<li><a class="mw-redirect" href="/wiki/Hungaria_family" title="Hungaria family">Hungarias</a></li>
+<li><a href="/wiki/Hygiea_family" title="Hygiea family">Hygieas</a></li>
+<li><a href="/wiki/Koronis_family" title="Koronis family">Koronis</a></li>
+<li><a href="/wiki/Maria_family" title="Maria family">Marias</a></li>
+<li><a href="/wiki/Nysa_family" title="Nysa family">Nysas</a></li>
+<li><a class="mw-redirect" href="/wiki/Pallas_asteroid" title="Pallas asteroid">Pallas</a></li>
+<li><a href="/wiki/Phocaea_family" title="Phocaea family">Phocaeas</a></li>
+<li><a href="/wiki/Themis_family" title="Themis family">Themis</a></li>
+<li><a href="/wiki/Vesta_family" title="Vesta family">Vesta</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Trojan_(astronomy)" title="Trojan (astronomy)">Trojans</a>
+<ul><li><a href="/wiki/Earth_trojan" title="Earth trojan">Earth</a></li>
+<li><a href="/wiki/Mars_trojan" title="Mars trojan">Mars</a></li>
+<li><a href="/wiki/Jupiter_trojan" title="Jupiter trojan">Jupiter</a></li>
+<li><a href="/wiki/Uranus_trojan" title="Uranus trojan">Uranus</a></li>
+<li><a href="/wiki/Neptune_trojan" title="Neptune trojan">Neptune</a></li></ul></li>
+<li><a href="/wiki/Centaur_(minor_planet)" title="Centaur (minor planet)">Centaurs</a>
+<ul><li><a href="/wiki/Damocloid" title="Damocloid">Damocloids</a></li></ul></li>
+<li><a href="/wiki/Kuiper_belt" title="Kuiper belt">Kuiper belt</a> objects
+<ul><li><a class="mw-redirect" href="/wiki/Classical_Kuiper-belt_object" title="Classical Kuiper-belt object">Classical KBOs</a></li>
+<li><a href="/wiki/Resonant_trans-Neptunian_object" title="Resonant trans-Neptunian object">Resonant TNOs</a>
+<ul><li><a href="/wiki/Plutino" title="Plutino">Plutinos</a> <span style="font-size:85%;">(2:3)</span></li>
+<li><a class="mw-redirect" href="/wiki/Twotino" title="Twotino">Twotinos</a> <span style="font-size:85%;">(1:2)</span></li></ul></li></ul></li>
+<li><a href="/wiki/Scattered_disc" title="Scattered disc">Scattered disc</a> objects
+<ul><li><a href="/wiki/Detached_object" title="Detached object">Detached objects</a></li></ul></li>
+<li><a href="/wiki/Sednoid" title="Sednoid">Sednoid</a></li></ul>
+</td>
+<td>
+<div style="background-color: #FFCCCC; border-top: 1px solid #FF6666; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Exoplanet" title="Exoplanet">Exoplanets</a></div>
+<ul><li><a href="/wiki/Chthonian_planet" title="Chthonian planet">Chthonian</a> <span style="font-size:85%;">(theoret.)</span></li>
+<li><a href="/wiki/Earth_analog" title="Earth analog">Earth analog</a></li>
+<li><a href="/wiki/Eccentric_Jupiter" title="Eccentric Jupiter">Eccentric Jupiter</a></li>
+<li><a href="/wiki/Hot_Jupiter" title="Hot Jupiter">Hot Jupiter</a></li>
+<li><a href="/wiki/Hot_Neptune" title="Hot Neptune">Hot Neptune</a></li>
+<li><a class="mw-redirect" href="/wiki/Interstellar_planet" title="Interstellar planet">Rogue planet</a></li>
+<li><a href="/wiki/Ocean_planet" title="Ocean planet">Ocean</a> <span style="font-size:85%;">(theoret.)</span></li>
+<li><a href="/wiki/Pulsar_planet" title="Pulsar planet">Pulsar planet</a></li>
+<li><a href="/wiki/Super-Earth" title="Super-Earth">Super-Earth</a></li>
+<li><a class="mw-redirect" href="/wiki/Trojan_planet" title="Trojan planet">Trojan</a> <span style="font-size:85%;">(theoret.)</span></li></ul>
+<div style="background-color: #FFD9B3; border-top: 1px solid #FF870F; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Brown_dwarf" title="Brown dwarf">Brown dwarfs</a></div>
+<ul><li>Types
+<ul><li><a href="/wiki/Brown_dwarf#Spectral_class_M" title="Brown dwarf">M</a>  <b>·</b> <a href="/wiki/Brown_dwarf#Spectral_class_L" title="Brown dwarf">L</a>  <b>·</b> <a href="/wiki/Brown_dwarf#Spectral_class_T" title="Brown dwarf">T</a>  <b>·</b> <a href="/wiki/Brown_dwarf#Spectral_class_Y" title="Brown dwarf">Y</a></li></ul></li>
+<li><a href="/wiki/Sub-brown_dwarf" title="Sub-brown dwarf">Sub-brown dwarfs</a></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Star" title="Star">Stars</a> <span style="font-size:85%;">(see sections below)</span></div>
+<ul><li><a href="/wiki/Stellar_classification" title="Stellar classification">Stellar classification</a></li>
+<li><a href="/wiki/Stellar_population" title="Stellar population">Stellar population</a> <span style="font-size:85%;">III, II, I</span></li>
+<li><a class="mw-redirect" href="/wiki/Peculiar_star" title="Peculiar star">Peculiar star</a></li>
+<li><a href="/wiki/Stellar_evolution" title="Stellar evolution">Stellar evolution</a></li>
+<li><a href="/wiki/Variable_star" title="Variable star">Variable star</a></li>
+<li><a href="/wiki/Compact_star" title="Compact star">Compact star</a></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">By luminosity / <a href="/wiki/Stellar_evolution" title="Stellar evolution">evolution</a></div>
+<ul><li><a href="/wiki/Protostar" title="Protostar">Protostar</a></li>
+<li><a href="/wiki/Young_stellar_object" title="Young stellar object">Young stellar object</a></li>
+<li><a href="/wiki/Pre-main-sequence_star" title="Pre-main-sequence star">Pre-main-sequence</a></li>
+<li><a href="/wiki/Main_sequence" title="Main sequence">Main sequence</a></li>
+<li><a href="/wiki/Subdwarf" title="Subdwarf">Subdwarfs</a></li>
+<li><a href="/wiki/Subgiant" title="Subgiant">Subgiants</a></li>
+<li><a href="/wiki/Giant_star" title="Giant star">Giants</a>
+<ul><li><a href="/wiki/Red_giant" title="Red giant">Red</a> / <a href="/wiki/Blue_giant" title="Blue giant">Blue</a></li></ul></li>
+<li><a href="/wiki/Bright_giant" title="Bright giant">Bright giants</a></li>
+<li><a class="mw-redirect" href="/wiki/Supergiant" title="Supergiant">Supergiants</a>
+<ul><li><a class="mw-redirect" href="/wiki/Red_supergiant" title="Red supergiant">Red</a> / <a class="mw-redirect" href="/wiki/Blue_supergiant" title="Blue supergiant">Blue</a></li></ul></li>
+<li><a href="/wiki/Hypergiant" title="Hypergiant">Hypergiants</a></li>
+<li><a href="/wiki/Quasi-star" title="Quasi-star">Quasi-star</a> <span style="font-size:85%;">(hypothet.)</span></li>
+<li>Compact stars <span style="font-size:85%;">(see below)</span></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Compact_star" title="Compact star">Compact stars</a></div>
+<ul><li><a href="/wiki/Black_hole" title="Black hole">Black hole</a>
+<ul><li><a href="/wiki/Stellar_black_hole" title="Stellar black hole">Stellar</a></li>
+<li><a href="/wiki/Intermediate-mass_black_hole" title="Intermediate-mass black hole">Intermediate-mass</a></li>
+<li><a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">Supermassive</a></li>
+<li><a class="mw-redirect" href="/wiki/Gamma_ray_burst" title="Gamma ray burst">GRBs</a></li></ul></li>
+<li><a href="/wiki/Neutron_star" title="Neutron star">Neutron star</a>
+<ul><li><a href="/wiki/Magnetar" title="Magnetar">Magnetar</a></li>
+<li><a href="/wiki/Pulsar" title="Pulsar">Pulsar</a></li>
+<li><a href="/wiki/Thorne%E2%80%93%C5%BBytkow_object" title="Thorne–Żytkow object">Thorne–Żytkow object</a> <span style="font-size:85%;">(hypothet.)</span></li></ul></li>
+<li><a href="/wiki/Preon_star" title="Preon star">Preon star</a> <span style="font-size:85%;">(hypothet.)</span></li>
+<li><a href="/wiki/Quark_star" title="Quark star">Quark star</a> <span style="font-size:85%;">(hypothet.)</span></li>
+<li><a href="/wiki/White_dwarf" title="White dwarf">White dwarf</a>
+<ul><li><a href="/wiki/Black_dwarf" title="Black dwarf">Black dwarf</a> <span style="font-size:85%;">(theoret.)</span></li></ul></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">By <a class="mw-redirect" href="/wiki/Peculiar_star" title="Peculiar star">peculiar stars</a></div>
+<ul><li>A-type
+<ul><li><a class="mw-redirect" href="/wiki/Peculiar_A-type_star" title="Peculiar A-type star">Peculiar</a>  <b>·</b> <a class="mw-redirect" href="/wiki/Metallic_A-type_star" title="Metallic A-type star">Metallic</a></li></ul></li>
+<li><a href="/wiki/Barium_star" title="Barium star">Barium</a></li>
+<li><a href="/wiki/Blue_straggler" title="Blue straggler">Blue straggler</a></li>
+<li><a href="/wiki/Carbon_star" title="Carbon star">Carbon</a></li>
+<li><a class="mw-redirect" href="/wiki/P_Cygni_star" title="P Cygni star">P Cygni</a></li>
+<li><a href="/wiki/S-type_star" title="S-type star">S-type</a></li>
+<li><a href="/wiki/Shell_star" title="Shell star">Shell</a></li>
+<li><a href="/wiki/Wolf%E2%80%93Rayet_star" title="Wolf–Rayet star">Wolf–Rayet</a></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Variable_star" title="Variable star">Variables</a> – <a href="/wiki/Variable_star#Extrinsic_variable_stars" title="Variable star">Extrinsic</a></div>
+<ul><li><a class="mw-redirect" href="/wiki/Rotating_variable" title="Rotating variable">Rotating</a>
+<ul><li><a class="mw-redirect" href="/wiki/Alpha2_Canum_Venaticorum_star" title="Alpha2 Canum Venaticorum star">Alpha2 CVn</a></li>
+<li><a href="/wiki/Rotating_ellipsoidal_variable" title="Rotating ellipsoidal variable">Ellipsoidal</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Eclipsing_binary" title="Eclipsing binary">Eclipsing binaries</a>
+<ul><li><a href="/wiki/Algol_variable" title="Algol variable">Algol</a></li>
+<li><a href="/wiki/Beta_Lyrae" title="Beta Lyrae">Beta Lyrae</a></li>
+<li><a href="/wiki/W_Ursae_Majoris" title="W Ursae Majoris">W Ursae Majoris</a></li></ul></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Variable_star" title="Variable star">Variables</a> – <a href="/wiki/Variable_star#Intrinsic_variable_stars" title="Variable star">Intrinsic</a></div>
+<ul><li><a class="mw-redirect" href="/wiki/Pulsating_variable" title="Pulsating variable">Pulsating</a>
+<ul><li><a href="/wiki/Cepheid_variable" title="Cepheid variable">Cepheids</a></li>
+<li><a href="/wiki/W_Virginis_variable" title="W Virginis variable">W Virginis</a></li>
+<li><a href="/wiki/Delta_Scuti_variable" title="Delta Scuti variable">Delta Scuti</a></li>
+<li><a href="/wiki/RR_Lyrae_variable" title="RR Lyrae variable">RR Lyrae</a></li>
+<li><a href="/wiki/Mira_variable" title="Mira variable">Mira</a></li>
+<li><a class="mw-redirect" href="/wiki/Semiregular_variable" title="Semiregular variable">Semiregular</a></li>
+<li><a href="/wiki/Irregular_variable" title="Irregular variable">Irregular</a></li>
+<li><a href="/wiki/Beta_Cephei_variable" title="Beta Cephei variable">Beta Cephei</a></li>
+<li><a href="/wiki/Alpha_Cygni_variable" title="Alpha Cygni variable">Alpha Cygni</a></li>
+<li><a href="/wiki/RV_Tauri_variable" title="RV Tauri variable">RV Tauri</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Eruptive_variable" title="Eruptive variable">Eruptive variables</a>
+<ul><li><a href="/wiki/Flare_star" title="Flare star">Flare stars</a></li>
+<li><a class="mw-redirect" href="/wiki/T_Tauri_variable" title="T Tauri variable">T Tauri</a></li>
+<li><a class="mw-redirect" href="/wiki/FU_Orionis_variable" title="FU Orionis variable">FU Orionis</a></li>
+<li><a href="/wiki/R_Coronae_Borealis_variable" title="R Coronae Borealis variable">RCr Borealis</a></li>
+<li><a href="/wiki/Luminous_blue_variable" title="Luminous blue variable">Luminous blue</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Cataclysmic_variable" title="Cataclysmic variable">Cataclysmic</a>
+<ul><li><a class="mw-redirect" href="/wiki/Symbiotic_variable" title="Symbiotic variable">Symbiotics</a></li>
+<li><a href="/wiki/Dwarf_nova" title="Dwarf nova">Dwarf nova</a></li>
+<li><a href="/wiki/Nova" title="Nova">Nova</a></li>
+<li><a href="/wiki/Supernova" title="Supernova">Supernova</a>
+<ul><li><a href="/wiki/Supernova#Classification" title="Supernova">Type:</a> <a href="/wiki/Type_II_supernova" title="Type II supernova">Ia</a>  <b>·</b> <a href="/wiki/Type_Ib_and_Ic_supernovae" title="Type Ib and Ic supernovae">Ib/c</a>  <b>·</b> <a href="/wiki/Type_II_supernova" title="Type II supernova">II</a></li>
+<li><a class="mw-redirect" href="/wiki/Hypernova" title="Hypernova">Hypernova</a></li>
+<li><a class="mw-redirect" href="/wiki/Gamma_ray_burst" title="Gamma ray burst">GRBs</a></li></ul></li></ul></li></ul>
+<div style="background-color: #FFFF99; border-top: 1px solid #FFC966; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">By <a class="mw-redirect" href="/wiki/Spectral_type" title="Spectral type">spectral types</a></div>
+<ul><li><a href="/wiki/Category:O-type_stars" title="Category:O-type stars">O</a> <span style="font-size:85%;">(blue)</span></li>
+<li><a href="/wiki/Category:B-type_stars" title="Category:B-type stars">B</a> <span style="font-size:85%;">(blue-white)</span></li>
+<li><a href="/wiki/Category:A-type_stars" title="Category:A-type stars">A</a> <span style="font-size:85%;">(white)</span></li>
+<li><a href="/wiki/Category:F-type_stars" title="Category:F-type stars">F</a> <span style="font-size:85%;">(yellow-white)</span></li>
+<li><a href="/wiki/Category:G-type_stars" title="Category:G-type stars">G</a> <span style="font-size:85%;">(yellow)</span></li>
+<li><a href="/wiki/Category:K-type_stars" title="Category:K-type stars">K</a> <span style="font-size:85%;">(orange)</span></li>
+<li><a href="/wiki/Category:M-type_stars" title="Category:M-type stars">M</a> <span style="font-size:85%;">(red)</span></li></ul>
+</td>
+<td>
+<div style="background-color: #D4E2FC; border-top: 1px solid #5F92F2; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Systems</div>
+<ul><li><a href="/wiki/Planetary_system" title="Planetary system">Planetary</a></li>
+<li><a href="/wiki/Star_system" title="Star system">Star</a>
+<ul><li><a href="/wiki/Star" title="Star">Stars in general</a></li>
+<li><a href="/wiki/Binary_star" title="Binary star">Binary</a> <span style="font-size:85%;">(see below)</span></li>
+<li><a class="mw-redirect" href="/wiki/Triple_star_system" title="Triple star system">Triples</a></li>
+<li><a href="/wiki/Star_system#Higher_multiplicities" title="Star system">Higher order</a></li></ul></li></ul>
+<div style="background-color: #D4E2FC; border-top: 1px solid #5F92F2; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Binary_star" title="Binary star">Binary stars</a></div>
+<ul><li>By observation
+<ul><li><a class="mw-redirect" href="/wiki/Optical_binary" title="Optical binary">Optical</a></li>
+<li><a href="/wiki/Visual_binary" title="Visual binary">Visual</a></li>
+<li><a class="mw-redirect" href="/wiki/Astrometric_binary" title="Astrometric binary">Astrometric</a></li>
+<li><a class="mw-redirect" href="/wiki/Spectroscopic_binary" title="Spectroscopic binary">Spectroscopic</a></li>
+<li><a class="mw-redirect" href="/wiki/Eclipsing_binary" title="Eclipsing binary">Eclipsing</a></li></ul></li>
+<li>Close binaries
+<ul><li><a class="mw-redirect" href="/wiki/Detached_binary" title="Detached binary">Detached</a></li>
+<li><a class="mw-redirect" href="/wiki/Semidetached_binary" title="Semidetached binary">Semidetached</a></li>
+<li><a href="/wiki/Contact_binary" title="Contact binary">Contact</a></li></ul></li>
+<li><a href="/wiki/X-ray_binary" title="X-ray binary">X-ray</a>
+<ul><li><a href="/wiki/X-ray_burster" title="X-ray burster">Burster</a></li></ul></li></ul>
+<div style="background-color: #D4E2FC; border-top: 1px solid #5F92F2; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Stellar groupings</div>
+<ul><li><a href="/wiki/Star_cluster" title="Star cluster">Star cluster</a>
+<ul><li><a href="/wiki/Stellar_association" title="Stellar association">Stellar association</a></li>
+<li><a href="/wiki/Open_cluster" title="Open cluster">Open</a></li>
+<li><a href="/wiki/Globular_cluster" title="Globular cluster">Globular</a></li>
+<li><a href="/wiki/Hypercompact_stellar_system" title="Hypercompact stellar system">Hypercompact</a></li></ul></li>
+<li><a href="/wiki/Constellation" title="Constellation">Constellation</a></li>
+<li><a href="/wiki/Asterism_(astronomy)" title="Asterism (astronomy)">Asterism</a></li></ul>
+<div style="background-color: #D4E2FC; border-top: 1px solid #5F92F2; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Galaxies</div>
+<ul><li><a href="/wiki/Galaxy" title="Galaxy">Galaxies in general</a></li>
+<li><a href="/wiki/Galaxy_groups_and_clusters" title="Galaxy groups and clusters">Group and cluster</a></li>
+<li><a href="/wiki/Supercluster" title="Supercluster">Supercluster</a></li>
+<li>By component
+<ul><li><a class="mw-redirect" href="/wiki/Galactic_bulge" title="Galactic bulge">Bulge</a></li>
+<li><a class="mw-redirect" href="/wiki/Spiral_arm" title="Spiral arm">Spiral arm</a></li>
+<li><a href="/wiki/Thin_disk" title="Thin disk">Thin disk</a></li>
+<li><a href="/wiki/Thick_disk" title="Thick disk">Thick disk</a></li>
+<li><a href="/wiki/Galactic_halo" title="Galactic halo">Halo</a></li>
+<li><a href="/wiki/Galactic_corona" title="Galactic corona">Corona</a></li></ul></li>
+<li>By <a class="mw-redirect" href="/wiki/Galaxy_morphology" title="Galaxy morphology">morphology</a>
+<ul><li><a href="/wiki/Spiral_galaxy" title="Spiral galaxy">Spiral</a></li>
+<li><a href="/wiki/Barred_spiral_galaxy" title="Barred spiral galaxy">Barred spiral</a></li>
+<li><a href="/wiki/Lenticular_galaxy" title="Lenticular galaxy">Lenticular</a></li>
+<li><a href="/wiki/Elliptical_galaxy" title="Elliptical galaxy">Elliptical</a></li>
+<li><a href="/wiki/Ring_galaxy" title="Ring galaxy">Ring</a></li>
+<li><a href="/wiki/Irregular_galaxy" title="Irregular galaxy">Irregular</a></li></ul></li>
+<li>By size
+<ul><li><a href="/wiki/Brightest_cluster_galaxy" title="Brightest cluster galaxy">Brightest cluster</a></li>
+<li><a class="mw-redirect" href="/wiki/Giant_elliptical_galaxy" title="Giant elliptical galaxy">Giant elliptical</a></li>
+<li><a href="/wiki/Dwarf_galaxy" title="Dwarf galaxy">Dwarf</a></li></ul></li>
+<li>By type</li>
+<li><a href="/wiki/Starburst_galaxy" title="Starburst galaxy">Starburst</a></li>
+<li><a class="mw-redirect" href="/wiki/Dark_galaxy_(astronomy)" title="Dark galaxy (astronomy)">Dark</a></li>
+<li><a class="mw-redirect" href="/wiki/Active_galaxy" title="Active galaxy">Active</a>
+<ul><li><a href="/wiki/Radio_galaxy" title="Radio galaxy">Radio</a></li>
+<li><a href="/wiki/Seyfert_galaxy" title="Seyfert galaxy">Seyfert</a></li>
+<li><a href="/wiki/Quasar" title="Quasar">Quasar</a>
+<ul><li><a href="/wiki/Blazar" title="Blazar">Blazar</a></li></ul></li></ul></li></ul>
+</td>
+<td>
+<div style="background-color: #FFCCE6; border-top: 1px solid #FF339C; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;">Discs and media</div>
+<ul><li>Interplanetary
+<ul><li><a href="/wiki/Interplanetary_dust_cloud" title="Interplanetary dust cloud">Dust cloud</a></li>
+<li><a href="/wiki/Interplanetary_medium" title="Interplanetary medium">Medium</a></li>
+<li><a href="/wiki/Interplanetary_magnetic_field" title="Interplanetary magnetic field">Magnetic field</a></li></ul></li>
+<li>Stellar disc
+<ul><li><a class="mw-redirect" href="/wiki/Accretion_disc" title="Accretion disc">Accretion</a></li>
+<li><a class="mw-redirect" href="/wiki/Circumstellar_disk" title="Circumstellar disk">Circumstellar</a>
+<ul><li><a href="/wiki/Protoplanetary_disk" title="Protoplanetary disk">Protoplanetary</a></li>
+<li><a href="/wiki/Debris_disk" title="Debris disk">Debris</a></li></ul></li></ul></li>
+<li>Interstellar
+<ul><li><a href="/wiki/Interstellar_cloud" title="Interstellar cloud">Cloud</a></li>
+<li><a href="/wiki/Interstellar_medium" title="Interstellar medium">Medium</a></li></ul></li>
+<li>Intergalactic
+<ul><li><a href="/wiki/Intergalactic_dust" title="Intergalactic dust">Dust</a></li>
+<li><a class="mw-redirect" href="/wiki/Intergalactic_medium" title="Intergalactic medium">Medium</a></li></ul></li></ul>
+<div style="background-color: #FFCCE6; border-top: 1px solid #FF339C; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Nebula" title="Nebula">Nebulae</a></div>
+<ul><li><a href="/wiki/Emission_nebula" title="Emission nebula">Emission</a>
+<ul><li><a href="/wiki/Planetary_nebula" title="Planetary nebula">Planetary</a></li>
+<li><a href="/wiki/Supernova_remnant" title="Supernova remnant">Supernova remnant</a></li>
+<li><a class="mw-redirect" href="/wiki/Plerion" title="Plerion">Plerion</a></li>
+<li><a href="/wiki/H_II_region" title="H II region">H II region</a></li></ul></li>
+<li><a href="/wiki/Reflection_nebula" title="Reflection nebula">Reflection</a></li>
+<li><a href="/wiki/Dark_nebula" title="Dark nebula">Dark nebulae</a>
+<ul><li><a href="/wiki/Molecular_cloud" title="Molecular cloud">Molecular cloud</a></li>
+<li><a href="/wiki/Bok_globule" title="Bok globule">Bok globule</a></li>
+<li><a href="/wiki/Proplyd" title="Proplyd">Proplyd</a></li></ul></li>
+<li><a href="/wiki/H_I_region" title="H I region">H I region</a></li></ul>
+<div style="background-color: #FFCCE6; border-top: 1px solid #FF339C; font-size: bigger; padding-left: 15px; margin: 12px -5px -5px -5px;"><a href="/wiki/Cosmology" title="Cosmology">Cosmic</a> scale</div>
+<ul><li><a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">CMB</a></li>
+<li><a href="/wiki/Cosmic_string" title="Cosmic string">Cosmic string</a> <span style="font-size:85%;">(hypothet.)</span></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a> <span style="font-size:85%;">(hypothet.)</span>
+<ul><li><a href="/wiki/Massive_compact_halo_object" title="Massive compact halo object">MACHO</a></li>
+<li><a href="/wiki/Weakly_interacting_massive_particles" title="Weakly interacting massive particles">WIMP</a></li></ul></li>
+<li><a href="/wiki/Domain_wall_(string_theory)" title="Domain wall (string theory)">Domain wall</a> <span style="font-size:85%;">(hypothet.)</span></li>
+<li><a href="/wiki/Cosmic_dust" title="Cosmic dust">Dust</a></li>
+<li><a class="mw-redirect" href="/wiki/Filament_(cosmology)" title="Filament (cosmology)">Filament</a></li>
+<li><a href="/wiki/Void_(astronomy)" title="Void (astronomy)">Void</a></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_light_sources" title="List of light sources">List of light sources</a></li>
+<li><a href="/wiki/List_of_Solar_System_objects" title="List of Solar System objects">List of Solar System objects</a></li>
+<li><a href="/wiki/List_of_Solar_System_objects_by_size" title="List of Solar System objects by size">List of Solar System objects by size</a></li>
+<li><a href="/wiki/Lists_of_astronomical_objects" title="Lists of astronomical objects">Lists of astronomical objects</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Task Group on Astronomical Designations from IAU Commission 5 (April 2008). <a class="external text" href="http://www.iau.org/public/naming/" rel="nofollow">"Naming Astronomical Objects"</a>. International Astronomical Union (IAU). <a class="external text" href="https://web.archive.org/web/20100802140541/http://www.iau.org/public/naming/#minorplanets" rel="nofollow">Archived</a> from the original on 2 August 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Naming+Astronomical+Objects&amp;rft.pub=International+Astronomical+Union+%28IAU%29&amp;rft.date=2008-04&amp;rft.au=Task+Group+on+Astronomical+Designations+from+IAU+Commission+5&amp;rft_id=http%3A%2F%2Fwww.iau.org%2Fpublic%2Fnaming%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Narlikar, Jayant V. (1996). <a class="external text" href="https://books.google.com/books?id=uZgbMUypq_oC&amp;pg=PA4" rel="nofollow"><i>Elements of Cosmology</i></a>. Universities Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/81-7371-043-0" title="Special:BookSources/81-7371-043-0">81-7371-043-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elements+of+Cosmology&amp;rft.pub=Universities+Press&amp;rft.date=1996&amp;rft.isbn=81-7371-043-0&amp;rft.aulast=Narlikar&amp;rft.aufirst=Jayant+V.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuZgbMUypq_oC%26pg%3DPA4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-smolin1998-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-smolin1998_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Smolin, Lee (1998). <i>The life of the cosmos</i>. <a class="mw-redirect" href="/wiki/Oxford_University_Press_US" title="Oxford University Press US">Oxford University Press US</a>. p. 35. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-512664-5" title="Special:BookSources/0-19-512664-5">0-19-512664-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+life+of+the+cosmos&amp;rft.pages=35&amp;rft.pub=Oxford+University+Press+US&amp;rft.date=1998&amp;rft.isbn=0-19-512664-5&amp;rft.aulast=Smolin&amp;rft.aufirst=Lee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Buta, Ronald James; Corwin, Harold G.; Odewahn, Stephen C. (2007). <i>The de Vaucouleurs atlas of galaxies</i>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. p. 301. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-82048-0" title="Special:BookSources/0-521-82048-0">0-521-82048-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+de+Vaucouleurs+atlas+of+galaxies&amp;rft.pages=301&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2007&amp;rft.isbn=0-521-82048-0&amp;rft.au=Buta%2C+Ronald+James&amp;rft.au=Corwin%2C+Harold+G.&amp;rft.au=Odewahn%2C+Stephen+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="https://books.google.com/books?isbn=0521318874" rel="nofollow"><i>Astronomical Objects for Southern Telescopes</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0521318874" title="Special:BookSources/0521318874">0521318874</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Astronomical+Objects+for+Southern+Telescopes&amp;rft.isbn=0521318874&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fisbn%3D0521318874&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation conference">Elmegreen, Bruce G. (January 2010). "The nature and nurture of star clusters". <i>Star clusters: basic galactic building blocks throughout time and space, Proceedings of the International Astronomical Union, IAU Symposium</i>. <b>266</b>. pp. 3–13. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/0910.4638" rel="nofollow">0910.4638</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010IAUS..266....3E" rel="nofollow">2010IAUS..266....3E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1017%2FS1743921309990809" rel="nofollow">10.1017/S1743921309990809</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=The+nature+and+nurture+of+star+clusters&amp;rft.btitle=Star+clusters%3A+basic+galactic+building+blocks+throughout+time+and+space%2C+Proceedings+of+the+International+Astronomical+Union%2C+IAU+Symposium&amp;rft.pages=3-13&amp;rft.date=2010-01&amp;rft_id=info%3Aarxiv%2F0910.4638&amp;rft_id=info%3Adoi%2F10.1017%2FS1743921309990809&amp;rft_id=info%3Abibcode%2F2010IAUS..266....3E&amp;rft.aulast=Elmegreen&amp;rft.aufirst=Bruce+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-hansen_et_al2004-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-hansen_et_al2004_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hansen, Carl J.; Kawaler, Steven D.; Trimble, Virginia (2004). <i>Stellar interiors: physical principles, structure, and evolution</i>. Astronomy and astrophysics library (2nd ed.). Springer. p. 86. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-387-20089-4" title="Special:BookSources/0-387-20089-4">0-387-20089-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Stellar+interiors%3A+physical+principles%2C+structure%2C+and+evolution&amp;rft.series=Astronomy+and+astrophysics+library&amp;rft.pages=86&amp;rft.edition=2nd&amp;rft.pub=Springer&amp;rft.date=2004&amp;rft.isbn=0-387-20089-4&amp;rft.aulast=Hansen&amp;rft.aufirst=Carl+J.&amp;rft.au=Kawaler%2C+Steven+D.&amp;rft.au=Trimble%2C+Virginia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAstronomical+object"></span><link href="mw-data:TemplateStyles:r879151008" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Astronomical_object&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Astronomical_objects" title="commons:Category:Astronomical objects">Astronomical objects</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://webarchive.loc.gov/all/20050613050209/http://skyandtelescope.com/observing/skychart/" rel="nofollow">SkyChart, <i>Sky &amp; Telescope</i></a> at the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> Web Archives (archived 2005-06-13)</li>
+<li><a class="external text" href="http://astroclub.tau.ac.il/skymaps/monthly/" rel="nofollow">Monthly skymaps for every location on Earth</a></li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6999&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6999&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q6999" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4159892-1" rel="nofollow">4159892-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/01026285" rel="nofollow">01026285</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20190214235653
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.396 seconds
+Real time usage: 0.565 seconds
+Preprocessor visited node count: 1243/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21865/2097152 bytes
+Template argument size: 1011/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21265/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 4.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  376.614      1 -total
+ 45.92%  172.947      1 Template:Reflist
+ 20.13%   75.819      1 Template:Cite_web
+ 18.67%   70.320      1 Template:Commons_category
+ 12.23%   46.071      1 Template:Cite_conference
+ 11.50%   43.322      1 Template:About
+  9.72%   36.595      1 Template:Authority_control
+  7.14%   26.875      5 Template:Cite_book
+  3.61%   13.596      1 Template:Commons
+  3.30%   12.435      1 Template:Webarchive
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:206542-0!canonical and timestamp 20190214235653 and revision id 882329972
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Astronomical_object&amp;oldid=882329972">https://en.wikipedia.org/w/index.php?title=Astronomical_object&amp;oldid=882329972</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Astronomical_objects" title="Category:Astronomical objects">Astronomical objects</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Astronomical+object" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Astronomical+object" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Astronomical_object" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Astronomical_object" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Astronomical_object">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Astronomical_object&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Astronomical_object&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Astronomical_object" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Astronomical_object" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Astronomical_object&amp;oldid=882329972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Astronomical_object&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6999" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Astronomical_object&amp;id=882329972" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Astronomical+object">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Astronomical+object&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Astronomical_object&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Astronomical_objects" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Hemelliggaam" hreflang="af" lang="af" title="Hemelliggaam – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Himmelsk%C3%B6rper" hreflang="gsw" lang="gsw" title="Himmelskörper – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%88%A0%E1%88%9B%E1%8B%AB%E1%8B%8A_%E1%8A%A0%E1%8A%AB%E1%88%8B%E1%89%B5" hreflang="am" lang="am" title="ሠማያዊ አካላት – Amharic">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D9%85_%D9%81%D9%84%D9%83%D9%8A" hreflang="ar" lang="ar" title="جرم فلكي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Oxetu_astron%C3%B3micu" hreflang="ast" lang="ast" title="Oxetu astronómicu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Yv%C3%A1ga_mba%27e" hreflang="gn" lang="gn" title="Yvága mba'e – Guarani">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/G%C3%B6y_cisiml%C9%99ri" hreflang="az" lang="az" title="Göy cisimləri – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%88%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95_%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81" hreflang="bn" lang="bn" title="জ্যোতির্বৈজ্ঞানিক বস্তু – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Thian-th%C3%A9" hreflang="nan" lang="nan" title="Thian-thé – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC%D1%96%D1%87%D0%BD%D1%8B_%D0%B0%D0%B1%E2%80%99%D0%B5%D0%BA%D1%82" hreflang="be" lang="be" title="Астранамічны аб’ект – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC%D1%96%D1%87%D0%BD%D1%8B_%D0%B0%D0%B1%E2%80%99%D0%B5%D0%BA%D1%82" hreflang="be-tarask" lang="be-tarask" title="Астранамічны аб’ект – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%BE%D0%B1%D0%B5%D0%BA%D1%82" hreflang="bg" lang="bg" title="Астрономически обект – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Korf-egor" hreflang="br" lang="br" title="Korf-egor – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Objecte_astron%C3%B2mic" hreflang="ca" lang="ca" title="Objecte astronòmic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Astronomick%C3%BD_objekt" hreflang="cs" lang="cs" title="Astronomický objekt – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Himmellegeme" hreflang="da" lang="da" title="Himmellegeme – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Astronomisches_Objekt" hreflang="de" lang="de" title="Astronomisches Objekt – German">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/Astronomiski_objekt" hreflang="dsb" lang="dsb" title="Astronomiski objekt – Lower Sorbian">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Taevakeha" hreflang="et" lang="et" title="Taevakeha – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9F%CF%85%CF%81%CE%AC%CE%BD%CE%B9%CE%BF_%CF%83%CF%8E%CE%BC%CE%B1" hreflang="el" lang="el" title="Ουράνιο σώμα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Objeto_astron%C3%B3mico" hreflang="es" lang="es" title="Objeto astronómico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Astro" hreflang="eo" lang="eo" title="Astro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Argizagi" hreflang="eu" lang="eu" title="Argizagi – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%D9%85_%D8%A2%D8%B3%D9%85%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="جرم آسمانی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Objet_c%C3%A9leste" hreflang="fr" lang="fr" title="Objet céleste – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Himellichem" hreflang="fy" lang="fy" title="Himellichem – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Obxecto_astron%C3%B3mico" hreflang="gl" lang="gl" title="Obxecto astronómico – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%B2%B4" hreflang="ko" lang="ko" title="천체 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%BF%D5%B2%D5%A1%D5%A3%D5%AB%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B4%D5%A1%D6%80%D5%B4%D5%AB%D5%B6" hreflang="hy" lang="hy" title="Աստղագիտական մարմին – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AF_%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81" hreflang="hi" lang="hi" title="खगोलीय वस्तु – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Nebesko_tijelo" hreflang="hr" lang="hr" title="Nebesko tijelo – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Astro" hreflang="io" lang="io" title="Astro – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Benda_langit" hreflang="id" lang="id" title="Benda langit – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-iu"><a class="interlanguage-link-target" href="https://iu.wikipedia.org/wiki/%E1%90%85%E1%93%AA%E1%93%97%E1%92%8B%E1%90%8A%E1%92%83" hreflang="iu" lang="iu" title="ᐅᓪᓗᒋᐊᒃ – Inuktitut">ᐃᓄᒃᑎᑐᑦ/inuktitut</a></li><li class="interlanguage-link interwiki-os"><a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%A3%C3%A6%D0%BB%D0%B0%D1%80%D0%B2%D0%BE%D0%BD_%D0%B1%D1%83%D0%B0%D1%80" hreflang="os" lang="os" title="Уæларвон буар – Ossetic">Ирон</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Stjarnfr%C3%A6%C3%B0ilegt_fyrirb%C3%A6ri" hreflang="is" lang="is" title="Stjarnfræðilegt fyrirbæri – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Oggetto_celeste" hreflang="it" lang="it" title="Oggetto celeste – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%9D_%D7%A9%D7%9E%D7%99%D7%9D" hreflang="he" lang="he" title="גרם שמים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%AA%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A1%E1%83%AE%E1%83%94%E1%83%A3%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="ციური სხეული – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kiolwa_cha_angani" hreflang="sw" lang="sw" title="Kiolwa cha angani – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Corpus_caeleste" hreflang="la" lang="la" title="Corpus caeleste – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Astronomisks_objekts" hreflang="lv" lang="lv" title="Astronomisks objekts – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Himmelskierper" hreflang="lb" lang="lb" title="Himmelskierper – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Hie%C3%ABmellichaam" hreflang="li" lang="li" title="Hieëmellichaam – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%89gitest" hreflang="hu" lang="hu" title="Égitest – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%81%D0%BA%D0%B8_%D0%BE%D0%B1%D1%98%D0%B5%D0%BA%D1%82" hreflang="mk" lang="mk" title="Астрономски објект – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Zavatra_ara-kainkintana" hreflang="mg" lang="mg" title="Zavatra ara-kainkintana – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%96%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AF_%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82" hreflang="mr" lang="mr" title="खगोलीय वस्तू – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-xmf"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%90%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9D%E1%83%91%E1%83%98%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98" hreflang="xmf" lang="xmf" title="ასტრონომიული ობიექტი – Mingrelian">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Objek_astronomi" hreflang="ms" lang="ms" title="Objek astronomi – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hemellichaam" hreflang="nl" lang="nl" title="Hemellichaam – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%93" hreflang="ja" lang="ja" title="天体 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Himmellegeme" hreflang="no" lang="no" title="Himmellegeme – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Himmellekam" hreflang="nn" lang="nn" title="Himmellekam – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-mhr"><a class="interlanguage-link-target" href="https://mhr.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82" hreflang="mhr" lang="mhr" title="Астрономический объект – Eastern Mari">Олык марий</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%96%E0%A8%97%E0%A9%8B%E0%A8%B2%E0%A9%80_%E0%A8%9A%E0%A9%80%E0%A8%9C%E0%A8%BC" hreflang="pa" lang="pa" title="ਖਗੋਲੀ ਚੀਜ਼ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Cia%C5%82o_niebieskie" hreflang="pl" lang="pl" title="Ciało niebieskie – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Corpo_celeste" hreflang="pt" lang="pt" title="Corpo celeste – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Corp_ceresc" hreflang="ro" lang="ro" title="Corp ceresc – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Hawa_pacha_pachanka" hreflang="qu" lang="qu" title="Hawa pacha pachanka – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82" hreflang="ru" lang="ru" title="Астрономический объект – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Astronomical_object" hreflang="sco" lang="sco" title="Astronomical object – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Objektet_astronomike" hreflang="sq" lang="sq" title="Objektet astronomike – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Corpu_cilesti" hreflang="scn" lang="scn" title="Corpu cilesti – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Astronomical_object" hreflang="en-simple" lang="en-simple" title="Astronomical object – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Astronomick%C3%BD_objekt" hreflang="sk" lang="sk" title="Astronomický objekt – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Astronomsko_telo" hreflang="sl" lang="sl" title="Astronomsko telo – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BA%D0%BE_%D1%82%D0%B5%D0%BB%D0%BE" hreflang="sr" lang="sr" title="Небеско тело – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Nebesko_tijelo" hreflang="sh" lang="sh" title="Nebesko tijelo – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Taivaankappale" hreflang="fi" lang="fi" title="Taivaankappale – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Himlakropp" hreflang="sv" lang="sv" title="Himlakropp – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="வானியல்சார் பொருள் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9A%D2%AF%D0%BA_%D2%97%D0%B8%D1%81%D0%B5%D0%BC%D0%B5" hreflang="tt" lang="tt" title="Күк җисеме – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%AB%E0%B9%8C%E0%B8%9F%E0%B9%89%E0%B8%B2" hreflang="th" lang="th" title="เทห์ฟ้า – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Astronomik_cisimler" hreflang="tr" lang="tr" title="Astronomik cisimler – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%27%D1%94%D0%BA%D1%82" hreflang="uk" lang="uk" title="Астрономічний об'єкт – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D8%AC%D8%B1%D8%A7%D9%85_%D9%81%D9%84%DA%A9%DB%8C" hreflang="ur" lang="ur" title="اجرام فلکی – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Thi%C3%AAn_th%E1%BB%83" hreflang="vi" lang="vi" title="Thiên thể – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E5%A4%A9%E9%AB%94" hreflang="lzh" lang="lzh" title="天體 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-vls"><a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/Hemellichoam" hreflang="vls" lang="vls" title="Hemellichoam – West Flemish">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Langitnon_nga_butang" hreflang="war" lang="war" title="Langitnon nga butang – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A9%E9%AB%94" hreflang="yue" lang="yue" title="天體 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%AB%94" hreflang="zh" lang="zh" title="天體 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6999#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 February 2019, at 09:52<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Astronomical_object&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.565","ppvisitednodes":{"value":1243,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21865,"limit":2097152},"templateargumentsize":{"value":1011,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21265,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  376.614      1 -total"," 45.92%  172.947      1 Template:Reflist"," 20.13%   75.819      1 Template:Cite_web"," 18.67%   70.320      1 Template:Commons_category"," 12.23%   46.071      1 Template:Cite_conference"," 11.50%   43.322      1 Template:About","  9.72%   36.595      1 Template:Authority_control","  7.14%   26.875      5 Template:Cite_book","  3.61%   13.596      1 Template:Commons","  3.30%   12.435      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"10.000"},"limitreport-memusage":{"value":4923730,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20190214235653","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1322"});});</script>
+</body>
+</html>
+
