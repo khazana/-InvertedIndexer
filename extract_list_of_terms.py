@@ -1,102 +1,75 @@
-#This code saves unigrams, bigrams and trigrams extracted from the corpus to text files
-
-
-from bs4 import BeautifulSoup
-import re
-from nltk import tokenize
-import string
-import itertools
 import os
+import multiprocessing
+import re
 from nltk import ngrams
 
 
 #global variable which contains a list of unique unigrams from all documents
 unigrams = []
+bigrams = []
+trigrams = []
 
-path_to_raw_files = '/Users/fathimakhazana/Documents/IRHW3/RawTextFiles/'
-path_to_tokenized_files = '/Users/fathimakhazana/Documents/IRHW3/ParsedTextFiles/'
+path_to_raw_files = '/Users/fathimakhazana/Documents/IRHW2/RawTextFiles/'
+path_to_tokenized_files = '/Users/fathimakhazana/Documents/IRHW2/ParsedTextFiles/'
 
-#Function to create the corpus for a document (from previous assigment)
-#Raw content of all URLS in BFS.txt are stored in 'path_to_raw_files'
-#Extracts required content and tokenizes it
-#Removes punctuation except '-'
-#Saves the corpus in 'ParsedTextFiles'
-#also appends unigrams from each corpus to global variable 'unigrams'(added for this assignment)
-def get_unigrams_for_document(rawfile):
-    fh = open(rawfile,"rb")
-    contents = fh.read().decode(errors='replace')
-    all_text = []
-    soup = BeautifulSoup(contents,features="lxml")
-    if soup.select(".firstHeading"):
-         first_heading =  soup.select(".firstHeading")[0].text
-         first_heading = tokenize.wordpunct_tokenize(first_heading.lower().strip())
-         all_text.append(first_heading)
-    soup = soup.find("div", {"class":"mw-content-ltr"})
-    if soup.find('div', id="toc"):
-        soup.find('div', id="toc").decompose()
-    if soup.find('div', {"class":"reflist"}):
-        soup.find('div', {"class":"reflist"}).decompose()
-    if soup.find_all("div", {'class':'navbox'}): 
-        for div in soup.find_all("div", {'class':'navbox'}): 
-            div.decompose()
-    content = soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'p','li'])
-    file_name = rawfile.split(path_to_raw_files)[1]
-    file_name = file_name.split('_raw.txt')[0]
-    file_name = file_name + '.txt'
-    if '\\n' in file_name:
-        file_name = file_name.replace('\\n','')
-    if '/' in file_name:
-        file_name = file_name.replace('/','-')
-    with open(path_to_tokenized_files + file_name, 'w') as f:
-        for header in content:
-            text = header.text
-            text = text.replace('[edit]', '')
-            text = re.sub(r"\[\d+", " ", text)
-            remove = string.punctuation
-            remove = remove.replace("-", "")
-            pattern = r"[{}]".format(remove)
-            text = re.sub(pattern, "", text)  
-            text = tokenize.wordpunct_tokenize(text.lower().strip())
-            all_text.append(text)
-        processed_list = list(itertools.chain.from_iterable(all_text))
-        f.write("%s\n" % processed_list)
-        for word in processed_list:
-            word = re.sub(r'[^a-zA-Z0-9-]', '', word)
-            if word:
-                if word not in unigrams:
-                    unigrams.append(word)
+#Reads corpora from saved folder and creates three lists of terms to be part of the index
+def get_terms_of_document(f):
+    f = open(f,"r")
+    tokens_string = f.read()
+    f.close()
+    list1 = [x.strip() for x in tokens_string.split(',')]
+    tokens_list = []
+    for l in list1:
+        tokens_list.append(l.replace("'",""))
+    tokens_list[0] = tokens_list[0].replace('[','')
+    tokens_list[len(tokens_list) - 1] = tokens_list[len(tokens_list) - 1].replace(']','')
+    for i in range(len(tokens_list)-1):
+        tokens_list[i] = re.sub(r'[^a-zA-Z0-9-]', '', tokens_list[i])
+                    
+    bigrams_list = ngrams(tokens_list,2)
+    bigrams_list = [list(elem) for elem in bigrams_list]
+    bigrams_list = [' '.join(b) for b in bigrams_list]
+    b_list = [b for b in bigrams_list if len(b.split()) > 1]
 
-#function to get unigrams from all documents  
-#result stored in variable 'unigrams'                    
-def get_unigrams():
-    files = [i for i in os.listdir(path_to_raw_files) if i.endswith(".txt")]
-    for file in files:
-        get_unigrams_for_document(path_to_raw_files + file)     
-        
-#function which creates a list of ngrams from unigrams list      
-def create_ngrams_list(n):
-    ngrams_list = ngrams(unigrams,n)
-    terms_list = [list(elem) for elem in ngrams_list]
-    return terms_list
+    trigrams_list = ngrams(tokens_list,3)
+    trigrams_list = [list(elem) for elem in trigrams_list]
+    trigrams_list = [' '.join(t) for t in trigrams_list]
+    t_list = [t for t in trigrams_list if len(t.split()) > 2]
 
-        
+    return tokens_list,b_list,t_list
+
 def save_lists_to_file(file_name,ngrams_list):
     with open(file_name, 'w') as f:
         for item in ngrams_list:
-            item = ' '.join(item)
             f.write("%s\n" % str(item))
+            
+
+files = [i for i in os.listdir(path_to_tokenized_files) if i.endswith(".txt")]
+pool_get_attributes = multiprocessing.Pool(4)
+d = pool_get_attributes.map(get_terms_of_document, [path_to_tokenized_files + f for f in files])
+pool_get_attributes.close()
+pool_get_attributes.join()
+unigrams_list = set()
+bigrams_list = set()
+trigrams_list = set()
+for i in range (len(d)):
+    ungrams = d[i][0]
+    bigrams = d[i][1]
+    trigrams = d[i][2]
+    for y in range(len(unigrams)):
+                    unigrams_list.add(unigrams[y])
+    for j in range(len(bigrams)):
+                    bigrams_list.add(bigrams[j])
+    for k in range(len(trigrams)):
+                trigrams_list.add(trigrams[k])  
+save_lists_to_file('unigrams.txt',unigrams_list)
+save_lists_to_file('bigrams.txt',bigrams_list)
+save_lists_to_file('trigrams.txt',trigrams_list)
+ 
+
+  
 
 
-get_unigrams()
-bigrams = create_ngrams_list(2)
-trigrams = create_ngrams_list(3)
-save_lists_to_file('unigrams.txt', unigrams)
-save_lists_to_file('bigrams.txt', bigrams)
-save_lists_to_file('trigrams.txt', trigrams)
 
 
-    
 
-
-    
-        
